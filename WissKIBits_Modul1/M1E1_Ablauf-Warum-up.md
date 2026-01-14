@@ -1,0 +1,164 @@
+<!--
+author: Canan Hastik (0000-0003-1729-4642)
+
+author: Gudrun Schwenk ()
+
+email: c.hastik@igsd-ev.de
+
+email: g.schwenk@igsd-ev.de
+
+version:  v1
+
+language: DE
+
+icon: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/liascript-oers/refs/heads/main/resources/SODa-Logo_full.svg
+link: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODa_WissKI-ISWC25Bits/refs/heads/main/soda.css
+
+license: CC BY 4.0
+
+comment: Dieser Text erscheint als Info innerhalb der Liascript-Module oben rechts hinter dem (i) und sollte den Inhalt des Moduls kurz beschreiben. Vorschlag: Mirco-Content zum Lernziel "Lernende können FAIR-Prinzipien erläutern". Dieses Modul ist Teil eines Einführungskurses zum Forschungsdatenmanagement, der von “OER.Net UAG FDM-Basiskurs” auf Grundlage der Lernzielmatrix zum FDM entwickelt wurde. Der Basiskurs entwickelt das Konzept der EduBricks weiter und ist als “Arbeitsgruppe 3: Einbettung und Vernetzung des modularen und skalierbaren Konzeptes” zudem Teil der NFDI-Sektion Education and Training.
+
+title: Template für die Erarbeitung eines Micro-Contents anhand eines Lernziels für generischen FDM-Basiskurs
+
+description: Dieses Template wurde als Vorlage für die Entwicklung von Microlearning-Content zum Themenbereich Forschungsdatenmanagement (FDM) in Orientierung an Lernzielen der [Lernzielmatrix zum Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246) entwickelt.
+
+keywords: FDM, Forschungsdatenmanagement, Forschungsdaten, Lernziel, Micro-Content
+
+community: Wissenschaftliche Kommunikationsinfrastruktur (WissKI) und Sammlungen, Objekte, Datenkompetenzen (SODa)
+
+PublicationDate: noch unveröffentlicht
+
+LearningResourceType: SODa How-to-Tutorial
+
+-->
+
+
+# SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten
+
+**DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
+
+Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
+
+Einheit 1: **Ablauf und Warm-up**  
+
+**Dauer:** ~ 15 Min.
+
+---
+
+## Begrüßung
+
+> Dieses How-to-Tutorial *SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten* bietet eine praxisorientierte Einführung in die Arbeit und Analyse mit strukturierten Forschungsdaten.  
+>
+> Im **Modul 1: Von der Sammlung zum Diagramm – verstehen und erklären** wird...
+>
+> Das Modul ist als **How-to-Tutorial** konzipiert und führt nach dem Prinzip des *Learning by Doing* Schritt für Schritt in das praktische Arbeiten mit strukturierten, semantisch verknüpften Daten in WissKI ein.  
+>
+> In den **weiterführenden Einheiten** wird dieser anleitende Ansatz um **selbstgesteuerte Lernphasen** ergänzt, in denen die Teilnehmenden ihr Wissen vertiefen, eigene Forschungsdaten modellieren und die erlernten Methoden auf ihre individuellen Forschungskontexte anwenden.
+
+---
+
+## Ablauf des Moduls
+
+
+**Modul 1: 90 Min.**
+
+
+| Einheit | Inhalt | Zeit |
+|--------|--------|------|
+| 1 | Willkommen & Warm-up | 15 Min. |
+| 2 | Orientierung: Vom Datensatz zum Modell | 5 Min. |
+| 3 | WissKI in Kürze | 10 Min. |
+| 4 | CIDOC CRM & Domänenontologien | 15 Min. |
+| 5 | Kernentitäten aus einer Sammlung benennen | 20 Min. |
+| 6 | Live-Demo in Protégé | 10 Min. |
+| 7 | Austausch & Feedback | 5 Min. |
+
+---
+
+## Lernziele
+
+Lernende können... 
+
+
+---
+
+## Voraussetzung
+
+Folgende Grundkenntnisse werden vorausgesetzt:
+
+
+## Über das SODa-Projekt
+
+Das **[SODa-Projekt](https://sammlungen.io/projekt)** fördert die Entwicklung nachhaltiger Forschungsdateninfrastrukturen, vermittelt und stärkt Datenkompetenz im Umgang mit universitären Sammlungen und Sammlungsdaten. 
+
+Mehr als 1.200 wissenschaftliche Sammlungen in Deutschland bilden eine wesentliche Grundlage für:
+
+- Forschung
+- disziplinäre Weiterentwicklung
+- akademische Lehre.
+
+Damit diese Sammlungen und Daten langfristig nutzbar bleiben, benötigen diese **strukturierte und interoperable Daten und Datenmodelle**.  
+
+Hier setzt **WissKI** mit seiner Ontologie- und Linked-Open-Data-Orientierung sowie der Gewährleistung der FAIR-Prinzipien an.
+
+---
+
+## Über das Team
+
+Entwickelt wurde das Tutorial von:
+
+<img src="../img/schwenk.jpg" alt="Gudrun" style="width:100px; height:auto;"> <img src="../img/fichtner.jpg" alt="Mark" style="width:100px; height:auto;"> <img src="../img/hastik.jpg" alt="Canan" style="width:100px; height:auto;">
+
+
+Unterstützt hat **Ilias** mit einer Pipeline, mit der es möglich ist, Draw.io-Diagramme in XML-Pfade für den WissKI Pathbuilder zu konvertieren.
+
+<img src="../img/elias.png" alt="Elias" style="width:100px; height:auto;">
+
+
+
+Damit wird es ermöglich, Domänenspezifische **Anwendungsprofile** automatisch zu generieren und gleichzeitig ontologische Konsistenz zu wahren.
+
+---
+
+## Erwartungsabfrage
+
+Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und bisherigen Erfahrungen mit WissKI und semantischer Datenmodellierung.
+
+<img src="../img/Erwartungsabfrage.png" alt="Mentimeter Umfrage" style="width:400px; height:auto;">
+
+### Fragen 
+
+* Was erwarten Sie von diesem Tutorial?
+* Welche Datenkompetenzen bringen Sie mit?
+* Welche Erfahrungen mit WissKI bringen Sie mit?
+* Welche Erfahrungen haben Sie im Bereich semantische Datenmodellierung?
+* Mit welchen Herausforderungen waren Sie bisher bei der Erstellung von Domänenontologien konfrontiert?
+
+---
+
+## Speed-Dating (Alternativ)
+
+**Ziel:** 
+
+* Aktivierung
+* Austausch
+* Vernetzung.
+
+**Ablauf:**
+
+1. Bitte stehen Sie alle auf.
+2. Finden Sie eine Person, die Sie noch nicht kennen.
+3. Interviewen Sie sich gegenseitig — je 30 Sekunden pro InterviewerIn.
+4. Wechseln Sie nach jeder Runde die Partner:innen.
+
+**Fragen:**
+
+1. Wie heißen Sie und woher kommen Sie?
+2. Welche Sprachen sprechen Sie?
+3. Nennen Sie einen Fun Fact über sich.
+
+**Beispiele für Fun Facts:**
+
+- Sie haben versucht, Ihre Küche in OWL zu modellieren.
+- Ihr Haustier heißt *SPARQL*.
+- Sie sammeln japanischen Whisky oder Pokémon-Karten.

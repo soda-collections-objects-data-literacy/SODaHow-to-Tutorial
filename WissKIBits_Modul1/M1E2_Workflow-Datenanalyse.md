@@ -39,13 +39,13 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 1: **Von der Datenanalyse zur semantischen Modellierung**  
+Einheit 1: **Workflow Datenanalyse**  
 
 **Dauer:** ~ 15 Min.
 
 ---
 
-## Von den Daten zur semantischen Modellierung (nochmal überarbeiten)
+## Von der Datenanalyse zur semantischen Modellierung (nochmal überarbeiten)
 
 * In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten**, die historische, kulturelle und relationale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen) gearbeitet.
 * Tabellen können Daten beschreiben und erfassen in erster Linie Eigenschaften (Attribute) – aber mit Tabellen lässt sich kein Wissen modellieren. Beziehungen, Bedeutungen und Kontexte bleiben dabei unsichtbar.
@@ -82,6 +82,7 @@ Dieser Workflow des Tutorials: (Bitte nochmal checken!)
 | **Semantische Annahme** | Titel des Objekts: *The Legend of Zelda: A Link to the Past* |
 | **Draw.io Modell** | ![draw.io Diagramm](../assets/path.PNG) |
 | **WissKI Pathbuilder** | ![WissKI Pathbuilder](../assets/pathbuilder.PNG) |
+
 
 
 

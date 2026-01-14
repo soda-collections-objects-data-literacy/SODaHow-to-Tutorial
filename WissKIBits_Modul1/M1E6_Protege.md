@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 6: **Arbeiten mit Protege**  
+Einheit 6: **Modellierung in Protégé**  
 
 **Dauer:** ~ 10 Min.
 

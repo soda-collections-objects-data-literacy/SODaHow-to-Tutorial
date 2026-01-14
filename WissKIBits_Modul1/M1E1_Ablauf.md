@@ -76,12 +76,12 @@ die Infrastruktur WissKi benennen (neu)
 
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
-| 1 | Ablauf | 15 Min. |
+| 1 | Willkommen und Ablauf | 15 Min. |
 | 2 | Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur | 5 Min. |
 | 3 | WissKI Kurzeinführung | 10 Min. |
 | 4 | Strukturierte Daten mit CIDOC CRM | 15 Min. |
 | 5 | Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese | 20 Min. |
-| 6 | Modellinspektion in in Protégé: Konsistenzcheck und Erweiterungsstrategien | 10 Min. |
+| 6 | Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien | 10 Min. |
 | 7 | Reflexion: Welche Analysen sind möglich, welche nicht? | 5 Min. |
 
 ---

@@ -90,6 +90,24 @@ die Infrastruktur WissKi benennen (neu)
 
 Lernende können... 
 
+* die Infrastruktur WissKi benennen (neu)
+* Begriff Ontologie erläutern (LZ-ID 03_007_0775)
+* Aspekte von Ontologien benennen. (LZ-ID 03_007_0776)
+* Methoden zur Entwicklung von Ontologien (LZ-ID 03_007_0784)
+* die fünf Stufen des 5-Sterne-Modells für offene Daten benennen. (LZ-ID 01_008_0158)
+* FAIR Prinzipien benennen. (LZ-ID 01_007_0117)
+* geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01_007_0121)
+* die Infrastruktur WissKi erläutern. (neu)
+* WissKI Pathbuilder bennenen und erläutern (neu)
+* das Prinzip der ereigniszentrierten Modellierung mit CIDOC CRM erklären (neu)
+* Relevanz und Nutzen von WissKI benennen (neu)
+* Ontologie zur Beschreibung von Ressourcen bennen, erläutern, anwenden. 03_007_0778, 03_007_0779, 03_007_0780
+* Modellierungsstrategie(n) benennen. (neu)
+* Scope Notes als Entscheidungsgrundlage anwenden. (neu)
+* Relevanz und Nutzen von CIDOC CRM  (neu)
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) benenen und erläutern (neu)
+* Datentyp-Eigenschaften in CIDOC CRM benennen (und erläuetern) (neu)
+* Software zur Erstellung von Ontologien benennen und anwenden (neu)
 
 
 ---

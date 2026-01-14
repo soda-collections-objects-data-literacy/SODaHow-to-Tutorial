@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 1: **Kernentitäten und Domänenlogik in Sammlungen**  
+Einheit 5: **Kernentitäten und Domänenlogik in Sammlungen**  
 
 **Dauer:** ~ 20 Min.
 
@@ -184,4 +184,5 @@ Typische Datentyp-Eigenschaften (nur wenn nötig):
 Zentrale Informationen (Titel, Rollen, Identifikatoren, etc.) werden als eigene Entitäten modelliert und mit kontrollierten Vokabularen verknüpft.
 
 Hinweis: Der Umgang mit Datentyp-Eigenschaften wird in den fortgeschrittenen Einheiten zu Vokabularen und Interoperabilität behandelt.
+
 

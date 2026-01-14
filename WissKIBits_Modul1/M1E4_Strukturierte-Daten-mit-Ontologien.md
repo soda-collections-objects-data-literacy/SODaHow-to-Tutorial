@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 1: **Strukturierte Daten mit Ontologien**  
+Einheit 4: **Strukturierte Daten mit Ontologien**  
 
 **Dauer:** ~ 15 Min.
 
@@ -193,4 +193,5 @@ WissKI nutzt CIDOC CRM, weil es …
 * **FAIR & Linked Open Data** unterstützt
 * **robustes Fundament** für Wissensgraphen bietet 
 * sich vollständig in den **WissKI Pathbuilder** integrieren lässt.
+
 

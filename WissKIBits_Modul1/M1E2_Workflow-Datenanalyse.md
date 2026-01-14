@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 1: **Workflow Datenanalyse**  
+Einheit 2: **Workflow Datenanalyse**  
 
 **Dauer:** ~ 15 Min.
 
@@ -82,6 +82,7 @@ Dieser Workflow des Tutorials: (Bitte nochmal checken!)
 | **Semantische Annahme** | Titel des Objekts: *The Legend of Zelda: A Link to the Past* |
 | **Draw.io Modell** | ![draw.io Diagramm](../assets/path.PNG) |
 | **WissKI Pathbuilder** | ![WissKI Pathbuilder](../assets/pathbuilder.PNG) |
+
 
 
 

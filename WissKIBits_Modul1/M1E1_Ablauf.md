@@ -37,7 +37,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
+Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären**
 
 Einheit 1: **Ablauf und Warm-up**  
 
@@ -47,13 +47,21 @@ Einheit 1: **Ablauf und Warm-up**
 
 ## Begrüßung
 
-> Dieses How-to-Tutorial *SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten* bietet eine praxisorientierte Einführung in die Arbeit und Analyse mit strukturierten Forschungsdaten.  
+> Willkommen zu **SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten**.
+> 
+> Dieses How-to-Tutorial bietet eine praxisorientierte Einführung in die **Arbeit und Analyse mit strukturierten Forschungsdaten** – von der ersten Beschreibung eines Sammlungsobjekts bis zur semantisch belastbaren Modellstruktur.
 >
-> Im **Modul 1: Von der Sammlung zum Diagramm – verstehen und erklären** wird...
+> Im **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären** wir die konzeptionelle Grundlage für ein Datenmodell erarbeitet:
 >
-> Das Modul ist als **How-to-Tutorial** konzipiert und führt nach dem Prinzip des *Learning by Doing* Schritt für Schritt in das praktische Arbeiten mit strukturierten, semantisch verknüpften Daten in WissKI ein.  
+> Objektdaten und Kontextinformationen werden analysiert, Kernentitäten, Ereignisse und Beziehungen identifiziert und diese Schritt für Schritt in eine ontologiebasierte Struktur (z. B. mit CIDOC CRM) übersetzt.
 >
-> In den **weiterführenden Einheiten** wird dieser anleitende Ansatz um **selbstgesteuerte Lernphasen** ergänzt, in denen die Teilnehmenden ihr Wissen vertiefen, eigene Forschungsdaten modellieren und die erlernten Methoden auf ihre individuellen Forschungskontexte anwenden.
+> Ziel ist es, die fachliche Domänenlogik so zu klären, dass sie später konsistent modelliert, implementiert und abfragbar wird.
+>
+> Das Modul ist als **How-to-Tutorial** konzipiert und folgt dem Prinzip Learning by Doing:
+>
+> An einem Beispiel wird aus der Sammlungsperspektive eine Modellperspektive erarbeitet und so die Grundlage für die Visualisierung in einem Diagramm und die spätere Umsetzung in WissKI geschaffen.
+>
+> In den weiterführenden Einheiten wird dieser anleitende Ansatz um selbstgesteuerte Lernphasen ergänzt, in denen das eigene Wissen vertieft, eigene Forschungsdaten modelliert und die erlernten Methoden auf individuelle Forschungskontexte anwendendet werden können.
 
 ---
 
@@ -65,19 +73,20 @@ Einheit 1: **Ablauf und Warm-up**
 
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
-| 1 | Willkommen & Warm-up | 15 Min. |
-| 2 | Workflow zur Datenanalyse | 5 Min. |
-| 3 | WissKI in Kürze | 10 Min. |
-| 4 | Strukturierte Daten mit Ontologien | 15 Min. |
-| 5 | Kernentitäten und Domänenlogik in Sammlungen | 20 Min. |
-| 6 | Live-Demo in Protégé | 10 Min. |
-| 7 | Austausch & Feedback | 5 Min. |
+| 1 | Ablauf | 15 Min. |
+| 2 | Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur | 5 Min. |
+| 3 | WissKI im Analysekontext | 10 Min. |
+| 4 | Ontologie als Analyse-Infrastruktur: Bedeutung, Scope Notes, Interoperabilität | 15 Min. |
+| 5 | Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese | 20 Min. |
+| 6 | Modellinspektion in in Protégé: Konsistenzcheck und Erweiterungsstrategien | 10 Min. |
+| 7 | Reflexion: Welche Analysen sind möglich, welche nicht? | 5 Min. |
 
 ---
 
 ## Lernziele
 
 Lernende können... 
+
 
 
 ---
@@ -132,3 +141,4 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+

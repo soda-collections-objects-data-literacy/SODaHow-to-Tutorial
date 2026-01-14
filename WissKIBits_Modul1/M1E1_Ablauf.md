@@ -43,6 +43,9 @@ Einheit 1: **Willkommen und Ablauf**
 
 **Dauer:** ~ 15 Min.
 
+Lernziel
+
+die Infrastruktur WissKi benennen (neu)
 ---
 
 ## Begrüßung
@@ -57,7 +60,7 @@ Einheit 1: **Willkommen und Ablauf**
 >
 > Ziel ist es, die fachliche Domänenlogik so zu klären, dass sie später konsistent modelliert, implementiert und abfragbar wird.
 >
-> Das Modul ist als **How-to-Tutorial** konzipiert und folgt dem Prinzip Learning by Doing:
+> Das Modul ist als **How-to-Tutorial** für die **Wissenschaftliche Kommunikationsiunfrastruktur WissKI** konzipiert und folgt dem Prinzip Learning by Doing:
 >
 > An einem Beispiel wird aus der Sammlungsperspektive eine Modellperspektive erarbeitet und so die Grundlage für die Visualisierung in einem Diagramm und die spätere Umsetzung in WissKI geschaffen.
 >

@@ -47,7 +47,6 @@ Lernziel:
 
 Begriff Ontologie erläutern (LZ-ID 03_007_0775)
 Aspekte von Ontologien benennen. (LZ-ID 03_007_0776)
-FAIR Prinzipien benennen (LZ-ID 01_007_0117)
 Methoden zur Entwicklung von Ontologien (LZ-ID 03_007_0784)
 
 ---

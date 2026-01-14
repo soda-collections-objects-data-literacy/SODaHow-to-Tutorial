@@ -43,6 +43,17 @@ Einheit 3: **WissKI Kurzeinführung**
 
 **Dauer:** ~ 15 Min.
 
+Lernziele 
+
+die fünf Stufen des 5-Sterne-Modells für offene Daten benennen. (LZ-ID 01_008_0158)
+FAIR Prinzipien benennen. (LZ-ID 01_007_0117)
+geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01_007_0121)
+die Infrastruktur WissKi erläutern. (neu)
+WissKI Pathbuilder bennenen und erläutern (neu)
+das Prinzip der ereigniszentrierten Modellierung mit CIDOC CRM erklären (neu)
+Relevanz und Nutzen von WissKI benennen (neu)
+
+
 ---
 
 ## WissKI in Kürze
@@ -104,7 +115,7 @@ So bleibt WissKI flexibel, ermöglicht semantische Konsistenz und ist in der Dat
 
 ---
 
-## Semantisches Modellieren auf *WissKI-Art*
+## Semantisches Modellieren auf *WissKI-Art* = das Prinzip der ereigniszentrierten Modellierung (CIDOC CRM) erklären
 
 In WissKI werden  **nicht nur Daten** gespeichert und erfasst, sondern **Bedeutung** modelliert.
 
@@ -129,7 +140,7 @@ Diese semantischen Bedeutungsaussagen lassen **einen Wissensgraphen** entstehen,
 
 ---
 
-## Vorteile von WissKI
+## Vorteile von WissKI Relevanz
 
 * ermöglicht **wissensbasierte Modellierung** statt starrer Tabellenschemata
 * stellt **Interoperabilität** durch etablierte Ontologien wie **CIDOC CRM** sicher
@@ -141,7 +152,7 @@ Diese semantischen Bedeutungsaussagen lassen **einen Wissensgraphen** entstehen,
 
 ---
 
-## Die Semantik zentral in WissKi
+## Die Semantik zentral in WissKi Nutzen
 
 * **CIDOC CRM** definiert Konzepte & Beziehungen  
 * **Semantische Pfade** bilden die Datenstruktur 

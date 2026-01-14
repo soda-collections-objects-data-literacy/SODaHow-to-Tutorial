@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 1: **Arbeiten mit Protege**  
+Einheit 6: **Arbeiten mit Protege**  
 
 **Dauer:** ~ 10 Min.
 
@@ -89,5 +89,6 @@ Mit einer klaren Vorgehensweise ist es möcglich, auch ohne tiefgreifende Vorken
     <td><img src="../assets/save_domain.JPG" alt="Protege" width="100%"></td>
   </tr>
 </table>
+
 
 

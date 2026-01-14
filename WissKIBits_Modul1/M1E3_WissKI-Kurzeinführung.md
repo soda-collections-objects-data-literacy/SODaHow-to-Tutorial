@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 1: **WissKI Kurzeinführung**  
+Einheit 3: **WissKI Kurzeinführung**  
 
 **Dauer:** ~ 15 Min.
 
@@ -147,5 +147,6 @@ Diese semantischen Bedeutungsaussagen lassen **einen Wissensgraphen** entstehen,
 * **Semantische Pfade** bilden die Datenstruktur 
 * **Formulare** erzwingen konsistente Dateneingabe  
 * **RDF-Wissensgraph** ermöglicht Austausch & LOD-Publikation
+
 
 

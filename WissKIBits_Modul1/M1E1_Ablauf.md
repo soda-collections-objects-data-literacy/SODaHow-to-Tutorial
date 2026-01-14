@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären**
 
-Einheit 1: **Ablauf und Warm-up**  
+Einheit 1: **Willkommen und Ablauf**  
 
 **Dauer:** ~ 15 Min.
 

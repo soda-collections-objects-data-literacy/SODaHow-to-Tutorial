@@ -97,11 +97,3 @@ Dieser Workflow des Tutorials: (Bitte nochmal checken!)
 Zelda ist super, aber setze 1–2 Sätze, warum ein popkulturelles Objekt didaktisch gut ist (klare Production, Publisher, Plattform etc.).
 
 
-
-
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 1e8d96177f180d4ea322fdbce8824e279a12784b

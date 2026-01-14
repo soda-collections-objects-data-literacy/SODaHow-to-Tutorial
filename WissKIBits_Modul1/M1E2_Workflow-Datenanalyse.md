@@ -43,6 +43,13 @@ Einheit 2: **Workflow Datenanalyse**
 
 **Dauer:** ~ 15 Min.
 
+Lernziel: 
+
+Begriff Ontologie erläutern (LZ-ID 03_007_0775)
+Aspekte von Ontologien benennen. (LZ-ID 03_007_0776)
+FAIR Prinzipien benennen (LZ-ID 01_007_0117)
+Methoden zur Entwicklung von Ontologien (LZ-ID 03_007_0784)
+
 ---
 
 ## Von der Datenanalyse zur semantischen Modellierung (nochmal überarbeiten)
@@ -53,6 +60,10 @@ Einheit 2: **Workflow Datenanalyse**
 * Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **Fachwissen und methodisches Denken** erfordert.
 * **WissKI** unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe** über den **Pathbuilder** miteinander verbindet.
 
+Begriff Ontologien kurz erläutern.
+Aspekte von Ontologien benennen.
+FAIR-Prinzipien benennen?
+
 **Zielsetzung ist es:**  
 
 * Domänenwissen in ontologiebasierte Datenmodelle Schritt für Schritt zu übersetzen
@@ -60,7 +71,7 @@ Einheit 2: **Workflow Datenanalyse**
 
 ---
 
-## Workflow-Übersicht
+## Workflow-Übersicht (Methode)
 
 Dieser Workflow des Tutorials: (Bitte nochmal checken!)
 
@@ -83,9 +94,14 @@ Dieser Workflow des Tutorials: (Bitte nochmal checken!)
 | **Draw.io Modell** | ![draw.io Diagramm](../assets/path.PNG) |
 | **WissKI Pathbuilder** | ![WissKI Pathbuilder](../assets/pathbuilder.PNG) |
 
+Zelda ist super, aber setze 1–2 Sätze, warum ein popkulturelles Objekt didaktisch gut ist (klare Production, Publisher, Plattform etc.).
 
 
 
 
 
+<<<<<<< HEAD
+=======
 
+
+>>>>>>> 1e8d96177f180d4ea322fdbce8824e279a12784b

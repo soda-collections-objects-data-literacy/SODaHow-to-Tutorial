@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 1: ** Austausch & Feedback**  
+Einheit 1: **Reflexion**  
 
 **Dauer:** ~ 5 Min.
 

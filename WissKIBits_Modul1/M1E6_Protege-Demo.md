@@ -43,6 +43,9 @@ Einheit 6: **Arbeiten mit Protege**
 
 **Dauer:** ~ 10 Min.
 
+Lernziel
+
+Software zur Erstellung von Ontologien benennen und anwenden (neu)
 ---
 
 ## Live-Demo in Protégé

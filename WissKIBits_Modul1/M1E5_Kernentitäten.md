@@ -39,9 +39,18 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 5: **Kernentitäten und Domänenlogik in Sammlungen**  
+Einheit 5: **Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese**  
 
 **Dauer:** ~ 20 Min.
+
+Lernziele
+
+Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) benenen und erläutern (neu)
+Datentyp-Eigenschaften in CIDOC CRM benennen (und erläuetern) (neu)
+
+Modellierungsstrategie & Interoperabilität
+begründen, wann eine domänenspezifische Subklasse sinnvoll ist und wann nicht (leichtgewichtige Erweiterung).
+erklären, wie ein Ontologie-basiertes Modell Interoperabilität und Nachnutzbarkeit (FAIR) unterstützt.
 
 ---
 

@@ -39,9 +39,18 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 4: **Strukturierte Daten mit Ontologien**  
+Einheit 4: **Strukturierte Daten mit CIDOC CRM**  
 
 **Dauer:** ~ 15 Min.
+
+Lernziele:
+
+Ontologie zur Beschreibung von Ressourcen bennen, erläutern, anwenden. 03_007_0778, 03_007_0779, 03_007_0780
+Modellierungsstrategie(n) benennen. (neu)
+Scope Notes als Entscheidungsgrundlage anwenden. (neu)
+Relevanz und Nutzen von CIDOC CRM  (neu)
+
+
 
 ---
 

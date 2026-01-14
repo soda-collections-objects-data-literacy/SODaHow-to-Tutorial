@@ -66,10 +66,10 @@ Einheit 1: **Ablauf und Warm-up**
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
 | 1 | Willkommen & Warm-up | 15 Min. |
-| 2 | Orientierung: Vom Datensatz zum Modell | 5 Min. |
+| 2 | Workflow zur Datenanalyse | 5 Min. |
 | 3 | WissKI in Kürze | 10 Min. |
-| 4 | CIDOC CRM & Domänenontologien | 15 Min. |
-| 5 | Kernentitäten aus einer Sammlung benennen | 20 Min. |
+| 4 | Strukturierte Daten mit Ontologien | 15 Min. |
+| 5 | Kernentitäten und Domänenlogik in Sammlungen | 20 Min. |
 | 6 | Live-Demo in Protégé | 10 Min. |
 | 7 | Austausch & Feedback | 5 Min. |
 

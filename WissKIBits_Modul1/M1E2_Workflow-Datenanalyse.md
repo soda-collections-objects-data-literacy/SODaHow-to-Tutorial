@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 2: **Workflow Datenanalyse**  
+Einheit 2: **Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur**  
 
 **Dauer:** ~ 15 Min.
 

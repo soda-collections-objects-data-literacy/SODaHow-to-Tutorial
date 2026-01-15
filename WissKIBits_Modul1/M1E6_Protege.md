@@ -45,7 +45,8 @@ Einheit 6: **Modellierung in Protégé**
 
 Lernziel
 
-Software zur Erstellung von Ontologien benennen und anwenden (neu)
+* Software zur Erstellung von Ontologien benennen und anwenden. (SODa_03_007_0809 und SODa_03_007_0810)
+
 ---
 
 ## Live-Demo in Protégé

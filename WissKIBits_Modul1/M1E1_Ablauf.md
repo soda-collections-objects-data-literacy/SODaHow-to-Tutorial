@@ -45,7 +45,8 @@ Einheit 1: **Willkommen und Ablauf**
 
 Lernziel
 
-die Infrastruktur WissKi benennen (neu)
+* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa_01_010_0190a) 
+
 ---
 
 ## Begrüßung

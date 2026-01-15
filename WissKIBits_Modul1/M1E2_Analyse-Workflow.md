@@ -45,10 +45,10 @@ Einheit 2: **Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur**
 
 Lernziel: 
 
-Begriff Ontologie erläutern (LZ-ID 03_007_0775)
-Aspekte von Ontologien benennen. (LZ-ID 03_007_0776)
-Methoden zur Entwicklung von Ontologien (LZ-ID 03_007_0784)
-einen Workflow für die Datendokumentation entwickeln (LZ-ID 03_001_0616 neu -modellierung anwenden) 
+* Begriff Ontologie erläutern. (LZ-ID 03_007_0775)
+* Aspekte von Ontologien benennen. (LZ-ID 03_007_0776)
+* Methoden zur Entwicklung von Ontologien benennen. (LZ-ID 03_007_0784)
+* einen Workflow für die semantische Modellierung als Datendokumentation benennen und anwenden. (LZ-ID SODa_03_001_0626 und SODa_03_001_0627) 
 
 ---
 

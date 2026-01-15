@@ -45,10 +45,10 @@ Einheit 4: **Strukturierte Daten mit CIDOC CRM**
 
 Lernziele:
 
-Ontologie zur Beschreibung von Ressourcen bennen, erläutern, anwenden. 03_007_0778, 03_007_0779, 03_007_0780
-Modellierungsstrategie(n) benennen. (neu)
-Scope Notes als Entscheidungsgrundlage anwenden. (neu)
-Relevanz und Nutzen von CIDOC CRM  (neu)
+* Ontologie zur Beschreibung von Ressourcen bennen, erläutern, anwenden. (LZ-ID 03_007_0778, 03_007_0779, 03_007_0780)
+* Methoden zur Modellierung einer Domänenontologie mit dem Referenzmodell CIDOC CRM benennen. (LZ-ID SODa_03_007_0784a)
+* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
+* Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa_03_007_0805)
 
 
 

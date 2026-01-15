@@ -48,6 +48,7 @@ Lernziel:
 Begriff Ontologie erläutern (LZ-ID 03_007_0775)
 Aspekte von Ontologien benennen. (LZ-ID 03_007_0776)
 Methoden zur Entwicklung von Ontologien (LZ-ID 03_007_0784)
+einen Workflow für die Datendokumentation entwickeln (LZ-ID 03_001_0616 neu -modellierung anwenden) 
 
 ---
 

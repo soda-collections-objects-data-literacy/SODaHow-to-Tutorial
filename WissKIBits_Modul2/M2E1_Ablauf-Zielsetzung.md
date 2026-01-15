@@ -37,9 +37,9 @@ LearningResourceType: SODa How-to-Tutorial
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 2: **Vom Diagramm zu Pfaden – erläutern und anwenden**
+Modul 2: **Vom Diagramm zu Pfaden – erläutern, validieren und anwenden**
 
-Einheit 1: **Ablauf und Warm-up**  
+Einheit 1: **Ablauf und Zielsetzung**  
 
 **Dauer:** ~ 15 Min.
 
@@ -52,7 +52,7 @@ Einheit 1: **Ablauf und Warm-up**
 > 
 > Dieses How-to-Tutorial bietet eine praxisorientierte Einführung in die **Arbeit und Analyse mit strukturierten Forschungsdaten** – von der ersten Beschreibung eines Sammlungsobjekts bis zur semantisch belastbaren Modellstruktur (**Datenmodell am Beispiel entwickeln und implementieren**).
 >
-> Im Modul 2: **Vom Diagramm zu Pfaden – erläutern und anwenden** wird das entworfene Datenmodell in Modul 1 in ein CIDOC CRM-basierte Pfadstruktur überführt:
+> Im Modul 2: **Vom Diagramm zu Pfaden – erläutern, validieren und anwenden** wird das entworfene Datenmodell in Modul 1 in ein CIDOC CRM-basierte Pfadstruktur überführt:
 >
 > Aus dem in *Draw.io* erstellten semantischen Modell wird eine *WissKI Pathbuilder*-Datei generiert. Auf diese Weise wird die konzeptionelle Domänenontologie in eine in WissKI nutzbare Graphstruktur überführt, die als Grundlage für die Arbeit und Analyse graphbasierten Forschungsdaten dient.  
 >
@@ -74,11 +74,11 @@ Einheit 1: **Ablauf und Warm-up**
 
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
-| 1 | Willkommen & Warm-up | 15 Min. |
-| 2 | Visualisierung eines Domänenontologie-Diagramms | 25 Min. |
-| 3 | WissKI Pathbuilder-Datei erzeugen | 25 Min. |
-| 4 | Weiterführende Modulthemen| 5 Min. |
-| 5 | Austausch & Feedback | 15 Min. |
+| 1 | Ablauf und Zielsetzung | 15 Min. |
+| 2 | Visualisierung der Domänenontologie in Draw.io | 25 Min. |
+| 3 | Automatische Pfadgenerierung: Konsistenz prüfen und WissKI Pathbuilder-Datei erzeugen | 25 Min. |
+| 4 | Validierung im Pathbuilder und erste Analyseabfragen | 5 Min. |
+| 5 | Transfer und Nächste Analyseschritte | 15 Min. |
 
 
 ---

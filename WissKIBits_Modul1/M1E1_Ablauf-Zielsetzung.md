@@ -77,7 +77,7 @@ Lernziel
 
 | Einheit | Inhalt | Zeit |
 |--------|--------|------|
-| 1 | Willkommen und Ablauf | 15 Min. |
+| 1 | Ablauf und Zielsetzung | 15 Min. |
 | 2 | Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur | 5 Min. |
 | 3 | WissKI Kurzeinführung | 10 Min. |
 | 4 | Strukturierte Daten mit CIDOC CRM | 15 Min. |

@@ -90,25 +90,25 @@ die Infrastruktur WissKi benennen (neu)
 
 Lernende können... 
 
-* für das SAMMLUNGSBEZOGENE Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID 01_010_0190) 
-* Begriff Ontologie erläutern (LZ-ID 03_007_0775)
+* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa_01_010_0190a) 
+* Begriff Ontologie erläutern. (LZ-ID 03_007_0775)
 * Aspekte von Ontologien benennen. (LZ-ID 03_007_0776)
-* Methoden zur Entwicklung von Ontologien benennen (LZ-ID 03_007_0784)
-* einen Workflow für die Datendokumentation entwickeln (LZ-ID 03_001_0616 neu -modellierung anwenden) 
+* Methoden zur Entwicklung von Ontologien benennen. (LZ-ID 03_007_0784)
+* einen Workflow für die semantische Modellierung als Datendokumentation benennen und anwenden. (LZ-ID SODa_03_001_0626 und SODa_03_001_0627) 
 * die fünf Stufen des 5-Sterne-Modells für offene Daten benennen. (LZ-ID 01_008_0158)
 * FAIR Prinzipien benennen. (LZ-ID 01_007_0117)
 * geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01_007_0121)
-* die spezifischen Funktionen und Anwendungsbereiche (inter)nationaler IT-Infrastrukturen = der Wissenschaftlichenh Kommunikatiojnsinfrastruktur WissKI = benennen und erläutern. (01_010_0191 und _0192)
-* Werkzeuge (WissKI Pathbuilder) zur Entwicklung von Ontologien bennenen und erläutern (neu? siehe Methoden zur Entwicklung von Ontologien benennen und erläutern LZ-ID 03_007_0784 und _0785)
-* das Prinzip der ereigniszentrierten Modellierung mit CIDOC CRM erklären (neu ? siehe unter Anleitung Methoden zur Entwicklung von Ontologien anwenden LZ-ID 03_007_0786 oder Aspekte von Ontologien benennen LZ-ID 03_007_0776)
-* Relevanz und Nutzen von WissKI benennen (neu ? Leistungsfähigkeit und Effizienz von IT-Infrastrukturen für das SAMMLUNGSBEZOGENE Forschungsdatenmanagement (FDM) ) analysieren und bewerten (?) 01_010_0195 und _0196)
-* Ontologie zur Beschreibung von Ressourcen bennen, erläutern, anwenden. 03_007_0778, 03_007_0779, 03_007_0780
-* Modellierungsstrategie(n) benennen. (neu ? oder eigenständig Methoden zur Entwicklung von Ontologien anwenden LZ-ID 03_007_0787)
-* Scope Notes als Entscheidungsgrundlage anwenden. (neu eigenständig Methoden zur Entwicklung von Ontologien anwenden LZ-ID 03_007_0787))
-* Relevanz und Nutzen von CIDOC CRM benennen und erläutern (neu es gibt nur die Relevanz von Ontologien erläutern LZ-ID 03_007_0777)
-* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) benenen und erläutern (neu - Thema Datendokumentation oder Metadaten oder Datenqualität?)
-* Datentyp-Eigenschaften in CIDOC CRM benennen (und erläuetern) (neu? Kategorien von Datentypen benennen und erläutern LZ-ID 02_002_0212 und _0213)
-* Software zur Erstellung von Ontologien benennen und anwenden (neu es gibt nur Softwares zur Evaluation von Ontologien)
+* die spezifischen Funktionen und Anwendungsbereiche der Wissenschaftlichen Kommunikatiojnsinfrastruktur WissKI benennen und erläutern. (LZ-ID SODa_01_010_0191a und SODa_01_010_0192a)
+* WissKI Pathbuilder als Werkzeuge zur Entwicklung von Ontologien bennenen und erläutern. (LZ-ID SODa_03_007_0803 und LZ-ID SODa_03_007_0804)
+* die Methode der ereigniszentrierten Modellierung mit dem Referenzmodell CIDOC CRM erläutern. (LZ-ID SODa_03_007_0785a)
+* Leistungsfähigkeit und Effizienz von IT-Infrastrukturen für das sammlungsbezogene Forschungsdatenmanagement (FDM) ) mit der Wissenschaftlichen Kommunikationsinfrastuktur WissKI benennen. (LZ-ID SODa_01_010_0202)
+* Ontologie zur Beschreibung von Ressourcen bennen, erläutern, anwenden. (LZ-ID 03_007_0778, 03_007_0779, 03_007_0780)
+* Methoden zur Modellierung einer Domänenontologie mit dem Referenzmodell CIDOC CRM benennen. (LZ-ID SODa_03_007_0784a)
+* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
+* Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa_03_007_0805)
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benenen und erläutern. (LZ-ID SODa_03_007_0806 und LZ-ID SODa_03_007_0807)
+* Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (SODa_03_007_0808) überarbeiten
+* Software zur Erstellung von Ontologien benennen und anwenden. (SODa_03_007_0809 und SODa_03_007_0810)
 
 
 ---
@@ -163,5 +163,6 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 

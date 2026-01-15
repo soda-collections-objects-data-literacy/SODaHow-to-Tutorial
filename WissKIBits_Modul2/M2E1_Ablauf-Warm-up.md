@@ -37,7 +37,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 2: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
+Modul 2: **Vom Diagramm zu Pfaden – erläutern und anwenden**
 
 Einheit 1: **Ablauf und Warm-up**  
 
@@ -48,17 +48,21 @@ Einheit 1: **Ablauf und Warm-up**
 ## Begrüßung
 
 
-
-> Dieses How-to-Tutorial *SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten* bietet eine praxisorientierte Einführung in die Arbeit und Analyse mit strukturierten Forschungsdaten.  
+> Willkommen zu **SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten**.
+> 
+> Dieses How-to-Tutorial bietet eine praxisorientierte Einführung in die **Arbeit und Analyse mit strukturierten Forschungsdaten** – von der ersten Beschreibung eines Sammlungsobjekts bis zur semantisch belastbaren Modellstruktur (**Datenmodell am Beispiel entwickeln und implementieren**).
 >
-> Im **Modul 2: *Datenmodell entwickeln und implementieren am Beispiel*** wird aus einem in *Draw.io* erstellten semantischen Modell eine *WissKI Pathbuilder*-Datei generiert.  
-> Auf diese Weise wird eine konzeptionelle Ontologie in eine in WissKI nutzbare Graphstruktur überführt, die als Grundlage für die Arbeit und Analyse graphbasierten Forschungsdaten dient.  
+> Im Modul 2: **Vom Diagramm zu Pfaden – erläutern und anwenden** wird das entworfene Datenmodell in Modul 1 in ein CIDOC CRM-basierte Pfadstruktur überführt:
 >
-> Das Modul ist als **How-to-Tutorial** konzipiert und führt nach dem Prinzip des *Learning by Doing* Schritt für Schritt in das praktische Arbeiten mit strukturierten, semantisch verknüpften Daten in WissKI ein.  
+> Aus dem in *Draw.io* erstellten semantischen Modell wird eine *WissKI Pathbuilder*-Datei generiert. Auf diese Weise wird die konzeptionelle Domänenontologie in eine in WissKI nutzbare Graphstruktur überführt, die als Grundlage für die Arbeit und Analyse graphbasierten Forschungsdaten dient.  
 >
-> In den **weiterführenden Einheiten** wird dieser anleitende Ansatz um **selbstgesteuerte Lernphasen** ergänzt,  
-> in denen die Teilnehmenden ihr Wissen vertiefen, eigene Forschungsdaten modellieren und die erlernten Methoden auf ihre individuellen Forschungskontexte anwenden.
-
+> Ziel ist es, die fachliche Domänenlogik so präzise abzubilden, dass das Datenmodell konsistent umgesetzt, nachvollziehbar erweitert und gezielt abgefragt werden kann.
+>
+> Das Modul ist als **How-to-Tutorial** für die **Wissenschaftliche Kommunikationsiunfrastruktur WissKI** konzipiert und folgt dem Prinzip Learning by Doing:
+>
+> An einem Beispiel wird aus der Sammlungsperspektive eine Modellperspektive erarbeitet und so die Grundlage für die Visualisierung in einem Diagramm und die spätere Umsetzung in WissKI geschaffen.
+>
+> In den weiterführenden Einheiten wird dieser anleitende Ansatz um selbstgesteuerte Lernphasen ergänzt, in denen das eigene Wissen vertieft, eigene Forschungsdaten modelliert und die erlernten Methoden auf individuelle Forschungskontexte anwendendet werden können.
 
 ---
 

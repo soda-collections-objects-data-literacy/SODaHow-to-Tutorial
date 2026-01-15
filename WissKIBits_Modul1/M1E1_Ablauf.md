@@ -53,9 +53,9 @@ Lernziel
 
 > Willkommen zu **SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten**.
 > 
-> Dieses How-to-Tutorial bietet eine praxisorientierte Einführung in die **Arbeit und Analyse mit strukturierten Forschungsdaten** – von der ersten Beschreibung eines Sammlungsobjekts bis zur semantisch belastbaren Modellstruktur.
+> Dieses How-to-Tutorial bietet eine praxisorientierte Einführung in die **Arbeit und Analyse mit strukturierten Forschungsdaten** – von der ersten Beschreibung eines Sammlungsobjekts bis zur semantisch belastbaren Modellstruktur (**Datenmodell am Beispiel entwickeln und implementieren**).
 >
-> Im **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären** wir die konzeptionelle Grundlage für ein Datenmodell erarbeitet:
+> Im Modul 1 **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären** wird die konzeptionelle Grundlage für ein Datenmodell erarbeitet:
 >
 > Objektdaten und Kontextinformationen werden analysiert, Kernentitäten, Ereignisse und Beziehungen identifiziert und diese Schritt für Schritt in eine ontologiebasierte Struktur (z. B. mit CIDOC CRM) übersetzt.
 >

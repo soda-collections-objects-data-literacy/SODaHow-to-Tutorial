@@ -90,24 +90,25 @@ die Infrastruktur WissKi benennen (neu)
 
 Lernende können... 
 
-* die Infrastruktur WissKi benennen (neu)
+* für das SAMMLUNGSBEZOGENE Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID 01_010_0190) 
 * Begriff Ontologie erläutern (LZ-ID 03_007_0775)
 * Aspekte von Ontologien benennen. (LZ-ID 03_007_0776)
-* Methoden zur Entwicklung von Ontologien (LZ-ID 03_007_0784)
+* Methoden zur Entwicklung von Ontologien benennen (LZ-ID 03_007_0784)
+* einen Workflow für die Datendokumentation entwickeln (LZ-ID 03_001_0616 neu -modellierung anwenden) 
 * die fünf Stufen des 5-Sterne-Modells für offene Daten benennen. (LZ-ID 01_008_0158)
 * FAIR Prinzipien benennen. (LZ-ID 01_007_0117)
 * geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01_007_0121)
-* die Infrastruktur WissKi erläutern. (neu)
-* WissKI Pathbuilder bennenen und erläutern (neu)
-* das Prinzip der ereigniszentrierten Modellierung mit CIDOC CRM erklären (neu)
-* Relevanz und Nutzen von WissKI benennen (neu)
+* die spezifischen Funktionen und Anwendungsbereiche (inter)nationaler IT-Infrastrukturen = der Wissenschaftlichenh Kommunikatiojnsinfrastruktur WissKI = benennen und erläutern. (01_010_0191 und _0192)
+* Werkzeuge (WissKI Pathbuilder) zur Entwicklung von Ontologien bennenen und erläutern (neu? siehe Methoden zur Entwicklung von Ontologien benennen und erläutern LZ-ID 03_007_0784 und _0785)
+* das Prinzip der ereigniszentrierten Modellierung mit CIDOC CRM erklären (neu ? siehe unter Anleitung Methoden zur Entwicklung von Ontologien anwenden LZ-ID 03_007_0786 oder Aspekte von Ontologien benennen LZ-ID 03_007_0776)
+* Relevanz und Nutzen von WissKI benennen (neu ? Leistungsfähigkeit und Effizienz von IT-Infrastrukturen für das SAMMLUNGSBEZOGENE Forschungsdatenmanagement (FDM) ) analysieren und bewerten (?) 01_010_0195 und _0196)
 * Ontologie zur Beschreibung von Ressourcen bennen, erläutern, anwenden. 03_007_0778, 03_007_0779, 03_007_0780
-* Modellierungsstrategie(n) benennen. (neu)
-* Scope Notes als Entscheidungsgrundlage anwenden. (neu)
-* Relevanz und Nutzen von CIDOC CRM  (neu)
-* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) benenen und erläutern (neu)
-* Datentyp-Eigenschaften in CIDOC CRM benennen (und erläuetern) (neu)
-* Software zur Erstellung von Ontologien benennen und anwenden (neu)
+* Modellierungsstrategie(n) benennen. (neu ? oder eigenständig Methoden zur Entwicklung von Ontologien anwenden LZ-ID 03_007_0787)
+* Scope Notes als Entscheidungsgrundlage anwenden. (neu eigenständig Methoden zur Entwicklung von Ontologien anwenden LZ-ID 03_007_0787))
+* Relevanz und Nutzen von CIDOC CRM benennen und erläutern (neu es gibt nur die Relevanz von Ontologien erläutern LZ-ID 03_007_0777)
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) benenen und erläutern (neu - Thema Datendokumentation oder Metadaten oder Datenqualität?)
+* Datentyp-Eigenschaften in CIDOC CRM benennen (und erläuetern) (neu? Kategorien von Datentypen benennen und erläutern LZ-ID 02_002_0212 und _0213)
+* Software zur Erstellung von Ontologien benennen und anwenden (neu es gibt nur Softwares zur Evaluation von Ontologien)
 
 
 ---
@@ -162,4 +163,5 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 

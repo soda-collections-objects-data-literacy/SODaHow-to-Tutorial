@@ -8,15 +8,15 @@
 
 ### Modul 1
 
-- Titel der Einheiten aktualisiert
-- Inhalte gesichtet und für die Überarbeitung markiert
-- Lernziele, mit Lernzielmatrix zum FDM abgeglichen, neue SODa Lernziele erfasst und den Einheiten zugeordnet
+- Titel der Einheiten aktualisiert.
+- Inhalte gesichtet und für die Überarbeitung markiert.
+- Lernziele, mit Lernzielmatrix zum FDM abgeglichen, neue SODa Lernziele erfasst und den Einheiten zugeordnet.
 
 
 ### Modul 2
 
-- Titel der Einheiten aktualisiert
-- Lernziele auf Vollständigkeit geprüft und den Einheiten zugeordnet
+- Titel der Einheiten aktualisiert.
+- Lernziele mit Bezug zum Inahlt auf Vollständigkeit geprüft und den Einheiten zugeordnet.
 
 ## Vorarbeiten
 

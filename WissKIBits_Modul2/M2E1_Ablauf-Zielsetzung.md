@@ -43,6 +43,10 @@ Einheit 1: **Ablauf und Zielsetzung**
 
 **Dauer:** ~ 15 Min.
 
+Lernziel
+
+* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa_01_010_0190a) 
+
 ---
 
 ## Begrüßung
@@ -78,7 +82,7 @@ Einheit 1: **Ablauf und Zielsetzung**
 | 2 | Visualisierung der Domänenontologie in Draw.io | 25 Min. |
 | 3 | Automatische Pfadgenerierung: Konsistenz prüfen und WissKI Pathbuilder-Datei erzeugen | 25 Min. |
 | 4 | Validierung im Pathbuilder und erste Analyseabfragen | 5 Min. |
-| 5 | Transfer und Nächste Analyseschritte | 15 Min. |
+| 5 | Transfer und Nächste Schritte zur Datenanalyse | 15 Min. |
 
 
 ---
@@ -87,13 +91,20 @@ Einheit 1: **Ablauf und Zielsetzung**
 
 Lernende können... 
 
-* Draw.io zur Repräsentation der Domänenontologie unter Anleitung anwenden (LZ-ID 03\dataModeling_soda0001).
-* CIDOC CRM zur Beschreibung eigener Resourcen anwenden (LZ-ID 03\dataModeling_soda0002)
-* Attributwerte an vordefinierten Klassen benennen und anwenden (LZ-ID 03\dataModeling_soda0002).
-* Domänenontologie-Diagramm als XML-Datei aus Draw.io exportieren (LZ-ID 03\dataModeling_soda0003).
-* das Konvertierungstool "gnm_service: Draw.io diagrams to WissKI pathbuilders" nutzen (LZ-ID 03\dataModeling_soda0004).
-* eine Pathbuilder-XML-Datei in WissKI importieren (LZ-ID 03\dataModeling_soda0005).
+
+* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa_01_010_0190a) 
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung auswählen und festlegen. (LZ-ID SODa_03_007_080x und LZ-ID SODa_03_007_080x)
+* Software zur Visualisierung benennen. (SODa_03_007_0811?)
+* (neu) Draw.io zur Repräsentation der Domänenontologie unter Anleitung anwenden. (LZ-ID 03\dataModeling_soda0001). (Softwares zur Evaluation von Ontologien anwenden 03_007_0798 )
+* Methoden zur Modellierung der Domänenontologie mit draw.io benennen. (LZ-ID SODa_03_007_0784a)
+* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
+* Attributwerte an vordefinierten Klassen des Domänen-Diagramms benennen und anwenden. (LZ-ID 03\dataModeling_soda0002).
+* Domänenontologie-Diagramm als XML-Datei aus Draw.io exportieren (LZ-ID 03\dataModeling_soda0003) oder generischer * (neu) Draw.io zur Repräsentation der Domänenontologie unter Anleitung anwenden. (LZ-ID 03\dataModeling_soda0001). (Softwares zur Evaluation von Ontologien anwenden 03_007_0798 )
+* das Konvertierungstool "gnm_service: Draw.io diagrams to WissKI pathbuilders" anwenden. (LZ-ID 03\dataModeling_soda0004).
+* eine Pathbuilder-XML-Datei im WissKI-Pathbuilder importieren (LZ-ID 03\dataModeling_soda0005).
 * Gruppen und Pfade im Pathbuilder überprüfen (LZ-ID 03\dataModeling_soda0006).
+* es fehlen noch zwei Lernziele in M2E4 
+
 
 ---
 

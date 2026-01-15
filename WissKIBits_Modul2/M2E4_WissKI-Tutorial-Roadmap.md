@@ -38,28 +38,49 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 2: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
 
-Einheit 4: Was kommt danach? 
+Einheit 4:  **Validierung im Pathbuilder und erste Analyseabfragen** 
 
 Dauer: ~ 10 Min.
+
+Lernziele
+
+- ???
+
+
 
 ---
 
 ## Ausblick auf weitere Module (Hinweis mehr Analyse :)
 
+
 Mit der Erstellung von semantischen Pfaden wurde eine grundlegende Struktur einer WissKI-Instanz aufgebaut.
 
 Damit ist der Übergang von der konzeptionellen Modellierung zur praktischen Anwendung abgeschlossen – WissKI kann nun als semantische Forschungsumgebung genutzt und anforderungsspezifisch weiterentwickelt werden.
 
+### Optional WissKI Demonstration
+
+A short demo at this stage can help illustrate the goal:
+
+    open an existing WissKI instance
+    show how semantic paths generate input forms
+    display entity connections (linked data)
+    run a simple SPARQL query
+
+(https://portal.m-e-g-a.org/)
+
+
+### SPARQL
+
+Link: https://portal.m-e-g-a.org/wisski/endpoint/backend/
+
+    SELECT * WHERE { ?s ?p ?o } LIMIT 10
+
+    SELECT * WHERE { GRAPH ?g { ?s ?p ?o }} LIMIT 10
+
+    SELECT * WHERE { GRAPH ?g { ?s ?p ?o } . FILTER(CONTAINS(?o, "Zelda"))} LIMIT 10
+
+    SELECT * WHERE { GRAPH ?g { ?s ?p ?o } . FILTER(CONTAINS(?o, "Zelda"))} ORDER BY ASC(?o)
+
+
 In den kommenden Modulen werden folgende Themen weiter vertieft:
 
-**WissKI Data Editor** für...
-
-* Dateneingabe, -import und -anreicherung 
-* Datenintegration, Qualitätssicherung und Standardisierung
-* Datensuche und -abfrage
-* Datenpublikation als Linked Open Data
-
-**WissKI Technisches admin Personal** für die (erweiterte) WissKI-Konfiguration, wie 
-
-* Anpassung der Ansichten im Web-Frontend
-* SOLR Search

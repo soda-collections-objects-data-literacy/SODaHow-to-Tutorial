@@ -38,9 +38,17 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 2: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
 
-Einheit 3: **WissKI Pathbuilder-Datei erzeugen**
+Einheit 3: **Automatische Pfadgenerierung: Konsistenz prüfen und WissKI Pathbuilder-Datei erzeugen**
 
 Dauer: ~ 25 Min.
+
+Lernziele
+
+* Domänenontologie-Diagramm als XML-Datei aus Draw.io exportieren (LZ-ID 03\dataModeling_soda0003) oder generischer * (neu) Draw.io zur Repräsentation der Domänenontologie unter Anleitung anwenden. (LZ-ID 03\dataModeling_soda0001). (Softwares zur Evaluation von Ontologien anwenden 03_007_0798 )
+
+* das Konvertierungstool "gnm_service: Draw.io diagrams to WissKI pathbuilders" anwenden. (LZ-ID 03\dataModeling_soda0004).
+* eine Pathbuilder-XML-Datei im WissKI-Pathbuilder importieren (LZ-ID 03\dataModeling_soda0005).
+* Gruppen und Pfade im Pathbuilder überprüfen (LZ-ID 03\dataModeling_soda0006).
 
 ---
 

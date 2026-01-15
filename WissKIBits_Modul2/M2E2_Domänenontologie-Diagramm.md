@@ -38,9 +38,19 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 2: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
 
-Einheit 2: **Visualisierung eines Domänenontologie-Diagramms**  
+Einheit 2: **Visualisierung der Domänenontologie in Draw.io**  
 
 **Dauer:** ~ 25 Min.
+
+Lernziel
+
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung auswählen und festlegen. (LZ-ID SODa_03_007_080x und LZ-ID SODa_03_007_080x)
+* Software zur Visualisierung benennen. (SODa_03_007_0811?)
+* (neu) Draw.io zur Repräsentation der Domänenontologie unter Anleitung anwenden. (LZ-ID 03\dataModeling_soda0001). (Softwares zur Evaluation von Ontologien anwenden 03_007_0798 )
+* Methoden zur Modellierung der Domänenontologie mit draw.io benennen. (LZ-ID SODa_03_007_0784a)
+* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
+* Attributwerte an vordefinierten Klassen des Domänen-Diagramms benennen und anwenden. (LZ-ID 03\dataModeling_soda0002).
+
 
 ---
 
@@ -113,7 +123,7 @@ Hierfür werden die Kernentitäten und ihre Beziehungen der Beispieldomäne sema
 
 ---
 
-## Anforderungen an das Arbeiten mit Draw.io
+## Anforderungen an das Arbeiten mit Draw.io (Methoden)
 
 * Es werden keine individuellen Instanzen abgebildet.
 * Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.

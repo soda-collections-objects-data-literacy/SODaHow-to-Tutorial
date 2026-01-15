@@ -38,11 +38,26 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 2: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
 
-Einheit 5: Abschluss und Feedback  
+Einheit 5: **Transfer und Nächste Schritte zur Datenanalyse**
 
 Dauer: ~ 15 Min.
 
 ---
+
+**WissKI Data Editor** für...
+
+* Dateneingabe, -import und -anreicherung 
+* Datenintegration, Qualitätssicherung und Standardisierung
+* Datensuche und -abfrage
+* Datenpublikation als Linked Open Data
+
+**WissKI Technisches admin Personal** für die (erweiterte) WissKI-Konfiguration, wie 
+
+* Anpassung der Ansichten im Web-Frontend
+* SOLR Search
+
+---
+
 
 ## Kurzes Feedback
 

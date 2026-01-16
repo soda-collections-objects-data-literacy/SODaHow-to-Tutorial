@@ -44,12 +44,11 @@ Dauer: ~ 25 Min.
 
 Lernziele
 
-* Domänenontologie-Diagramm als XML-Datei aus Draw.io exportieren (LZ-ID 03\dataModeling_soda0003) oder generischer * (neu) Draw.io zur Repräsentation der Domänenontologie unter Anleitung anwenden. (LZ-ID 03\dataModeling_soda0001). (Softwares zur Evaluation von Ontologien anwenden 03_007_0798 )
-
-* das Konvertierungstool "gnm_service: Draw.io diagrams to WissKI pathbuilders" anwenden. (LZ-ID 03\dataModeling_soda0004).
-* eine Pathbuilder-XML-Datei im WissKI-Pathbuilder importieren (LZ-ID 03\dataModeling_soda0005).
-* Gruppen und Pfade im Pathbuilder überprüfen (LZ-ID 03\dataModeling_soda0006).
-
+* unter Anleitung die Datenkonvertierung einer Visualisierungssoftware in ein nachnutzbares Dateiformat anwenden. (LZ-ID SODa_02_005_0298a)
+* unter Anleitung ein Werkzeug ("gnm-service: Draw.io diagrams to WissKI pathbuilders") zur Dateikonvertierung benennen und anwenden. (LZ-ID SODa_005_317 und LZ-ID SODa_005_0296a oder LZ-ID SODa_005_318)
+* unter Anleitung eine Pathbuilder-XML-Datei im WissKI-Pathbuilder importieren. (LZ-ID 01_010_0193?).
+* unter Anleitung Gruppen und Pfade im WissKI-Pathbuilder überprüfen. (LZ-ID 01_010_xxxx).
+  
 ---
 
 ## Der WissKI Pathbuilder
@@ -135,5 +134,6 @@ Der [FORTH-ICS-Webdienst](https://isl.ics.forth.gr/gnm_services/):
 * erkennt **semantische Pfade** von einem **zentralen Ontologieknoten** aus  
 * überprüft die **syntaktische Gültigkeit** anhand der Ontologiedateien  
 * exportiert die Pfade als **WissKI Pathbuilder XML**
+
 
 ---

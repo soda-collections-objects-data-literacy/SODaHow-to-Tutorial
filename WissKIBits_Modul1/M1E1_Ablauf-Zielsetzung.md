@@ -108,7 +108,7 @@ Lernende können...
 * Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
 * Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa_03_007_0805)
 * Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benenen und erläutern. (LZ-ID SODa_03_007_0806 und LZ-ID SODa_03_007_0807)
-* Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (SODa_03_007_0808) überarbeiten
+* Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (SODa_03_007_0808) *überarbeiten*
 * Software zur Erstellung von Ontologien benennen und anwenden. (SODa_03_007_0809 und SODa_03_007_0810)
 
 
@@ -164,6 +164,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

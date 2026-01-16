@@ -102,10 +102,8 @@ Lernende können...
 * Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
 * Attributwerte an vordefinierten Klassen der Domänenontologie in einer Visualisierungssoftware anwenden. (LZ-ID SODa_03_007_0817)
 * unter Anleitung die Datenkonvertierung einer Visualisierungssoftware in ein nachnutzbares Dateiformat anwenden. (LZ-ID SODa_02_005_0298a)
-* 
-* unter Anleitung ein Werkzeug ("gnm-service") zur Dateikonvertierung benennen und anwenden. 
+* unter Anleitung ein Werkzeug ("gnm-service: Draw.io diagrams to WissKI pathbuilders") zur Dateikonvertierung benennen und anwenden. 
   
-* das Konvertierungstool "gnm_service: Draw.io diagrams to WissKI pathbuilders" anwenden. (LZ-ID 03\dataModeling_soda0004).
 * eine Pathbuilder-XML-Datei im WissKI-Pathbuilder importieren (LZ-ID 03\dataModeling_soda0005).
   
 * Gruppen und Pfade im Pathbuilder überprüfen (LZ-ID 03\dataModeling_soda0006).

@@ -101,6 +101,8 @@ Lernende können...
 * Methoden zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware anwenden. (LZ-ID SODa_007_0816)
 * Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
 * Attributwerte an vordefinierten Klassen der Domänenontologie in einer Visualisierungssoftware anwenden. (LZ-ID SODa_03_007_0817)
+
+* *ergänzen? WissKI Pathbuilder benennen und erläutern.*
 * unter Anleitung die Datenkonvertierung einer Visualisierungssoftware in ein nachnutzbares Dateiformat anwenden. (LZ-ID SODa_02_005_0298a)
 * unter Anleitung ein Werkzeug ("gnm-service: Draw.io diagrams to WissKI pathbuilders") zur Dateikonvertierung benennen und anwenden. (LZ-ID SODa_005_317 und LZ-ID SODa_005_0296a oder LZ-ID SODa_005_318)
 * unter Anleitung eine Pathbuilder-XML-Datei im WissKI-Pathbuilder importieren. (LZ-ID 01_010_0193?).

@@ -104,11 +104,13 @@ Lernende können...
 * Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
 * Attributwerte an vordefinierten Klassen des Domänen-Diagramms benennen und anwenden. (LZ-ID 03\dataModeling_soda0002).
 * --> Attributwerte an vordefinierten Klassen der Domänenontologie benennen und anwenden. (LZ-ID SODa_03_007_0818 und LZ-ID SODa_03_007_0819); außer es handelt sich um Methoden zur Modellierung einer Domänenontologie mit draw.io, dann: (LZ-ID SODa_03_007_0784c und LZ-ID SODa_007_0817a)
-
+* ab hier passiert ein Übergang von der konzeptuellen zur technischen Ebene: Konzeptualisierung / Modellierung zur Formalisierung / Implementierung
+* Domänenontologie in formale
 
 * Domänenontologie-Diagramm als XML-Datei aus Draw.io exportieren (LZ-ID 03\dataModeling_soda0003) oder generischer * (neu) Draw.io zur Repräsentation der Domänenontologie unter Anleitung anwenden. (LZ-ID 03\dataModeling_soda0001). (Softwares zur Evaluation von Ontologien anwenden 03_007_0798 )
 * das Konvertierungstool "gnm_service: Draw.io diagrams to WissKI pathbuilders" anwenden. (LZ-ID 03\dataModeling_soda0004).
 * eine Pathbuilder-XML-Datei im WissKI-Pathbuilder importieren (LZ-ID 03\dataModeling_soda0005).
+  
 * Gruppen und Pfade im Pathbuilder überprüfen (LZ-ID 03\dataModeling_soda0006).
 * es fehlen noch zwei Lernziele in M2E4 
 

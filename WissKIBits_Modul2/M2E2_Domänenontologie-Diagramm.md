@@ -44,12 +44,14 @@ Einheit 2: **Visualisierung der Domänenontologie in Draw.io**
 
 Lernziel
 
-* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung auswählen und festlegen. (LZ-ID SODa_03_007_080x und LZ-ID SODa_03_007_080x)
-* Software zur Visualisierung benennen. (SODa_03_007_0811?)
-* (neu) Draw.io zur Repräsentation der Domänenontologie unter Anleitung anwenden. (LZ-ID 03\dataModeling_soda0001). (Softwares zur Evaluation von Ontologien anwenden 03_007_0798 )
-* Methoden zur Modellierung der Domänenontologie mit draw.io benennen. (LZ-ID SODa_03_007_0784a)
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. (LZ-ID SODa_03_007_0811)
+* Software zur Visualisierung einer Domänenontologie benennen und erläutern.(LZ-ID SODa_03_007_0812 und LZ-ID SODa_03_007_0813)
+* Nutzen einer Software zur Visualisierung einer Domänenontologie benennen.(LZ-ID SODa_03_007_0814) 
+* Software zur Visualisierung einer Domänenontologie unter Anleitung anwenden. (LZ-ID SODa_03_007_0815)
+* Methoden zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware benennen. (LZ-ID SODa_03_007_0784b)
+* Methoden zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware anwenden. (LZ-ID SODa_007_0816)
 * Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
-* Attributwerte an vordefinierten Klassen des Domänen-Diagramms benennen und anwenden. (LZ-ID 03\dataModeling_soda0002).
+* Attributwerte an vordefinierten Klassen der Domänenontologie in einer Visualisierungssoftware anwenden. (LZ-ID SODa_03_007_0817)
 
 
 ---
@@ -148,5 +150,6 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 * Domänenontologie: [http://games.m-e-g-a.org/game_domain.rdf](http://games.m-e-g-a.org/game_domain.rdf)
 * Für semantische Beziehungen: PDF-Datei: [https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf) und HTML-Link: [https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html)
+
 
 ---

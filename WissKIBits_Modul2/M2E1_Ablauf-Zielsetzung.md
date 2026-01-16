@@ -93,12 +93,19 @@ Lernende können...
 
 
 * für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa_01_010_0190a) 
-* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung auswählen und festlegen. (LZ-ID SODa_03_007_080x und LZ-ID SODa_03_007_080x)
-* Software zur Visualisierung benennen. (SODa_03_007_0811?)
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung auswählen und festlegen. (LZ-ID SODa_03_007_0811 und LZ-ID SODa_03_007_0812) 
+* Software zur Visualisierung benennen. (LZ-ID SODa_03_007_0813)
+* --> Software zur Visualisierung von Modellierungsentscheidungen für eine Domänenontologie benennen und erläutern.(LZ-ID SODa_03_007_0813 und LZ-ID SODa_03_007_0814)
+* --> Nutzen der Software/von draw.io zur Visualisierung von Modellierungsentscheidungen für eine Domänenontologie benennen.(LZ-ID SODa_03_007_0815)
 * (neu) Draw.io zur Repräsentation der Domänenontologie unter Anleitung anwenden. (LZ-ID 03\dataModeling_soda0001). (Softwares zur Evaluation von Ontologien anwenden 03_007_0798 )
-* Methoden zur Modellierung der Domänenontologie mit draw.io benennen. (LZ-ID SODa_03_007_0784a)
+* --> Software/Draw.io zur Visualisierung von Modellierungsentscheidungen für eine Domänenontologie unter Anleitung anwenden. (LZ-ID SODa_03_007_0816)
+* Methoden zur Modellierung einer Domänenontologie mit draw.io benennen. (LZ-ID SODa_03_007_0784b)
+* --> ergänzen: Methoden zur Modellierung einer Domänenontologie mit draw.io anwenden. (LZ-ID SODa_007_0817)
 * Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
 * Attributwerte an vordefinierten Klassen des Domänen-Diagramms benennen und anwenden. (LZ-ID 03\dataModeling_soda0002).
+* --> Attributwerte an vordefinierten Klassen der Domänenontologie benennen und anwenden. (LZ-ID SODa_03_007_0818 und LZ-ID SODa_03_007_0819); außer es handelt sich um Methoden zur Modellierung einer Domänenontologie mit draw.io, dann: (LZ-ID SODa_03_007_0784c und LZ-ID SODa_007_0817a)
+
+
 * Domänenontologie-Diagramm als XML-Datei aus Draw.io exportieren (LZ-ID 03\dataModeling_soda0003) oder generischer * (neu) Draw.io zur Repräsentation der Domänenontologie unter Anleitung anwenden. (LZ-ID 03\dataModeling_soda0001). (Softwares zur Evaluation von Ontologien anwenden 03_007_0798 )
 * das Konvertierungstool "gnm_service: Draw.io diagrams to WissKI pathbuilders" anwenden. (LZ-ID 03\dataModeling_soda0004).
 * eine Pathbuilder-XML-Datei im WissKI-Pathbuilder importieren (LZ-ID 03\dataModeling_soda0005).

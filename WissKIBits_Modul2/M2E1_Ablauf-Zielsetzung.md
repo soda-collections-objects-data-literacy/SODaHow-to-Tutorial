@@ -70,6 +70,17 @@ Lernziel
 
 ---
 
+## Zielsetzung des Moduls
+
+In Modul 2 wird die konzeptionelle Basis schrittweise eine Domänenlogik als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI überführt.
+ 
+
+* Die Domänenlogik wird als semantisches Modell mit Pfaden in Draw.io visualisiert.
+* Die Visualisierung wird auf syntaktische Gültigkeit anhand CIDCO-CRM überprüft und in ein nachnutzbares Dateiformat überführt.
+* Die domänenspezifische Ontologiestruktur wird in die WissKI importiert, dort validiert und für die Analysen vorbereitet.
+
+---
+
 ## Ablauf des Moduls
 
 

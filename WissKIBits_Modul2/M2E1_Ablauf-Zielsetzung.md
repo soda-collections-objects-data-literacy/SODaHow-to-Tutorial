@@ -102,12 +102,10 @@ Lernende können...
 * Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
 * Attributwerte an vordefinierten Klassen der Domänenontologie in einer Visualisierungssoftware anwenden. (LZ-ID SODa_03_007_0817)
 * WissKI Pathbuilder als Werkzeug zur Entwicklung von Ontologien erläutern. (LZ-ID SODa_03_007_0804)
-
-* *ergänzen? WissKI Pathbuilder benennen und erläutern.*
 * unter Anleitung die Datenkonvertierung einer Visualisierungssoftware in ein nachnutzbares Dateiformat anwenden. (LZ-ID SODa_02_005_0298a)
-* unter Anleitung ein Werkzeug ("gnm-service: Draw.io diagrams to WissKI pathbuilders") zur Dateikonvertierung benennen und anwenden. (LZ-ID SODa_005_317 und LZ-ID SODa_005_0296a oder LZ-ID SODa_005_318)
-* unter Anleitung eine Pathbuilder-XML-Datei im WissKI-Pathbuilder importieren. (LZ-ID 01_010_0193?).
-* unter Anleitung Gruppen und Pfade im WissKI-Pathbuilder überprüfen. (LZ-ID 01_010_xxxx).
+* unter Anleitung ein Werkzeug ("gnm-service: Draw.io diagrams to WissKI pathbuilders") zur Dateikonvertierung benennen und anwenden. (LZ-ID SODa_02_005_317 und LZ-ID SODa_02_005_318)
+* WissKI Pathbuilder als Werkzeug zum Import einer domänenspezifische Ontologiestruktur (Pathbuilder-XML-Datei im WissKI-Pathbuilder) anwenden. (LZ-ID SODa_03_007_0818)
+* unter Anleitung die importierte domänenspezifische Ontologiestruktur im WissKI-Pathbuilder analysieren. (LZ-ID SODa_03_007_0819)
 * es fehlen noch zwei Lernziele in M2E4 
 
 

@@ -51,7 +51,7 @@ Lernziele
 * die spezifischen Funktionen und Anwendungsbereiche der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen und erläutern. (LZ-ID SODa_01_010_0191a und SODa_01_010_0192a)
 * WissKI Pathbuilder als Werkzeug zur Entwicklung von Ontologien bennenen und erläutern. (LZ-ID SODa_03_007_0803 und LZ-ID SODa_03_007_0804)
 * die Methode der ereigniszentrierten Modellierung mit dem Referenzmodell CIDOC CRM erläutern. (LZ-ID SODa_03_007_0785a)
-* Leistungsfähigkeit und Effizienz von IT-Infrastrukturen für das sammlungsbezogene Forschungsdatenmanagement (FDM) ) mit der Wissenschaftlichen Kommunikationsinfrastuktur WissKI benennen. (LZ-ID SODa_01_010_0202)
+* Leistungsfähigkeit und Effizienz von IT-Infrastrukturen für das sammlungsbezogene Forschungsdatenmanagement (FDM) mit der Wissenschaftlichen Kommunikationsinfrastuktur WissKI benennen. (LZ-ID SODa_01_010_0202)
 
 
 ---
@@ -158,6 +158,7 @@ Diese semantischen Bedeutungsaussagen lassen **einen Wissensgraphen** entstehen,
 * **Semantische Pfade** bilden die Datenstruktur 
 * **Formulare** erzwingen konsistente Dateneingabe  
 * **RDF-Wissensgraph** ermöglicht Austausch & LOD-Publikation
+
 
 
 

@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 1: **Reflexion**  
+Einheit 7: **Reflexion: Welche Analysen sind möglich, welche nicht?**  
 
 **Dauer:** ~ 5 Min.
 
@@ -66,6 +66,7 @@ Ein Leitgedanke ist, **semantisches Modellieren ist ein dialogischer Prozess. Es
 * **Was war herausfordernd?** Wo gab es Stolperstellen oder Unsicherheiten?
 * **Wo bestehen noch Fragen?** Gibt es Begriffe, Beziehungen oder Modellierungsentscheidungen, die wir gemeinsam klären sollten?
 * **Wie sicher fühlen Sie sich für den nächsten Schritt in WissKI?** 
+
 
 
 

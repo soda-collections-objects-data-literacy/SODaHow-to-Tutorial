@@ -45,10 +45,10 @@ Dauer: ~ 25 Min.
 Lernziele
 
 * unter Anleitung die Datenkonvertierung einer Visualisierungssoftware in ein nachnutzbares Dateiformat anwenden. (LZ-ID SODa_02_005_0298a)
-* unter Anleitung ein Werkzeug ("gnm-service: Draw.io diagrams to WissKI pathbuilders") zur Dateikonvertierung benennen und anwenden. (LZ-ID SODa_005_317 und LZ-ID SODa_005_0296a oder LZ-ID SODa_005_318)
+* unter Anleitung ein Werkzeug ("gnm-service: Draw.io diagrams to WissKI pathbuilders") zur Dateikonvertierung benennen und anwenden. (LZ-ID SODa_02_005_0317 und LZ-ID SODa_02_005_0318)
 * WissKI Pathbuilder als Werkzeug zur Entwicklung von Ontologien erläutern. (LZ-ID SODa_03_007_0804)
-* unter Anleitung eine Pathbuilder-XML-Datei im WissKI-Pathbuilder importieren. (LZ-ID 01_010_0193?).
-* unter Anleitung Gruppen und Pfade im WissKI-Pathbuilder überprüfen. (LZ-ID 01_010_xxxx).
+* unter Anleitung WissKI Pathbuilder als Werkzeug zum Import einer domänenspezifischen Ontologiestruktur (Pathbuilder-XML-Datei im WissKI-Pathbuilder) anwenden. (LZ-ID SODa_03_007_0818)
+* unter Anleitung die importierte domänenspezifische Ontologiestruktur im WissKI-Pathbuilder analysieren. (LZ-ID SODa_03_007_0819)
   
 ---
 
@@ -138,4 +138,5 @@ Der [FORTH-ICS-Webdienst](https://isl.ics.forth.gr/gnm_services/):
 
 
 ---
+
 

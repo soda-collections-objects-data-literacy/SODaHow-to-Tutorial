@@ -46,8 +46,9 @@ Einheit 5: **Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt z
 Lernziele
 
 * Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benenen und erläutern. (LZ-ID SODa_03_007_0806 und LZ-ID SODa_03_007_0807)
-* Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (SODa_03_007_0808) überarbeiten
+* Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (SODa_03_007_0808) *überarbeiten*
 
+TODO: 
 Modellierungsstrategie & Interoperabilität (nochmal bei der erarbeitung der inhalte prüfen)
 begründen, wann eine domänenspezifische Subklasse sinnvoll ist und wann nicht (leichtgewichtige Erweiterung).
 erklären, wie ein Ontologie-basiertes Modell Interoperabilität und Nachnutzbarkeit (FAIR) unterstützt.
@@ -193,5 +194,6 @@ Typische Datentyp-Eigenschaften (nur wenn nötig):
 Zentrale Informationen (Titel, Rollen, Identifikatoren, etc.) werden als eigene Entitäten modelliert und mit kontrollierten Vokabularen verknüpft.
 
 Hinweis: Der Umgang mit Datentyp-Eigenschaften wird in den fortgeschrittenen Einheiten zu Vokabularen und Interoperabilität behandelt.
+
 
 

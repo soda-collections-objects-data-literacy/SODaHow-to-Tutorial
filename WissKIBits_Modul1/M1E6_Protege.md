@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 6: **Modellierung in Protégé**  
+Einheit 6: **Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien**  
 
 **Dauer:** ~ 10 Min.
 
@@ -93,6 +93,7 @@ Mit einer klaren Vorgehensweise ist es möcglich, auch ohne tiefgreifende Vorken
     <td><img src="../assets/save_domain.JPG" alt="Protege" width="100%"></td>
   </tr>
 </table>
+
 
 
 

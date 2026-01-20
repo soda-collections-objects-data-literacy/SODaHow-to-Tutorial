@@ -167,7 +167,9 @@ Sammlungsspezifische Anforderungen und Kontexte bilden die Grundlage, um in Modu
 
 --- 
 
-## Erwartungsabfrage
+## Alternative Aktivierungsmethoden
+
+### Erwartungsabfrage
 
 Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und bisherigen Erfahrungen mit WissKI und semantischer Datenmodellierung.
 
@@ -183,7 +185,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 
 ---
 
-## Speed-Dating (Alternativ)
+### Speed-Dating (Alternativ)
 
 **Ziel:** 
 
@@ -210,6 +212,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

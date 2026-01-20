@@ -71,11 +71,11 @@ Lernziel
 
 ## Zielsetzung des Moduls
 
-In Modul 1 wird die konzeptionelle Basis geschaffen in dem von der Sammlungsperspektive eine Modellperspektive entsteht.
+In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektive entsteht eine Modellperspektive.
 
 * Objektdaten & deren Kontext werden analysiert.
-* Kernentitäten dieser Daten werden identifiziert und in Ereignisse und Beziehungen übersetzt.
-* Daraus entsteht schrittweise in eine ontologiebasierte Struktur mit CIDOC CRM.
+* Kernentitäten von Objektdaten werden identifiziert und um Ereignisse und Beziehungen kontextualisiert.
+* Daraus entsteht schrittweise in eine ontologiebasierte Domänenstruktur mit CIDOC CRM.
 * Diese Domänenlogik wird visualisiert und dient als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI.
 
 ---
@@ -212,6 +212,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

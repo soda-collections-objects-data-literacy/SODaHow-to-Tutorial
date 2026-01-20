@@ -84,7 +84,7 @@ In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektiv
 
 **Modul 1: 90 Min.**
 
-<div class="no-chart-ui"
+<div class="no-chart-ui">
 | Einheit | Inhalt | Dauer |
 |--------|--------|------|
 | 1 | Ablauf und Zielsetzung | 15 Min. |
@@ -94,7 +94,8 @@ In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektiv
 | 5 | Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese | 20 Min. |
 | 6 | Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien | 10 Min. |
 | 7 | Reflexion: Welche Analysen sind möglich, welche nicht? | 5 Min. |
-
+</div>
+  
 ---
 
 ## Lernziele
@@ -212,6 +213,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

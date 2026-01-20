@@ -134,8 +134,55 @@ Eine Einführung in diese Themen bietet Modul 1.
 
 --- 
 
+## Aktivierung und Input
 
-## Erwartungsabfrage
+**Impulsfrage** 
+
+Wenn eure Daten in WissKI modelliert sind: Welche Analysefrage muss zuverlässig beantworten werden?
+
+**Zuruf im Plenum**
+
+Abfragewünsche sammeln:
+
+„Wir wollen finden…“
+
+### Lösungsbeispiele aus dem Spielekontext
+
+_Hilfestellung – nicht vorgeben_
+
+* „… alle Spiele mit einer bestimmten Eigenschaft (z. B. Genre oder Modus).“
+* „… alle Spiele, die mit einer bestimmten Person/Organisation verknüpft sind (z. B. Entwickler:in, Studio, Publisher).“
+* „… alle Spiele bzw. Spielversionen aus einem Zeitraum X oder einer Region/Plattform Y.“
+* „… Spiele mit ähnlichen Merkmalen (z. B. ähnliche Beschreibung, ähnliche Einordnung, ähnliche Eigenschaften).“
+
+
+### Lösungsbeispiele 
+
+* „… alle Objekte mit bestimmter Provenienzstation“
+* „… alle Werke einer Person in einer bestimmten Rolle“
+* „… alle Ereignisse in Zeitraum X an Ort Y“
+* „… Objekte mit ähnlichen Kontextmerkmalen“
+
+
+**In Pfaden denken**
+
+Bausteine für ein Domänenmodell:
+
+* Startknoten (z. B. Objekt)
+* Ereignisknoten (z. B. Erwerb / Herstellung)
+* Kontextknoten (Ort / Zeit / Akteur:in + Rolle)
+
+---
+
+## Zusammenfassung
+
+Aus dem konzeptuellen Domänenmodell entstehen in Modul 2 Pfade, also eine valide domänenspezifische Ontologiestruktur im WissKI-Pathbuilder, mit der die Fragen beantwortet werden können.
+
+---
+
+## Alternative Aktivierungsmethoden
+
+### Erwartungsabfrage
 
 Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und bisherigen Erfahrungen mit WissKI und semantischer Datenmodellierung.
 
@@ -151,7 +198,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 
 ---
 
-## Speed-Dating (Alternativ)
+### Speed-Dating (Alternativ)
 
 **Ziel:** 
 

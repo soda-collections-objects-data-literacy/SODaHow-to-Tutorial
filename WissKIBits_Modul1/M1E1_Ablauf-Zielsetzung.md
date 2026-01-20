@@ -84,6 +84,7 @@ In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektiv
 
 **Modul 1: 90 Min.**
 
+<div class="no-chart-ui"
 | Einheit | Inhalt | Dauer |
 |--------|--------|------|
 | 1 | Ablauf und Zielsetzung | 15 Min. |
@@ -134,7 +135,7 @@ Folgende Grundkenntnisse werden vorausgesetzt:
 
 **Impulsfrage**
 
-Denkt an ein typisches Objekt aus eurer Sammlung/Forschung: Welche Information muss zwingend korrekt modelliert sein, damit die Forschung funktioniert?
+Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwingend korrekt modelliert sein, damit Forschung möglich wird?
 
 **Blitzrunde im Plenum**
 
@@ -211,6 +212,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

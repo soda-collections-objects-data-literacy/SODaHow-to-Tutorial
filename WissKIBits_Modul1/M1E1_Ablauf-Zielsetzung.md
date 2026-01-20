@@ -131,6 +131,42 @@ Folgende Grundkenntnisse werden vorausgesetzt:
 
 ---
 
+## Aktivierung und Input
+
+Impulsfrage: Denkt an ein typisches Objekt aus eurer Sammlung/Forschung: 
+
+Welche Information muss zwingend korrekt modelliert sein, damit eure Forschung funktioniert?
+
+**Blitzrunde im Plenum**
+
+* Jede Person nennt genau 1 Punkt: „Für uns ist unverzichtbar, dass …“
+
+### Lösungsbeispiele 
+
+_Hilfestellung – nicht vorgeben_
+
+* „… der Herstellungs-/Entstehungskontext klar ist.“
+* „… Akteur:innen und Rollen unterscheidbar sind.“
+* „… Provenienzereignisse nachvollziehbar sind.“
+* „… Ort und Zeit belastbar sind.“
+* „… Unsicherheiten (Hypothesen) abbildbar sind.“
+
+**Live-Clustering**
+
+Die Aussagen werden sichtbar an einem Board in 3 Spalten geschrieben:
+
+* Entitäten (Objekt, Person, Ort, Zeit…)
+* Ereignisse (Herstellung, Nutzung, Erwerb, Fund…)
+* Beziehungen / Kontext (Rollen, Zugehörigkeiten, Teil-von, identisch mit…)
+
+---
+
+## Zusammenfasung
+
+Sammlungsspezifische Anforderungen und Kontexte bilden die Grundlage, um in Modul 1 aus Sammlungsinformationen ein konsistentes, erklärbares Domänenmodell und Diagramm zu entwickeln.
+
+--- 
+
 ## Erwartungsabfrage
 
 Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und bisherigen Erfahrungen mit WissKI und semantischer Datenmodellierung.
@@ -174,6 +210,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

@@ -133,9 +133,9 @@ Folgende Grundkenntnisse werden vorausgesetzt:
 
 ## Aktivierung und Input
 
-Impulsfrage: Denkt an ein typisches Objekt aus eurer Sammlung/Forschung: 
+**Impulsfrage**
 
-Welche Information muss zwingend korrekt modelliert sein, damit eure Forschung funktioniert?
+Denkt an ein typisches Objekt aus eurer Sammlung/Forschung: Welche Information muss zwingend korrekt modelliert sein, damit die Forschung funktioniert?
 
 **Blitzrunde im Plenum**
 
@@ -212,6 +212,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

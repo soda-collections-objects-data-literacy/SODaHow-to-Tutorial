@@ -84,6 +84,7 @@ In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektiv
 
 **Modul 1: 90 Min.**
 
+<!-- data-type="line" -->
 
 | Einheit | Inhalt | Dauer |
 |--------|--------|------|
@@ -212,6 +213,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

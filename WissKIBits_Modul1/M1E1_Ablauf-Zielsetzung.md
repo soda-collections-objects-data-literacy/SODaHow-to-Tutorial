@@ -85,7 +85,7 @@ In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektiv
 **Modul 1: 90 Min.**
 
 
-| Einheit | Inhalt | Zeit |
+| Einheit | Inhalt | Dauer |
 |--------|--------|------|
 | 1 | Ablauf und Zielsetzung | 15 Min. |
 | 2 | Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur | 5 Min. |
@@ -212,6 +212,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

@@ -83,6 +83,7 @@ In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektiv
 ## Ablauf des Moduls
 
 **Modul 1: 90 Min.**
+
 | Einheit | Inhalt | Dauer |
 |--------|--------|------|
 | 1 | Ablauf und Zielsetzung | 15 Min. |
@@ -210,6 +211,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

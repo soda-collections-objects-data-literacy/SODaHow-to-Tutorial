@@ -58,14 +58,14 @@ Lernziele
 
 ## WissKI in Kürze
 
-**WissKI** (Wissenschaftliche Kommunikations-Infrastruktur) ist:
+**WissKI** (Wissenschaftliche Kommunikationsinfrastruktur) ist:
 
 * eine freie, quelloffene virtuelle Forschungsumgebung
 * entwickelt für Kulturerbe- und Forschungsdaten
 * basierend auf Semantic-Web-Technologien
 * modular aufgebaut und standardorientiert.
 
-WissKI wird u.a. am **Germanischen Nationalmuseum (GNM)** in Nürnberg eingesetzt —
+WissKI wird u. a. am **Germanischen Nationalmuseum (GNM)** in Nürnberg eingesetzt —
 
 * dem größten kulturhistorischen Museum im deutschsprachigen Raum
 * das Maßstäbe für digitale Forschungsinfrastrukturen setzt.
@@ -82,7 +82,7 @@ WissKI ist **nicht nur** eine Sammlungsdatenbank –  es ist ein **semantisches 
 
 WissKI ist **keine eigenständige Software**.  
 
-Es ist eine **semantische Erweiterung** des Content-Management-Systems **Drupal 10**.
+Es ist eine **semantische Erweiterung** des Content-Management-Systems **Drupal**.
 
 
 ![Drupal](../assets/drupal.JPG)
@@ -95,6 +95,8 @@ Es ist eine **semantische Erweiterung** des Content-Management-Systems **Drupal 
 | Zugriffskontrolle           | SPARQL-Endpunkt                          |
 | Mehrsprachige Oberfläche    | Veröffentlichung als Linked Open Data (LoD)    |
 
+*überarbeiten: nicht in Tabellenform nebeneinander, sondern untereinander anordnen*
+*Pathbuilder als Werkzeug ergänzen*
 ---
 
 ## Der WissKI Pathbuilder
@@ -128,7 +130,7 @@ Beispiel aus dem Video:
 * **Albrecht Dürer** → Person  
 * wurde geboren in → **Nürnberg** (Ort)  
 * zu → **einem bestimmten Zeitpunkt**  
-* hatte eine Mutter → **Barbara Dürerin** (Person)  
+* hatte eine Mutter → **Barbara Dürer** (Person)  
 * schuf → **Selbstbildnis** (Objekt)
 * **Entstehungszeitpunkt** in einer **Quelle** erwähnt
 * während → **seiner künstlerischen Schaffensperiode**  
@@ -140,7 +142,7 @@ Diese semantischen Bedeutungsaussagen lassen **einen Wissensgraphen** entstehen,
 
 ---
 
-## Vorteile von WissKI Relevanz
+## Vorteile von WissKI (Relevanz)
 
 * ermöglicht **wissensbasierte Modellierung** statt starrer Tabellenschemata
 * stellt **Interoperabilität** durch etablierte Ontologien wie **CIDOC CRM** sicher
@@ -152,12 +154,15 @@ Diese semantischen Bedeutungsaussagen lassen **einen Wissensgraphen** entstehen,
 
 ---
 
-## Die Semantik zentral in WissKi Nutzen
+## Die Semantik zentral in WissKI (Nutzen)
+
+*Übersetzung prüfen*
 
 * **CIDOC CRM** definiert Konzepte & Beziehungen  
 * **Semantische Pfade** bilden die Datenstruktur 
 * **Formulare** erzwingen konsistente Dateneingabe  
 * **RDF-Wissensgraph** ermöglicht Austausch & LOD-Publikation
+
 
 
 

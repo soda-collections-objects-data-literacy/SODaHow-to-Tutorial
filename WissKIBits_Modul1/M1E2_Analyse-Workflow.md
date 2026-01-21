@@ -120,22 +120,24 @@ Ontologien entstehen häufig durch eine Kombination aus:
 * Modellierungsentscheidungen nachvollziehbar zu dokumentieren,
 * und die Grundlage für ein **konsistentes CIDOC-CRM-basiertes Diagramm** zu schaffen, das später in WissKI umgesetzt wird.
 
-1. **Quellen analysieren** – Welche Informationen liegen vor?
-2. **Objektdaten analysieren** – Datenentitäten und Beziehungen verstehen  
-3. **Bedeutungen erfassen** – Konzepte und Eigenschaften identifizieren
-4. **Kernentitäten und Kontexte identifizieren** – Welche Dinge (Objekt/Person/Ort/Zeit/Organisation) sind relevant?
-5. **Abgleich mit Ontologie (z. B. CIDOC CRM)** – Begriffe semantisch präzisieren und konsistent zuordnen
-6. **Semantik modellieren** – Bedeutungen auf die Ontologie (CIDOC CRM) abbilden
+1. **Quellen/Objekt analysieren** – Welche Informationen liegen vor?
+2. **Objektdaten analysieren** – Entitäten und Beziehungen im Datenbestand erkennen 
+3. **Bedeutungen erfassen** – Konzepte und relevante Eigenschaften identifizieren
+4. **Kernentitäten und Kontexte bestimmen** – Welche Dinge (Objekt/Person/Ort/Zeit/Organisation) sind relevant?
+5. **Abgleich mit Ontologie (z.B. CIDOC CRM)** – Begriffe semantisch präzisieren und konsistent zuordnen
+6. **Semantik modellieren** – Bedeutungen auf das Referenzmodell CIDOC CRM abbilden
 7. **Ereignisse und Beziehungen formulieren (Graphlogik)** – Was passiert, wer ist beteiligt, wie hängt es zusammen?
-8. **Datenpfade erstellen** – WissKI-Pfade modellieren & Pathbuilder konfigurieren  
+8. **Datenpfade ersetellen** – WissKI-Pfade modellieren & Pathbuilder konfigurieren  
 9. **Evaluieren & diskutieren** – Workflows reflektieren und Erfahrungen austauschen
-10. **Vorbereitung der Umsetzung** – Grundlage für Diagramm und spätere Pfadstruktur (Modul 2)
-   
+10. **Umsetzung vorbereiten** – Grundlage für Diagramm und spätere Pfadstruktur (Modul 2) schaffen
+
 ---
 
 ## Beispielobjekt
 
-Popkulturelle Objekte wie Games eignen sich didaktisch besonders gut, weil sie meist klare Basisinformationen (z. B. Titel, Veröffentlichung, Plattform) besitzen und gleichzeitig reichhaltige Kontexte ermöglichen (z. B. Beteiligte, Versionen, Serienzugehörigkeit). Dadurch lässt sich gut zeigen, wie aus scheinbar „einfachen“ Daten eine präzise Graphstruktur entsteht.
+Popkulturelle Objekte wie Computerspiele eignen sich didaktisch besonders gut, weil sie meist über klar dokumentierte Basisdaten verfügen (z.B. Titel, Erscheinungsjahr, Publisher, Plattform/Edition) und zugleich vielfältige, gut modellierbare Kontexte eröffnen (z.B. Beteiligte, Versionen, Serienzugehörigkeit, regionale Releases). 
+
+So lässt sich anschaulich zeigen, wie aus scheinbar „einfachen“ Informationen durch präzise Entitäten, Ereignisse und Beziehungen eine belastbare Graphstruktur entsteht.
 
 **Super Nintendo Entertainment System (SNES) Spiel: *The Legend of Zelda***
 
@@ -146,15 +148,18 @@ Popkulturelle Objekte wie Games eignen sich didaktisch besonders gut, weil sie m
 | **Draw.io Modell** | ![draw.io Diagramm](../assets/path.PNG) |
 | **WissKI Pathbuilder** | ![WissKI Pathbuilder](../assets/pathbuilder.PNG) |
 
-Zelda ist super, aber setze 1–2 Sätze, warum ein popkulturelles Objekt didaktisch gut ist (klare Production, Publisher, Plattform etc.).
 
-
+## Bibliographie
 ____________________________
 
 [1] World Wide Web Consortium. (2012, December 11). OWL 2 Web Ontology Language Primer (Second Edition). W3C Recommendation. https://www.w3.org/TR/owl2-primer 
+
 [2] Noy, N. F., & McGuinness, D. L. (2001). Ontology Development 101: A Guide to Creating Your First Ontology. Stanford Knowledge Systems Laboratory.
+
 [3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
+
 [4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

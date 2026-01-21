@@ -54,17 +54,17 @@ Lernziel:
 
 ## Von der Datenanalyse zur semantischen Modellierung (nochmal überarbeiten)
 
-* In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten**, die historische, kulturelle und relationale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen) gearbeitet.
+* In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und relationale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
 * Tabellen können Daten beschreiben und erfassen in erster Linie Eigenschaften (Attribute) – aber mit Tabellen lässt sich kein Wissen modellieren. Beziehungen, Bedeutungen und Kontexte bleiben dabei unsichtbar.
 * Genau hier wird **semantische Datenmodellierung** relevant: Sie ermöglicht es, Wissen **strukturiert und interoperabel** darzustellen.
 * Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **Fachwissen und methodisches Denken** erfordert.
-* **WissKI** unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe** über den **Pathbuilder** miteinander verbindet.
+* **WissKI** unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe** miteinander verbindet.
 
 ---
 
 ## Begriff „Ontologie“ (Kurzdefinition)
 
-Eine Ontologie ist eine formal beschriebene Wissensstruktur, die festlegt,
+*überarbeiten: Eine Ontologie ist eine formale Beschreibung der Dinge der Welt* Eine Ontologie ist eine formal beschriebene Wissensstruktur, die festlegt
 
 * welche Arten von Dingen es in einer Domäne gibt (z. B. Objekt, Person, Ereignis, Ort, Zeit),
 * wie diese Dinge miteinander verbunden sind,
@@ -84,7 +84,7 @@ Ontologien bestehen typischerweise aus:
 
 * **Klassen** (z. B. Spiel, Person, Organisation, Ereignis)
 * **Relationen / Properties** (z. B. „hat Titel“, „wurde veröffentlicht von“)
-* **Instanzen** (konkrete Dinge, z. B. *A Link to the Past*)
+* **Instanzen** (konkrete Dinge, z. B. *A Link to the Past*) *überarbeiten ZELDA ergänzen*
 * **Constraints / Modellannahmen** (z. B. welche Beziehungen zulässig sind)
 * **Definitionen / Scope Notes** zur semantischen Präzisierung (z. B. in Referenzmodellen wie CIDOC CRM)
 
@@ -127,7 +127,7 @@ was ist besser (???)
 
 Der Workflow dieses Tutorials führt von der Forschungsfrage zur Graphenstruktur:
 
-1. **Objektdaten & Quellen analysieren** – Welche Informationen liegen vor?
+1. **Quellen analysieren** – Welche Informationen liegen vor?
 2. **Kernentitäten und Kontexte identifizieren** – Welche Dinge (Objekt/Person/Ort/Zeit/Organisation) sind relevant?
 3. **Ereignisse und Beziehungen formulieren (Graphlogik)** – Was passiert, wer ist beteiligt, wie hängt es zusammen?
 4. **Abgleich mit Ontologie (z. B. CIDOC CRM)** – Begriffe semantisch präzisieren und konsistent zuordnen
@@ -157,4 +157,5 @@ ____________________________
 [2] Noy, N. F., & McGuinness, D. L. (2001). Ontology Development 101: A Guide to Creating Your First Ontology. Stanford Knowledge Systems Laboratory.
 [3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 [4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 

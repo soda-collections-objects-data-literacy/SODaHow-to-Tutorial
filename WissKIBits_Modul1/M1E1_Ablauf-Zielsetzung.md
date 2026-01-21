@@ -73,7 +73,7 @@ Lernziel
 
 ## Zielsetzung des Moduls
 
-In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektive entsteht eine Modellperspektive.
+In Modul 1 wird die konzeptionelle Basis für ein Domänenmodell geschaffen. Aus der Sammlungsperspektive entsteht eine Modellperspektive.
 
 * Objektdaten & deren Kontext werden analysiert.
 * Kernentitäten von Objektdaten werden identifiziert und um Ereignisse und Beziehungen kontextualisiert.
@@ -166,76 +166,4 @@ Die Aussagen werden sichtbar an einem Board in 3 Spalten geschrieben:
 
 ## Zusammenfasung
 
-Sammlungsspezifische Anforderungen und Kontexte bilden die Grundlage, um in Modul 1 aus Sammlungsinformationen ein konsistentes, erklärbares Domänenmodell und Diagramm zu entwickeln.
-
---- 
-
-## Alternative Aktivierungsmethoden
-
-### Erwartungsabfrage
-
-Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und bisherigen Erfahrungen mit WissKI und semantischer Datenmodellierung.
-
-<img src="../img/Erwartungsabfrage.png" alt="Mentimeter Umfrage" style="width:400px; height:auto;">
-
-### Fragen 
-
-* Was erwarten Sie von diesem Tutorial?
-* Welche Datenkompetenzen bringen Sie mit?
-* Welche Erfahrungen mit WissKI bringen Sie mit?
-* Welche Erfahrungen haben Sie im Bereich semantische Datenmodellierung?
-* Mit welchen Herausforderungen waren Sie bisher bei der Erstellung von Domänenontologien konfrontiert?
-
----
-
-### Speed-Dating (Alternativ)
-
-**Ziel:** 
-
-* Aktivierung
-* Austausch
-* Vernetzung.
-
-**Ablauf:**
-
-1. Bitte stehen Sie alle auf.
-2. Finden Sie eine Person, die Sie noch nicht kennen.
-3. Interviewen Sie sich gegenseitig — je 30 Sekunden pro InterviewerIn.
-4. Wechseln Sie nach jeder Runde die Partner:innen.
-
-**Fragen:**
-
-1. Wie heißen Sie und woher kommen Sie?
-2. Welche Sprachen sprechen Sie?
-3. Nennen Sie einen Fun Fact über sich.
-
-**Beispiele für Fun Facts:**
-
-- Sie haben versucht, Ihre Küche in OWL zu modellieren.
-- Ihr Haustier heißt *SPARQL*.
-
-- Sie sammeln japanischen Whisky oder Pokémon-Karten.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Entitäten, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.

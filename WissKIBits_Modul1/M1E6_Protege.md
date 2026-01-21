@@ -45,7 +45,7 @@ Einheit 6: **Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategi
 
 Lernziel
 
-* Software zur Erstellung von Ontologien benennen und anwenden. (SODa_03_007_0809 und SODa_03_007_0810)
+* Software zur Erstellung von Ontologien benennen und anwenden. (LZ ID SODa\_03\_007\_0809 und SODa\_03\_007\_0810)
   
 ---
 
@@ -93,6 +93,7 @@ Mit einer klaren Vorgehensweise ist es möcglich, auch ohne tiefgreifende Vorken
     <td><img src="../assets/save_domain.JPG" alt="Protege" width="100%"></td>
   </tr>
 </table>
+
 
 
 

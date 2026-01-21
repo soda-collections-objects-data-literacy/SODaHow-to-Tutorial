@@ -59,7 +59,7 @@ Lernziel
 >
 > Objektdaten und Kontextinformationen werden analysiert, Kernentitäten, Ereignisse und Beziehungen identifiziert und diese Schritt für Schritt in eine ontologiebasierte Struktur (z. B. mit CIDOC CRM) übersetzt.
 >
-> Ziel ist es, die fachliche Domänenlogik so zu erfassen, dass sie später konsistent modelliert, implementiert und abfragbar ist.
+> *überarbeiten fachliche Domänenlogik nach Kathrin nicht verständlich* Ziel ist es, die fachliche Domänenlogik so zu erfassen, dass sie später konsistent modelliert, implementiert und abfragbar ist.
 >
 > Das Modul ist als **How-to-Tutorial** für die **Wissenschaftliche Kommunikationsiunfrastruktur WissKI** konzipiert und folgt dem Prinzip Learning by Doing:
 >
@@ -76,7 +76,7 @@ In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektiv
 * Objektdaten & deren Kontext werden analysiert.
 * Kernentitäten von Objektdaten werden identifiziert und um Ereignisse und Beziehungen kontextualisiert.
 * Daraus entsteht schrittweise in eine ontologiebasierte Domänenstruktur mit CIDOC CRM.
-* Diese Domänenlogik wird visualisiert und dient als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI.
+* *überarbeiten: Domänenontologie?* Diese Domänenlogik wird visualisiert und dient als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI.
 
 ---
 
@@ -90,9 +90,9 @@ In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektiv
 | 2 | Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur | 5 Min. |
 | 3 | WissKI Kurzeinführung | 10 Min. |
 | 4 | Strukturierte Daten mit CIDOC CRM | 15 Min. |
-| 5 | Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese | 20 Min. |
+| 5 | *überarbeiten: Domänenanalyse zu komplex?* Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese | 20 Min. |
 | 6 | Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien | 10 Min. |
-| 7 | Reflexion: Welche Analysen sind möglich, welche nicht? | 5 Min. |
+| 7 | *überarbeiten: Datenanalysen* Reflexion: Welche Analysen sind möglich, welche nicht? | 5 Min. |
   
 ---
 
@@ -105,14 +105,14 @@ Lernende können...
 * Aspekte von Ontologien benennen. (LZ-ID 03_007_0776)
 * Methoden zur Entwicklung von Ontologien benennen. (LZ-ID 03_007_0784)
 * einen Workflow für die semantische Modellierung als Datendokumentation benennen und anwenden. (LZ-ID SODa_03_001_0626 und SODa_03_001_0627) 
-* die fünf Stufen des 5-Sterne-Modells für offene Daten benennen. (LZ-ID 01_008_0158)
+* *überarbeiten: prüfen, ob noch drin* die fünf Stufen des 5-Sterne-Modells für offene Daten benennen. (LZ-ID 01_008_0158)
 * FAIR Prinzipien benennen. (LZ-ID 01_007_0117)
 * geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01_007_0121)
 * die spezifischen Funktionen und Anwendungsbereiche der Wissenschaftlichen Kommunikatiojnsinfrastruktur WissKI benennen und erläutern. (LZ-ID SODa_01_010_0191a und SODa_01_010_0192a)
-* WissKI Pathbuilder als Werkzeug zur Definition einer domänenspezifische Ontologiestruktur bennenen und erläutern. (LZ-ID SODa_03_007_0803 und LZ-ID SODa_03_007_0804)
+* WissKI Pathbuilder als Werkzeug zur Definition einer domänenspezifischen Ontologiestruktur bennenen und erläutern. (LZ-ID SODa_03_007_0803 und LZ-ID SODa_03_007_0804)
 * die Methode der ereigniszentrierten Modellierung mit dem Referenzmodell CIDOC CRM erläutern. (LZ-ID SODa_03_007_0785a)
-* Leistungsfähigkeit und Effizienz von IT-Infrastrukturen für das sammlungsbezogene Forschungsdatenmanagement (FDM) ) mit der Wissenschaftlichen Kommunikationsinfrastuktur WissKI benennen. (LZ-ID SODa_01_010_0202)
-* Ontologie zur Beschreibung von Ressourcen bennen, erläutern, anwenden. (LZ-ID 03_007_0778, 03_007_0779, 03_007_0780)
+* Leistungsfähigkeit und Effizienz von IT-Infrastrukturen für das sammlungsbezogene Forschungsdatenmanagement (FDM) mit der Wissenschaftlichen Kommunikationsinfrastuktur WissKI benennen. (LZ-ID SODa_01_010_0202)
+* Ontologien zur Beschreibung von Ressourcen bennen, erläutern, anwenden. (LZ-ID 03_007_0778, 03_007_0779, 03_007_0780)
 * Methoden zur Modellierung einer Domänenontologie mit dem Referenzmodell CIDOC CRM benennen. (LZ-ID SODa_03_007_0784a)
 * Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
 * Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa_03_007_0805)
@@ -127,6 +127,7 @@ Lernende können...
 
 Folgende Grundkenntnisse werden vorausgesetzt:
 
+*keine*
 
 ---
 
@@ -134,7 +135,7 @@ Folgende Grundkenntnisse werden vorausgesetzt:
 
 **Impulsfrage**
 
-Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwingend korrekt modelliert sein, damit Forschung möglich wird?
+Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwingend dokumentiert sein, damit Forschung möglich wird?
 
 **Blitzrunde im Plenum**
 
@@ -149,6 +150,7 @@ _Hilfestellung – nicht vorgeben_
 * „… Provenienzereignisse nachvollziehbar sind.“
 * „… Ort und Zeit belastbar sind.“
 * „… Unsicherheiten (Hypothesen) abbildbar sind.“
+* *überarbeiten: Identifier Signatur/Inventarnummer*
 
 **Live-Clustering**
 
@@ -211,6 +213,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

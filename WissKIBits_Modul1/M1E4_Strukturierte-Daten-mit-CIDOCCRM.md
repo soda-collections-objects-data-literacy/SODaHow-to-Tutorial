@@ -85,7 +85,7 @@ Sie wurde speziell für die **Dokumentation kulturellen Erbes** entwickelt und k
 
 CIDOC CRM bietet einen **gemeinsamen konzeptuellen Rahmen**, um kulturelle Informationen **verständlich und interoperabel** zu beschreiben.
 
-WissKI verwendet die **CIDOC CRM OWL-Ontologie** als Grundlage, kann jedoch **zusätzliche Ontologien einbinden**.
+*überarbeiten: CIDOC CRM Papierstndard, OWL technische Implementierng* WissKI verwendet die **CIDOC CRM OWL-Ontologie** als Grundlage, kann jedoch **zusätzliche Ontologien einbinden**.
 
 ---
 
@@ -136,6 +136,7 @@ Es gibt verschiedene Ansätze, Domänenontologien zu erweitern:
 In diesem Tutorial wird eine **leichtgewichtige Erweiterungsstrategie** empfohlen:
 
 → **Domänenspezifische Unterklassen, wenn erforderlich**  
+*überarbeiten: Domänenbegriff erklären*
 → **Eigenschaften werden weitestgehend aus CIDOC CRM übernommen**
 
 Das garantiert **Interoperabilität und CIDOC-Kompatibilität** und reduziert die Komplexität.
@@ -202,6 +203,7 @@ WissKI nutzt CIDOC CRM, weil es …
 * **FAIR & Linked Open Data** unterstützt
 * **robustes Fundament** für Wissensgraphen bietet 
 * sich vollständig in den **WissKI Pathbuilder** integrieren lässt.
+
 
 
 

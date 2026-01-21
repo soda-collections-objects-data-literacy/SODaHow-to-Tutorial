@@ -187,13 +187,14 @@ CIDOC CRM …
 
 Typische Datentyp-Eigenschaften (nur wenn nötig):
 
-* verwendet Datentyp-Eigenschaften nur sparsam (z. B. P3 has note, P90 has value)
+* verwendet Datentyp-Eigenschaften nur sparsam (z. B. P190 has symbolic content, P90 has value)
 * legt den Schwerpunkt auf Beziehungen zwischen Entitäten
 * nutzt Datentyp-Attribute ausschließlich für literale Werte.
 
 Zentrale Informationen (Titel, Rollen, Identifikatoren, etc.) werden als eigene Entitäten modelliert und mit kontrollierten Vokabularen verknüpft.
 
 Hinweis: Der Umgang mit Datentyp-Eigenschaften wird in den fortgeschrittenen Einheiten zu Vokabularen und Interoperabilität behandelt.
+
 
 
 

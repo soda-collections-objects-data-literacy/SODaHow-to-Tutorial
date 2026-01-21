@@ -78,32 +78,37 @@ WissKI ist **nicht nur** eine Sammlungsdatenbank –  es ist ein **semantisches 
 
 ---
 
-## WissKI und Drupal 10
+## WissKI und Drupal 
 
-WissKI ist **keine eigenständige Software**.  
-
-Es ist eine **semantische Erweiterung** des Content-Management-Systems **Drupal**.
-
+WissKI ist **keine eigenständige Software** sondern ein Set an Modulen, die das Content-Management-System **Drupal** semantisch erweitert.
 
 ![Drupal](../assets/drupal.JPG)
 
-| Drupal stellt bereit …       | WissKI ergänzt …                        |
-|-----------------------------|------------------------------------------|
-| Benutzer- & Rollenverwaltung | Semantische Modellierung mit Ontologien  |
-| Modulares Framework         | Pathbuilder für semantische Pfade        |
-| REST- & JSON-Schnittstellen | RDF Triple-Store                  |
-| Zugriffskontrolle           | SPARQL-Endpunkt                          |
-| Mehrsprachige Oberfläche    | Veröffentlichung als Linked Open Data (LoD)    |
+---
 
-*überarbeiten: nicht in Tabellenform nebeneinander, sondern untereinander anordnen*
-*Pathbuilder als Werkzeug ergänzen*
+### Drupal stellt bereit …
+
+- Benutzer- und Rollenverwaltung  
+- Modulare Systemarchitektur (Framework)  
+- Schnittstellen für Datenaustausch (REST/JSON)  
+- Zugriffskontrolle und Rechtemanagement  
+- Mehrsprachige Benutzeroberfläche  
+
+---
+
+### WissKI ergänzt …
+
+- Ontologiebasierte Modellierung und semantische Datenstrukturierung  
+- Pathbuilder, ein Werkzeug zur Definition semantischer Pfade  
+- RDF-Triple-Store zur Speicherung der Daten  
+- SPARQL-Endpunkt für Abfragen und Zugriff  
+- Publikation als Linked Open Data (LOD)  
+
 ---
 
 ## Der WissKI Pathbuilder
 
 Der **Pathbuilder** ist das **Herzstück von WissKI**.
-
-WissKI arbeitet **nicht mit Tabellen**, sondern mit **ontologiebasierten Strukturen**.
 
 Der Pathbuilder definiert:
 
@@ -111,7 +116,9 @@ Der Pathbuilder definiert:
 * **Pfade** → Beziehungen diese Entitäten, z. B. Objekt → wurde geschaffen von → Person  
 * **Widgets** → automatisch generierte Eingabeformulare, deren Struktur aus der Semantik abgeleitet wird
 
-So bleibt WissKI flexibel, ermöglicht semantische Konsistenz und ist in der Datenpflege bestmöglich Nutzendenunterstützend.
+So ist es möglich in WissKI **nicht mit Tabellen**, sondern mit **ontologiebasierten Strukturen** zu arbeiten. 
+
+Gleichzeitig bleibt WissKI flexibel, ermöglicht semantische Konsistenz und ist in der Datenpflege bestmöglich Nutzendenunterstützend.
 
 ![Pathbuilder](../assets/pathbuilder.jpg)
 
@@ -162,6 +169,7 @@ Diese semantischen Bedeutungsaussagen lassen **einen Wissensgraphen** entstehen,
 * **Semantische Pfade** bilden die Datenstruktur 
 * **Formulare** erzwingen konsistente Dateneingabe  
 * **RDF-Wissensgraph** ermöglicht Austausch & LOD-Publikation
+
 
 
 

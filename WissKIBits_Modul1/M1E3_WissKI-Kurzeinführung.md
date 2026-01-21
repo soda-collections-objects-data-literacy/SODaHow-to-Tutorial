@@ -124,7 +124,7 @@ Gleichzeitig bleibt WissKI flexibel, ermöglicht semantische Konsistenz und ist 
 
 ---
 
-## Semantisches Modellieren auf *WissKI-Art* = das Prinzip der ereigniszentrierten Modellierung (CIDOC CRM) erklären
+## Semantisches Modellieren auf *WissKI-Art*
 
 In WissKI werden  **nicht nur Daten** gespeichert und erfasst, sondern **Bedeutung** modelliert.
 
@@ -132,7 +132,7 @@ Leitfrage:
 
 > **Welche reale Beziehung besteht zwischen den Dingen?**
 
-Beispiel aus dem Video:
+Beispiel aus dem Video: (Video: `../assets/semanticModelling.mp4`)
 
 * **Albrecht Dürer** → Person  
 * wurde geboren in → **Nürnberg** (Ort)  
@@ -143,13 +143,14 @@ Beispiel aus dem Video:
 * während → **seiner künstlerischen Schaffensperiode**  
 * in → **Nürnberg**
 
-Diese semantischen Bedeutungsaussagen lassen **einen Wissensgraphen** entstehen, ein Netzwerk verbundenen Informationen.
-
-(Video: `../assets/semanticModelling.mp4`)
+Diese semantischen Bedeutungsaussagen formen einen Wissensgraphen – also ein Netzwerk miteinander verknüpfter Informationen. 
+Grundlage dafür ist das **ereigniszentrierte Modellierungsprinzip des CIDOC CRM*: Objekte werden nicht isoliert beschrieben, sondern über Ereignisse (z. B. Herstellung, Nutzung, Erwerb) und die daran beteiligten Akteur:innen, Orte und Zeiten in einen nachvollziehbaren Zusammenhang gesetzt.
 
 ---
 
-## Vorteile von WissKI (Relevanz)
+## Relevanz von WissKI
+
+WissKI...
 
 * ermöglicht **wissensbasierte Modellierung** statt starrer Tabellenschemata
 * stellt **Interoperabilität** durch etablierte Ontologien wie **CIDOC CRM** sicher
@@ -161,14 +162,16 @@ Diese semantischen Bedeutungsaussagen lassen **einen Wissensgraphen** entstehen,
 
 ---
 
-## Die Semantik zentral in WissKI (Nutzen)
+## Die Semantik ist zentral für WissKI
 
-*Übersetzung prüfen*
+* **CIDOC CRM** definiert Konzepte und Beziehungen  
+* **Semantische Pfade** übersetzen das Modell in eine nutzbare Datenstruktur  
+* **Formulare** sichern konsistente Dateneingabe und reduzieren Interpretationsspielräume  
+* **RDF-Wissensgraph** ermöglicht Austausch, Nachnutzung und LOD-Publikation  
 
-* **CIDOC CRM** definiert Konzepte & Beziehungen  
-* **Semantische Pfade** bilden die Datenstruktur 
-* **Formulare** erzwingen konsistente Dateneingabe  
-* **RDF-Wissensgraph** ermöglicht Austausch & LOD-Publikation
+Dadurch werden Sammlungsdaten nicht nur dokumentiert, sondern semantisch so strukturiert, dass sie langfristig verständlich, interoperabel und maschinenlesbar auswertbar sind.
+
+
 
 
 

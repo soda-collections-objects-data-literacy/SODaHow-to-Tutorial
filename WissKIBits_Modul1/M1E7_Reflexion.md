@@ -53,7 +53,7 @@ Einheit 7: **Reflexion: Welche Analysen sind möglich, welche nicht?**
 
 ---
 
-##  Gemeinsame Gesprächsrunde und Reflektion
+##  Gemeinsame Gesprächsrunde und Reflexion
 
 Diskussionsfragen zum bisherigen **Modellierungsprozess**. 
 Ein Leitgedanke ist, **semantisches Modellieren ist ein dialogischer Prozess. Es werden Bedeutungsstrukturen im Austausch — nicht im Alleingang - entwicket.
@@ -66,6 +66,7 @@ Ein Leitgedanke ist, **semantisches Modellieren ist ein dialogischer Prozess. Es
 * **Was war herausfordernd?** Wo gab es Stolperstellen oder Unsicherheiten?
 * **Wo bestehen noch Fragen?** Gibt es Begriffe, Beziehungen oder Modellierungsentscheidungen, die wir gemeinsam klären sollten?
 * **Wie sicher fühlen Sie sich für den nächsten Schritt in WissKI?** 
+
 
 
 

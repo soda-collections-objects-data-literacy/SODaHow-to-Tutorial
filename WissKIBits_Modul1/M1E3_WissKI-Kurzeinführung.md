@@ -45,13 +45,13 @@ Einheit 3: **WissKI Kurzeinführung**
 
 Lernziele 
 
-* die fünf Stufen des 5-Sterne-Modells für offene Daten benennen. (LZ-ID 01_008_0158)
-* FAIR Prinzipien benennen. (LZ-ID 01_007_0117)
-* geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01_007_0121)
-* die spezifischen Funktionen und Anwendungsbereiche der Wissenschaftlichen Kommunikatiojnsinfrastruktur WissKI benennen und erläutern. (LZ-ID SODa_01_010_0191a und SODa_01_010_0192a)
-* WissKI Pathbuilder als Werkzeug zur Definition einer domänenspezifische Ontologiestruktur bennenen und erläutern. (LZ-ID SODa_03_007_0803 und LZ-ID SODa_03_007_0804)
-* die Methode der ereigniszentrierten Modellierung mit dem Referenzmodell CIDOC CRM erläutern. (LZ-ID SODa_03_007_0785a)
-* Leistungsfähigkeit und Effizienz von IT-Infrastrukturen für das sammlungsbezogene Forschungsdatenmanagement (FDM) ) mit der Wissenschaftlichen Kommunikationsinfrastuktur WissKI benennen. (LZ-ID SODa_01_010_0202)
+* die fünf Stufen des 5-Sterne-Modells für offene Daten benennen. (LZ-ID 01\_008\_0158)
+* FAIR Prinzipien benennen. (LZ-ID 01\_007\_0117)
+* geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01\_007\_0121)
+* die spezifischen Funktionen und Anwendungsbereiche der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen und erläutern. (LZ-ID SODa\_01\_010\_0191a und SODa\_01\_010\_0192a)
+* WissKI Pathbuilder als Werkzeug zur Definition einer domänenspezifische Ontologiestruktur bennenen und erläutern. (LZ-ID SODa\_03\_007\_0803 und LZ-ID SODa\_03\_007\_0804)
+* die Methode der ereigniszentrierten Modellierung mit dem Referenzmodell CIDOC CRM erläutern. (LZ-ID SODa\_03\_007\_0785a)
+* Leistungsfähigkeit und Effizienz von IT-Infrastrukturen für das sammlungsbezogene Forschungsdatenmanagement (FDM) mit der Wissenschaftlichen Kommunikationsinfrastuktur WissKI benennen. (LZ-ID SODa\_01\_010\_0202)
 
 
 ---
@@ -162,6 +162,7 @@ Diese semantischen Bedeutungsaussagen lassen **einen Wissensgraphen** entstehen,
 * **Semantische Pfade** bilden die Datenstruktur 
 * **Formulare** erzwingen konsistente Dateneingabe  
 * **RDF-Wissensgraph** ermöglicht Austausch & LOD-Publikation
+
 
 
 

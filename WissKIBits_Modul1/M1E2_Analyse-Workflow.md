@@ -46,64 +46,73 @@ Einheit 2: **Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur**
 Lernziel: 
 
 * Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
+* Begriff Entitäten benennen und erläutern.
+* Nutzen von Ontologien benennen.
 * Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
 * Methoden zur Entwicklung von Ontologien benennen. (LZ-ID 03\_007\_0784)
 * einen Workflow für die semantische Modellierung als Datendokumentation benennen und anwenden. (LZ-ID SODa\_03\_001\_0626 und SODa\_03\_001\_0627) 
 
 ---
 
-## Von der Datenanalyse zur semantischen Modellierung (nochmal überarbeiten)
+## Von der Datenanalyse zur semantischen Modellierung 
 
-* In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und relationale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
-* Tabellen können Daten beschreiben und erfassen in erster Linie Eigenschaften (Attribute) – aber mit Tabellen lässt sich kein Wissen modellieren. Beziehungen, Bedeutungen und Kontexte bleiben dabei unsichtbar.
+* In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und soziale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
+* Tabellen können zwar Daten beschreiben und erfassen aber in erster Linie nur Eigenschaften (Attribute) – mit Tabellen lässt sich kein Wissen modellieren. Beziehungen, Bedeutungen und Kontexte bleiben dabei unsichtbar.
 * Genau hier wird **semantische Datenmodellierung** relevant: Sie ermöglicht es, Wissen **strukturiert und interoperabel** darzustellen.
 * Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **Fachwissen und methodisches Denken** erfordert.
-* **WissKI** unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe** miteinander verbindet.
-
+* **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur) unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe** miteinander verbindet.
+  
 ---
 
 ## Begriff „Ontologie“ (Kurzdefinition)
 
-*überarbeiten: Eine Ontologie ist eine formale Beschreibung der Dinge der Welt* Eine Ontologie ist eine formal beschriebene Wissensstruktur, die festlegt
+Eine **Ontologie ist eine **formale Beschreibung eines Ausschnitts der Welt** bzw. eine **formal definierte Wissensstruktur**, die festlegt,
 
-* welche Arten von Dingen es in einer Domäne gibt (z. B. Objekt, Person, Ereignis, Ort, Zeit),
-* wie diese Dinge miteinander verbunden sind,
-* und welche Aussagen darüber sinnvoll und konsistent modelliert werden können.
+* welche Arten von Dingen, sog. **Entitäten** (z. B. Objekt, Person, Ereignis, Ort, Zeit), es in einer Domäne, also spezifischen Fachgebiet gibt,
+* wie diese Entitäten miteinander in Beziehung stehen,
+* und welche Aussagen über sie sinnvoll sowie widerspruchsfrei modelliert werden können.
 
-Ontologien helfen damit, fachliches Wissen so zu dokumentieren, dass es maschinenlesbar, vergleichbar und nachnutzbar wird. Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie praktisch als Struktur verstehen, die u. a. Klassen, Eigenschaften (Properties) und Individuen bereitstellt und damit Aussagen über Ressourcen formal abbilden kann. [1]
+## Nutzen von Ontologien und weiterführende Definitionen
+
+Ontologien helfen damit, fachliches Domänenwissen mit ihrer spezifischen Domänenlogik so zu dokumentieren, dass es maschinenlesbar, vergleichbar und nachnutzbar wird. Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie praktisch als Struktur verstehen, die u. a. Klassen (Typen/Kategorien von Entitäten), Eigenschaften (Properties) und Individuen bereitstellt und damit Aussagen über Ressourcen formal abbilden kann. [1]
 
 Ontologien unterstützen damit die systematische und konsistente Repräsentation von Domänenwissen, sodass Informationen maschinenlesbar und für die Nachnutzung in unterschiedlichen Systemen anschlussfähig werden. [2]
 
-Die bekannteste Definition beschreibt eine Ontologie als "eine explizite, formale Spezifikation einer Konzeptualisierung", d. h. sie beschreibt strukturierend, welche Konzepte/Entitäten in einem bestimmten Gegenstandsbereich relevant sind und welche Beziehungen zwischen ihnen bestehen. [3]
+Die bekannteste Definition beschreibt eine Ontologie als "eine explizite, formale Spezifikation einer Konzeptualisierung", d. h. sie beschreibt strukturierend, welche Konzepte in einem bestimmten spezifischen Fachgebiet oder Gegenstandsbereich relevant sind und welche Beziehungen zwischen ihnen bestehen. [3]
 
 ---
 
-## Aspekte von Ontologien (Bausteine)
+## Aspekte von Ontologien
 
-Ontologien bestehen typischerweise aus:
+Ontologien bestehen typischerweise aus folgenden Bausteinen:
 
-* **Klassen** (z. B. Spiel, Person, Organisation, Ereignis)
-* **Relationen / Properties** (z. B. „hat Titel“, „wurde veröffentlicht von“)
-* **Instanzen** (konkrete Dinge, z. B. *A Link to the Past*) *überarbeiten ZELDA ergänzen*
-* **Constraints / Modellannahmen** (z. B. welche Beziehungen zulässig sind)
-* **Definitionen / Scope Notes** zur semantischen Präzisierung (z. B. in Referenzmodellen wie CIDOC CRM)
+* **Klassen** (z.B. Spiel, Person, Organisation, Ereignis)
+* **Relationen** Eigenschaften/Properties (z.B. *hat Titel*, *wurde veröffentlicht von*)
+* **Instanzen** (konkrete Dinge, z.B. *The Legend of Zelda: A Link to the Past*) 
+* **Constraints / Modellannahmen** (z.B. welche Beziehungen beschreiben zulässig das Objekt)
+* **Definitionen / Scope Notes** zur semantischen Präzisierung (z.B. in Referenzmodellen wie CIDOC CRM)
 
 ---
 
 ## Methoden zur Entwicklung von Ontologien
 
-Die Entwicklung einer Ontologie folgt typischerweise einem methodischen, mehrstufigen und iterativen Vorgehen. Dazu zählen u. a. die Erhebung zentraler Begriffe und Definitionen („ontology capture“), die Strukturierung dieser Konzepte in Klassen und Relationen sowie die kontinuierliche Prüfung und Überarbeitung des Modells im Hinblick auf Konsistenz und Nutzbarkeit. [4]
+Die Entwicklung einer Ontologie folgt typischerweise einem methodischen, mehrstufigen und iterativen Vorgehen. 
 
-Praktische Ontologieentwicklung wird dabei häufig als ein Prozess verstanden, der sowohl Domänenwissen als auch Anwendungsanforderungen integriert und schrittweise in eine formal nutzbare Wissensstruktur überführt.
+Dazu zählen u.a. die Erhebung zentraler Begriffe und Definitionen (sog. „ontology capture“), die Strukturierung dieser Konzepte in Klassen und Relationen sowie die kontinuierliche Prüfung und Überarbeitung des Domänenmodells im Hinblick auf Konsistenz und Nutzbarkeit. [4]
 
-In der Praxis entstehen Ontologien häufig durch eine Kombination aus:
+Die praktische Ontologieentwicklung wird dabei häufig als ein Prozess verstanden, der sowohl Domänenwissen als auch Anwendungsanforderungen integriert und schrittweise in eine formal nutzbare Wissensstruktur überführt.
 
-* **Top-down-Modellierung:** Start mit einem Referenzmodell (z. B. CIDOC CRM) und domänenspezifische Spezialisierung
-* **Bottom-up-Modellierung:** Start aus vorhandenen Daten und schrittweise Ableitung von Klassen und Beziehungen
-* **Competency Questions:** Modellierung aus typischen Analyse- und Forschungsfragen heraus (z. B. „Welche Spiele haben Merkmal X?“)
-* **Iteratives Prototyping:** Modell entwerfen → prüfen → anpassen (Konsistenz, Erweiterbarkeit, Abfragbarkeit)
+Ontologien entstehen häufig durch eine Kombination aus:
+
+* **Top-down-Modellierung:** Ausgehend von einem Referenzmodell (z.B. CIDOC CRM) erfolgt eine domänenspezifische Spezialisierung.
+* **Bottom-up-Modellierung:** Aus vorhandenen Daten werden schrittweise Klassen und Beziehungen abgeleitet.
+* **Competency Questions:** Die Modellierung erfolgt aus typischen Analyse- und Forschungsfragen heraus (z.B. „Welche Spiele haben Merkmal X?“)
+* **Iteratives Prototyping:** Es wird ein Modell entworfen → überprüft → kontinuierlich mit Blick auf Konsistenz, Erweiterbarkeit und Abfragbarkeit angepasst.
 
 ---
+
+## Workflow-Übersicht (Methode)
+
 
 **Zielsetzung dieses Moduls ist es:**  
 
@@ -111,27 +120,16 @@ In der Praxis entstehen Ontologien häufig durch eine Kombination aus:
 * Modellierungsentscheidungen nachvollziehbar zu dokumentieren,
 * und die Grundlage für ein **konsistentes CIDOC-CRM-basiertes Diagramm** zu schaffen, das später in WissKI umgesetzt wird.
 
----
-
-## Workflow-Übersicht (Methode)
-
-Dieser Workflow von Modul 1 und Modul 2 umfasst: 
-
-1. **Objektdaten analysieren** – Datenentitäten und Beziehungen verstehen  
-2. **Bedeutungen erfassen** – Konzepte und Eigenschaften identifizieren  
-3. **Semantik modellieren** – Bedeutungen auf die Ontologie (CIDOC CRM) abbilden  
-4. **Datenpfade erstellen** – WissKI-Pfade modellieren & Pathbuilder konfigurieren  
-5. **Evaluieren & diskutieren** – Workflows reflektieren und Erfahrungen austauschen  
-
-was ist besser (???)
-
-Der Workflow dieses Tutorials führt von der Forschungsfrage zur Graphenstruktur:
-
 1. **Quellen analysieren** – Welche Informationen liegen vor?
-2. **Kernentitäten und Kontexte identifizieren** – Welche Dinge (Objekt/Person/Ort/Zeit/Organisation) sind relevant?
-3. **Ereignisse und Beziehungen formulieren (Graphlogik)** – Was passiert, wer ist beteiligt, wie hängt es zusammen?
-4. **Abgleich mit Ontologie (z. B. CIDOC CRM)** – Begriffe semantisch präzisieren und konsistent zuordnen
-5. **Vorbereitung der Umsetzung** – Grundlage für Diagramm und spätere Pfadstruktur (Modul 2)
+2. **Objektdaten analysieren** – Datenentitäten und Beziehungen verstehen  
+3. **Bedeutungen erfassen** – Konzepte und Eigenschaften identifizieren
+4. **Kernentitäten und Kontexte identifizieren** – Welche Dinge (Objekt/Person/Ort/Zeit/Organisation) sind relevant?
+5. **Abgleich mit Ontologie (z. B. CIDOC CRM)** – Begriffe semantisch präzisieren und konsistent zuordnen
+6. **Semantik modellieren** – Bedeutungen auf die Ontologie (CIDOC CRM) abbilden
+7. **Ereignisse und Beziehungen formulieren (Graphlogik)** – Was passiert, wer ist beteiligt, wie hängt es zusammen?
+8. **Datenpfade erstellen** – WissKI-Pfade modellieren & Pathbuilder konfigurieren  
+9. **Evaluieren & diskutieren** – Workflows reflektieren und Erfahrungen austauschen
+10. **Vorbereitung der Umsetzung** – Grundlage für Diagramm und spätere Pfadstruktur (Modul 2)
    
 ---
 
@@ -157,6 +155,7 @@ ____________________________
 [2] Noy, N. F., & McGuinness, D. L. (2001). Ontology Development 101: A Guide to Creating Your First Ontology. Stanford Knowledge Systems Laboratory.
 [3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 [4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

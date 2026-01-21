@@ -45,10 +45,10 @@ Einheit 4: **Strukturierte Daten mit CIDOC CRM**
 
 Lernziele:
 
-* Ontologie zur Beschreibung von Ressourcen bennen, erläutern, anwenden. (LZ-ID 03_007_0778, 03_007_0779, 03_007_0780)
-* Methoden zur Modellierung einer Domänenontologie mit dem Referenzmodell CIDOC CRM benennen. (LZ-ID SODa_03_007_0784a)
-* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
-* Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa_03_007_0805)
+* Ontologie zur Beschreibung von Ressourcen bennen, erläutern und anwenden. (LZ-ID 03\_007\_0778, 03\_007\_0779 und 03\_007\_0780)
+* Methoden zur Modellierung einer Domänenontologie mit dem Referenzmodell CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0784a)
+* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa\_03\_007\_0780a)
+* Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0805)
 
 
 
@@ -203,6 +203,7 @@ WissKI nutzt CIDOC CRM, weil es …
 * **FAIR & Linked Open Data** unterstützt
 * **robustes Fundament** für Wissensgraphen bietet 
 * sich vollständig in den **WissKI Pathbuilder** integrieren lässt.
+
 
 
 

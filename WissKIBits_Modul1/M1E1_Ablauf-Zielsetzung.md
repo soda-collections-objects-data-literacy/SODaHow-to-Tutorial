@@ -57,9 +57,10 @@ Lernziel
 >
 > Im Modul 1 **"Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären"** wird die konzeptionelle Grundlage für ein Datenmodell erarbeitet:
 >
-> Objektdaten und Kontextinformationen werden analysiert, Kernentitäten, Ereignisse und Beziehungen identifiziert und diese Schritt für Schritt in eine ontologiebasierte Struktur (z. B. mit CIDOC CRM) übersetzt.
+> Objektdaten und Kontextinformationen aus einem spezifischen Fachgebiet bzw. einer Domäne werden analysiert, Kernentitäten, Ereignisse und Beziehungen identifiziert und diese Schritt für
+> Schritt in eine ontologiebasierte Struktur (z. B. mit CIDOC CRM) übersetzt.
 >
-> *überarbeiten fachliche Domänenlogik nach Kathrin nicht verständlich* Ziel ist es, die fachliche Domänenlogik so zu erfassen, dass sie später konsistent modelliert, implementiert und abfragbar ist.
+> Ziel ist es, die fachliche Domänenlogik so zu erfassen, dass sie später konsistent modelliert, implementiert und abfragbar ist.
 >
 > Das Modul ist als **How-to-Tutorial** für die **Wissenschaftliche Kommunikationsiunfrastruktur WissKI** konzipiert und folgt dem Prinzip Learning by Doing:
 >
@@ -75,8 +76,8 @@ In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektiv
 
 * Objektdaten & deren Kontext werden analysiert.
 * Kernentitäten von Objektdaten werden identifiziert und um Ereignisse und Beziehungen kontextualisiert.
-* Daraus entsteht schrittweise in eine ontologiebasierte Domänenstruktur mit CIDOC CRM.
-* *überarbeiten: Domänenontologie?* Diese Domänenlogik wird visualisiert und dient als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI.
+* Daraus entsteht schrittweise eine ontologiebasierte Domänenstruktur bzw. -logik mit CIDOC CRM.
+* Diese Domänenlogik wird visualisiert und dient als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI.
 
 ---
 
@@ -90,9 +91,9 @@ In Modul 1 wird die konzeptionelle Basis geschaffen. Aus der Sammlungsperspektiv
 | 2 | Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur | 5 Min. |
 | 3 | WissKI Kurzeinführung | 10 Min. |
 | 4 | Strukturierte Daten mit CIDOC CRM | 15 Min. |
-| 5 | *überarbeiten: Domänenanalyse zu komplex?* Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese | 20 Min. |
+| 5 | Fachbereichs- bzw. Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese | 20 Min. |
 | 6 | Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien | 10 Min. |
-| 7 | *überarbeiten: Datenanalysen* Reflexion: Welche Analysen sind möglich, welche nicht? | 5 Min. |
+| 7 | Reflexion: Welche Datenanalysen sind möglich, welche nicht? | 5 Min. |
   
 ---
 
@@ -150,7 +151,7 @@ _Hilfestellung – nicht vorgeben_
 * „… Provenienzereignisse nachvollziehbar sind.“
 * „… Ort und Zeit belastbar sind.“
 * „… Unsicherheiten (Hypothesen) abbildbar sind.“
-* *überarbeiten: Identifier Signatur/Inventarnummer*
+* „… eine eindeutige Identifizierung durch z. B. Signatur-/Inventarnummer möglich ist.“
 
 **Live-Clustering**
 
@@ -213,6 +214,7 @@ Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und
 - Ihr Haustier heißt *SPARQL*.
 
 - Sie sammeln japanischen Whisky oder Pokémon-Karten.
+
 
 
 

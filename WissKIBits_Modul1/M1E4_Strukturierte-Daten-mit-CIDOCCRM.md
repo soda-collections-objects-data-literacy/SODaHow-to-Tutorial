@@ -90,7 +90,7 @@ CIDOC CRM umfasst:
 
 CIDOC CRM bietet einen **gemeinsamen konzeptuellen Rahmen**, um kulturelle Informationen **verständlich und interoperabel** zu beschreiben.
 
-WissKI verwendet in der technischen Implementierung die **CIDOC CRM OWL-Ontologie (Erlangen CRM)[https://erlangen-crm.org/]** als Grundlage, kann jedoch auch andere Ontologien einbinden.
+WissKI verwendet in der technischen Implementierung die **CIDOC CRM OWL-Ontologie ([Erlangen CRM](https://erlangen-crm.org))** als Grundlage, kann jedoch auch andere Ontologien einbinden.
 
 ---
 
@@ -188,6 +188,7 @@ WissKI nutzt CIDOC CRM, weil es …
 * **FAIR & Linked Open Data** unterstützt
 * **robustes Fundament** für Wissensgraphen bietet 
 * sich vollständig in den **WissKI** integrieren lässt.
+
 
 
 

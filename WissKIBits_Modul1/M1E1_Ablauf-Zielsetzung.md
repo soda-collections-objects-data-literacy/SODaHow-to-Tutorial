@@ -147,7 +147,7 @@ Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwinge
 
 **Live-Clustering**
 
-<a href="assets/M1E1_Aktivierung.docx" download>Word-Dokument herunterladen</a>
+<a href=".../assets/M1E1_Aktivierung.docx" download>Word-Dokument herunterladen</a>
 
 Die Aussagen werden sichtbar an einem Board in 3 Spalten geschrieben:
 
@@ -174,6 +174,7 @@ _Hilfestellung – nicht vorgeben_
 ## Zusammenfassung
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Entitäten, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.
+
 
 
 

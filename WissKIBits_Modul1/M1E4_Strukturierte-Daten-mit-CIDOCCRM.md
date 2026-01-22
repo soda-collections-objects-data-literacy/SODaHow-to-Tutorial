@@ -117,7 +117,7 @@ Die **Scope Note** einer CIDOC CRM-Klasse legt fest:
 * **Welche Bedeutung und Grenzen sie hat**
 * **Wann sie verwendet werden sollte**
 
-** Achtung: Nicht entscheidend sind:**
+**Achtung: Nicht entscheidend sind:**
 
 * der Name der Klasse,
 * ihre hierarchische Position,
@@ -188,6 +188,7 @@ WissKI nutzt CIDOC CRM, weil es …
 * **FAIR & Linked Open Data** unterstützt
 * **robustes Fundament** für Wissensgraphen bietet 
 * sich vollständig in den **WissKI** integrieren lässt.
+
 
 
 

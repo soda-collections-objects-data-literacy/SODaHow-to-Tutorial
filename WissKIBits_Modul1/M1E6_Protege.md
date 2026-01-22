@@ -55,14 +55,14 @@ Diese Einheit zeigt, wie auf Basis von **CIDOC CRM** eine **Domänenontologie** 
 
 **Protégé** ist ein frei verfügbarer Ontologie-Editor, der hier heruntergeladen werden kann: https://protege.stanford.edu
 
-Mit einer klaren Vorgehensweise ist es möcglich, auch ohne tiefgreifende Vorkenntnisse **eine Ontologie zu erstellen oder zu erweitern**.
+Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenntnisse **eine Ontologie zu erstellen oder zu erweitern**.
 
 ---
 
 ## Schritte im Überblick
 
 1. **Vorhandene Ontologie laden**  
-   z. B. **Erlangen CRM**:  
+   z.B. **Erlangen CRM**:  
    Eine OWL-Implementierung von CIDOC CRM  
    → Download: https://erlangen-crm.org/ontology/ecrm/ecrm_240307.owl
 
@@ -93,6 +93,7 @@ Mit einer klaren Vorgehensweise ist es möcglich, auch ohne tiefgreifende Vorken
     <td><img src="../assets/save_domain.JPG" alt="Protege" width="100%"></td>
   </tr>
 </table>
+
 
 
 

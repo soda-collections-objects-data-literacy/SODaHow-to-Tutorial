@@ -46,8 +46,8 @@ Einheit 2: **Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur**
 Lernziel: 
 
 * Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
-* Begriff Entitäten benennen und erläutern.
-* Nutzen von Ontologien benennen.
+* Begriff Entität benennen und erläutern. (LZ-ID SODa\_03\_007\_820 und SODa\_03\_007\_821)
+* Relevanz von Ontologien erläutern. (03\_007\_0777)
 * Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
 * Methoden zur Entwicklung von Ontologien benennen. (LZ-ID 03\_007\_0784)
 * einen Workflow für die semantische Modellierung als Datendokumentation benennen und anwenden. (LZ-ID SODa\_03\_001\_0626 und SODa\_03\_001\_0627) 
@@ -159,6 +159,7 @@ ____________________________
 [3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

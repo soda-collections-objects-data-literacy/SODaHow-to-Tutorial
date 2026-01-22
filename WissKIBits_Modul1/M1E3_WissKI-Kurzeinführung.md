@@ -45,7 +45,7 @@ Einheit 3: **WissKI Kurzeinführung**
 
 Lernziele 
 
-* die fünf Stufen des 5-Sterne-Modells für offene Daten benennen. (LZ-ID 01\_008\_0158)
+* das 5-Sterne-Modell für offene Daten benennen. (LZ-ID SODa\_01\_008\_0172)
 * FAIR Prinzipien benennen. (LZ-ID 01\_007\_0117)
 * geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01\_007\_0121)
 * die spezifischen Funktionen und Anwendungsbereiche der Wissenschaftlichen Kommunikationsinfrastruktur WissKI benennen und erläutern. (LZ-ID SODa\_01\_010\_0191a und SODa\_01\_010\_0192a)
@@ -72,6 +72,8 @@ WissKI wird u. a. am **Germanischen Nationalmuseum (GNM)** in Nürnberg eingeset
 
 WissKI ist **nicht nur** eine Sammlungsdatenbank –  es ist ein **semantisches Datenmanagementsystem für Linked Open Data (LOD)**  und unterstützt die FAIR-Prinzipien (
 **Findable – Accessible – Interoperable – Reusable**)
+
+Ein etabliertes Mittel zur Einordnung von Daten im Hinblick auf Linked Open Data ist das 5-Sterne-Modell, das zugleich einen guten Einstieg in das Verständnis von LOD bietet.
 
 ![GNM](../assets/gnm.jpg)
 ![GNM innen](../assets/gnm_2.JPG)
@@ -170,6 +172,7 @@ WissKI...
 * **RDF-Wissensgraph** ermöglicht Austausch, Nachnutzung und LOD-Publikation  
 
 Dadurch werden Sammlungsdaten nicht nur dokumentiert, sondern semantisch so strukturiert, dass sie langfristig verständlich, interoperabel und maschinenlesbar auswertbar sind.
+
 
 
 

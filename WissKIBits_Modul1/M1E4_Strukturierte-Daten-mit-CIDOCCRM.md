@@ -41,7 +41,7 @@ Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
 Einheit 4: **Strukturierte Daten mit CIDOC CRM**  
 
-**Dauer:** ~ 15 Min.
+**Dauer:** ~ 10 Min.
 
 Lernziele:
 
@@ -188,6 +188,7 @@ WissKI nutzt CIDOC CRM, weil es …
 * **FAIR & Linked Open Data** unterstützt
 * **robustes Fundament** für Wissensgraphen bietet 
 * sich vollständig in den **WissKI** integrieren lässt.
+
 
 
 

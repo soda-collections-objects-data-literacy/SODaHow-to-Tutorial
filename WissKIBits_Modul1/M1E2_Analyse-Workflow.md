@@ -64,7 +64,7 @@ Lernziel:
   
 ---
 
-## Begriff „Ontologie“ (Kurzdefinition)
+## Begriff „Ontologie“
 
 Eine **Ontologie** ist eine **formale Beschreibung eines Ausschnitts der Welt** bzw. eine **formal definierte Wissensstruktur**, die festlegt,
 
@@ -159,6 +159,7 @@ ____________________________
 [3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

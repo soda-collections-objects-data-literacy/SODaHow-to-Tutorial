@@ -48,11 +48,6 @@ Lernziele
 * Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benenen und erläutern. (LZ-ID SODa\_03\_007\_0806 und LZ-ID SODa\_03\_007\_0807)
 * Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (SODa\_03\_007\_0808) *überarbeiten*
 
-TODO: 
-Modellierungsstrategie & Interoperabilität (nochmal bei der erarbeitung der inhalte prüfen)
-begründen, wann eine domänenspezifische Subklasse sinnvoll ist und wann nicht (leichtgewichtige Erweiterung).
-erklären, wie ein Ontologie-basiertes Modell Interoperabilität und Nachnutzbarkeit (FAIR) unterstützt.
-
 ---
 
 ## Ziel und Szenario 
@@ -209,6 +204,7 @@ Gleichzeitig nutzt CIDOC CRM **Datentyp-Eigenschaften** (sog. literale wie Zahle
 * Literale werden genutzt, wenn sie als reine Darstellung sinnvoll sind (z.B. ein Zahlenwert), während zentrale semantische Informationen (Titel, Rollen, Identifikatoren usw.) als Entitäten modelliert und idealerweise mit kontrollierten Vokabularen verknüpft werden.
 
 **Hinweis:** Der gezielte Umgang mit Datentyp-Eigenschaften, kontrollierten Vokabularen und Interoperabilität wird in späteren Einheiten weiter vertieft.
+
 
 
 

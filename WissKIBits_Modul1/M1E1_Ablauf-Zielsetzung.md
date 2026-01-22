@@ -164,8 +164,9 @@ Die Aussagen werden sichtbar an einem Board in 3 Spalten geschrieben:
 
 ---
 
-## Zusammenfasung
+## Zusammenfassung
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Entitäten, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.
+
 
 

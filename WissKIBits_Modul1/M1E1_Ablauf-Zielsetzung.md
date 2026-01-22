@@ -104,6 +104,8 @@ Lernende können...
 
 * für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa\_01\_010\_0190a) 
 * Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
+* Begriff Entität benennen und erläutern. (LZ-ID SODa\_03\_007\_820 und SODa\_03\_007\_821)
+* Relevanz von Ontologien erläutern. (03\_007\_0777)
 * Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
 * Methoden zur Entwicklung von Ontologien benennen. (LZ-ID 03\_007\_0784)
 * einen Workflow für die semantische Modellierung als Datendokumentation benennen und anwenden. (LZ-ID SODa\_03\_001\_0626 und SODa\_03\_001\_0627) 
@@ -167,6 +169,7 @@ Die Aussagen werden sichtbar an einem Board in 3 Spalten geschrieben:
 ## Zusammenfassung
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Entitäten, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.
+
 
 
 

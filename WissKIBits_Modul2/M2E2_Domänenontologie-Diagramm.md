@@ -44,14 +44,14 @@ Einheit 2: **Visualisierung der Domänenontologie in Draw.io**
 
 Lernziel
 
-* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. (LZ-ID SODa_03_007_0811)
-* Software zur Visualisierung einer Domänenontologie benennen und erläutern.(LZ-ID SODa_03_007_0812 und LZ-ID SODa_03_007_0813)
-* Nutzen einer Software zur Visualisierung einer Domänenontologie benennen.(LZ-ID SODa_03_007_0814) 
-* Software zur Visualisierung einer Domänenontologie unter Anleitung anwenden. (LZ-ID SODa_03_007_0815)
-* Methoden zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware benennen. (LZ-ID SODa_03_007_0784b)
-* Methoden zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware anwenden. (LZ-ID SODa_007_0816)
-* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa_03_007_0780a)
-* Attributwerte an vordefinierten Klassen der Domänenontologie in einer Visualisierungssoftware anwenden. (LZ-ID SODa_03_007_0817)
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. (LZ-ID SODa\_03\_007\_0811)
+* Software zur Visualisierung einer Domänenontologie benennen und erläutern.(LZ-ID SODa\_03\_007\_0812 und LZ-ID SODa\_03\_007\_0813)
+* Nutzen einer Software zur Visualisierung einer Domänenontologie benennen.(LZ-ID SODa\_03\_007\_0814) 
+* Software zur Visualisierung einer Domänenontologie unter Anleitung anwenden. (LZ-ID SODa\_03\_007\_0815)
+* Methoden zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware benennen. (LZ-ID SODa\_03\_007\_0784b)
+* Methoden zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware anwenden. (LZ-ID SODa\_007\_0816)
+* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa\_03\_007\_0780a)
+* Attributwerte an vordefinierten Klassen der Domänenontologie in einer Visualisierungssoftware anwenden. (LZ-ID SODa\_03\_007\_0817)
 
 
 ---
@@ -153,4 +153,5 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 

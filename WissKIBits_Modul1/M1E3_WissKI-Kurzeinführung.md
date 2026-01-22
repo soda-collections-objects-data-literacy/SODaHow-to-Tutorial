@@ -71,9 +71,11 @@ WissKI wird u. a. am **Germanischen Nationalmuseum (GNM)** in Nürnberg eingeset
 * das Maßstäbe für digitale Forschungsinfrastrukturen setzt.
 
 WissKI ist **nicht nur** eine Sammlungsdatenbank –  es ist ein **semantisches Datenmanagementsystem für Linked Open Data (LOD)**  und unterstützt die FAIR-Prinzipien (
-**Findable – Accessible – Interoperable – Reusable**)
+**Findable – Accessible – Interoperable – Reusable**).
 
-Ein etabliertes Mittel zur Einordnung von Daten im Hinblick auf **Linked Open Data (LOD)** ist das [**5-Sterne-Modell** für offene Daten](https://5stardata.info/de/), das zugleich einen guten Einstieg in das Verständnis von LOD bietet.
+Ein etabliertes Mittel zur Einordnung von Daten im Hinblick auf **Linked Open Data (LOD)** ist das [**5-Sterne-Modell** für offene Daten](https://5stardata.info/de/), das zugleich einen guten Einstieg in das Verständnis von LOD bietet. [1]
+
+Die Webseite [**How to FAIR**](https://howtofair.dk/what-is-fair/) [2] erläutert die FAIR-Prinzipien und zeigt konkrete Handlungsfelder für ihre Umsetzung in Forschungsprojekten. [3] 
 
 ![GNM](../assets/gnm.jpg)
 ![GNM innen](../assets/gnm_2.JPG)
@@ -172,6 +174,18 @@ WissKI...
 * **RDF-Wissensgraph** ermöglicht Austausch, Nachnutzung und LOD-Publikation  
 
 Dadurch werden Sammlungsdaten nicht nur dokumentiert, sondern semantisch so strukturiert, dass sie langfristig verständlich, interoperabel und maschinenlesbar auswertbar sind.
+
+---
+
+## Bibliographie
+____________________________
+
+[1] Hausenblas, M. (2012, Januar 22). *5-star open data* (M. Findeisen, Übers.). https://5stardata.info/de/
+
+[2] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
+
+[3] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
+
 
 
 

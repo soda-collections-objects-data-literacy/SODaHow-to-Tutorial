@@ -85,7 +85,7 @@ Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenn
 
 ## Video-Demonstration
 
-??[autoplay video](../assets/Short_Protege_Intro.mp4)
+!?[autoplay video](../assets/Short_Protege_Intro.mp4)
 
 
 <table>
@@ -93,6 +93,7 @@ Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenn
     <td><img src="../assets/save_domain.JPG" alt="Protege" width="100%"></td>
   </tr>
 </table>
+
 
 
 

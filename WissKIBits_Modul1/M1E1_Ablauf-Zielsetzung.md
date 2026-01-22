@@ -41,7 +41,7 @@ Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verst
 
 Einheit 1: **Willkommen und Ablauf**  
 
-**Dauer:** ~ 15 Min.
+**Dauer:** ~ 10 Min.
 
 Lernziel
 
@@ -88,11 +88,11 @@ In Modul 1 wird die konzeptionelle Basis für ein Domänenmodell geschaffen. Aus
 
 | Einheit | Inhalt | Dauer |
 |--------|--------|------|
-| 1 | Ablauf und Zielsetzung | 15 Min. |
+| 1 | Ablauf und Zielsetzung | 10 Min. |
 | 2 | Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur | 5 Min. |
 | 3 | WissKI Kurzeinführung | 10 Min. |
-| 4 | Strukturierte Daten mit CIDOC CRM | 15 Min. |
-| 5 | Fachbereichs- bzw. Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese | 20 Min. |
+| 4 | Strukturierte Daten mit CIDOC CRM | 10 Min. |
+| 5 | Fachbereichs- bzw. Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese | 30 Min. |
 | 6 | Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien | 10 Min. |
 | 7 | Reflexion: Welche Datenanalysen sind möglich, welche nicht? | 5 Min. |
   
@@ -167,4 +167,5 @@ Die Aussagen werden sichtbar an einem Board in 3 Spalten geschrieben:
 ## Zusammenfasung
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Entitäten, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.
+
 

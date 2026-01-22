@@ -145,6 +145,19 @@ Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwinge
 
 * Jede Person nennt genau 1 Punkt: „Für uns ist unverzichtbar, dass …“
 
+**Live-Clustering**
+
+<a href="assets/mein_dokument.docx" download>Word-Dokument herunterladen</a>
+
+Die Aussagen werden sichtbar an einem Board in 3 Spalten geschrieben:
+
+* Entitäten (Objekt, Person, Ort, Zeit…)
+* Ereignisse (Herstellung, Nutzung, Erwerb, Fund…)
+* Beziehungen / Kontext (Rollen, Zugehörigkeiten, Teil-von, identisch mit…)
+
+
+---
+
 ### Lösungsbeispiele 
 
 _Hilfestellung – nicht vorgeben_
@@ -155,20 +168,13 @@ _Hilfestellung – nicht vorgeben_
 * „… Ort und Zeit belastbar sind.“
 * „… Unsicherheiten (Hypothesen) abbildbar sind.“
 * „… eine eindeutige Identifizierung durch z. B. Signatur-/Inventarnummer möglich ist.“
-
-**Live-Clustering**
-
-Die Aussagen werden sichtbar an einem Board in 3 Spalten geschrieben:
-
-* Entitäten (Objekt, Person, Ort, Zeit…)
-* Ereignisse (Herstellung, Nutzung, Erwerb, Fund…)
-* Beziehungen / Kontext (Rollen, Zugehörigkeiten, Teil-von, identisch mit…)
-
+  
 ---
 
 ## Zusammenfassung
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Entitäten, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.
+
 
 
 

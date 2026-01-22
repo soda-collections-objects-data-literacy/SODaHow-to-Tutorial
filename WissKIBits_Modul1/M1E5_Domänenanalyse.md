@@ -132,11 +132,9 @@ Tipp: **Weniger ist mehr!**
 | 2 | Welche Ereignisse erklären den Kontext? | 1–2 Ereignisknoten |
 | 3 | Wie hängen die Dinge zusammen? | gerichtete Beziehungen |
 
-## Orientierung mit CIDOC CRM 
-
 ---
 
-### Mini-Demo: CIDOC CRM in Kürze 
+## Orientierung mit CIDOC CRM 
 
 **Aufgabe: CIDOC CRM sichten**
 
@@ -146,6 +144,8 @@ CIDOC CRM sichten und für zwei Kernentitäten jeweils mindestens eine passende 
 2. mögliche **CIDOC CRM-Klasse** grob zuordnen.
 
 Für den Einstieg eignen sich zentrale CIDOC CRM Klassen als „Baukasten“:
+
+**Mini-Demo: CIDOC CRM in Kürze** 
 
 | CIDOC CRM Klasse | Bedeutung im Beispiel |
 |------------------|-----------------------|
@@ -211,6 +211,7 @@ Gleichzeitig nutzt CIDOC CRM **Datentyp-Eigenschaften** (sog. literale wie Zahle
 * Literale werden genutzt, wenn sie als reine Darstellung sinnvoll sind (z.B. ein Zahlenwert), während zentrale semantische Informationen (Titel, Rollen, Identifikatoren usw.) als Entitäten modelliert und idealerweise mit kontrollierten Vokabularen verknüpft werden.
 
 **Hinweis:** Der gezielte Umgang mit Datentyp-Eigenschaften, kontrollierten Vokabularen und Interoperabilität wird in späteren Einheiten weiter vertieft.
+
 
 
 

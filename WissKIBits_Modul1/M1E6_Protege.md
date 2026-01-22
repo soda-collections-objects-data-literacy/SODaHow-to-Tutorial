@@ -87,12 +87,16 @@ Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenn
 
 !?[autoplay video](../assets/Short_Protege_Intro.mp4)
 
+@[video](../assets/Short_Protege_Intro.mp4)
+
+
 
 <table>
   <tr>
     <td><img src="../assets/save_domain.JPG" alt="Protege" width="100%"></td>
   </tr>
 </table>
+
 
 
 

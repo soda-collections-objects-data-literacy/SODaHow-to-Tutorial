@@ -85,6 +85,12 @@ Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenn
 
 ## Video-Demonstration
 
+
+!?[Video](assets/Short_Protege_Intro.mp4)
+
+!?[Video](../assets/Short_Protege_Intro.mp4)
+
+
 <video controls>
   <source src="https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/main/assets/Short_Protege_Intro.mp4" type="video/mp4">
 </video>
@@ -94,6 +100,7 @@ Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenn
     <td><img src="../assets/save_domain.JPG" alt="Protege" width="100%"></td>
   </tr>
 </table>
+
 
 
 

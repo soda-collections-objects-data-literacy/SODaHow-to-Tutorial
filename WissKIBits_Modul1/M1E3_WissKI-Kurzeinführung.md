@@ -41,7 +41,7 @@ Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
 Einheit 3: **WissKI Kurzeinführung**  
 
-**Dauer:** ~ 15 Min.
+**Dauer:** ~ 10 Min.
 
 Lernziele 
 
@@ -172,6 +172,7 @@ WissKI...
 * **RDF-Wissensgraph** ermöglicht Austausch, Nachnutzung und LOD-Publikation  
 
 Dadurch werden Sammlungsdaten nicht nur dokumentiert, sondern semantisch so strukturiert, dass sie langfristig verständlich, interoperabel und maschinenlesbar auswertbar sind.
+
 
 
 

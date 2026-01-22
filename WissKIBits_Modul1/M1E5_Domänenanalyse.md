@@ -41,7 +41,7 @@ Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
 Einheit 5: **Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese**  
 
-**Dauer:** ~ 20 Min.
+**Dauer:** ~ 30 Min.
 
 Lernziele
 
@@ -209,4 +209,5 @@ Gleichzeitig nutzt CIDOC CRM **Datentyp-Eigenschaften** (sog. literale wie Zahle
 * Literale werden genutzt, wenn sie als reine Darstellung sinnvoll sind (z.B. ein Zahlenwert), während zentrale semantische Informationen (Titel, Rollen, Identifikatoren usw.) als Entitäten modelliert und idealerweise mit kontrollierten Vokabularen verknüpft werden.
 
 **Hinweis:** Der gezielte Umgang mit Datentyp-Eigenschaften, kontrollierten Vokabularen und Interoperabilität wird in späteren Einheiten weiter vertieft.
+
 

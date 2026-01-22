@@ -109,7 +109,41 @@ Wir konzentrieren uns auf drei Bereiche:
 
 ---
 
-## Mini-Demo: CIDOC CRM in Kürze 
+## Übung – Modellskizze 
+
+**Arbeitsform:** Breakout-Räume / Einzelarbeit oder Teams (2–4 Personen)  
+**Material:** Papier & Stift (oder digitales Whiteboard)  
+**Zeit:** **7 Minuten**
+
+**Aufgabe: Eine Mini-Mindmap als Modellskizze entwerfen**
+
+Eine einfache Struktur skizzieren, die folgende Punkte erfüllt:
+
+1. **5 Kernentitäten** (Objekt/Person/Ort/Zeit/Ereignis – nicht alle müssen vorkommen)
+2. **Diese Kernentitäten mit Beziehungen verbinden** („hat“, „wurde hergestellt durch“, „wurde veröffentlicht von“ …)
+
+Tipp: **Weniger ist mehr!**
+
+**Leitfragen können sein...**
+
+| Schritt | Leitfrage | Ergebnis |
+|-------|-----------|----------|
+| 1 | Welche Kernentitäten gibt es? | Liste/Nodes im Modell |
+| 2 | Welche Ereignisse erklären den Kontext? | 1–2 Ereignisknoten |
+| 3 | Wie hängen die Dinge zusammen? | gerichtete Beziehungen |
+
+## Orientierung mit CIDOC CRM 
+
+---
+
+### Mini-Demo: CIDOC CRM in Kürze 
+
+**Aufgabe: CIDOC CRM sichten**
+
+CIDOC CRM sichten und für zwei Kernentitäten jeweils mindestens eine passende Klasse heraussuchen.
+
+1. **2 Begriffe aus eurer Skizze** (z.B. Spiel, Publisher, Release)
+2. mögliche **CIDOC CRM-Klasse** grob zuordnen.
 
 Für den Einstieg eignen sich zentrale CIDOC CRM Klassen als „Baukasten“:
 
@@ -127,33 +161,6 @@ Für den Einstieg eignen sich zentrale CIDOC CRM Klassen als „Baukasten“:
 Quelle: [CIDCO CRM-Spezifikation (v7.1.3)](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf)  
 
 ---
-
-# Übung – Modellskizze 
-
-**Arbeitsform:** Breakout-Räume / Einzelarbeit oder Teams (2–4 Personen)  
-**Material:** Papier & Stift (oder digitales Whiteboard)  
-**Zeit:** **7 Minuten**
-
-**Aufgabe: Eine Mini-Mindmap als Modellskizze entwerfen**
-
-Eine einfache Struktur skizzieren, die folgende Punkte erfüllt:
-
-1. **5 Kernentitäten** (Objekt/Person/Ort/Zeit/Ereignis – nicht alle müssen vorkommen)
-2. **Diese Kernentitäten mit Beziehungen verbinden** („hat“, „wurde hergestellt durch“, „wurde veröffentlicht von“ …)
-3. **CIDOC CRM sichten** und grob 2 mögliche Klassen identifizieren
-
-Tipp: **Weniger ist mehr!**
-
-**Leitfragen können sein...**
-
-| Schritt | Leitfrage | Ergebnis |
-|-------|-----------|----------|
-| 1 | Welche Kernentitäten gibt es? | Liste/Nodes im Modell |
-| 2 | Welche Ereignisse erklären den Kontext? | 1–2 Ereignisknoten |
-| 3 | Wie hängen die Dinge zusammen? | gerichtete Beziehungen |
-| 4 | Welche CRM-Klassen passen grob dazu? | erste Zuordnung |
-
-
 
 ## Ergebnis: Mindmap / Konzeptionelles Modell
 
@@ -204,6 +211,7 @@ Gleichzeitig nutzt CIDOC CRM **Datentyp-Eigenschaften** (sog. literale wie Zahle
 * Literale werden genutzt, wenn sie als reine Darstellung sinnvoll sind (z.B. ein Zahlenwert), während zentrale semantische Informationen (Titel, Rollen, Identifikatoren usw.) als Entitäten modelliert und idealerweise mit kontrollierten Vokabularen verknüpft werden.
 
 **Hinweis:** Der gezielte Umgang mit Datentyp-Eigenschaften, kontrollierten Vokabularen und Interoperabilität wird in späteren Einheiten weiter vertieft.
+
 
 
 

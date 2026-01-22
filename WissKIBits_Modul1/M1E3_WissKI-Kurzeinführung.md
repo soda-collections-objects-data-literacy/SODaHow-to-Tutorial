@@ -146,7 +146,7 @@ Beispiel aus dem Video: (Video: `../assets/semanticModelling.mp4`)
 * in → **Nürnberg**
 
 Diese semantischen Bedeutungsaussagen formen einen Wissensgraphen – also ein Netzwerk miteinander verknüpfter Informationen. 
-Grundlage dafür ist das **ereigniszentrierte Modellierungsprinzip des CIDOC CRM*: Objekte werden nicht isoliert beschrieben, sondern über Ereignisse (z. B. Herstellung, Nutzung, Erwerb) und die daran beteiligten Akteur:innen, Orte und Zeiten in einen nachvollziehbaren Zusammenhang gesetzt.
+Grundlage dafür ist das **ereigniszentrierte Modellierungsprinzip des CIDOC CRM**: Objekte werden nicht isoliert beschrieben, sondern über Ereignisse (z. B. Herstellung, Nutzung, Erwerb) und die daran beteiligten Akteur:innen, Orte und Zeiten in einen nachvollziehbaren Zusammenhang gesetzt.
 
 ---
 
@@ -172,6 +172,7 @@ WissKI...
 * **RDF-Wissensgraph** ermöglicht Austausch, Nachnutzung und LOD-Publikation  
 
 Dadurch werden Sammlungsdaten nicht nur dokumentiert, sondern semantisch so strukturiert, dass sie langfristig verständlich, interoperabel und maschinenlesbar auswertbar sind.
+
 
 
 

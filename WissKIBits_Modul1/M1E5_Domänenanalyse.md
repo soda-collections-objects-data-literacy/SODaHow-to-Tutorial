@@ -62,7 +62,7 @@ Dies ist eine Praxiseinheit. In dieser Einheit wird ein Beispielobjekt aus der D
 Am Ende können Lernende...
 
 * zentrale **Kernentitäten** der Beispiel-Domäne (Computerspiele) benennen (Objekt/Person/Ort/Zeit/Ereignis),
-* diese Entitäten über ** bedeutsame Beziehungen** sinnvoll verbinden,
+* diese Entitäten über **bedeutsame Beziehungen** sinnvoll verbinden,
 * und eine erste Zuordnungen der Entitäten zu **CIDOC CRM Klassen** benennen,
 * ein erstes **konzeptionelles Datenmodell (Mindmap)** vorbereiten, das später in **Protégé** formalisiert und in **WissKI** importiert wird.
 
@@ -209,5 +209,6 @@ Gleichzeitig nutzt CIDOC CRM **Datentyp-Eigenschaften** (sog. literale wie Zahle
 * Literale werden genutzt, wenn sie als reine Darstellung sinnvoll sind (z.B. ein Zahlenwert), während zentrale semantische Informationen (Titel, Rollen, Identifikatoren usw.) als Entitäten modelliert und idealerweise mit kontrollierten Vokabularen verknüpft werden.
 
 **Hinweis:** Der gezielte Umgang mit Datentyp-Eigenschaften, kontrollierten Vokabularen und Interoperabilität wird in späteren Einheiten weiter vertieft.
+
 
 

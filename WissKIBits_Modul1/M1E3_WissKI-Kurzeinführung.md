@@ -136,10 +136,6 @@ Leitfrage:
 
 > **Welche reale Beziehung besteht zwischen den Dingen?**
 
-Beispiel aus dem Video: (Video: `../assets/semanticModelling.mp4`)
-
-!?[Protegé Intro](../assets/Short_Protege_Intro.mp4)
-
 ![autoplay video](../assets/Short_Protege_Intro.mp4)
 
 
@@ -190,6 +186,7 @@ ____________________________
 [2] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
 
 [3] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
+
 
 
 

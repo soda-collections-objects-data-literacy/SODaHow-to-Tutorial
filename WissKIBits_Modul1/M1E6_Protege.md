@@ -87,22 +87,9 @@ Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenn
 
 !?[autoplay video](../assets/Short_Protege_Intro.mp4)
 
-
-!?[autoplay video](../assets/Short_Protege_Intro.mp4)
-
-@[video](../assets/Short_Protege_Intro.mp4)
-
-https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/refs/heads/main/WissKIBits_Modul1/M1E6_Protege.md?token=GHSAT0AAAAAADTBPIEN2KKCZSPWVQD3XS3Y2LSS7MQ
-https://raw.githubusercontent.com/user/repo/main/assets/Short_Protege_Intro.mp4
-
-
-[Video öffnen](https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/main/assets/Short_Protege_Intro.mp4)
-
-
 <video controls>
   <source src="https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/main/assets/Short_Protege_Intro.mp4" type="video/mp4">
 </video>
-
 
 https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/raw/refs/heads/main/assets/Short_Protege_Intro.mp4
 
@@ -112,6 +99,7 @@ https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/ra
     <td><img src="../assets/save_domain.JPG" alt="Protege" width="100%"></td>
   </tr>
 </table>
+
 
 
 

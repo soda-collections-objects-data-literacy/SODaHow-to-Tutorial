@@ -41,7 +41,7 @@ Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
 Einheit 2: **Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur**  
 
-**Dauer:** ~ 15 Min.
+**Dauer:** ~ 10 Min.
 
 Lernziel: 
 
@@ -159,6 +159,7 @@ ____________________________
 [3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

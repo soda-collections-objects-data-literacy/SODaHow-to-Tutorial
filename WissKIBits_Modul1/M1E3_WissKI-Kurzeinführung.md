@@ -73,7 +73,7 @@ WissKI wird u. a. am **Germanischen Nationalmuseum (GNM)** in Nürnberg eingeset
 WissKI ist **nicht nur** eine Sammlungsdatenbank –  es ist ein **semantisches Datenmanagementsystem für Linked Open Data (LOD)**  und unterstützt die FAIR-Prinzipien (
 **Findable – Accessible – Interoperable – Reusable**)
 
-Ein etabliertes Mittel zur Einordnung von Daten im Hinblick auf **Linked Open Data (LOD)** ist das **5-Sterne-Modell** für offene Daten, das zugleich einen guten Einstieg in das Verständnis von LOD bietet.
+Ein etabliertes Mittel zur Einordnung von Daten im Hinblick auf **Linked Open Data (LOD)** ist das [**5-Sterne-Modell** für offene Daten](https://5stardata.info/de/), das zugleich einen guten Einstieg in das Verständnis von LOD bietet.
 
 ![GNM](../assets/gnm.jpg)
 ![GNM innen](../assets/gnm_2.JPG)
@@ -172,6 +172,7 @@ WissKI...
 * **RDF-Wissensgraph** ermöglicht Austausch, Nachnutzung und LOD-Publikation  
 
 Dadurch werden Sammlungsdaten nicht nur dokumentiert, sondern semantisch so strukturiert, dass sie langfristig verständlich, interoperabel und maschinenlesbar auswertbar sind.
+
 
 
 

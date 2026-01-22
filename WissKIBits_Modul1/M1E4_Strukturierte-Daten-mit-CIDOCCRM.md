@@ -56,15 +56,18 @@ Lernziele:
 
 ## Warum verwenden wir Ontologien?
 
-Bei der Modellierung von Forschungsdaten aus den Geistes- und Kulturwissenschaften – geht es nicht nur darum, Daten zu beschreiben.
+Bei der Modellierung von Forschungsdaten aus den Geistes- und Kulturwissenschaften geht es nicht nur darum, Daten zu beschreiben. 
+
+Es geht darum ein Domänenwissen stabndardisiert zu dokumentieren und zu beschreiben, verfügbar zu machen und zu teilen.
 
 Ontologien helfen dabei:
 
 * **Semantische Beziehungen auszudrücken**
+* **Kontext und Provenienz zu erhalten**.
 * **Wissen maschinenlesbar zu machen**
 * **Interoperabilität zwischen Einrichtungen und Systemen sicherzustellen**
 * **Daten mit dem Linked Open Data-Ökosystem zu verbinden**
-* **Kontext und Provenienz zu erhalten**.
+
 
 ---
 
@@ -72,20 +75,22 @@ Ontologien helfen dabei:
 
 [CIDOC CRM](https://cidoc-crm.org/) ist eine **ISO-zertifizierte Ontologie (ISO 21127)**, entwickelt vom **CIDOC-Komitee der ICOM (International Council of Museums)**.
 
-Sie wurde speziell für die **Dokumentation kulturellen Erbes** entwickelt und konzentriert sich auf:
+Es ist ein Papierdokument und wurde speziell für die **Dokumentation kulturellen Erbes** entwickelt.
+
+CIDOC CRM umfasst:
 
 * Ereignisse  
 * Personen  
 * Objekte  
 * Orte  
 * Zeiträume  
-* und deren **semantische Beziehungen**
+* und deren semantische Beziehungen
 
 **Kurz gesagt:**  
 
 CIDOC CRM bietet einen **gemeinsamen konzeptuellen Rahmen**, um kulturelle Informationen **verständlich und interoperabel** zu beschreiben.
 
-*überarbeiten: CIDOC CRM Papierstndard, OWL technische Implementierng* WissKI verwendet die **CIDOC CRM OWL-Ontologie** als Grundlage, kann jedoch **zusätzliche Ontologien einbinden**.
+WissKI verwendet in der technischen Implementierung die **CIDOC CRM OWL-Ontologie (Erlangen CRM)[https://erlangen-crm.org/]** als Grundlage, kann jedoch auch andere Ontologien einbinden.
 
 ---
 
@@ -112,7 +117,7 @@ Die **Scope Note** einer CIDOC CRM-Klasse legt fest:
 * **Welche Bedeutung und Grenzen sie hat**
 * **Wann sie verwendet werden sollte**
 
-Nicht entscheidend sind:
+** Achtung: Nicht entscheidend sind:**
 
 * der Name der Klasse,
 * ihre hierarchische Position,
@@ -136,10 +141,9 @@ Es gibt verschiedene Ansätze, Domänenontologien zu erweitern:
 In diesem Tutorial wird eine **leichtgewichtige Erweiterungsstrategie** empfohlen:
 
 → **Domänenspezifische Unterklassen, wenn erforderlich**  
-*überarbeiten: Domänenbegriff erklären*
 → **Eigenschaften werden weitestgehend aus CIDOC CRM übernommen**
 
-Das garantiert **Interoperabilität und CIDOC-Kompatibilität** und reduziert die Komplexität.
+Das garantiert **Interoperabilität und CIDOC-Kompatibilität**, reduziert die Komplexität und macht dennoch die Domänenspezifik deutlich.
 
 ---
 
@@ -147,7 +151,7 @@ Das garantiert **Interoperabilität und CIDOC-Kompatibilität** und reduziert di
 
 **Beispiel: Zelda-Spiel (SNES)**
 
-*Das Videospiel „The Legend of Zelda: A Link to the Past“ wurde 1991 von Nintendo in Japan produziert.*
+*Das Videospiel „The Legend of Zelda: A Link to the Past“ wurde 1991 von Nintendo in Kyoto, Japan entwickelt.*
 
 
 
@@ -162,33 +166,14 @@ Das garantiert **Interoperabilität und CIDOC-Kompatibilität** und reduziert di
 
 ---
 
-### Beispiel: Vase
-
-| Natürliche Beschreibung | CIDOC CRM Repräsentation |
-|-------------------------|--------------------------|
-| Die Vase ist ein Artefakt | **E22 Human-Made Object** |
-| Sie wurde in einer Ausgrabung gefunden | **E5 Event** (Excavation) |
-| Das Team führte die Grabung durch | *carried out by* → **E74 Group** |
-| Die Grabung fand in Nara statt | *took place at* → **E53 Place** |
-| Jahr: 2005 | *has time-span* → **E52 Time-Span** |
-
----
-
 ## Top-Level- vs. Domänenontologien
 
 | Top-Level Ontologie (Grundstruktur) | Domänenontologie (Fachspezifik) |
 |------------------------------------|---------------------------------|
-| z. B. **CIDOC CRM** | Erweiterungen wie MEGA, WissKI-Profile etc. |
-| Definiert grundlegende Kategorien | Beschreibt disziplinäre Detailkonzepte |
+| z.B. **CIDOC CRM** | Erweiterungen, WissKI-Flavors etc. |
+| definiert grundlegende Kategorien | Beschreibt fachspezifische Detailkonzepte |
 | sorgt für Interoperabilität | erhöht Präzision |
-| langfristig stabil | anpassbar an Forschungsbedarfe |
-
-Eine **zweistufige Modellierungsstrategie** unterstützt:
-
-* Semantische Klarheit
-* Interoperabilität
-* Erweiterbarkeit
-* Nachhaltigkeit
+| ist langfristig stabil | ist anpassbar an Forschungsbedarfe |
 
 ---
 
@@ -202,7 +187,8 @@ WissKI nutzt CIDOC CRM, weil es …
 * **Ereignisse, Prozesse und Provenienz** systematisch abbildet
 * **FAIR & Linked Open Data** unterstützt
 * **robustes Fundament** für Wissensgraphen bietet 
-* sich vollständig in den **WissKI Pathbuilder** integrieren lässt.
+* sich vollständig in den **WissKI** integrieren lässt.
+
 
 
 

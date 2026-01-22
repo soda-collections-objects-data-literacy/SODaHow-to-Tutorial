@@ -129,7 +129,7 @@ Für den Einstieg eignen sich zentrale CIDOC CRM Klassen als „Baukasten“:
 | **E35 Title** | Titel als eigene Entität |
 | **E55 Type** | kontrollierte Merkmale (z. B. Genre, Plattform) |
 
-Quelle: [CIRCO CRM-Spezifikation (v7.1.3)](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf)  
+Quelle: [CIDCO CRM-Spezifikation (v7.1.3)](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf)  
 
 ---
 
@@ -209,3 +209,4 @@ Gleichzeitig nutzt CIDOC CRM **Datentyp-Eigenschaften** (sog. literale wie Zahle
 * Literale werden genutzt, wenn sie als reine Darstellung sinnvoll sind (z.B. ein Zahlenwert), während zentrale semantische Informationen (Titel, Rollen, Identifikatoren usw.) als Entitäten modelliert und idealerweise mit kontrollierten Vokabularen verknüpft werden.
 
 **Hinweis:** Der gezielte Umgang mit Datentyp-Eigenschaften, kontrollierten Vokabularen und Interoperabilität wird in späteren Einheiten weiter vertieft.
+

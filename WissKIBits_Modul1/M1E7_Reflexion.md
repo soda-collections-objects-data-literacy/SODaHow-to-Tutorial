@@ -39,33 +39,22 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 7: **Reflexion: Welche Analysen sind möglich, welche nicht?**  
+Einheit 7: **Reflexion: Eindrücke, Unsicherheiten und offene Fragen**  
 
 **Dauer:** ~ 5 Min.
 
 ---
 
 
-
-## Feeback
-
-![Feedback](../assets/feedback_menti.jpg)
-
----
-
 ##  Gemeinsame Gesprächsrunde und Reflexion
 
-Diskussionsfragen zum bisherigen **Modellierungsprozess**. 
-Ein Leitgedanke ist, **semantisches Modellieren ist ein dialogischer Prozess. Es werden Bedeutungsstrukturen im Austausch — nicht im Alleingang - entwicket.
+**Semantisches Modellieren ist ein dialogischer Prozess.** 
 
-* Erfahrungen und erste Eindrücke zu sammeln  
-* Verständnislücken oder Unsicherheiten sichtbar zu machen  
-* Erkenntnisse aus der Gruppenarbeit zu festigen  
-* offene Fragen zu klären, bevor wir in **WissKI** weiterarbeiten
-* **Was hat gut funktioniert?** Welche Schritte oder Beispiele waren verständlich und unterstützend?
-* **Was war herausfordernd?** Wo gab es Stolperstellen oder Unsicherheiten?
-* **Wo bestehen noch Fragen?** Gibt es Begriffe, Beziehungen oder Modellierungsentscheidungen, die wir gemeinsam klären sollten?
-* **Wie sicher fühlen Sie sich für den nächsten Schritt in WissKI?** 
+Bedeutungsstrukturen werden in der Regel im Austausch — nicht im Alleingang - entwickelt.
+
+An dieser Stelle können noch offen Fragen geklärt werden, bevor es in dem nächsten Modul weitergeht: 
+
+![Feedback](../assets/M1E7_Reflexion.jpg)
 
 
 

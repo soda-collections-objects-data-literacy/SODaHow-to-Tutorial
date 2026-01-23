@@ -65,7 +65,7 @@ Euer Feedback ist wertvoll.
 
 <table>
   <tr>
-    <td><img src="../assets/feedback_menti.png" alt="Feedback" width="100%"></td>
+    <td><img src="../assets/feedback_menti.jpg" alt="Feedback" width="100%"></td>
   </tr>
 </table>
 
@@ -81,4 +81,5 @@ Euer Feedback ist wertvoll.
 * Wo bestehen noch Unsicherheiten?  
 
 * Wie zuversichtlich fühlt ihr euch für die nächsten Schritte in der WissKI-Implementierung?
+
 

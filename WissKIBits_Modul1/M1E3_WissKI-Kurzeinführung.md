@@ -117,12 +117,12 @@ Der **Pathbuilder** ist das **Herzstück von WissKI**.
 Der Pathbuilder definiert:
 
 * **Gruppen** → semantische Entitäten, z. B. Objekt, Person, Ort, Ereignis  
-* **Pfade** → Beziehungen diese Entitäten, z. B. Objekt → wurde geschaffen von → Person  
+* **Pfade** → Beziehungen dieser Entitäten, z. B. Objekt → wurde geschaffen von → Person  
 * **Widgets** → automatisch generierte Eingabeformulare, deren Struktur aus der Semantik abgeleitet wird
 
 So ist es möglich in WissKI **nicht mit Tabellen**, sondern mit **ontologiebasierten Strukturen** zu arbeiten. 
 
-Gleichzeitig bleibt WissKI flexibel, ermöglicht semantische Konsistenz und ist in der Datenpflege bestmöglich Nutzendenunterstützend.
+Gleichzeitig bleibt WissKI flexibel, ermöglicht semantische Konsistenz und ist in der Datenpflege bestmöglich nutzendenunterstützend.
 
 ![Pathbuilder](../assets/pathbuilder.jpg)
 
@@ -190,6 +190,7 @@ ____________________________
 [2] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
 
 [3] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
+
 
 
 

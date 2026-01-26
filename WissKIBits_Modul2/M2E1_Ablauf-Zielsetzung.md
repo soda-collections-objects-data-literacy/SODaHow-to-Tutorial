@@ -178,49 +178,5 @@ Bausteine für ein Domänenmodell:
 
 Aus dem konzeptuellen Domänenmodell entstehen in Modul 2 Pfade, also eine valide domänenspezifische Ontologiestruktur im WissKI-Pathbuilder, mit der die Fragen beantwortet werden können.
 
----
 
-## Alternative Aktivierungsmethoden
 
-### Erwartungsabfrage
-
-Interaktive Mentimeter-Umfrage zur Erfassung von Erwartungen, Vorkenntnissen und bisherigen Erfahrungen mit WissKI und semantischer Datenmodellierung.
-
-<img src="../img/Erwartungsabfrage.png" alt="Mentimeter Umfrage" style="width:400px; height:auto;">
-
-### Fragen 
-
-* Was erwarten Sie von diesem Tutorial?
-* Welche Datenkompetenzen bringen Sie mit?
-* Welche Erfahrungen mit WissKI bringen Sie mit?
-* Welche Erfahrungen haben Sie im Bereich semantische Datenmodellierung?
-* Mit welchen Herausforderungen waren Sie bisher bei der Erstellung von Domänenontologien konfrontiert?
-
----
-
-### Speed-Dating (Alternativ)
-
-**Ziel:** 
-
-* Aktivierung
-* Austausch
-* Vernetzung.
-
-**Ablauf:**
-
-1. Bitte stehen Sie alle auf.
-2. Finden Sie eine Person, die Sie noch nicht kennen.
-3. Interviewen Sie sich gegenseitig — je 30 Sekunden pro InterviewerIn.
-4. Wechseln Sie nach jeder Runde die Partner:innen.
-
-**Fragen:**
-
-1. Wie heißen Sie und woher kommen Sie?
-2. Welche Sprachen sprechen Sie?
-3. Nennen Sie einen Fun Fact über sich.
-
-**Beispiele für Fun Facts:**
-
-- Sie haben versucht, Ihre Küche in OWL zu modellieren.
-- Ihr Haustier heißt *SPARQL*.
-- Sie sammeln japanischen Whisky oder Pokémon-Karten.

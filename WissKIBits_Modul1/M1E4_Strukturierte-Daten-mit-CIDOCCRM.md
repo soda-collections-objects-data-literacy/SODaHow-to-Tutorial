@@ -97,6 +97,9 @@ CIDOC CRM bietet einen **gemeinsamen konzeptuellen Rahmen**, um kulturelle Infor
 
 WissKI verwendet in der technischen Implementierung die **CIDOC CRM OWL-Ontologie ([Erlangen CRM](https://erlangen-crm.org))** als Grundlage, kann jedoch auch andere Ontologien einbinden.
 
+**OWL** ist eine **formale Sprache zur maschinenlesbaren Darstellung von Ontologien im Web**, standardisiert durch das World Wide Web Consortium (W3C).
+
+
 ---
 
 ## Zentrale Konzepte in CIDOC CRM
@@ -205,6 +208,7 @@ WissKI nutzt CIDOC CRM, weil es …
 [1] CIDOC CRM Special Interest Group (o.J.). What is CIDOC CRM? https://cidoc-crm.org/
 
 [2] World Wide Web Consortium (W3C). (2014). RDF 1.1 concepts and abstract syntax. https://www.w3.org/TR/rdf11-concepts/
+
 
 
 

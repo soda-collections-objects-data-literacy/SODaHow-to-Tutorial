@@ -154,9 +154,9 @@ Das garantiert **Interoperabilität und CIDOC-Kompatibilität**, reduziert die K
 
 CIDOC CRM ist **ereigniszentriert**, d.h. es beschreibt nicht nur, *was etwas ist*, sondern **was mit ihm passiert**.
 
-Die Aussagen über die Ressourcen haben die Form von **Tripels: Subjekt-Prädikat-Objekt**. Die Tripels bilden die Syntax-Grundlage für semantische Datenmodellierung und die technologische Basis, Ontologien (wie CIDOC CRM) in maschinenlesbarer Form darzustellen.
+Die Aussagen über die Ressourcen haben die Form von **Triples: Subjekt-Prädikat-Objekt**. Die Triples bilden die **Syntax-Grundlage** für semantische Datenmodellierung und die technologische Basis, Ontologien (wie CIDOC CRM) in maschinenlesbarer Form darzustellen.
 
-Das RDF (Resource Description Framework) ist ein Standard zur Beschreibung von Aussagen über Ressourcen in From von Tripeln. [2]
+Das **RDF (Resource Description Framework)** ist ein Standard zur Beschreibung von Aussagen über Ressourcen in From von Triples. [2]
 
 **Beispiel: Zelda-Spiel (SNES)**
 
@@ -205,6 +205,7 @@ WissKI nutzt CIDOC CRM, weil es …
 [1] CIDOC CRM Special Interest Group (o.J.). What is CIDOC CRM? https://cidoc-crm.org/
 
 [2] World Wide Web Consortium (W3C). (2014). RDF 1.1 concepts and abstract syntax. https://www.w3.org/TR/rdf11-concepts/
+
 
 
 

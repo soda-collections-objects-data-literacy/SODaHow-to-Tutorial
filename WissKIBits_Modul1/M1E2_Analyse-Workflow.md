@@ -58,7 +58,8 @@ Lernziel:
 
 * In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und soziale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
 * Tabellen können zwar Daten beschreiben und erfassen, aber in erster Linie nur Eigenschaften (Attribute) - mit Tabellen lässt sich kein Wissen modellieren. Beziehungen, Bedeutungen und Kontexte bleiben dabei unsichtbar.
-* Genau hier wird **semantische Datenmodellierung** relevant: Sie ermöglicht es, Wissen **strukturiert, langfristig interpretierbar und interoperabel** darzustellen.
+* Genau hier wird **semantische Datenmodellierung** relevant: Sie ermöglicht es, Wissen **strukturiert und interoperabel** darzustellen.
+* Die Daten werden auf diese Weise sowohl **technisch als auch inhaltlich langfristig interpretierbar und damit wissenschaftlichen Qualitätskritierien entsprechend nachnutzbar**. [1]
 * Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **Fachwissen und methodisches Denken** erfordert.
 * **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur) unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe und -speicherung** miteinander verbindet.
   
@@ -74,11 +75,11 @@ Eine **Ontologie** ist eine **formale Beschreibung eines Ausschnitts der Welt** 
 
 ## Nutzen von Ontologien und weiterführende Definitionen
 
-Ontologien helfen damit, fachliches Domänenwissen mit ihrer spezifischen Domänenlogik so zu dokumentieren, dass es maschinenlesbar, vergleichbar und nachnutzbar wird. Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie praktisch als Struktur verstehen, die u. a. Klassen (Typen/Kategorien von Entitäten), Eigenschaften (Properties) und Individuen bereitstellt und damit Aussagen über Ressourcen formal abbilden kann. [1]
+Ontologien helfen damit, fachliches Domänenwissen mit ihrer spezifischen Domänenlogik so zu dokumentieren, dass es maschinenlesbar, vergleichbar und nachnutzbar wird. Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie praktisch als Struktur verstehen, die u. a. Klassen (Typen/Kategorien von Entitäten), Eigenschaften (Properties) und Individuen bereitstellt und damit Aussagen über Ressourcen formal abbilden kann. [2]
 
-Ontologien unterstützen damit die systematische und konsistente Repräsentation von Domänenwissen, sodass Informationen maschinenlesbar und für die Nachnutzung in unterschiedlichen Systemen anschlussfähig werden. [2]
+Ontologien unterstützen damit die systematische und konsistente Repräsentation von Domänenwissen, sodass Informationen maschinenlesbar und für die Nachnutzung in unterschiedlichen Systemen anschlussfähig werden. [3]
 
-Die bekannteste Definition beschreibt eine Ontologie als "eine explizite, formale Spezifikation einer Konzeptualisierung", d. h. sie beschreibt strukturierend, welche Konzepte in einem bestimmten spezifischen Fachgebiet oder Gegenstandsbereich relevant sind und welche Beziehungen zwischen ihnen bestehen. [3]
+Die bekannteste Definition beschreibt eine Ontologie als "eine explizite, formale Spezifikation einer Konzeptualisierung", d. h. sie beschreibt strukturierend, welche Konzepte in einem bestimmten spezifischen Fachgebiet oder Gegenstandsbereich relevant sind und welche Beziehungen zwischen ihnen bestehen. [4]
 
 ---
 
@@ -152,6 +153,8 @@ So lässt sich anschaulich zeigen, wie aus scheinbar „einfachen“ Information
 ## Bibliographie
 ____________________________
 
+[1] Fichtner, M. (2025). Grundlagen der Erzeugung und Verwaltung von Ontologiepfaden und ihre Anwendung (Doctoral thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Fakultät). https://doi.org/10.25593/open-fau-2143
+
 [1] World Wide Web Consortium. (2012, December 11). OWL 2 Web Ontology Language Primer (Second Edition). W3C Recommendation. https://www.w3.org/TR/owl2-primer 
 
 [2] Noy, N. F., & McGuinness, D. L. (2001). Ontology Development 101: A Guide to Creating Your First Ontology. Stanford Knowledge Systems Laboratory.
@@ -159,6 +162,7 @@ ____________________________
 [3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

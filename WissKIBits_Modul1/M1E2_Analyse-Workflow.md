@@ -96,7 +96,7 @@ Ontologien bestehen typischerweise aus folgenden Bausteinen:
 
 ## Methoden zur Entwicklung von Ontologien
 
-Die Entwicklung einer Ontologie folgt typischerweise einem methodischen, mehrstufigen und iterativen Vorgehen. 
+Die Entwicklung einer Domänenontologie folgt typischerweise einem methodischen, mehrstufigen und iterativen Vorgehen. 
 
 Dazu zählen u.a. die Erhebung zentraler Begriffe und Definitionen (sog. „ontology capture“), die Strukturierung dieser Konzepte in Klassen und Relationen sowie die kontinuierliche Prüfung und Überarbeitung des Domänenmodells im Hinblick auf Konsistenz und Nutzbarkeit. [4]
 
@@ -159,6 +159,7 @@ ____________________________
 [3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

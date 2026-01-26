@@ -84,7 +84,7 @@ Die Webseite [**How to FAIR**](https://howtofair.dk/what-is-fair/) [2] erläuter
 
 ## WissKI und Drupal 
 
-WissKI ist **keine eigenständige Software** sondern ein Set an Modulen, die das Content-Management-System **Drupal** semantisch erweitert.
+WissKI ist **keine eigenständige Software** sondern ein Set an Modulen, die das Content-Management-System **Drupal** semantisch erweitern.
 
 ![Drupal](../assets/drupal.JPG)
 
@@ -190,6 +190,7 @@ ____________________________
 [2] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
 
 [3] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
+
 
 
 

@@ -48,15 +48,17 @@ Einheit 7: **Reflexion: Eindrücke, Unsicherheiten und offene Fragen**
 
 ##  Gemeinsame Gesprächsrunde und Reflexion
 
+![Feedback](../assets/M1E7_Reflexion.jpg)
+
+---
+
+## Fazit
+
 **Semantisches Modellieren ist ein dialogischer Prozess.** 
 
 Bedeutungsstrukturen werden in der Regel im Austausch — nicht im Alleingang - entwickelt.
 
-An dieser Stelle können noch offen Fragen geklärt werden, bevor es in dem nächsten Modul weitergeht: 
-
-![Feedback](../assets/M1E7_Reflexion.jpg)
-
-
+An dieser Stelle können noch offen Fragen geklärt werden, bevor es in dem nächsten Modul weitergeht.
 
 
 

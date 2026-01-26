@@ -68,7 +68,7 @@ Lernziel:
 
 Eine **Ontologie** ist eine **formale Beschreibung eines Ausschnitts der Welt** bzw. eine **formal definierte Wissensstruktur**, die festlegt,
 
-* welche Arten von Dingen, sog. **Entitäten** (z. B. Objekt, Person, Ereignis, Ort, Zeit), es in einer Domäne, also spezifischen Fachgebiet gibt,
+* welche Arten von Dingen, sog. **Entitäten** (z. B. Objekt, Person, Ereignis, Ort, Zeit), es in einer Domäne, also einem spezifischen Fachgebiet gibt,
 * wie diese Entitäten miteinander in Beziehung stehen,
 * und welche Aussagen über sie sinnvoll sowie widerspruchsfrei modelliert werden können.
 
@@ -159,6 +159,7 @@ ____________________________
 [3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

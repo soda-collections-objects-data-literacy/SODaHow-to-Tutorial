@@ -60,7 +60,7 @@ Lernziel:
 * Tabellen können zwar Daten beschreiben und erfassen, aber in erster Linie nur Eigenschaften (Attribute) - mit Tabellen lässt sich kein Wissen modellieren. Beziehungen, Bedeutungen und Kontexte bleiben dabei unsichtbar.
 * Genau hier wird **semantische Datenmodellierung** relevant: Sie ermöglicht es, Wissen ontologiebasiert **strukturiert und interoperabel** darzustellen.
 * Die Daten werden auf diese Weise sowohl **technisch als auch inhaltlich langfristig interpretierbar und damit wissenschaftlichen Qualitätskritierien entsprechend nachnutzbar**. [1]
-* Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **methodisches Denken** erfordert. Er ist disziplinübergreifend und erfordert **fachwissenschaftliches Wissen und Modellierungskompetenz**. [1]
+* Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **methodisches Denken** erfordert. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. [1]
 * **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur) unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe und -speicherung** miteinander verbindet.
   
 ---
@@ -162,6 +162,7 @@ ____________________________
 [3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

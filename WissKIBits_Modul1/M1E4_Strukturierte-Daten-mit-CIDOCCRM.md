@@ -58,10 +58,11 @@ Lernziele:
 
 Bei der Modellierung von Forschungsdaten aus den Geistes- und Kulturwissenschaften geht es nicht nur darum, Daten zu beschreiben. 
 
-Es geht darum ein Domänenwissen stabndardisiert zu dokumentieren und zu beschreiben, verfügbar zu machen und zu teilen.
+Es geht darum ein Domänenwissen standardisiert zu dokumentieren und zu beschreiben, verfügbar zu machen und zu teilen.
 
 Ontologien helfen dabei:
 
+* **Semantik der Daten zu erfassen**
 * **Semantische Beziehungen auszudrücken**
 * **Kontext und Provenienz zu erhalten**.
 * **Wissen maschinenlesbar zu machen**
@@ -188,6 +189,7 @@ WissKI nutzt CIDOC CRM, weil es …
 * **FAIR & Linked Open Data** unterstützt
 * **robustes Fundament** für Wissensgraphen bietet 
 * sich vollständig in den **WissKI** integrieren lässt.
+
 
 
 

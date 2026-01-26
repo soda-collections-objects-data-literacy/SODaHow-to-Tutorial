@@ -76,11 +76,11 @@ Ontologien helfen dabei:
 
 [CIDOC CRM](https://cidoc-crm.org/) ist eine **ISO-zertifizierte Ontologie (ISO 21127)**, entwickelt vom **CIDOC-Komitee der ICOM (International Council of Museums)**.
 
-Es ist kein technischer Standard, sondern ein Papierdokument und wurde speziell für die **Dokumentation kulturellen Erbes** entwickelt. 
+Es ist **kein technischer Standard**, sondern ein **Papierdokument** und wurde speziell für die **Dokumentation kulturellen Erbes** entwickelt. 
 
-Es ist eine formale Repräsentation von grundlegenden Konzepten, Begriffen und ihren Beziehungen im Bereich des kulturellen Erbes.
+Es ist eine **formale Repräsentation** von grundlegenden Konzepten, Begriffen und ihren Beziehungen im Bereich des kulturellen Erbes.
 
-Es ist ein theoretisches und praktisches Werkzeug zum Strukturieren, Darstellen und Verstehen evidenzbasierter Phänomene aus dem Bereich des kulturellen Erbes. [1]
+Es ist ein **theoretisches und praktisches Werkzeug** zum Strukturieren, Darstellen und Verstehen **evidenzbasierter Phänomene** aus dem Bereich des kulturellen Erbes. [1]
 
 CIDOC CRM umfasst:
 
@@ -199,6 +199,7 @@ WissKI nutzt CIDOC CRM, weil es …
 ## Bibliographie
 
 [1] CIDOC CRM Special Interest Group (o.J.). What is CIDOC CRM? https://cidoc-crm.org/
+
 
 
 

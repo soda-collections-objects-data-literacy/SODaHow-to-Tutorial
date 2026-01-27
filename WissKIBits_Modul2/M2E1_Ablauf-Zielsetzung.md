@@ -130,7 +130,8 @@ Folgende Grundkenntnisse werden vorausgesetzt:
 
 * WissKI und die Basisfunktionen sind grundlegend bekannt.
 * Es gibt erst Erfahrung in der konzeptuellen Modellierung von Domänenontologien.
-* Mit CIDOC CRM und Protegé wurde bereits gearbeitet.
+* Mit CIDOC CRM wurde bereits gearbeitet.
+* Protége ist bekannt.
 
 Eine Einführung in diese Themen bietet Modul 1.
 

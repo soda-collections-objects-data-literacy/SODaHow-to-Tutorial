@@ -72,7 +72,7 @@ Mehrere **zusammengehörige Pfade werden zu Pfadgruppen organisiert**, die wiede
 
 <table>
   <tr>
-    <td><img src="../img/WissKI_pathbuilder.jpg" alt="WissKI Pathbuilder" width="75%"></td>
+    <td><img src="../assets/pathbuilder.jpg" alt="WissKI Pathbuilder" width="75%"></td>
   </tr>
 </table>
 
@@ -140,6 +140,7 @@ Der [FORTH-ICS-Webdienst](https://isl.ics.forth.gr/gnm_services/):
 
 
 ---
+
 
 
 

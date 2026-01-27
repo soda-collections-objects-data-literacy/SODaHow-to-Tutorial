@@ -148,10 +148,6 @@ Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
 * [( )] Spielbeschreibung
 * [( )] Charaktere / Figuren
 
----
-
-## 5) Narrative Elemente erkennen (Multiple Choice)
-
 Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 
 * [(x)] Perspektive
@@ -159,6 +155,7 @@ Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 * [(x)] Charaktere / Figuren
 * [( )] Plattform
 * [( )] Genre
+
 
 ---
 
@@ -216,6 +213,7 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 
 
 

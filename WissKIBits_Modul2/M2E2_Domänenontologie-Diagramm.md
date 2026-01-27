@@ -120,19 +120,19 @@ Welche semantische Annahme wird im Beispiel explizit gemacht?
 
 Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
 
-* [(x)] Plattform
-* [(x)] Genre
-* [(x)] Edition/Version
-* [( )] Spielbeschreibung
-* [( )] Charaktere / Figuren
+ [(x)] Plattform
+ [(x)] Genre
+ [(x)] Edition/Version
+ [( )] Spielbeschreibung
+ [( )] Charaktere / Figuren
 
 Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 
-* [(x)] Perspektive
-* [(x)] Spielbeschreibung
-* [(x)] Charaktere / Figuren
-* [( )] Plattform
-* [( )] Genre
+ [(x)] Perspektive
+ [(x)] Spielbeschreibung
+ [(x)] Charaktere / Figuren
+ [( )] Plattform
+ [( )] Genre
 
 
 ---
@@ -191,6 +191,7 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 
 
 

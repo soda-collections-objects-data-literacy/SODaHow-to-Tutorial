@@ -157,9 +157,9 @@ Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io*
 
 * Es werden keine individuellen Instanzen abgebildet.
 * Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
-* Die Beziehungen aus dem CIDOC CRM.
-* Es sind vollständige Pfade zu erstellen. ()
-* Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element\_id**, **group\_name** und **name** zugewiesen. (
+* Die Beziehungen aus dem CIDOC CRM werden nachgenutzt.
+* Es sind vollständige Pfade zu erstellen. (z.B. mega:E73_Computer_Game -> P102_has_title -> mega:E35_Game_Title -> P190 has symbolic content -> E62_String)
+* Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element\_id**, **group\_name** und **name** zugewiesen. (z.B. element\_id=Computer_Game; group\_name=Computer_Game; name=Computer_Game)
 
 ---
 
@@ -205,6 +205,7 @@ Auswahl:
     <td><img src="../img/SODa_Modul2.drawio.png" alt="Visuelle Repräsentation" width="100%"></td>
   </tr>
 </table>
+
 
 
 

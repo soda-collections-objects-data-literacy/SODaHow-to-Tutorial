@@ -2,6 +2,11 @@
 
 ## Aktualisierung
 
+27.01.2026
+- Modul 2 inhaltlich anpassen und abstimmen auf Modul 1
+- assets ergänzt
+- Quizze erstellt
+
 21.01.2026
 - asstes umgezogen
 - Review eingearbeitet
@@ -38,6 +43,7 @@ Hastik, C., Schwenk, G. A., & Fichtner, M. (2025). SODa WissKI-ISWC25Bits.Didact
 Hastik, C., & Schwenk, G. A. (2025, Dezember 5). SODaBeratungsCamp: Modul 1. Zenodo. https://doi.org/10.5281/zenodo.17832837
 
 Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
+
 
 
 

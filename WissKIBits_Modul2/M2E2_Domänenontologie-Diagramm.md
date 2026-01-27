@@ -162,8 +162,8 @@ Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io*
 * Es werden keine individuellen Instanzen abgebildet.
 * Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
 * Die Beziehungen aus dem CIDOC CRM werden nachgenutzt.
-* Es sind vollständige Pfade zu erstellen. (z.B. mega:E73_Computer_Game -> P102_has_title -> mega:E35_Game_Title -> P190 has symbolic content -> E62_String)
-* Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element\_id**, **group\_name** und **name** zugewiesen. (z.B. element\_id=Computer_Game; group\_name=Computer_Game; name=Computer_Game)
+* Es sind vollständige Pfade zu erstellen. (z.B. mega:E73\_Computer\_Game -> P102\_has\_title -> mega:E35\_Game\_Title -> P190 has symbolic content -> E62\_String)
+* Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element\_id**, **group\_name** und **name** zugewiesen. (z.B. element\_id=Computer\_Game; group\_name=Computer\_Game; name=Computer\_Game)
 
 ---
 
@@ -175,7 +175,7 @@ Lücken sind durch geeignete Klassen (Entities) und passende Beziehungen (Proper
 
 Ablauf:
 
-* Die vorbereitete Draw.io-Datei runterladen (hier: xxx in "contentConcept/assets"
+* Die vorbereitete Draw.io-Datei runterladen ([hier](../assets/M2E2_Gruppenarbeit.drawio.xml)
 * Die heruntergeladene Draw.io-Datei in Draw.io importieren (hier: https://app.diagrams.net/)
 * Das Domänenontologie-Diagramm vervollständigen (siehe Auswahl) 
 * Attributwerte an Startknoten, jedem Gruppenknoten und Endknoten prüfen
@@ -209,6 +209,7 @@ Auswahl:
     <td><img src="../img/SODa_Modul2.drawio.png" alt="Visuelle Repräsentation" width="100%"></td>
   </tr>
 </table>
+
 
 
 

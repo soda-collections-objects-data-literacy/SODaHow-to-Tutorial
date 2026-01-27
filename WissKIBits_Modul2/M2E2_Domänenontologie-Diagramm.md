@@ -121,53 +121,19 @@ Welche semantische Annahme wird im Beispiel explizit gemacht?
 Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
 
  [(x)] Plattform
- 
  [(x)] Genre
- 
  [(x)] Edition/Version
- 
  [( )] Spielbeschreibung
- 
  [( )] Charaktere / Figuren
 
 Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 
- [(x)] Perspektive
- [(x)] Spielbeschreibung
- [(x)] Charaktere / Figuren
- [( )] Plattform
- [( )] Genre
 
-
-[[ ]] Antwort 1
-[[X]] Antwort 2
-[[ ]] Antwort 3
-[[X]] Antwort 4
-[[ ]] Antwort 5
-
-
-## Quizfragen: Narrative Elemente oder nicht?
-
-### Perspektive ist ein narratives Element.
-- [(x)] Ja
-- [( )] Nein
-
-### Spielbeschreibung ist ein narratives Element.
-- [(x)] Ja
-- [( )] Nein
-
-### Charaktere / Figuren sind narrative Elemente.
-- [(x)] Ja
-- [( )] Nein
-
-### Plattform ist ein narratives Element.
-- [( )] Ja
-- [(x)] Nein
-
-### Genre ist ein narratives Element.
-- [( )] Ja
-- [(x)] Nein
-
+[[ ]] Perspektive
+[[X]] Spielbeschreibung
+[[ ]] Charaktere
+[[X]] Plattform
+[[ ]] Genre
 
 
 
@@ -227,6 +193,7 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 
 
 

@@ -44,13 +44,14 @@ Dauer: ~ 15 Min.
 
 ---
 
-## Kurzes Feedback
-
-Euer Feedback ist wertvoll.
+##  Gemeinsame Gesprächsrunde und Reflexion
 
 ![Feedback](../assets/M2E3_Reflexion.jpg)
 
 ---
+
+## Fazit
+
 
 
 

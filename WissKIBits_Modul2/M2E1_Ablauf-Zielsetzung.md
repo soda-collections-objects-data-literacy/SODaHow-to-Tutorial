@@ -60,9 +60,9 @@ Lernziel
 >
 > Aus dem in *Draw.io* erstellten semantischen Modell wird eine *WissKI Pathbuilder*-Datei generiert. Auf diese Weise wird die konzeptionelle Domänenontologie in eine in WissKI nutzbare Graphstruktur überführt.
 >
-> Diese dient dann als Grundlage für die Arbeit und Analyse graphbasierten Forschungsdaten.  
+> Diese dient dann als Grundlage für die Arbeit mit und die Analyse von graphbasierten Forschungsdaten.  
 >
-> Ziel ist es, die fachliche Domänenlogik so präzise abzubilden, dass das Datenmodell konsistent umgesetzt, nachvollziehbar erweitert und gezielt abgefragt werden kann.
+> Ziel ist es, eine fachliche Domänenlogik so präzise mit CIDOC CRM abzubilden, dass das Domänenmodell maschinenlesbar konsistent umgesetzt ist, nachvollziehbar und gezielt abgefragbar wird.
 >
 > Das Modul ist als **How-to-Tutorial** für die **Wissenschaftliche Kommunikationsiunfrastruktur WissKI** konzipiert und folgt dem Prinzip Learning by Doing:
 >
@@ -74,12 +74,12 @@ Lernziel
 
 ## Zielsetzung des Moduls
 
-In Modul 2 wird die konzeptionelle Basis schrittweise in eine Domänenlogik als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI überführt.
+In Modul 2 wird die konzeptionelle Basis aus Modul 1 schrittweise in ein für WissKI verwaltbares Domänenmodell als Grundlage für das sammlungsbezogene Datenmanagement überführt.
  
 
-* Die Domänenlogik wird als semantisches Modell mit Pfaden in Draw.io visualisiert.
+* Die Domänenlogik wird als CIDOC CRM-basiertes semantisches Modell mit Pfaden in Draw.io visualisiert.
 * Die Visualisierung wird auf syntaktische Gültigkeit anhand CIDCO-CRM überprüft und in ein nachnutzbares Dateiformat überführt.
-* Die domänenspezifische Ontologiestruktur wird in WissKI importiert, dort validiert und für die Analyse vorbereitet.
+* Das domänenspezifische Domänenmodell wird in WissKI importiert, dort validiert und für die Analyse weiter vorbereitet.
 
 ---
 

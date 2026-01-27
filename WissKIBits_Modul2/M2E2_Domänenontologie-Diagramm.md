@@ -60,19 +60,23 @@ Lernziel
 
 **Visualisierungen** sind ein bedeutender Zwischenschritt und ein wesentliches Werkzeug, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis semantischer Strukturen zu fördern.**
 
-Dieser Modellierungsschritt ist **nicht nur eine visuelle Übung** – das Diagramm bildet die **Voraussetzung für die (halb-)automatisierte Pipeline** zur Erstellung eines **Pathbuilders** in WissKI.
+Das Modellieren in Draw.io ist **nicht nur eine visuelle Übung**. Das  Draw.io-Diagramm bildet die **Voraussetzung für die (halb-)automatisierte Pipeline** zur Erstellung eines **Pathbuilders** in WissKI.
 
-Das Draw.io-Diagramm wird dabei als **XML-Datei** exportiert und enthält bereits strukturierte Informationen zu **Klassen, Relationen und Gruppen**. Dadurch kann es **automatisiert weiterverarbeitet** und in **WissKI-Pathbuilder-Strukturen** überführt werden.
+Das Draw.io-Diagramm wird dabei als **XML-Datei** exportiert und enthält bereits strukturierte Informationen zu **Klassen, Relationen und Gruppen**. 
+
+Dadurch kann es **automatisiert weiterverarbeitet** und in konsistente **WissKI-Pathbuilder-Strukturen** überführt werden.
+
+---
 
 ## Draw.io unterstützt dabei...
 
-* **Entitätsklassen und ihre Beziehungen** festzulegen,  
-* **kollaborativ und transparent** gemeinsam zu modellieren,  
-* die **Domänenontologie und ihre semantische Logik** sichtbar zu machen und zu diskutieren,  
-* die **Ontologiestruktur vor der Implementierung in WissKI** zu prüfen und zu validieren,  
-* und als **Reflexions- und Qualitätssicherungsinstrument** für semantische Entscheidungen zu dienen.
+* **Entitätsklassen und ihre Beziehungen** klar zu definieren,
+* **Domänenlogik und semantische Zusammenhänge** sichtbar und diskutierbar zu machen,  
+* Modelle **kollaborativ und transparent** zu entwickeln,  
+* die **Ontologiestruktur vor dem Import in WissKI** zu prüfen,  
+* und **semantische Entscheidungen** zu reflektieren und abzusichern.
 
-Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert*innen, Datenmodellierenden und Entwickler*innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar bleiben.
+Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert:innen, Datenmodellierenden und Entwickler:innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar bleiben.
 
 ---
 
@@ -80,8 +84,10 @@ Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwisc
 
 In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwickelt:
 
-* In **Einheit 5** wurden *zentralen Entitäten und Beziehungen* einer Beispiel-Domäne (Computerspiele) identifiziert.  
-* In **Einheit 6** wurde die Top-Level Ontologie CIDOC CRM um *domänenspezifische Subklassen* erweitert.  
+* In **Einheit 5** wurden *zentralen Entitäten und Beziehungen* am Beispiel eines Computerspiels identifiziert.  
+* In **Einheit 6** wurde gezeigt, wie die Top-Level Ontologie CIDOC CRM um *domänenspezifische Subklassen* erweitert wird.  
+
+---
 
 ### Beispielobjekt
 
@@ -93,6 +99,8 @@ In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwicke
 | **Semantische Annahme** | Titel des Objekts: *The Legend of Zelda: A Link to the Past* |
 | **Draw.io Modell** | ![draw.io Diagramm](../img/drawio_modell.png) |
 | **WissKI Pathbuilder** | ![WissKI Pathbuilder](../img/pathbuilder.PNG) |
+
+---
 
 ### Auswahl und Festlegung von Kernentitäten 
 
@@ -110,12 +118,67 @@ In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwicke
 
 ---
 
-## Was wird visualisiert und modelliert?
+## Quiz: Beispielobjekt & Kernentitäten 
 
-Modelliert wird ein semantisches Modell in Draw.io als Grundlage für die Erstellung von Pfaden im WissKI Pathbuilder.
-Hierfür werden die Kernentitäten und ihre Beziehungen der Beispieldomäne semantisch korrekt auf Basis des CIDOC CRM visualisiert.
+Wissen aus Modul 1 (E5/E6) wird aktiviert.
 
-**Beispielergebnis**
+**Quizfragen** (Single Choice)
+
+Welches Beispielobjekt wird im Modul verwendet? 
+
+* [( )] Ein PC-Spiel: *Minecraft*
+* [(x)] Ein SNES-Spiel: *The Legend of Zelda*
+* [( )] Eine PlayStation-Konsole: *PS1*
+* [( )] Ein Arcade-Automat: *Pac-Man*
+
+Welche semantische Annahme wird im Beispiel explizit gemacht?
+
+* [( )] Das Spiel ist „Open World“
+* [(x)] Der Titel des Objekts wird als *The Legend of Zelda: A Link to the Past* festgelegt
+* [( )] Das Spiel ist eine „Collector’s Edition“
+* [( )] Die Plattform ist „PC“
+
+**Quizfragen** (Multiple Choice)
+
+Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
+
+* [(x)] Plattform
+* [(x)] Genre
+* [(x)] Edition/Version
+* [( )] Spielbeschreibung
+* [( )] Charaktere / Figuren
+
+---
+
+## 5) Narrative Elemente erkennen (Multiple Choice)
+
+Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
+
+* [(x)] Perspektive
+* [(x)] Spielbeschreibung
+* [(x)] Charaktere / Figuren
+* [( )] Plattform
+* [( )] Genre
+
+---
+
+## Von den Kernentitäten zur strukturierten Visualisierung
+
+Die bisherigen Fragen haben verdeutlicht, welche Kernentitäten der Beispieldomäne relevant sind und wie sie fachlich eingeordnet werden können.
+
+Im nächsten Schritt geht es nicht mehr um das Erkennen oder Benennen von Merkmalen, sondern darum, diese Auswahl in eine **formale Struktur** zu überführen:
+
+* Welche Entitäten werden tatsächlich modelliert?
+* Wie werden sie semantisch korrekt miteinander verknüpft?
+* Wie entsteht daraus eine Struktur, die später als **Pfad im WissKI Pathbuilder** nutzbar ist?
+
+Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io** umgesetzt.  
+
+Es entsteht ein semantisches Modell als Grundlage für die Erstellung von Pfaden im WissKI Pathbuilder, in dem die Kernentitäten und ihre Beziehungen der Beispieldomäne **auf Basis des CIDOC CRM** visualisiert werden.
+
+---
+
+### Beispielergebnis
 
 <table>
   <tr>
@@ -153,5 +216,6 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 
 

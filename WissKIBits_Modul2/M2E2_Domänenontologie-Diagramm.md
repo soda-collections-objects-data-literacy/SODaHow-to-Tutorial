@@ -48,35 +48,34 @@ Lernziel
 * Software zur Visualisierung einer Domänenontologie benennen und erläutern.(LZ-ID SODa\_03\_007\_0812 und LZ-ID SODa\_03\_007\_0813)
 * Nutzen einer Software zur Visualisierung einer Domänenontologie benennen.(LZ-ID SODa\_03\_007\_0814) 
 * Software zur Visualisierung einer Domänenontologie unter Anleitung anwenden. (LZ-ID SODa\_03\_007\_0815)
-* Methoden zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware benennen. (LZ-ID SODa\_03\_007\_0784b)
-* Methoden zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware anwenden. (LZ-ID SODa\_007\_0816)
-* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa\_03\_007\_0780a)
+* Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware benennen. (LZ-ID SODa\_03\_007\_0784b) checken
+* Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware anwenden. (LZ-ID SODa\_007\_0816) checken
 * Attributwerte an vordefinierten Klassen der Domänenontologie in einer Visualisierungssoftware anwenden. (LZ-ID SODa\_03\_007\_0817)
 
 
 ---
 
-## Visualisierung mit Draw.io ?
+## Visualisierung mit Draw.io 
 
-**Visualisierungen** sind ein bedeutender Zwischenschritt und ein wesentliches Werkzeug, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis semantischer Strukturen zu fördern.**
+**Visualisierungen** sind ein bedeutender Zwischenschritt und ein wesentliches Werkzeug, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis semantischer Strukturen zu treffen und fördern.**
 
 Das Modellieren in Draw.io ist **nicht nur eine visuelle Übung**. Das  Draw.io-Diagramm bildet die **Voraussetzung für die (halb-)automatisierte Pipeline** zur Erstellung eines **Pathbuilders** in WissKI.
 
-Das Draw.io-Diagramm wird dabei als **XML-Datei** exportiert und enthält bereits strukturierte Informationen zu **Klassen, Relationen und Gruppen**. 
+Das Draw.io-Diagramm wird dabei als **XML-Datei** exportiert und enthält bereits strukturierte Informationen zu **Klassen (Entities) und Beziehungen (Properties) der Pfade und etwaige Pfadgruppen**. 
 
-Dadurch kann es **automatisiert weiterverarbeitet** und in konsistente **WissKI-Pathbuilder-Strukturen** überführt werden.
+Dadurch kann das Diagramm **automatisiert weiterverarbeitet** und in konsistente **WissKI-Pathbuilder-Strukturen** überführt werden.
 
 ---
 
 ## Nutzen von Draw.io 
 
-* **Entitätsklassen und ihre Beziehungen** klar zu definieren,
+* **Klassen (Entities) und ihre Beziehungen (Properties)** klar zu definieren,
 * **Domänenlogik und semantische Zusammenhänge** sichtbar und diskutierbar zu machen,  
 * Modelle **kollaborativ und transparent** zu entwickeln,  
 * die **Ontologiestruktur vor dem Import in WissKI** zu prüfen,  
 * und **semantische Entscheidungen** zu reflektieren und abzusichern.
 
-Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert:innen, Datenmodellierenden und Entwickler:innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar bleiben.
+Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert:innen, Datenmodellierenden und Entwickler:innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar sind und bleiben.
 
 ---
 
@@ -84,7 +83,7 @@ Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwisc
 
 In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwickelt:
 
-* In **Einheit 5** wurden *zentralen Kernentitäten* eines Beispielobjektes aus der Computerspiel-Domäne identifiziert. 
+* In **Einheit 5** wurden *zentralen Kernentitäten (Core Entities)* eines Beispielobjektes aus der Computerspiel-Domäne identifiziert. 
 * In **Einheit 6** wurde gezeigt, wie die Top-Level Ontologie CIDOC CRM um *domänenspezifische Subklassen* erweitert wird.  
 
 Zur Orientierung und zum Nachlesen:
@@ -128,15 +127,15 @@ Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
 [[X]] Genre
 [[X]] Edition
 [[X]] Plattform
-[[ ]] Genre
+[[X]] Narrative Elemente
 
 
 Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 
 [[X]] Perspektive
 [[X]] Spielbeschreibung
-[[ ]] Charaktere
-[[X]] Plattform
+[[X]] Charaktere
+[[ ]] Plattform
 [[ ]] Genre
 
 ---
@@ -145,35 +144,22 @@ Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 
 Die bisherigen Fragen haben verdeutlicht, welche Kernentitäten der Beispieldomäne relevant sind und wie sie fachlich eingeordnet werden können.
 
-Im nächsten Schritt geht es nicht mehr um das Erkennen oder Benennen von Merkmalen, sondern darum, diese Auswahl in eine **formale Struktur** zu überführen:
+Im nächsten Schritt geht es nicht mehr um das Erkennen oder Benennen von Kernentitäten, sondern darum, diese Auswahl in eine **formale Pfadstruktur** zu überführen:
 
-* Welche Entitäten werden tatsächlich modelliert?
-* Wie werden sie semantisch korrekt miteinander verknüpft?
-* Wie entsteht daraus eine Struktur, die später als **Pfad im WissKI Pathbuilder** nutzbar ist?
+* Wie werden die Kernentitäten semantisch korrekt miteinander verknüpft?
+* Wie entsteht daraus eine formale Pfadstruktur, die später in Form von **Pfaden und Pfadgruppe im WissKI Pathbuilder** nutzbar ist?
 
 Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io** umgesetzt.  
 
-Es entsteht ein semantisches Modell als Grundlage für die Erstellung von Pfaden im WissKI Pathbuilder, in dem die Kernentitäten und ihre Beziehungen der Beispieldomäne **auf Basis des CIDOC CRM** visualisiert werden.
-
 ---
 
-### Beispielergebnis
-
-<table>
-  <tr>
-    <td><img src="../img/SODa_Modul2.drawio.png" alt="Visuelle Repräsentation" width="100%"></td>
-  </tr>
-</table>
-
----
-
-## Methoden zur Visualisierung mit Draw.io 
+## Regeln zur Visualisierung mit Draw.io 
 
 * Es werden keine individuellen Instanzen abgebildet.
 * Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
-* Die semantischen Relationen sind aus dem CIDOC CRM abzuleiten.
-* Es sind vollständige Pfade zu erstellen.
-* Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element_id**, **group_name** und **name** zugewiesen.  
+* Die Beziehungen aus dem CIDOC CRM.
+* Es sind vollständige Pfade zu erstellen. ()
+* Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element\_id**, **group\_name** und **name** zugewiesen. (
 
 ---
 
@@ -209,6 +195,16 @@ Auswahl:
 ---
 
 
+
+---
+
+### Beispielergebnis
+
+<table>
+  <tr>
+    <td><img src="../img/SODa_Modul2.drawio.png" alt="Visuelle Repräsentation" width="100%"></td>
+  </tr>
+</table>
 
 
 

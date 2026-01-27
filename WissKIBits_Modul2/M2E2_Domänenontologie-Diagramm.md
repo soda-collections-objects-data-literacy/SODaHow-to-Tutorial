@@ -135,6 +135,12 @@ Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
  [( )] Genre
 
 
+[[ ]] Antwort 1
+[[X]] Antwort 2
+[[ ]] Antwort 3
+[[X]] Antwort 4
+[[ ]] Antwort 5
+
 ---
 
 ## Von den Kernentitäten zur strukturierten Visualisierung
@@ -191,6 +197,7 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 
 
 

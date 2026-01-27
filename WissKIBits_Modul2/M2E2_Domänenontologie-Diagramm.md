@@ -169,20 +169,22 @@ Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io*
 
 ## Aufgabe (Gruppenarbeit – 20 Min.)
 
-Das bereitgestellte Diagramm enthält gezielte Lücken (fehlende Knoten/Kanten), die zu ergänzen sind. 
+Die Aufteilung in Breakout-Räume findet zufällig statt (6x3er Gruppe und 1x4er Gruppe).
 
-Lücken sind durch geeignete Klassen (Entities) und passende Beziehungen (Properties) zu schließen; temporäre Platzhalter (???) sind nach der Ergänzung zu entfernen.
+Das bereitgestellte Diagramm enthält gezielt Lücken (fehlende Knoten/Kanten), die zu ergänzen sind. 
 
-Ablauf:
+Diese Lücken sind durch geeignete Klassen (Entities) und passende Beziehungen (Properties) zu schließen.
 
-* Die vorbereitete Draw.io-Datei runterladen ([hier](../assets/M2E2_Gruppenarbeit.drawio.xml)
+Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
+
+**Ablauf:**
+
+* Die vorbereitete Draw.io-Datei runterladen ([hier](../assets/M2E2_Gruppenarbeit.drawio.xml))
 * Die heruntergeladene Draw.io-Datei in Draw.io importieren (hier: https://app.diagrams.net/)
 * Das Domänenontologie-Diagramm vervollständigen (siehe Auswahl) 
 * Attributwerte an Startknoten, jedem Gruppenknoten und Endknoten prüfen
 
-Die Aufteilung in Breakout-Räume findet zufällig statt (6x3er Gruppe und 1x4er Gruppe).
-
-Auswahl:
+**Auswahl:**
 
 * P102_has_title
 * P1 is identified by
@@ -193,11 +195,8 @@ Auswahl:
 **Ressourcen**
 
 * Domänenontologie: [http://games.m-e-g-a.org/game_domain.rdf](http://games.m-e-g-a.org/game_domain.rdf)
-* Für semantische Beziehungen: PDF-Datei: [https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf) und HTML-Link: [https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html)
-
-
----
-
+* Für semantische Beziehungen: PDF-Datei: [https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf)
+* Alternative zur PDF-Datei ein HTML-Darstellung: [https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html)
 
 
 ---
@@ -206,9 +205,10 @@ Auswahl:
 
 <table>
   <tr>
-    <td><img src="../img/SODa_Modul2.drawio.png" alt="Visuelle Repräsentation" width="100%"></td>
+    <td><img src="..../assets/Modul2.drawio.png" width="100%"></td>
   </tr>
 </table>
+
 
 
 

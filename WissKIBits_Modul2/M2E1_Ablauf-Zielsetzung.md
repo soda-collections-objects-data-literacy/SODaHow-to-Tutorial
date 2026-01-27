@@ -58,7 +58,9 @@ Lernziel
 >
 > Im Modul 2: **Vom Diagramm zu Pfaden – erläutern, validieren und anwenden** wird das entworfene Datenmodell in Modul 1 in ein CIDOC CRM-basierte Pfadstruktur überführt:
 >
-> Aus dem in *Draw.io* erstellten semantischen Modell wird eine *WissKI Pathbuilder*-Datei generiert. Auf diese Weise wird die konzeptionelle Domänenontologie in eine in WissKI nutzbare Graphstruktur überführt, die als Grundlage für die Arbeit und Analyse graphbasierten Forschungsdaten dient.  
+> Aus dem in *Draw.io* erstellten semantischen Modell wird eine *WissKI Pathbuilder*-Datei generiert. Auf diese Weise wird die konzeptionelle Domänenontologie in eine in WissKI nutzbare Graphstruktur überführt.
+>
+> Diese dient dann als Grundlage für die Arbeit und Analyse graphbasierten Forschungsdaten dient.  
 >
 > Ziel ist es, die fachliche Domänenlogik so präzise abzubilden, dass das Datenmodell konsistent umgesetzt, nachvollziehbar erweitert und gezielt abgefragt werden kann.
 >
@@ -136,15 +138,27 @@ Eine Einführung in diese Themen bietet Modul 1.
 
 ## Aktivierung und Input
 
+In Modul 1 wurde festgelegt, welche Information dokumentiert sein sollte. Wir blicken nochmal auf die erste Aktivierungsübung (M1E1) zurück.
+
+[Vorlage öffnen](../assets/M1E1_Aktivierung.docx)
+
+oder 
+
+[Miro Board öffnen]()
+
+
 **Impulsfrage** 
 
-Wenn eure Daten in WissKI modelliert sind: Welche Analysefrage muss zuverlässig beantworten werden?
+Welche Frage fallen euch zu dem Gegenstandsbereich ein und sollten zuverlässig beantworten werden?
 
 **Zuruf im Plenum**
 
-Abfragewünsche sammeln:
+Abfragewünsche werden gesammelt und zur Aktivierungsaufgabe (M1E1) ergänzt:
 
-„Wir wollen finden…“
+* „Wir wollen finden…“
+
+
+---
 
 ### Lösungsbeispiele aus dem Spielekontext
 
@@ -155,6 +169,7 @@ _Hilfestellung – nicht vorgeben_
 * „… alle Spiele bzw. Spielversionen aus einem Zeitraum X oder einer Region/Plattform Y.“
 * „… Spiele mit ähnlichen Merkmalen (z. B. ähnliche Beschreibung, ähnliche Einordnung, ähnliche Eigenschaften).“
 
+---
 
 ### Lösungsbeispiele 
 
@@ -166,17 +181,16 @@ _Hilfestellung – nicht vorgeben_
 
 **In Pfaden denken**
 
-Bausteine für ein Domänenmodell:
+Schaut nochmal auf die Modellskizze aus der Modellierungsübung (M1E5) und prüft: 
 
-* Startknoten (z. B. Objekt)
-* Ereignisknoten (z. B. Erwerb / Herstellung)
-* Kontextknoten (Ort / Zeit / Akteur:in + Rolle)
+* "Welche Frage ist beantwortbar? Bennent den/die Pfad/e."
+*  "Wo startet die Anfrage?"
 
 ---
 
 ## Zusammenfassung
 
-Aus dem konzeptuellen Domänenmodell entstehen in Modul 2 Pfade, also eine valide domänenspezifische Ontologiestruktur im WissKI-Pathbuilder, mit der die Fragen beantwortet werden können.
+Aus dem konzeptuellen Domänenmodell entstehen in Modul 2 formalisierte Pfade, also eine valide domänenspezifische Ontologiestruktur für den WissKI-Pathbuilder, mit der die Fragen beantwortet werden können.
 
 
 

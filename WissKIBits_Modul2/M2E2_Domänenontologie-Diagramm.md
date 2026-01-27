@@ -57,23 +57,27 @@ Lernziel
 
 ## Visualisierung mit Draw.io 
 
-**Visualisierungen** sind ein bedeutender Zwischenschritt und ein wesentliches Werkzeug, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis semantischer Strukturen zu treffen und fördern.**
+**Visualisierungen** sind ein bedeutender Zwischenschritt und ein wesentliches Werkzeug, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu treffen und zu fördern.**
 
-Das Modellieren in Draw.io ist **nicht nur eine visuelle Übung**. Das  Draw.io-Diagramm bildet die **Voraussetzung für die (halb-)automatisierte Pipeline** zur Erstellung eines **Pathbuilders** in WissKI.
+Das Visualisieren in Draw.io ist nicht nur eine **visuelle Übung**, sondern goleichzeitig ein **expliziter Modellierungsschritt**.
 
-Das Draw.io-Diagramm wird dabei als **XML-Datei** exportiert und enthält bereits strukturierte Informationen zu **Klassen (Entities) und Beziehungen (Properties) der Pfade und etwaige Pfadgruppen**. 
+Das entstehende Draw.io-Diagramm bildet die **Voraussetzung für die (halb-)automatisierte Pipeline** zur Erstellung eines **WissKI Pathbuilders**.
 
-Dadurch kann das Diagramm **automatisiert weiterverarbeitet** und in konsistente **WissKI-Pathbuilder-Strukturen** überführt werden.
+Das Diagramm wird als XML-Datei exportiert und repräsentiert strukturierte Modellierungsentscheidungen zu Klassen (Entities) und Beziehungen (Properties), aus denen die Pfade und Pfadgruppen des WissKI-Pathbuilders hervorgehen.
+
+Dadurch kann das Diagramm **automatisiert weiterverarbeitet** und in einen konsistenten **WissKI-Pathbuilder** überführt werden.
 
 ---
 
-## Nutzen von Draw.io 
+## Der Nutzen von Draw.io 
 
-* **Klassen (Entities) und ihre Beziehungen (Properties)** klar zu definieren,
-* **Domänenlogik und semantische Zusammenhänge** sichtbar und diskutierbar zu machen,  
-* Modelle **kollaborativ und transparent** zu entwickeln,  
-* die **Ontologiestruktur vor dem Import in WissKI** zu prüfen,  
-* und **semantische Entscheidungen** zu reflektieren und abzusichern.
+Mit Draw.io lassen/lässt sich...
+
+* **Klassen (Entities) und ihre Beziehungen (Properties)** klar definieren,
+* eine **Domänenlogik mit ihren semantischen Zusammenhängen** sichtbar und diskutierbar machen,  
+* Domänenmodelle **kollaborativ und transparent** entwickeln,  
+* eine **Domänenontologie vor dem Import in WissKI** prüfen,  
+* **semantische Modellierungsentscheidungen** reflektieren und absichern.
 
 Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert:innen, Datenmodellierenden und Entwickler:innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar sind und bleiben.
 
@@ -205,6 +209,7 @@ Auswahl:
     <td><img src="../img/SODa_Modul2.drawio.png" alt="Visuelle Repräsentation" width="100%"></td>
   </tr>
 </table>
+
 
 
 

@@ -60,7 +60,7 @@ Lernziel
 >
 > Aus dem in *Draw.io* erstellten semantischen Modell wird eine *WissKI Pathbuilder*-Datei generiert. Auf diese Weise wird die konzeptionelle Domänenontologie in eine in WissKI nutzbare Graphstruktur überführt.
 >
-> Diese dient dann als Grundlage für die Arbeit und Analyse graphbasierten Forschungsdaten dient.  
+> Diese dient dann als Grundlage für die Arbeit und Analyse graphbasierten Forschungsdaten.  
 >
 > Ziel ist es, die fachliche Domänenlogik so präzise abzubilden, dass das Datenmodell konsistent umgesetzt, nachvollziehbar erweitert und gezielt abgefragt werden kann.
 >
@@ -68,18 +68,18 @@ Lernziel
 >
 > An einem Beispiel wird aus der Sammlungsperspektive eine Modellperspektive erarbeitet und so die Grundlage für die Visualisierung in einem Diagramm und die spätere Umsetzung in WissKI geschaffen.
 >
-> In den weiterführenden Einheiten wird dieser anleitende Ansatz um selbstgesteuerte Lernphasen ergänzt, in denen das eigene Wissen vertieft, eigene Forschungsdaten modelliert und die erlernten Methoden auf individuelle Forschungskontexte anwendendet werden können.
+> In den weiterführenden Einheiten wird dieser anleitende Ansatz um selbstgesteuerte Lernphasen ergänzt, in denen das eigene Wissen vertieft, eigene Forschungsdaten modelliert und die erlernten Methoden auf individuelle Forschungskontexte angewendet werden können.
 
 ---
 
 ## Zielsetzung des Moduls
 
-In Modul 2 wird die konzeptionelle Basis schrittweise eine Domänenlogik als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI überführt.
+In Modul 2 wird die konzeptionelle Basis schrittweise in eine Domänenlogik als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI überführt.
  
 
 * Die Domänenlogik wird als semantisches Modell mit Pfaden in Draw.io visualisiert.
 * Die Visualisierung wird auf syntaktische Gültigkeit anhand CIDCO-CRM überprüft und in ein nachnutzbares Dateiformat überführt.
-* Die domänenspezifische Ontologiestruktur wird in die WissKI importiert, dort validiert und für die Analysen vorbereitet.
+* Die domänenspezifische Ontologiestruktur wird in WissKI importiert, dort validiert und für die Analyse vorbereitet.
 
 ---
 
@@ -150,7 +150,7 @@ oder
 
 **Impulsfrage** 
 
-Welche Frage fallen euch zu dem Gegenstandsbereich ein und sollten zuverlässig beantworten werden?
+Welche Fragen fallen euch zu dem Gegenstandsbereich ein und sollten zuverlässig beantworten werden?
 
 **Zuruf im Plenum**
 
@@ -182,9 +182,9 @@ _Hilfestellung – nicht vorgeben_
 
 **In Pfaden denken**
 
-Schaut nochmal auf die Modellskizze aus der Modellierungsübung (M1E5) und prüft: 
+Schaut noch einmal auf die Modellskizze aus der Modellierungsübung (M1E5) und prüft: 
 
-* "Welche Frage ist beantwortbar? Bennent den/die Pfad/e."
+* "Welche Frage ist beantwortbar? Benennt den/die Pfad/e."
 *  "Wo startet die Anfrage?"
 
 ---

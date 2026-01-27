@@ -177,17 +177,29 @@ Es entsteht ein semantisches Modell als Grundlage für die Erstellung von Pfaden
 
 ---
 
-## Aufgabe (Partnerarbeit – 20 Min.)
+## Aufgabe (Gruppenarbeit – 20 Min.)
 
-Das bereitgestellte Diagramm enthält gezielte Lücken (fehlende Knoten/Beziehungen), die zu ergänzen sind. 
+Das bereitgestellte Diagramm enthält gezielte Lücken (fehlende Knoten/Kanten), die zu ergänzen sind. 
 
-Lücken sind durch geeignete Klassen und passende Properties zu schließen; temporäre Platzhalter (???) sind nach der Ergänzung zu entfernen.
+Lücken sind durch geeignete Klassen (Entities) und passende Beziehungen (Properties) zu schließen; temporäre Platzhalter (???) sind nach der Ergänzung zu entfernen.
 
-* Die vorbereitete Draw.io-Datei runterladen (hier: https://github.com/soda-collections-objects-data-literacy/SODa_WissKI-ISWC25Bits  in "contentConcept/assets"; Für Anfänger "Gruppe_A.drawio.xml" und für Experten "Gruppe_E.drawio.xml")
+Ablauf:
+
+* Die vorbereitete Draw.io-Datei runterladen (hier: xxx in "contentConcept/assets"
 * Die heruntergeladene Draw.io-Datei in Draw.io importieren (hier: https://app.diagrams.net/)
-* Das Domänenontologie-Diagramm vervollständigen
+* Das Domänenontologie-Diagramm vervollständigen (siehe Auswahl) 
 * Attributwerte an Startknoten, jedem Gruppenknoten und Endknoten prüfen
 
+Die Aufteilung in Breakout-Räume findet zufällig statt (6x3er Gruppe und 1x4er Gruppe).
+
+Auswahl:
+
+* P102_has_title
+* P1 is identified by
+* P190 has symbolic content
+* mega:E41_Game_Character_Name
+
+  
 **Ressourcen**
 
 * Domänenontologie: [http://games.m-e-g-a.org/game_domain.rdf](http://games.m-e-g-a.org/game_domain.rdf)
@@ -195,6 +207,7 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 
 
 

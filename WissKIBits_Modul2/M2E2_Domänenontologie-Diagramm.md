@@ -84,37 +84,15 @@ Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwisc
 
 In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwickelt:
 
-* In **Einheit 5** wurden *zentralen Entitäten und Beziehungen* am Beispiel eines Computerspiels identifiziert.  
+* In **Einheit 5** wurden *zentralen Entitäten und Beziehungen* am Beispiel eines Computerspiels identifiziert. 
 * In **Einheit 6** wurde gezeigt, wie die Top-Level Ontologie CIDOC CRM um *domänenspezifische Subklassen* erweitert wird.  
 
----
+Zur Orientierung und zum Nachlesen:
 
-### Beispielobjekt (link auf Modul1?)
-
-**Super Nintendo Entertainment System (SNES) Spiel: The Legend of Zelda**
-
-| Darstellung | Beschreibung |
-|------------|--------------|
-| **Objekt** | ![Zelda Spiel](../img/zelda_smal.png) |
-| **Semantische Annahme** | Titel des Objekts: *The Legend of Zelda: A Link to the Past* |
-| **Draw.io Modell** | ![draw.io Diagramm](../img/drawio_modell.png) |
-| **WissKI Pathbuilder** | ![WissKI Pathbuilder](../img/pathbuilder.PNG) |
-
----
-
-### Auswahl und Festlegung von Kernentitäten (link auf Modul1?)
-
-**Beispiele für Spielmerkmale**
-
-* Plattform (z. B. Nintendo 64, PlayStation, PC)
-* Genre (z. B. Action-Adventure, RPG)
-* Edition oder Version (z. B. Collector’s Edition, Remastered)
-
-**Beispiele für narrative Elemente**
-
-* Perspektive (z. B. First-Person, Third-Person)
-* Spielbeschreibung
-* Charaktere / Figuren
+* Beispielobjekt:  
+  https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E2_Analyse-Workflow.md#beispielobjekt
+* Beispiele für Kernentitäten (Spielmerkmale und narrative Elemente):  
+  https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E5_Dom%C3%A4nenanalyse.md#fokus-dieser-modellierungs%C3%BCbung
 
 ---
 
@@ -213,6 +191,7 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 
 
 

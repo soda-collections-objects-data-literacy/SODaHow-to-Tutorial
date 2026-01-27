@@ -56,7 +56,7 @@ Lernziel
 
 ---
 
-## Warum Draw.io ?
+## Visualisierung mit Draw.io ?
 
 **Visualisierungen** sind ein bedeutender Zwischenschritt und ein wesentliches Werkzeug, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis semantischer Strukturen zu fördern.**
 
@@ -68,7 +68,7 @@ Dadurch kann es **automatisiert weiterverarbeitet** und in konsistente **WissKI-
 
 ---
 
-## Draw.io unterstützt dabei...
+## Nutzen von Draw.io 
 
 * **Entitätsklassen und ihre Beziehungen** klar zu definieren,
 * **Domänenlogik und semantische Zusammenhänge** sichtbar und diskutierbar zu machen,  
@@ -96,11 +96,13 @@ Zur Orientierung und zum Nachlesen:
 
 ---
 
-## Quiz: Beispielobjekt & Kernentitäten 
+## Quizzes: Beispielobjekt & Kernentitäten 
 
 Wissen aus Modul 1 (E5/E6) wird aktiviert.
 
-**Quizfragen** (Single Choice)
+----
+
+### Quizfragen (Single Choice)
 
 Welches Beispielobjekt wird im Modul verwendet? 
 
@@ -116,7 +118,9 @@ Welche semantische Annahme wird im Beispiel explizit gemacht?
 * [( )] Das Spiel ist eine „Collector’s Edition“
 * [( )] Die Plattform ist „PC“
 
-**Quizfragen** (Multiple Choice)
+----
+
+### Quizfragen (Multiple Choice)
 
 Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
 
@@ -129,14 +133,11 @@ Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
 
 Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 
-
 [[X]] Perspektive
 [[X]] Spielbeschreibung
 [[ ]] Charaktere
 [[X]] Plattform
 [[ ]] Genre
-
-
 
 ---
 
@@ -166,7 +167,7 @@ Es entsteht ein semantisches Modell als Grundlage für die Erstellung von Pfaden
 
 ---
 
-## Anforderungen an das Arbeiten mit Draw.io (Methoden)
+## Methoden zur Visualisierung mit Draw.io 
 
 * Es werden keine individuellen Instanzen abgebildet.
 * Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
@@ -194,6 +195,7 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 
 
 

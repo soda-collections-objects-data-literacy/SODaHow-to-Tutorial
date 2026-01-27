@@ -120,16 +120,17 @@ Welche semantische Annahme wird im Beispiel explizit gemacht?
 
 Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
 
- [(x)] Plattform
- [(x)] Genre
- [(x)] Edition/Version
- [( )] Spielbeschreibung
- [( )] Charaktere / Figuren
+[[ ]] Perspektive
+[[X]] Genre
+[[X]] Edition
+[[X]] Plattform
+[[ ]] Genre
+
 
 Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 
 
-[[ ]] Perspektive
+[[X]] Perspektive
 [[X]] Spielbeschreibung
 [[ ]] Charaktere
 [[X]] Plattform
@@ -193,6 +194,7 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 
 
 

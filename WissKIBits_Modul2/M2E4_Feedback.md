@@ -44,42 +44,15 @@ Dauer: ~ 15 Min.
 
 ---
 
-**WissKI Data Editor** für...
-
-* Dateneingabe, -import und -anreicherung 
-* Datenintegration, Qualitätssicherung und Standardisierung
-* Datensuche und -abfrage
-* Datenpublikation als Linked Open Data
-
-**WissKI Technisches admin Personal** für die (erweiterte) WissKI-Konfiguration, wie 
-
-* Anpassung der Ansichten im Web-Frontend
-* SOLR Search
-
----
-
-
 ## Kurzes Feedback
 
 Euer Feedback ist wertvoll.
 
-<table>
-  <tr>
-    <td><img src="../assets/feedback_menti.jpg" alt="Feedback" width="100%"></td>
-  </tr>
-</table>
+![Feedback](../assets/M2E3_Reflexion.jpg)
 
 ---
 
-## Offene Diskussionsimpulse
 
-* Was hat gut funktioniert?  
-* Was war herausfordernd?
-* Was war der größte *Aha!*-Moment heute?  
-* Was war hilfreich?
-* Was ist auch im eigenen Projektkontext anwendbar?
-* Wo bestehen noch Unsicherheiten?  
 
-* Wie zuversichtlich fühlt ihr euch für die nächsten Schritte in der WissKI-Implementierung?
 
 

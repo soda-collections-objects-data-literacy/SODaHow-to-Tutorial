@@ -84,7 +84,7 @@ Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwisc
 
 In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwickelt:
 
-* In **Einheit 5** wurden *zentralen Entitäten und Beziehungen* am Beispiel eines Computerspiels identifiziert. 
+* In **Einheit 5** wurden *zentralen Kernentitäten* eines Beispielobjektes aus der Computerspiel-Domäne identifiziert. 
 * In **Einheit 6** wurde gezeigt, wie die Top-Level Ontologie CIDOC CRM um *domänenspezifische Subklassen* erweitert wird.  
 
 Zur Orientierung und zum Nachlesen:
@@ -121,9 +121,13 @@ Welche semantische Annahme wird im Beispiel explizit gemacht?
 Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
 
  [(x)] Plattform
+ 
  [(x)] Genre
+ 
  [(x)] Edition/Version
+ 
  [( )] Spielbeschreibung
+ 
  [( )] Charaktere / Figuren
 
 Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
@@ -140,6 +144,32 @@ Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 [[ ]] Antwort 3
 [[X]] Antwort 4
 [[ ]] Antwort 5
+
+
+## Quizfragen: Narrative Elemente oder nicht?
+
+### Perspektive ist ein narratives Element.
+- [(x)] Ja
+- [( )] Nein
+
+### Spielbeschreibung ist ein narratives Element.
+- [(x)] Ja
+- [( )] Nein
+
+### Charaktere / Figuren sind narrative Elemente.
+- [(x)] Ja
+- [( )] Nein
+
+### Plattform ist ein narratives Element.
+- [( )] Ja
+- [(x)] Nein
+
+### Genre ist ein narratives Element.
+- [( )] Ja
+- [(x)] Nein
+
+
+
 
 ---
 
@@ -197,6 +227,7 @@ Lücken sind durch geeignete Klassen und passende Properties zu schließen; temp
 
 
 ---
+
 
 
 

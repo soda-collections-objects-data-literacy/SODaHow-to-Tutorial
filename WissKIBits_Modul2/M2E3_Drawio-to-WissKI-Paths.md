@@ -118,10 +118,8 @@ Teil 1
 * [Draw.io diagrams to WissKI pathbuilders Web Service](https://isl.ics.forth.gr/gnm_services/drawioXMLtoWisskiPathbuilder/)
 * [CIDOC CRM](http://erlangen-crm.org/240307/)
 * [Games ontology](http://games.m-e-g-a.org/game_domain.rdf)
-* ([Beispiel-Draw.io-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/SODa_ISWC2025.drawio.xml)) funktioniert gerade nicht
-* ([Beispiel-Draw.io-Diagramm](https://drive.google.com/file/d/1CzgpEMxGYmfUgI2LUh0J-cbfsfW82T3f/view?usp=sharing))
-* ([Beispiel output Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml))
-  
+* [Beispiel output Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml)
+
 
 ---
 
@@ -147,6 +145,7 @@ Der [FORTH-ICS-Webdienst](https://isl.ics.forth.gr/gnm_services/):
 
 
 ---
+
 
 
 

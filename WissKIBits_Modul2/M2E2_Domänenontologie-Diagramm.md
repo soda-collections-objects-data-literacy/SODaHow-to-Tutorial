@@ -97,11 +97,6 @@ Zur Orientierung und zum Nachlesen:
 * Beispiele für Kernentitäten (Spielmerkmale und narrative Elemente):  
   https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E5_Dom%C3%A4nenanalyse.md#fokus-dieser-modellierungs%C3%BCbung
 
----
-
-## Quizzes: Beispielobjekt & Kernentitäten 
-
-Wissen aus Modul 1 (E5/E6) wird aktiviert.
 
 ----
 
@@ -208,6 +203,7 @@ Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
     <td><img src="..../assets/Modul2.drawio.png" width="100%"></td>
   </tr>
 </table>
+
 
 
 

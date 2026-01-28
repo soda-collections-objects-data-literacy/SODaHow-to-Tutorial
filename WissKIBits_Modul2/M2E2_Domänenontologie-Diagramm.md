@@ -200,9 +200,10 @@ Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
 
 <table>
   <tr>
-    <td><img src="..../assets/SODa_ISWC2025.drawio.png" width="100%"></td>
+    <td><img src="../assets/SODa_ISWC2025.drawio.png" width="100%"></td>
   </tr>
 </table>
+
 
 
 

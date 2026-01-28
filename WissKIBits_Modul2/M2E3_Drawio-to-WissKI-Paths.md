@@ -58,9 +58,9 @@ Der Pathbuilder bildet die **Implementierungsschicht von WissKI**.
 
 Anstelle klassischer, relationaler Datenbanktabellen arbeitet WissKI mit semantischen Pfaden, die aus Klassenbeziehungen konstruiert werden. 
 
-Diese **Pfade definieren die interne Ontologiestruktur von WissKI** und steuern, wie Daten erfasst, gespeichert, verknüpft und abgefragt werden.
+Diese **Pfade definieren die interne Domänenontologie von WissKI** und steuern, wie Daten erfasst, gespeichert, verknüpft und abgefragt werden.
 
-Im Gegensatz zu einer Ontologie-Datei (z.B. in RDF oder OWL), die Klassen und Beziehungen nur beschreibt, übersetzt der Pathbuilder diese semantischen Strukturen in konkrete, implementierbare Pfade, die in WissKI für folgende Zwecke genutzt werden:
+Im Gegensatz zu einer Ontologie (z.B. in RDF oder OWL), die Klassen und Beziehungen nur beschreibt, übersetzt der Pathbuilder diese semantischen Strukturen in konkrete Pfade und Pfadgruppen, die in WissKI für folgende Zwecke genutzt werden:
 
 * Aufbau und Verwaltung des RDF-Wissensgraphen,
 * ontologiekonforme Datenspeicherung und -abfrage
@@ -93,28 +93,35 @@ Dieser Prozess überbrückt die Lücke zwischen der Modellierung einer Domäneno
 
 ---
 
-## Praktische Aufgabe (Partnerarbeit – 20 Min.)
+## Praktische Aufgabe (Gruppenarbeit– 20 Min.)
+
+Teil 1 
 
 | Nr. | Schrittbeschreibung |
 | --- | ------------------- |
-| 1 | Export des Draw.io-Modells als .xml-Datei |
-| 2 | Hochladen in "Draw.io diagrams to WissKI pathbuilders" Web Service |
-| 3 | Pathbuilder-XML-Datei generieren und Link-Adresse kopieren  |
-| 4 | In WissKI einloggen |
-| 5 | Prüfen, ob in WissKI bereits CIDOC CRM geladen ist, siehe „Configuration/Ontology/Default WissKI Distillery Adapter“ |
-| 6 | Zu „Configuration/Pathbuilder“ navigieren |
-| 7 | Neuen Pathbuilder hinzufügen „Add Pathbuilder“, Name vergeben und speichern |
-| 8 | Unter „Pathbuilder Definition Import“ zuvor kopierte Link-Adresse einfügen und „Import“ klicken |
-| 9 | Die erzeugten semantischen Pfade prüfen |
-| 10 | Ergebnis: WissKI Pathbuilder auf Basis des eigenen Domänenmodells |
+| 1 | "Draw.io diagrams to WissKI pathbuilders" Web Service öffnen |
+| x | Beispiel-Draw.io-XML-Datei herunter laden |
+| x | Beispiel-Draw.io-XML-Datei in "Upload draw.io XML file for conversion to WissKI Pathbuilder XML:" hochladen |
+| 2 | Linkadresse von Beispiel output Pathbuilder-XML kopieren|
+| 3 | In WissKI einloggen |
+| 4 | Prüfen, ob in WissKI bereits CIDOC CRM geladen ist, siehe „Configuration/Ontology/Default WissKI Distillery Adapter“ |
+| 5 | Zu „Configuration/Pathbuilder“ navigieren |
+| 6 | Neuen Pathbuilder hinzufügen „Add Pathbuilder“, Name vergeben und speichern |
+| 7 | Unter „Pathbuilder Definition Import“ zuvor kopierte Link-Adresse einfügen und „Import“ klicken |
+| 8 | Die erzeugten semantischen Pfade prüfen |
+| 9 | Ergebnis: WissKI Pathbuilder auf Basis des eigenen Domänenmodells |
+
 
 
 ### Ressourcen
 
+* [Draw.io diagrams to WissKI pathbuilders Web Service](https://isl.ics.forth.gr/gnm_services/drawioXMLtoWisskiPathbuilder/)
+* [CIDOC CRM](http://erlangen-crm.org/240307/)
+* [Games ontology](http://games.m-e-g-a.org/game_domain.rdf)
+* ([Beispiel-Draw.io-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/SODa_ISWC2025.drawio.xml)) funktioniert gerade nicht
 * ([Beispiel-Draw.io-Diagramm](https://drive.google.com/file/d/1CzgpEMxGYmfUgI2LUh0J-cbfsfW82T3f/view?usp=sharing))
-* ([Beispiel-Draw.io-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleInput.xml))
-* [Draw.io diagrams to WissKI pathbuilders](https://isl.ics.forth.gr/gnm_services/)
-* ([Beispiel-Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml))
+* ([Beispiel output Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml))
+  
 
 ---
 
@@ -140,6 +147,7 @@ Der [FORTH-ICS-Webdienst](https://isl.ics.forth.gr/gnm_services/):
 
 
 ---
+
 
 
 

@@ -52,6 +52,9 @@ Dauer: ~ 15 Min.
 
 ## Fazit
 
+Mit der Erstellung von semantischen Pfaden und Pfadgruppen wurde eine grundlegende Struktur in einer WissKI-Instanz aufgebaut.
+
+Damit ist der Übergang von der konzeptionellen Modellierung zur praktischen Anwendung abgeschlossen – WissKI kann nun als semantische Forschungsumgebung genutzt und anforderungsspezifisch weiterentwickelt werden.
 
 
 

@@ -48,7 +48,7 @@ Einheit 7: **Reflexion: Eindrücke, Unsicherheiten und offene Fragen**
 
 ##  Gemeinsame Gesprächsrunde und Reflexion
 
-![Feedback](../assets/M1E7_Reflexion.jpg)
+![Feedback](../assets/M1E7-Reflexion.jpg)
 
 **Fragen:**
 
@@ -72,6 +72,7 @@ Einheit 7: **Reflexion: Eindrücke, Unsicherheiten und offene Fragen**
 Bedeutungsstrukturen werden in der Regel im Austausch — nicht im Alleingang - entwickelt.
 
 An dieser Stelle können noch offen Fragen geklärt werden, bevor es in dem nächsten Modul weitergeht.
+
 
 
 

@@ -50,6 +50,19 @@ Einheit 7: **Reflexion: Eindrücke, Unsicherheiten und offene Fragen**
 
 ![Feedback](../assets/M1E7_Reflexion.jpg)
 
+**Fragen:**
+
+* Wie war der Aufbau und Ablauf des Worhops für Sie?
+* Was hat gut funktioniert? Welche Schritte/Beispiele waren verständlich und unterstützend? 
+* Welche Einheit hat Ihnen am meisten geholfen, das Thema zu verstehen?
+* Was war herausfordernd? Wo gab es Stolperstellen oder Unsicherheiten?
+* Ist das Vorgehen bei der Modellierung klar geworden?
+* Können Sie die heute erlernten Inhalte auf Ihr Projekt übertragen?
+* Wie bewerten Sie das Modul? Sie können insgesamt 100 Punkte vergeben...
+* Wie sicher fühlen Sie sich für das nächste Modul?
+* Mit welchem Gefühl gehen Sie heute aus dem Modul heraus?
+* Was hat Ihnen besonder gut gefallen?
+
 ---
 
 ## Fazit
@@ -59,6 +72,7 @@ Einheit 7: **Reflexion: Eindrücke, Unsicherheiten und offene Fragen**
 Bedeutungsstrukturen werden in der Regel im Austausch — nicht im Alleingang - entwickelt.
 
 An dieser Stelle können noch offen Fragen geklärt werden, bevor es in dem nächsten Modul weitergeht.
+
 
 
 

@@ -144,9 +144,9 @@ Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwinge
 **Blitzrunde im Plenum und Clustering**
 
 * Jede Person nennt genau 1 Punkt: „Für uns ist unverzichtbar, dass …“
-* z.B. „… eine eindeutige Identifizierung durch z. B. Signatur-/Inventarnummer möglich ist.“
+* z.B. „… eine eindeutige Identifizierung durch z. B. Signatur-/Inventarnummer möglich ist.
 
-Die Aussagen wird sichtbar an einem Board in 3 Spalten zugeordnet:
+Die Aussagen wird sichtbar an einem [Board](https://miro.com/app/board/uXjVGKauOtE=/) in 3 Spalten zugeordnet:
 
 * Entitäten (Objekt, Person, Ort, Zeit…)
 * Ereignisse (Herstellung, Nutzung, Erwerb, Fund…)
@@ -170,6 +170,7 @@ _Hilfestellung – nicht vorgeben_
 ## Zusammenfassung
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Entitäten, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.
+
 
 
 

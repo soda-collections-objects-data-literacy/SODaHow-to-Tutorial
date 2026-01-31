@@ -46,7 +46,7 @@ Dauer: ~ 15 Min.
 
 ##  Gemeinsame Gesprächsrunde und Reflexion
 
-![Feedback](../assets/M2E3_Reflexion.jpg)
+![Feedback](../assets/M2E3-Reflexion.jpg)
 
 ---
 
@@ -55,6 +55,7 @@ Dauer: ~ 15 Min.
 Mit der Erstellung von semantischen Pfaden und Pfadgruppen wurde eine grundlegende Struktur in einer WissKI-Instanz aufgebaut.
 
 Damit ist der Übergang von der konzeptionellen Modellierung zur praktischen Anwendung abgeschlossen – WissKI kann nun als semantische Forschungsumgebung genutzt und anforderungsspezifisch weiterentwickelt werden.
+
 
 
 

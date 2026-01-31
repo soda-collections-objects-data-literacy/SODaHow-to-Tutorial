@@ -48,6 +48,18 @@ Dauer: ~ 15 Min.
 
 ![Feedback](../assets/M2E3-Reflexion.jpg)
 
+**Fragen**
+
+* Wie war der Aufbau und Ablauf des Worhops für Sie?
+* Was hat gut funktioniert? Welche Schritte/Beispiele waren verständlich und unterstützend?
+* Welche Einheit hat Ihnen didaktisch am besten gefallen? 
+* Was war herausfordernd? Wo gab es Stolperstellen oder Unsicherheiten?
+* Ist das Vorgehen bei der Visualisierung klar geworden?
+* Können Sie die heute erlernten Inhalte auf Ihr Projekt übertragen?
+* Wie bewerten Sie das Modul? Sie können insgesamt 100 Punkte vergeben...
+* Welche Inhalte würden Sie gerne in weiteren Modulen vertief?
+* Was hat Ihnen besonder gut gefallen?
+
 ---
 
 ## Fazit
@@ -55,6 +67,7 @@ Dauer: ~ 15 Min.
 Mit der Erstellung von semantischen Pfaden und Pfadgruppen wurde eine grundlegende Struktur in einer WissKI-Instanz aufgebaut.
 
 Damit ist der Übergang von der konzeptionellen Modellierung zur praktischen Anwendung abgeschlossen – WissKI kann nun als semantische Forschungsumgebung genutzt und anforderungsspezifisch weiterentwickelt werden.
+
 
 
 

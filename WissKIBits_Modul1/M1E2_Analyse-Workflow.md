@@ -164,8 +164,8 @@ Ontologien entstehen häufig durch eine Kombination aus:
 2. **Objektdaten analysieren** - Konzepte, Ereignisse und Beziehungen im Datenbestand erkennen
 3. **Bedeutungen erfassen** - Konzepte, Ereignisse und Beziehungen im Datenbestand identifizieren
 4. **Zentrale Konzepte und Kontexte bestimmen** - Welche Dinge sind relevant?
-5. **Ableich mit Ontologie (z. B. Referenzmodell CIDOC CRM)** - Konzepte, Ereignisse und Beziehungen semantisch präzisieren und konsistent zuordnen
-7. **Eigenschaften (Properties) formulieren (Graphlogik)** - Was passiert, wer ist beteiligt, wie hängt es zusammen?
+5. **Ableich mit Ontologie (z. B. Referenzmodell CIDOC CRM)** - Konzepte, Ereignisse und Beziehungen semantisch präzisieren und konsistent Klassen (Entities) und Eigenschaften/Beziehungen (Properties) zuordnen
+7. **Eigenschaften/Beziehungen (Properties) formulieren und Klassen (Entities) verbinden (Graphlogik)** - Was passiert, wer ist beteiligt, wie hängt es zusammen?
 -->
 
 ---

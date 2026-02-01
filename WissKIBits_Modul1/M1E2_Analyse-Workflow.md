@@ -73,6 +73,20 @@ Eine **Ontologie** ist eine **formale Beschreibung eines Ausschnitts der Welt** 
 * wie diese Entitäten miteinander in Beziehung stehen,
 * und welche Aussagen über sie sinnvoll sowie widerspruchsfrei modelliert werden können.
 
+<!-- ## Begriff "Ontologie"
+Eine Ontologie ist eine **formale Beschreibung eines Ausschnitts der Welt** bzw. eine **formal definierte Wissensstruktur**, die festlegt,
+
+* welche **Konzepte** von Dingen (z. B. Objekt, Person, Ort, Zeit) und **Ereignisse** in einem Wissensbereich bzw. Fachbereich relevant sind,
+* wie diese Konzepte miteinander **in Beziehung** stehen,
+* und welche **Regeln** gelten, damit **Aussagen** über sie sinnvoll und widerspruchsfrei modelliert werden können.
+
+Ontologien ermöglichen so ein gemeinsames Verständnis zentraler Phänomene, Konzepte und Strukturen in einem Fachbereich, sowohl für Menschen als auch für die maschinelle Verarbeitung.
+
+## Begriff "Domänenontologie"
+
+Eine Domänenontologie ist eine projekt oder -anwendungsspezifische Umsetzung einer Ontologie, die die Konzepte, Ereignisse und Beziehungen innerhalb eines konkreten Fach- oder Anwendungsbereichs (Domäne) beschreibt.
+
+
 ## Nutzen von Ontologien und weiterführende Definitionen
 
 Ontologien helfen damit, fachliches Domänenwissen mit ihrer spezifischen Domänenlogik so zu dokumentieren, dass es maschinenlesbar, vergleichbar und nachnutzbar wird. Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie praktisch als Struktur verstehen, die u. a. Klassen (Typen/Kategorien von Entitäten), Eigenschaften (Properties) und Individuen bereitstellt und damit Aussagen über Ressourcen formal abbilden kann. [2]
@@ -155,13 +169,14 @@ ____________________________
 
 [1] Fichtner, M. (2025). Grundlagen der Erzeugung und Verwaltung von Ontologiepfaden und ihre Anwendung (Doctoral thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Fakultät). https://doi.org/10.25593/open-fau-2143
 
-[1] World Wide Web Consortium. (2012, December 11). OWL 2 Web Ontology Language Primer (Second Edition). W3C Recommendation. https://www.w3.org/TR/owl2-primer 
+[2] World Wide Web Consortium. (2012, December 11). OWL 2 Web Ontology Language Primer (Second Edition). W3C Recommendation. https://www.w3.org/TR/owl2-primer 
 
-[2] Noy, N. F., & McGuinness, D. L. (2001). Ontology Development 101: A Guide to Creating Your First Ontology. Stanford Knowledge Systems Laboratory.
+[3] Noy, N. F., & McGuinness, D. L. (2001). Ontology Development 101: A Guide to Creating Your First Ontology. Stanford Knowledge Systems Laboratory.
 
-[3] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
+[4] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
-[4] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+[5] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

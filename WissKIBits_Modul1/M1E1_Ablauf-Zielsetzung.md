@@ -56,10 +56,11 @@ Lernziel
 > 
 > Dieses How-to-Tutorial bietet eine praxisorientierte Einführung in die **Arbeit und Analyse mit strukturierten Forschungsdaten** – von der ersten Beschreibung eines Sammlungsobjekts bis zur semantisch belastbaren Modellstruktur. Hierfür wird ein **Datenmodell an einem Beispiel entwickelt und implementiert**.
 >
-> Im Modul 1 **"Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären"** wird die konzeptionelle Grundlage für ein Datenmodell erarbeitet:
+> Im Modul 1 **"Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären"** wird die **konzeptionelle Grundlage** für ein Datenmodell erarbeitet:
 >
 > Objektdaten und Kontextinformationen aus einem spezifischen Fachgebiet bzw. einer Domäne werden analysiert, Kernentitäten, Ereignisse und Beziehungen identifiziert und diese Schritt für
 > Schritt in eine ontologiebasierte Struktur (z. B. mit CIDOC CRM) übersetzt.
+> <!-- Objektdaten und Kontextinformationen aus einem spezifischen Fachgebiet bzw. einer Domäne werden analysiert, um zentrale Konzepte, Ereignisse und Beziehungen der Domäne zu identifizieren und begrifflich zu präzisieren. Schritt für Schritt werden sie anschließend in eine ontologische Struktur (z. B. mit CIDOC CRM übersetzt)  --> 
 >
 > Ziel ist es, die fachliche Domänenlogik so zu erfassen, dass sie später konsistent modelliert, implementiert und abfragbar ist.
 >
@@ -170,6 +171,7 @@ _Hilfestellung – nicht vorgeben_
 ## Zusammenfassung
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Entitäten, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.
+
 
 
 

@@ -78,6 +78,8 @@ In Modul 1 wird die konzeptionelle Basis für ein Domänenmodell geschaffen. Aus
 
 * Objektdaten & deren Kontext werden analysiert.
 * Kernentitäten von Objektdaten werden identifiziert und um Ereignisse und Beziehungen kontextualisiert.
+<!-- Zentrale Konzepte der Objektdaten werden identifiziert und durch zugehörige Ereignisse und Beziehungen kontextualisiert.  --> 
+<!-- Abgleich der identifizierten Domänenkonzepte, Ereignisse und Beziehungen mit entsprechenen Klassen (Entities) und Eigenschaften/Beziehungen (Properties) des CIDOC CRM  -->
 * Daraus entsteht schrittweise eine ontologiebasierte Domänenstruktur bzw. -logik mit CIDOC CRM.
 * Diese Domänenlogik wird visualisiert und dient als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI.
 
@@ -150,6 +152,7 @@ Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwinge
 Die Aussagen wird sichtbar an einem [Board](https://miro.com/app/board/uXjVGKauOtE=/) in 3 Spalten zugeordnet:
 
 * Entitäten (Objekt, Person, Ort, Zeit…)
+<!-- Konzepte (Objekt, Person, Ort, Zeit)  -->
 * Ereignisse (Herstellung, Nutzung, Erwerb, Fund…)
 * Beziehungen / Kontext (Rollen, Zugehörigkeiten, Teil-von, identisch mit…)
 
@@ -171,6 +174,8 @@ _Hilfestellung – nicht vorgeben_
 ## Zusammenfassung
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Entitäten, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.
+<!-- Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Konzepte, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.  -->
+
 
 
 

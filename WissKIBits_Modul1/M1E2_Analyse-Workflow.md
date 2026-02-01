@@ -91,6 +91,14 @@ Eine Domänenontologie ist eine projekt oder -anwendungsspezifische Umsetzung ei
 
 Ontologien helfen damit, fachliches Domänenwissen mit ihrer spezifischen Domänenlogik so zu dokumentieren, dass es maschinenlesbar, vergleichbar und nachnutzbar wird. Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie praktisch als Struktur verstehen, die u. a. Klassen (Typen/Kategorien von Entitäten), Eigenschaften (Properties) und Individuen bereitstellt und damit Aussagen über Ressourcen formal abbilden kann. [2]
 
+<!--  Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie als Struktur verstehen, die insbesondere bereitstellt:
+
+* Klassen: formale Repräsentation von Konzepten
+* Eigenschaften (Properties): formale Repräsentation von Merkmalen oder Beziehungen zwischen Klassen und Instanzen
+* Instanzen (Individuen): konkrete Ausprägungen von Klassen
+
+Auf diese Weise ermöglichen Ontologien, Aussagen über Ressourcen formal abzubilden. [2] -->
+
 Ontologien unterstützen damit die systematische und konsistente Repräsentation von Domänenwissen, sodass Informationen maschinenlesbar und für die Nachnutzung in unterschiedlichen Systemen anschlussfähig werden. [3]
 
 Die bekannteste Definition beschreibt eine Ontologie als "eine explizite, formale Spezifikation einer Konzeptualisierung", d. h. sie beschreibt strukturierend, welche Konzepte in einem bestimmten spezifischen Fachgebiet oder Gegenstandsbereich relevant sind und welche Beziehungen zwischen ihnen bestehen. [4]
@@ -107,20 +115,26 @@ Ontologien bestehen typischerweise aus folgenden Bausteinen:
 * **Constraints / Modellannahmen** (z.B. welche Beziehungen beschreiben zulässig das Objekt)
 * **Definitionen / Scope Notes** zur semantischen Präzisierung (z.B. in Referenzmodellen wie CIDOC CRM)
 
+<!-- 
+* **Klassen**
+* **Eigenschaften/Relationen** (Properties)
+* **Instanzen**
+-->
+
 ---
 
 ## Methoden zur Entwicklung von Ontologien
 
 Die Entwicklung einer Domänenontologie folgt typischerweise einem methodischen, mehrstufigen und iterativen Vorgehen. 
 
-Dazu zählen u.a. die Erhebung zentraler Begriffe und Definitionen (sog. „ontology capture“), die Strukturierung dieser Konzepte in Klassen und Relationen sowie die kontinuierliche Prüfung und Überarbeitung des Domänenmodells im Hinblick auf Konsistenz und Nutzbarkeit. [4]
+Dazu zählen u.a. die Erhebung zentraler Begriffe und Definitionen (sog. „ontology capture“), die Strukturierung von Konzepten in Klassen und Eigenschafen/Relationen sowie die kontinuierliche Prüfung und Überarbeitung des Domänenmodells im Hinblick auf Konsistenz und Nutzbarkeit. [4]
 
 Die praktische Ontologieentwicklung wird dabei häufig als ein Prozess verstanden, der sowohl Domänenwissen als auch Anwendungsanforderungen integriert und schrittweise in eine formal nutzbare Wissensstruktur überführt.
 
 Ontologien entstehen häufig durch eine Kombination aus:
 
 * **Top-down-Modellierung:** Ausgehend von einem Referenzmodell (z.B. CIDOC CRM) erfolgt eine domänenspezifische Spezialisierung.
-* **Bottom-up-Modellierung:** Aus vorhandenen Daten werden schrittweise Klassen und Beziehungen abgeleitet.
+* **Bottom-up-Modellierung:** Aus vorhandenen Daten werden schrittweise Klassen und Eigenschaften/Relationen abgeleitet.
 * **Competency Questions:** Die Modellierung erfolgt aus typischen Analyse- und Forschungsfragen heraus (z.B. „Welche Spiele haben Merkmal X?“)
 * **Iteratives Prototyping:** Es wird ein Modell entworfen → überprüft → kontinuierlich mit Blick auf Konsistenz, Erweiterbarkeit und Abfragbarkeit angepasst.
 
@@ -146,6 +160,14 @@ Ontologien entstehen häufig durch eine Kombination aus:
 9. **Evaluieren & diskutieren** – Workflows reflektieren und Erfahrungen austauschen
 10. **Umsetzung vorbereiten** – Grundlage für Diagramm und spätere Pfadstruktur (Modul 2) schaffen
 
+<!-- 
+2. **Objektdaten analysieren** - Konzepte, Ereignisse und Beziehungen im Datenbestand erkennen
+3. **Bedeutungen erfassen** - Konzepte, Ereignisse und Beziehungen im Datenbestand identifizieren
+4. **Zentrale Konzepte und Kontexte bestimmen** - Welche Dinge sind relevant?
+5. **Ableich mit Ontologie (z. B. Referenzmodell CIDOC CRM)** - Konzepte, Ereignisse und Beziehungen semantisch präzisieren und konsistent zuordnen
+7. **Eigenschaften (Properties) formulieren (Graphlogik)** - Was passiert, wer ist beteiligt, wie hängt es zusammen?
+-->
+
 ---
 
 ## Beispielobjekt
@@ -153,6 +175,8 @@ Ontologien entstehen häufig durch eine Kombination aus:
 Popkulturelle Objekte wie Computerspiele eignen sich didaktisch besonders gut, weil sie meist über klar dokumentierte Basisdaten verfügen (z.B. Titel, Erscheinungsjahr, Publisher, Plattform/Edition) und zugleich vielfältige, gut modellierbare Kontexte eröffnen (z.B. Beteiligte, Versionen, Serienzugehörigkeit, regionale Releases). 
 
 So lässt sich anschaulich zeigen, wie aus scheinbar „einfachen“ Informationen durch präzise Entitäten, Ereignisse und Beziehungen eine belastbare Graphstruktur entsteht.
+<!-- 
+So lässt sich anschaulich zeigen, wie aus scheinbar „einfachen“ Informationen durch präzise Klassen (Entities) und Eigenschaften (Properties) eine belastbare Graphstruktur entsteht. -->
 
 **Super Nintendo Entertainment System (SNES) Spiel: *The Legend of Zelda***
 
@@ -176,6 +200,7 @@ ____________________________
 [4] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [5] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

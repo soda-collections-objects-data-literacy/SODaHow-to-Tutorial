@@ -84,7 +84,7 @@ Ontologien ermöglichen so ein gemeinsames Verständnis zentraler Phänomene, Ko
 
 ## Begriff "Domänenontologie"
 
-Eine Domänenontologie ist eine projekt oder -anwendungsspezifische Umsetzung einer Ontologie, die die Konzepte, Ereignisse und Beziehungen innerhalb eines konkreten Fach- oder Anwendungsbereichs (Domäne) beschreibt.
+Eine Domänenontologie ist eine projekt oder -anwendungsspezifische Umsetzung einer Ontologie, die die Konzepte, Ereignisse und Beziehungen innerhalb eines konkreten Fach- oder Anwendungsbereichs (Domäne) beschreibt.-->
 
 
 ## Nutzen von Ontologien und weiterführende Definitionen
@@ -176,6 +176,7 @@ ____________________________
 [4] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [5] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

@@ -65,39 +65,35 @@ Lernziel:
   
 ---
 
-## Begriff „Ontologie“
+## Begriffsdefinition
 
-Eine **Ontologie** ist eine **formale Beschreibung eines Ausschnitts der Welt** bzw. eine **formal definierte Wissensstruktur**, die festlegt,
+**Ontologie**
 
-* welche Arten von Dingen, sog. **Entitäten** (z. B. Objekt, Person, Ereignis, Ort, Zeit), es in einer Domäne, also einem spezifischen Fachgebiet gibt,
-* wie diese Entitäten miteinander in Beziehung stehen,
-* und welche Aussagen über sie sinnvoll sowie widerspruchsfrei modelliert werden können.
-
-<!-- ## Begriff "Ontologie"
 Eine Ontologie ist eine **formale Beschreibung eines Ausschnitts der Welt** bzw. eine **formal definierte Wissensstruktur**, die festlegt,
 
-* welche **Konzepte** von Dingen (z. B. Objekt, Person, Ort, Zeit) und **Ereignisse** in einem Wissensbereich bzw. Fachbereich relevant sind,
+* welche **Konzepte** von Dingen (z. B. Objekt, Person, Ort, Zeit) und **Ereignisse** in einem Fach- oder Anwendungsbereichs (Domäne) relevant sind,
 * wie diese Konzepte miteinander **in Beziehung** stehen,
 * und welche **Regeln** gelten, damit **Aussagen** über sie sinnvoll und widerspruchsfrei modelliert werden können.
 
-Ontologien ermöglichen so ein gemeinsames Verständnis zentraler Phänomene, Konzepte und Strukturen in einem Fachbereich, sowohl für Menschen als auch für die maschinelle Verarbeitung.
+Ontologien ermöglichen so ein gemeinsames Verständnis zentraler Phänomene, Konzepte und Strukturen in einer Domäne, sowohl für Menschen als auch für die maschinelle Verarbeitung.
 
-## Begriff "Domänenontologie"
+**Domänenontologie**
 
-Eine Domänenontologie ist eine projekt oder -anwendungsspezifische Umsetzung einer Ontologie, die die Konzepte, Ereignisse und Beziehungen innerhalb eines konkreten Fach- oder Anwendungsbereichs (Domäne) beschreibt.-->
+Eine Domänenontologie ist eine projekt oder -anwendungsspezifische Umsetzung einer Ontologie, die die Konzepte, Ereignisse und Beziehungen innerhalb eines konkreten Fach- oder Anwendungsbereichs (Domäne) beschreibt.
 
+---
 
 ## Nutzen von Ontologien und weiterführende Definitionen
 
-Ontologien helfen damit, fachliches Domänenwissen mit ihrer spezifischen Domänenlogik so zu dokumentieren, dass es maschinenlesbar, vergleichbar und nachnutzbar wird. Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie praktisch als Struktur verstehen, die u. a. Klassen (Typen/Kategorien von Entitäten), Eigenschaften (Properties) und Individuen bereitstellt und damit Aussagen über Ressourcen formal abbilden kann. [2]
+Ontologien helfen damit, fachliches Domänenwissen mit ihrer spezifischen Domänenlogik so zu dokumentieren, dass es maschinenlesbar, vergleichbar und nachnutzbar wird. 
 
-<!--  Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie als Struktur verstehen, die insbesondere bereitstellt:
+Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie als Struktur verstehen, die insbesondere bereitstellt:
 
 * Klassen: formale Repräsentation von Konzepten
 * Eigenschaften (Properties): formale Repräsentation von Merkmalen oder Beziehungen zwischen Klassen und Instanzen
 * Instanzen (Individuen): konkrete Ausprägungen von Klassen
 
-Auf diese Weise ermöglichen Ontologien, Aussagen über Ressourcen formal abzubilden. [2] -->
+Auf diese Weise ermöglichen Ontologien, Aussagen über Ressourcen formal abzubilden. [2]
 
 Ontologien unterstützen damit die systematische und konsistente Repräsentation von Domänenwissen, sodass Informationen maschinenlesbar und für die Nachnutzung in unterschiedlichen Systemen anschlussfähig werden. [3]
 
@@ -110,16 +106,10 @@ Die bekannteste Definition beschreibt eine Ontologie als "eine explizite, formal
 Ontologien bestehen typischerweise aus folgenden Bausteinen:
 
 * **Klassen** (z.B. Spiel, Person, Organisation, Ereignis)
-* **Relationen** Eigenschaften/Properties (z.B. *hat Titel*, *wurde veröffentlicht von*)
+* **Eigenschaften (Properties)** (z.B. *hat Titel*, *wurde veröffentlicht von*)
 * **Instanzen** (konkrete Dinge, z.B. *The Legend of Zelda: A Link to the Past*) 
-* **Constraints / Modellannahmen** (z.B. welche Beziehungen beschreiben zulässig das Objekt)
-* **Definitionen / Scope Notes** zur semantischen Präzisierung (z.B. in Referenzmodellen wie CIDOC CRM)
-
-<!-- 
-* **Klassen**
-* **Eigenschaften/Relationen** (Properties)
-* **Instanzen**
--->
+* **Modellannahmen (Constraints)** (z.B. welche Beziehungen beschreiben zulässig das Objekt)
+* **Definitionen (Scope Notes)** zur semantischen Präzisierung (z.B. in Referenzmodellen wie CIDOC CRM)
 
 ---
 
@@ -134,7 +124,7 @@ Die praktische Ontologieentwicklung wird dabei häufig als ein Prozess verstande
 Ontologien entstehen häufig durch eine Kombination aus:
 
 * **Top-down-Modellierung:** Ausgehend von einem Referenzmodell (z.B. CIDOC CRM) erfolgt eine domänenspezifische Spezialisierung.
-* **Bottom-up-Modellierung:** Aus vorhandenen Daten werden schrittweise Klassen und Eigenschaften/Relationen abgeleitet.
+* **Bottom-up-Modellierung:** Aus vorhandenen Daten werden schrittweise Klassen (Entities) und Eigenschaften (Properties) abgeleitet.
 * **Competency Questions:** Die Modellierung erfolgt aus typischen Analyse- und Forschungsfragen heraus (z.B. „Welche Spiele haben Merkmal X?“)
 * **Iteratives Prototyping:** Es wird ein Modell entworfen → überprüft → kontinuierlich mit Blick auf Konsistenz, Erweiterbarkeit und Abfragbarkeit angepasst.
 
@@ -150,23 +140,15 @@ Ontologien entstehen häufig durch eine Kombination aus:
 * und die Grundlage für ein **konsistentes CIDOC-CRM-basiertes Diagramm** zu schaffen, das später in WissKI umgesetzt wird.
 
 1. **Quellen/Objekt analysieren** – Welche Informationen liegen vor?
-2. **Objektdaten analysieren** – Entitäten und Beziehungen im Datenbestand erkennen 
-3. **Bedeutungen erfassen** – Konzepte und relevante Eigenschaften identifizieren
-4. **Kernentitäten und Kontexte bestimmen** – Welche Dinge (Objekt/Person/Ort/Zeit/Organisation) sind relevant?
-5. **Abgleich mit Ontologie (z.B. CIDOC CRM)** – Begriffe semantisch präzisieren und konsistent zuordnen
+2. **Objektdaten analysieren** - Konzepte, Ereignisse und Beziehungen im Datenbestand erkennen 
+3. **Bedeutungen erfassen** - Konzepte, Ereignisse und Beziehungen im Datenbestand identifiziere
+4. **Zentrale Konzepte und Kontexte bestimmen** – Welche Dinge (Objekt/Person/Ort/Zeit/Organisation) sind relevant?
+5. **Ableich mit Ontologie (z. B. Referenzmodell CIDOC CRM)** - Konzepte, Ereignisse und Beziehungen semantisch präzisieren und konsistent Klassen (Entities) und Eigenschaften(Properties) zuordnen
 6. **Semantik modellieren** – Bedeutungen auf das Referenzmodell CIDOC CRM abbilden
-7. **Ereignisse und Beziehungen formulieren (Graphlogik)** – Was passiert, wer ist beteiligt, wie hängt es zusammen?
-8. **Datenpfade ersetellen** – WissKI-Pfade modellieren & Pathbuilder konfigurieren  
+7. **Eigenschaften (Properties) und Klassen (Entities) formulieren und in Beziehung setzen (Graphlogik)** - Was passiert, wer ist beteiligt, wie hängt es zusammen?
+8. **Datenpfade erstellen** – WissKI-Pfade modellieren & Pathbuilder konfigurieren  
 9. **Evaluieren & diskutieren** – Workflows reflektieren und Erfahrungen austauschen
 10. **Umsetzung vorbereiten** – Grundlage für Diagramm und spätere Pfadstruktur (Modul 2) schaffen
-
-<!-- 
-2. **Objektdaten analysieren** - Konzepte, Ereignisse und Beziehungen im Datenbestand erkennen
-3. **Bedeutungen erfassen** - Konzepte, Ereignisse und Beziehungen im Datenbestand identifizieren
-4. **Zentrale Konzepte und Kontexte bestimmen** - Welche Dinge sind relevant?
-5. **Ableich mit Ontologie (z. B. Referenzmodell CIDOC CRM)** - Konzepte, Ereignisse und Beziehungen semantisch präzisieren und konsistent Klassen (Entities) und Eigenschaften/Beziehungen (Properties) zuordnen
-7. **Eigenschaften/Beziehungen (Properties) formulieren und Klassen (Entities) verbinden (Graphlogik)** - Was passiert, wer ist beteiligt, wie hängt es zusammen?
--->
 
 ---
 
@@ -174,9 +156,7 @@ Ontologien entstehen häufig durch eine Kombination aus:
 
 Popkulturelle Objekte wie Computerspiele eignen sich didaktisch besonders gut, weil sie meist über klar dokumentierte Basisdaten verfügen (z.B. Titel, Erscheinungsjahr, Publisher, Plattform/Edition) und zugleich vielfältige, gut modellierbare Kontexte eröffnen (z.B. Beteiligte, Versionen, Serienzugehörigkeit, regionale Releases). 
 
-So lässt sich anschaulich zeigen, wie aus scheinbar „einfachen“ Informationen durch präzise Entitäten, Ereignisse und Beziehungen eine belastbare Graphstruktur entsteht.
-<!-- 
-So lässt sich anschaulich zeigen, wie aus scheinbar „einfachen“ Informationen durch präzise Klassen (Entities) und Eigenschaften (Properties) eine belastbare Graphstruktur entsteht. -->
+So lässt sich anschaulich zeigen, wie aus scheinbar „einfachen“ Informationen durch präzise Klassen (Entities) und Eigenschaften (Properties) eine belastbare Graphstruktur entsteht.
 
 **Super Nintendo Entertainment System (SNES) Spiel: *The Legend of Zelda***
 
@@ -200,6 +180,7 @@ ____________________________
 [4] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [5] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

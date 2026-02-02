@@ -168,8 +168,6 @@ Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io*
 
 ### Aufgabe (Einzelarbeit – 20 Min.)
 
-Die Aufteilung in Breakout-Räume findet zufällig statt.
-
 Das bereitgestellte Diagramm enthält gezielt Lücken (fehlende Knoten/Kanten), die zu ergänzen sind. 
 
 Diese Lücken sind durch geeignete Klassen (Entities) und passende Beziehungen (Properties) zu schließen.
@@ -217,6 +215,7 @@ Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen Wi
 [1] https://zfdg.de/wp_2023_014
 [2] https://dorsch.hogrefe.com/stichwort/visualisierung
 [3] Levin et al., 1987
+
 
 
 

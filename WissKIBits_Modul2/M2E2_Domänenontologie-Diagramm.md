@@ -55,33 +55,37 @@ Lernziel
 
 ---
 
-## Visualisierung mit Draw.io 
+## Visualisierung mit Draw.io
 
-**Visualisierungen** sind ein bedeutender Zwischenschritt und ein wesentliches Werkzeug, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu treffen und zu fördern.**
+In dieser Einheit wird das bisher entwickelte Datenmodell als Diagramm in Draw.io visualisiert. Dieses Diagramm bildet die Grundlage für die spätere automatische Erstellung eines WissKI Pathbuilders.
 
-Das Visualisieren in Draw.io ist nicht nur eine **visuelle Übung**, sondern goleichzeitig ein **expliziter Modellierungsschritt**.
+In dieser Einheit wird das bisher entwickelte Datenmodell als Diagramm visualisiert und als XML-Datei exportiert und in Pfade und Pfadgruppen für den WissKI Pathbuilders transformiert. 
 
-Das entstehende Draw.io-Diagramm bildet die **Voraussetzung für die (halb-)automatisierte Pipeline** zur Erstellung eines **WissKI Pathbuilders**.
+Das entwickelte Draw.io-Diagramm bildet die **Voraussetzung für die (halb-)automatisierte Pipeline** zur Erstellung eines **WissKI Pathbuilders**.
 
-Das Diagramm wird als XML-Datei exportiert und repräsentiert strukturierte Modellierungsentscheidungen zu Klassen (Entities) und Beziehungen (Properties), aus denen die Pfade und Pfadgruppen des WissKI-Pathbuilders hervorgehen.
+**Visualisierungen** sind abstrakte bildliche Darstellungen von Sachverhalten, die deren Verständnis befördern sollen. 
 
-Dadurch kann das Diagramm **automatisiert weiterverarbeitet** und in einen konsistenten **WissKI-Pathbuilder** überführt werden.
+"In den Geisteswissenschaften werden Visualisierungen als Illustrationen, als Gedächtnisstützen für bekannte Sachverhalte, bei der Organisation von Wissen, sowie als Erkenntnismittel in der Vermittlung und Erzeugung von (neuem) Wissen eingesetzt." [1]
+
+"Zum Lernen sind Visualisierungen insbesondere dann geeignet, wenn der zu vermittelnde Gegenstand verbal nur schwer vermittelbare Eigenschaften aufweist." [2] Sie werden daher begleitend zum  Wissenserwerb eingesetzt und um Inhalte konkreter und besser verständlich zu machen und Strukturen zu verdeutlichen. [3]
+
+Das Visualisieren in Draw.io ist nicht nur eine **visuelle Übung**, sondern gleichzeitig ein **expliziter Modellierungsschritt**, also um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu treffen und zu fördern.**
 
 ---
 
-## Der Nutzen von Draw.io 
+## Nutzen von Draw.io 
 
-Mit Draw.io lassen/lässt sich...
+Draw.io wird eingesetzt um...
 
-* **Klassen (Entities) und ihre Beziehungen (Properties)** klar definieren,
-* eine **Domänenlogik mit ihren semantischen Zusammenhängen** sichtbar und diskutierbar machen,  
-* Domänenmodelle **kollaborativ und transparent** entwickeln,  
-* eine **Domänenontologie vor dem Import in WissKI** prüfen,  
-* **semantische Modellierungsentscheidungen** reflektieren und absichern.
+* **Klassen (Entities) und ihre Beziehungen (Properties)** klar zu definieren,
+* eine **Domänenlogik mit ihren semantischen Zusammenhängen** sichtbar und diskutierbar zu machen,  
+* Domänenmodelle **kollaborativ und transparent** zu entwickeln,  
+* eine **Domänenontologie vor dem Import in WissKI** zu prüfen,  
+* **semantische Modellierungsentscheidungen** zu reflektieren und abzusichern.
 
 Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert:innen, Datenmodellierenden und Entwickler:innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar sind und bleiben.
 
----
+----
 
 ## Ausgangspunkt
 
@@ -97,10 +101,17 @@ Zur Orientierung und zum Nachlesen:
 * Beispiele für Kernentitäten (Spielmerkmale und narrative Elemente):  
   https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E5_Dom%C3%A4nenanalyse.md#fokus-dieser-modellierungs%C3%BCbung
 
+---
 
-----
+## Quiz
 
-### Quizfragen (Single Choice)
+(Single Choice/Einfachauswahl)
+
+Damit diese Visualisierung korrekt umgesetzt werden kann, müssen die relevanten Elemente der Domäne noch einmal klar sein.
+
+Bevor das Domänenmodell nun in Draw.io umgesetzt wird, soll noch einmal überprüft werden, welche Kernentitäten und Spielmerkmale für das Beispielobjekt relevant sind.
+
+Die folgenden Fragen dienen dazu, die zentralen Elemente der Domäne noch einmal zu aktivieren und helfen für die anschließende Modellierungsaufgabe einzuordnen.
 
 Welches Beispielobjekt wird im Modul verwendet? 
 
@@ -118,24 +129,26 @@ Welche semantische Annahme wird im Beispiel explizit gemacht?
 
 ----
 
-### Quizfragen (Multiple Choice)
+## Quizfragen 
+
+(Multiple Choice/Mehrfachauswahl)
 
 Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
 
-[[ ]] Perspektive
-[[X]] Genre
-[[X]] Edition
-[[X]] Plattform
-[[X]] Narrative Elemente
+* [[ ]] Perspektive
+* [[X]] Genre
+* [[X]] Edition
+* [[X]] Plattform
+* [[ ] Hersteller
 
 
 Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 
-[[X]] Perspektive
-[[X]] Spielbeschreibung
-[[X]] Charaktere
-[[ ]] Plattform
-[[ ]] Genre
+* [[X]] Perspektive
+* [[X]] Spielbeschreibung
+* [[X]] Charaktere
+* [[ ]] Plattform
+* [[ ]] Genre
 
 ---
 
@@ -152,7 +165,7 @@ Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io*
 
 ---
 
-## Regeln zur Visualisierung mit Draw.io 
+### Regeln zur Visualisierung mit Draw.io 
 
 * Es werden keine individuellen Instanzen abgebildet.
 * Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
@@ -160,9 +173,7 @@ Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io*
 * Es sind vollständige Pfade zu erstellen. (z.B. mega:E73\_Computer\_Game -> P102\_has\_title -> mega:E35\_Game\_Title -> P190 has symbolic content -> E62\_String)
 * Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element\_id**, **group\_name** und **name** zugewiesen. (z.B. element\_id=Computer\_Game; group\_name=Computer\_Game; name=Computer\_Game)
 
----
-
-## Aufgabe (Gruppenarbeit – 20 Min.)
+### Aufgabe (Gruppenarbeit – 20 Min.)
 
 Die Aufteilung in Breakout-Räume findet zufällig statt (6x3er Gruppe und 1x4er Gruppe).
 
@@ -185,16 +196,12 @@ Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
 * P1 is identified by
 * P190 has symbolic content
 * mega:E41_Game_Character_Name
-
   
-**Ressourcen**
+### Ressourcen
 
 * Domänenontologie: [http://games.m-e-g-a.org/game_domain.rdf](http://games.m-e-g-a.org/game_domain.rdf)
 * Für semantische Beziehungen: PDF-Datei: [https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf)
 * Alternative zur PDF-Datei ein HTML-Darstellung: [https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html)
-
-
----
 
 ### Beispielergebnis
 
@@ -204,9 +211,18 @@ Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
   </tr>
 </table>
 
+## Ausblick
+
+Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen WissKI Pathbuilder überführt und die erzeugte Pfadstruktur in WissKI geprüft.
 
 
+---
 
+## Bibliographie
+
+[1] https://zfdg.de/wp_2023_014
+[2] https://dorsch.hogrefe.com/stichwort/visualisierung
+[3] (Levin et al., 1987).
 
 
 

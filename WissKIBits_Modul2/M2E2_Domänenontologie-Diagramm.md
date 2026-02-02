@@ -103,7 +103,7 @@ In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwicke
 
 ---
 
-## Quizfragen (Single Choice)
+## Quizfragen
 
 Bevor das Domänenmodell nun in Draw.io umgesetzt wird, soll noch einmal überprüft werden, welche zentralen Konzepte für das Beispielobjekt im Kontext von Spielemerkmalen und narrativen Elemeten relevant sind.
 
@@ -122,10 +122,6 @@ Die folgenden Fragen dienen dazu, die zentralen Konzepte der Domäne noch einmal
 * [(x)] Der Titel des Objekts wird als *The Legend of Zelda: A Link to the Past* festgelegt
 * [( )] Das Spiel ist eine „Collector’s Edition“
 * [( )] Die Plattform ist „PC“
-
-----
-
-## Quizfragen (Multiple Choice)
 
 ### Welche der folgenden Konzepte zählen zu den **Spielmerkmalen**?
 
@@ -221,6 +217,7 @@ Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen Wi
 [1] https://zfdg.de/wp_2023_014
 [2] https://dorsch.hogrefe.com/stichwort/visualisierung
 [3] Levin et al., 1987
+
 
 
 

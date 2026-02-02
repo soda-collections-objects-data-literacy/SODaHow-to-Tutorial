@@ -120,6 +120,8 @@ Der Pathbuilder definiert:
 * **Pfade** → Beziehungen dieser Entitäten, z. B. Objekt → wurde geschaffen von → Person  
 * **Widgets** → automatisch generierte Eingabeformulare, deren Struktur aus der Semantik abgeleitet wird
 
+<!-- Entitätstypen -->
+
 So ist es möglich in WissKI **nicht mit Tabellen**, sondern mit **ontologiebasierten Strukturen** zu arbeiten. 
 
 Gleichzeitig bleibt WissKI flexibel, ermöglicht semantische Konsistenz und ist in der Datenpflege bestmöglich nutzendenunterstützend.
@@ -171,7 +173,7 @@ WissKI...
 
 ## Die Semantik ist zentral für WissKI
 
-* **CIDOC CRM** definiert Konzepte und Beziehungen  
+* **CIDOC CRM** definiert Konzepte und Beziehungen  <!-- ...definiert Klassen (Entities) und Eigenschaften/Beziehungen (Properties) -->
 * **Semantische Pfade** übersetzen das Modell in eine nutzbare Datenstruktur  
 * **Formulare** sichern konsistente Dateneingabe und reduzieren Interpretationsspielräume  
 * **RDF-Wissensgraph** ermöglicht Austausch, Nachnutzung und LOD-Publikation  
@@ -188,6 +190,7 @@ ____________________________
 [2] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
 
 [3] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
+
 
 
 

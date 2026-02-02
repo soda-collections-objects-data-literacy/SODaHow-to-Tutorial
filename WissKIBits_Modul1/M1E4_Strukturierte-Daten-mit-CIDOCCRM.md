@@ -113,6 +113,7 @@ WissKI verwendet in der technischen Implementierung die **CIDOC CRM OWL-Ontologi
 | Ort               | **E53 Place**              | Räumlicher Kontext                         |
 | Zeit              | **E52 Time-Span**          | Zeitlicher Rahmen                          |
 
+<!-- Für Dimension vielleicht Konzept und dann Beispielklasse (Entity) -->
 ---
 
 ## Klassenhierarchie und Scope Notes
@@ -129,6 +130,8 @@ Die **Scope Note** einer CIDOC CRM-Klasse legt fest:
 * ihre hierarchische Position,
 * oder intuitive Assoziationen.
 
+<!-- *der Name der Klasse (Entity) -->
+
 **Scope Notes sind maßgeblich für die korrekte Modellierung.**
 
 ![Beispiel E39 Actor](../assets/E39Actor.jpg)
@@ -144,10 +147,14 @@ Es gibt verschiedene Ansätze, Domänenontologien zu erweitern:
 * **Reine Wiederverwendung** bestehender CIDOC CRM-Klassen und -Eigenschaften
 * **Kombinationen** der oben genannten Strategien
 
+<!-- * Neue **Eigenschaften (Properties)** -->
+
 In diesem Tutorial wird eine **leichtgewichtige Erweiterungsstrategie** empfohlen:
 
 → **Domänenspezifische Unterklassen, wenn erforderlich**  
 → **Eigenschaften werden weitestgehend aus CIDOC CRM übernommen**
+
+<!-- Eigenschaften (Properties) -->
 
 Das garantiert **Interoperabilität und CIDOC-Kompatibilität**, reduziert die Komplexität und macht dennoch die Domänenspezifik deutlich.
 
@@ -208,6 +215,7 @@ WissKI nutzt CIDOC CRM, weil es …
 [1] CIDOC CRM Special Interest Group (o.J.). What is CIDOC CRM? https://cidoc-crm.org/
 
 [2] World Wide Web Consortium (W3C). (2014). RDF 1.1 concepts and abstract syntax. https://www.w3.org/TR/rdf11-concepts/
+
 
 
 

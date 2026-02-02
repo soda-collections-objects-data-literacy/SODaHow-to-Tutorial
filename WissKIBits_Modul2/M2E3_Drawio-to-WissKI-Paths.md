@@ -54,6 +54,10 @@ Lernziele
 
 ## Der WissKI Pathbuilder
 
+In dieser Einheit wird das zuvor erstellte Draw.io-Diagramm automatisch in WissKI-Pfade überführt und als Pathbuilder in WissKI importiert.
+
+Damit wird das Domänenmodell erstmals als funktionale Ontologiestruktur im System nutzbar.
+
 Der Pathbuilder bildet die **Implementierungsschicht von WissKI**.
 
 Anstelle klassischer, relationaler Datenbanktabellen arbeitet WissKI mit semantischen Pfaden, die aus Klassenbeziehungen konstruiert werden. 
@@ -80,6 +84,8 @@ Mehrere **zusammengehörige Pfade werden zu Pfadgruppen organisiert**, die wiede
 
 ## Workflow vom Domänenontologie-Diagramm zu WissKI-Pfaden
 
+Die folgende Übersicht zeigt die einzelnen Schritte, mit denen aus dem Diagramm ein nutzbarer WissKI Pathbuilder entsteht.
+
 | Schritt | Aktion                                |
 | -------- | ------------------------------------ |
 | 1        | Draw.io-Modell als .xml-Datei exportieren.  |
@@ -90,36 +96,6 @@ Mehrere **zusammengehörige Pfade werden zu Pfadgruppen organisiert**, die wiede
 | 6        | Pfadstruktur prüfen. |
 
 Dieser Prozess überbrückt die Lücke zwischen der Modellierung einer Domänenontologie und der Erstellung des Pathbuilders in WissKI, indem das semantische draw.io-Modell über eine Transformationspipeline automatisch in WissKI-Pfade umgewandelt wird.
-
----
-
-## Praktische Aufgabe (Gruppenarbeit– 20 Min.)
-
-Teil 1 
-
-| Nr. | Schrittbeschreibung |
-| --- | ------------------- |
-| 1 | "Draw.io diagrams to WissKI pathbuilders" Web Service öffnen |
-| x | Beispiel-Draw.io-XML-Datei herunter laden |
-| x | Beispiel-Draw.io-XML-Datei in "Upload draw.io XML file for conversion to WissKI Pathbuilder XML:" hochladen |
-| 2 | Linkadresse von Beispiel output Pathbuilder-XML kopieren|
-| 3 | In WissKI einloggen |
-| 4 | Prüfen, ob in WissKI bereits CIDOC CRM geladen ist, siehe „Configuration/Ontology/Default WissKI Distillery Adapter“ |
-| 5 | Zu „Configuration/Pathbuilder“ navigieren |
-| 6 | Neuen Pathbuilder hinzufügen „Add Pathbuilder“, Name vergeben und speichern |
-| 7 | Unter „Pathbuilder Definition Import“ zuvor kopierte Link-Adresse einfügen und „Import“ klicken |
-| 8 | Die erzeugten semantischen Pfade prüfen |
-| 9 | Ergebnis: WissKI Pathbuilder auf Basis des eigenen Domänenmodells |
-
-
-
-### Ressourcen
-
-* [Draw.io diagrams to WissKI pathbuilders Web Service](https://isl.ics.forth.gr/gnm_services/drawioXMLtoWisskiPathbuilder/)
-* [CIDOC CRM](http://erlangen-crm.org/240307/)
-* [Games ontology](http://games.m-e-g-a.org/game_domain.rdf)
-* [Beispiel output Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml)
-
 
 ---
 
@@ -143,8 +119,35 @@ Der [FORTH-ICS-Webdienst](https://isl.ics.forth.gr/gnm_services/):
 * überprüft die **syntaktische Gültigkeit** anhand der Ontologiedateien  
 * exportiert die Pfade als **WissKI Pathbuilder XML**
 
-
 ---
+
+## Praktische Aufgabe (Gruppenarbeit– 20 Min.)
+
+Teil 1 
+
+| Nr. | Schrittbeschreibung |
+| --- | ------------------- |
+| 1 | "Draw.io diagrams to WissKI pathbuilders" Web Service öffnen |
+| x | Beispiel-Draw.io-XML-Datei herunter laden |
+| x | Beispiel-Draw.io-XML-Datei in "Upload draw.io XML file for conversion to WissKI Pathbuilder XML:" hochladen |
+| 2 | Linkadresse von Beispiel output Pathbuilder-XML kopieren|
+| 3 | In WissKI einloggen |
+| 4 | Prüfen, ob in WissKI bereits CIDOC CRM geladen ist, siehe „Configuration/Ontology/Default WissKI Distillery Adapter“ |
+| 5 | Zu „Configuration/Pathbuilder“ navigieren |
+| 6 | Neuen Pathbuilder hinzufügen „Add Pathbuilder“, Name vergeben und speichern |
+| 7 | Unter „Pathbuilder Definition Import“ zuvor kopierte Link-Adresse einfügen und „Import“ klicken |
+| 8 | Die erzeugten semantischen Pfade prüfen |
+| 9 | Ergebnis: WissKI Pathbuilder auf Basis des eigenen Domänenmodells |
+
+**Ressourcen**
+
+* [Draw.io diagrams to WissKI pathbuilders Web Service](https://isl.ics.forth.gr/gnm_services/drawioXMLtoWisskiPathbuilder/)
+* [CIDOC CRM](http://erlangen-crm.org/240307/)
+* [Games ontology](http://games.m-e-g-a.org/game_domain.rdf)
+* [Beispiel output Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml)
+
+
+
 
 
 

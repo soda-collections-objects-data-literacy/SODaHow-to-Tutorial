@@ -79,7 +79,7 @@ In Modul 2 wird die konzeptionelle Basis aus Modul 1 schrittweise in ein für Wi
 
 * Die Domänenlogik wird als CIDOC CRM-basiertes semantisches Modell mit Pfaden in Draw.io visualisiert.
 * Die Visualisierung wird auf syntaktische Gültigkeit anhand CIDCO-CRM überprüft und in ein nachnutzbares Dateiformat überführt.
-* Das domänenspezifische Domänenmodell wird in WissKI importiert, dort validiert und für die Analyse weiter vorbereitet.
+* Das domänenspezifische Modell wird in WissKI importiert, dort validiert und für die Analyse weiter vorbereitet.
 
 ---
 
@@ -94,8 +94,7 @@ In Modul 2 wird die konzeptionelle Basis aus Modul 1 schrittweise in ein für Wi
 | 1 | Ablauf und Zielsetzung | 15 Min. |
 | 2 | Visualisierung der Domänenontologie in Draw.io | 25 Min. |
 | 3 | Automatische Pfadgenerierung: Konsistenz prüfen und WissKI Pathbuilder-Datei erzeugen | 25 Min. |
-| 4 | Validierung im Pathbuilder und erste Analyseabfragen | 5 Min. |
-| 5 | Transfer und Nächste Schritte zur Datenanalyse | 15 Min. |
+| 4 | Transfer, Nächste Schritte und Feedback | 15 Min. |
 
 
 ---

@@ -56,15 +56,11 @@ Dies ist eine Praxiseinheit. In dieser Einheit wird ein Beispielobjekt aus der D
 
 Am Ende können Lernende...
 
-* zentrale **Kernentitäten** der Beispiel-Domäne (Computerspiele) benennen (Objekt/Person/Ort/Zeit/Ereignis),
-* diese Entitäten über **bedeutsame Beziehungen** sinnvoll verbinden,
-* und eine erste Zuordnungen der Entitäten zu **CIDOC CRM Klassen** benennen,
-* ein erstes **konzeptionelles Datenmodell (Mindmap)** vorbereiten, das später in **Protégé** formalisiert und in **WissKI** importiert wird.
-
-<!-- * zentrale **Konzepte** der Beispiel-Domäne (Computerspiele) benennen (Objekt/Person/Ort/Zeit/Ereignis),
+* zentrale **Konzepte** der Beispiel-Domäne (Computerspiele) benennen (Objekt/Person/Ort/Zeit/Ereignis),
 * diese Konzepte über **bedeutsame Beziehungen** sinnvoll verbinden,
 * und eine erste Zuordnungen der Konzepte zu **CIDOC CRM Klassen (Entities)** benennen,
-* ein erstes **konzeptionelles Datenmodell (Mindmap)** vorbereiten, das später in **Protégé** formalisiert und in **WissKI** importiert wird. -->
+* ein erstes **konzeptionelles Datenmodell (Mindmap)** vorbereiten, das später in **Protégé** formalisiert und in **WissKI** importiert wird.
+
 ---
 
 ## Ausgangspunkt: Beispielobjekt „Zelda“
@@ -123,13 +119,8 @@ Wir konzentrieren uns auf drei Bereiche:
 
 Eine einfache Struktur skizzieren, die folgende Punkte erfüllt:
 
-1. **5 Kernentitäten** (Objekt/Person/Ort/Zeit/Ereignis – nicht alle müssen vorkommen)
-2. **Diese Kernentitäten mit Beziehungen verbinden** („hat“, „wurde hergestellt durch“, „wurde veröffentlicht von“ …)
-
-<!--
-1. **5 Kern-Konzepte** (Objekt/Person/Ort/Zeit/Ereignis – nicht alle müssen vorkommen)
+1. **3-5 zentrale Konzepte** (Objekt/Person/Ort/Zeit/Ereignis – nicht alle müssen vorkommen)
 2. **Diese Konzepte mit Beziehungen verbinden** („hat“, „wurde hergestellt durch“, „wurde veröffentlicht von“ …)
--->
 
 Tipp: **Weniger ist mehr!**
 
@@ -137,24 +128,16 @@ Tipp: **Weniger ist mehr!**
 
 | Schritt | Leitfrage | Ergebnis |
 |-------|-----------|----------|
-| 1 | Welche Kernentitäten gibt es? | Liste/Nodes im Modell |
-| 2 | Welche Ereignisse erklären den Kontext? | 1–2 Ereignisknoten |
-| 3 | Wie hängen die Dinge zusammen? | gerichtete Beziehungen |
+| 1 | Welche zentralen Konzepte und Ereignisse gibt es? | Knoten im Modell |
+| 2 | Wie hängen die Dinge zusammen? | gerichtete Beziehungen |
 
-<!--
-Welche zentralen Konzepte gibt es?
--->
 ---
 
 ## Orientierung mit CIDOC CRM 
 
 **Aufgabe: CIDOC CRM sichten**
 
-CIDOC CRM sichten und für zwei Kernentitäten jeweils mindestens eine passende Klasse heraussuchen.
-
-<!--
 CIDOC CRM sichten und für zwei Konzepte jeweils mindestens eine passende Klasse (Entity) heraussuchen.
--->
 
 1. **2 Begriffe aus eurer Skizze** (z.B. Spiel, Publisher, Release)
 2. mögliche **CIDOC CRM-Klasse** grob zuordnen.
@@ -204,28 +187,16 @@ Die Mindmap dient als Übergang zu den nächsten Schritten im Tutorial:
 
 ## Rolle von E41 Appellation und Datentyp-Eigenschaften in CIDOC CRM
 
-CIDOC CRM ist primär auf **Beziehungen zwischen Entitäten** ausgelegt. Deshalb werden zentrale Informationen (z. B. Titel, Namen, Identifikatoren oder Rollen) häufig nicht nur als Text erfasst, sondern als eigene modellierbare Entitäten. So lassen sich Varianten, Mehrsprachigkeit, Quellenangaben und kontrollierte Vokabulare konsistent abbilden und eindeutig referenzieren.
-
-<!--
-CIDOC CRM ist primär auf **Beziehungen zwischen Entitätstypen** ausgelegt. Deshalb werden zentrale Informationen (z. B. Titel, Namen, Identifikatoren oder Rollen) häufig nicht nur als Text erfasst, sondern als eigene modellierbare Klassen (Entities). So lassen sich Varianten, Mehrsprachigkeit, Quellenangaben und kontrollierte Vokabulare konsistent abbilden und eindeutig referenzieren.
--->
+CIDOC CRM ist primär auf **Beziehungen zwischen Klassen (Entities)** ausgelegt. Deshalb werden zentrale Informationen (z.B. Titel, Namen, Identifikatoren oder Rollen) häufig nicht nur als Text erfasst, sondern als eigene modellierbare Klassen (Entities). So lassen sich Varianten, Mehrsprachigkeit, Quellenangaben und kontrollierte Vokabulare konsistent abbilden und eindeutig referenzieren.
 
 Zentral hierfür ist **E41 Appellation**:
 
 | Konzept                 | Erklärung                                                                                                                                                                                            |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **E41 Appellation**     | Namen, Benennungen und Bezeichnungen sind **eigenständige Entitäten**, nicht nur Textstrings. Das ermöglicht z. B. **Mehrsprachigkeit**, **Titelvarianten**, **stabile IDs** und **Quellenangaben**. |
-| **P1 is identified by** | Verknüpft ein Konzept (z. B. ein Spiel, eine Person, eine Plattform) mit seiner **Benennung** und unterstützt damit **Klarheit und Interoperabilität**.                                              |
+| **E41 Appellation**     | Namen, Benennungen und Bezeichnungen sind **eigenständige Klassen (Entities)**, nicht nur Textstrings. Das ermöglicht z.B. **Mehrsprachigkeit**, **Titelvarianten**, **persistente IDs** und **Quellenangaben**. |
+| **P1 is identified by** | Verknüpft eine Klasse (Entity) (z.B. ein Spiel, eine Person, eine Plattform) mit seiner **Benennung** und unterstützt damit **Klarheit und Interoperabilität**.                                              |
 
-<!--
-eigenständige Entitätstypen (Entities)
--->
-
-Gleichzeitig nutzt CIDOC CRM **Datentyp-Eigenschaften** (sog. Literale wie Zahlen oder Zeichenketten) nur sparsam und vor allem dann, wenn der Wert nicht als eigenständige Entität modelliert werden muss.
-
-<!--
-eigenständiger Entitätstype (Entities)
--->
+Gleichzeitig nutzt CIDOC CRM **Datentyp-Eigenschaften** (sog. Literale wie Zahlen oder Zeichenketten) nur sparsam und vor allem dann, wenn der Wert nicht als eigenständige Klasse (Entity) modelliert werden muss.
 
 **Typische Datentyp-Eigenschaften sind...**
 
@@ -235,13 +206,9 @@ eigenständiger Entitätstype (Entities)
 **Grundprinzip**
 
 * CIDOC CRM bevorzugt semantische Identifikatoren und Beziehungen statt Freitextfelder.
-* Literale werden genutzt, wenn sie als reine Darstellung sinnvoll sind (z.B. ein Zahlenwert), während zentrale semantische Informationen (Titel, Rollen, Identifikatoren usw.) als Entitäten modelliert und idealerweise mit kontrollierten Vokabularen verknüpft werden.
+* Literale werden genutzt, wenn sie als reine Darstellung sinnvoll sind (z.B. ein Zahlenwert), während zentrale semantische Informationen (Titel, Rollen, Identifikatoren usw.) als Klassen (Entity) modelliert und idealerweise mit kontrollierten Vokabularen verknüpft werden.
 
 **Hinweis:** Der gezielte Umgang mit Datentyp-Eigenschaften, kontrollierten Vokabularen und Interoperabilität wird in späteren Einheiten weiter vertieft.
-
-<!--
-, während zentrale semantische Informationen als Entitätstypen (Entities)
--->
 
 
 

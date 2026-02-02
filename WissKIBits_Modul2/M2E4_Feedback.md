@@ -38,13 +38,35 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 2: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
 
-Einheit 4: **Reflexion: Eindrücke, Unsicherheiten und offene Fragen**
+Einheit 4: **Transfer, Nächste Schritte und Feedback**
 
 Dauer: ~ 15 Min.
 
 ---
 
-##  Gemeinsame Gesprächsrunde und Reflexion
+##  Nächste Schritte und Ausblick
+
+Mit der Erstellung von semantischen Pfaden wurde eine grundlegende Struktur einer domänenspezifischen WissKI-Instanz aufgebaut.
+
+Damit ist der Übergang von der konzeptionellen Modellierung zur praktischen Anwendung abgeschlossen – WissKI kann nun als semantische Forschungsumgebung genutzt und anforderungsspezifisch weiterentwickelt werden.
+
+In den kommenden Modulen werden folgende Themen weiter vertieft:
+
+**WissKI Data Editor** für...
+
+* Dateneingabe, -import und -anreicherung 
+* Datenintegration, Qualitätssicherung und Standardisierung
+* Datensuche und -abfrage
+* Datenpublikation als Linked Open Data
+
+**WissKI Technisches admin Personal** für die (erweiterte) WissKI-Konfiguration, wie 
+
+* Anpassung der Ansichten im Web-Frontend
+* SOLR Search
+
+---
+
+## Gemeinsame Gesprächsrunde und Reflexion
 
 ![Feedback](../assets/M2E3-Reflexion.jpg)
 
@@ -67,6 +89,7 @@ Dauer: ~ 15 Min.
 Mit der Erstellung von semantischen Pfaden und Pfadgruppen wurde eine grundlegende Struktur in einer WissKI-Instanz aufgebaut.
 
 Damit ist der Übergang von der konzeptionellen Modellierung zur praktischen Anwendung abgeschlossen – WissKI kann nun als semantische Forschungsumgebung genutzt und anforderungsspezifisch weiterentwickelt werden.
+
 
 
 

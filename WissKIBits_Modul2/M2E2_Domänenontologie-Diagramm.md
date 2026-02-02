@@ -185,17 +185,17 @@ Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
 **Ablauf**
 
 * Die vorbereitete Draw.io-Datei runterladen ([hier](../assets/M2E2_Gruppenarbeit.drawio.xml))
-* Die heruntergeladene Draw.io-Datei in Draw.io importieren ([hier]: https://app.diagrams.net/)
+* Die heruntergeladene Draw.io-Datei in Draw.io importieren ([hier](https://app.diagrams.net/))
 * Das Domänenontologie-Diagramm vervollständigen (siehe Auswahl) 
 * Attributwerte an Startknoten, jedem Gruppenknoten und Endknoten prüfen
 * Die Knoten-Kanten-Verbindungen prüfen
 
 **Auswahl**
 
-* P102_has_title
+* P102\_has\_title
 * P1 is identified by
 * P190 has symbolic content
-* mega:E41_Game_Character_Name
+* mega:E41\_Game\_Character\_Name
   
 **Ressourcen**
 
@@ -223,6 +223,7 @@ Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen Wi
 [1] https://zfdg.de/wp_2023_014
 [2] https://dorsch.hogrefe.com/stichwort/visualisierung
 [3] Levin et al., 1987
+
 
 
 

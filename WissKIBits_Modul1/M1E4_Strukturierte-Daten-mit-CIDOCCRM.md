@@ -194,6 +194,7 @@ Das **RDF (Resource Description Framework)** ist ein Standard zur Beschreibung v
 | sorgt für Interoperabilität | erhöht Präzision |
 | ist langfristig stabil | ist anpassbar an Forschungsbedarfe |
 
+<!-- definiert grundlegende Konzepte -->
 ---
 
 ## Relevanz und Nutzen von CIDOC CRM 
@@ -215,6 +216,7 @@ WissKI nutzt CIDOC CRM, weil es …
 [1] CIDOC CRM Special Interest Group (o.J.). What is CIDOC CRM? https://cidoc-crm.org/
 
 [2] World Wide Web Consortium (W3C). (2014). RDF 1.1 concepts and abstract syntax. https://www.w3.org/TR/rdf11-concepts/
+
 
 
 

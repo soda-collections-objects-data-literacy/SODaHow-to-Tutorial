@@ -57,19 +57,19 @@ Lernziel
 
 ## Visualisierung mit Draw.io
 
-In dieser Einheit wird das bisher entwickelte Datenmodell als Diagramm in Draw.io visualisiert. Dieses Diagramm bildet die Grundlage für die spätere automatische Erstellung eines WissKI Pathbuilders.
-
-In dieser Einheit wird das bisher entwickelte Datenmodell als Diagramm visualisiert und als XML-Datei exportiert und in Pfade und Pfadgruppen für den WissKI Pathbuilders transformiert. 
+In dieser Einheit wird das in Modul 1 entwickelte Datenmodell als Diagramm in Draw.io visualisiert. 
 
 Das entwickelte Draw.io-Diagramm bildet die **Voraussetzung für die (halb-)automatisierte Pipeline** zur Erstellung eines **WissKI Pathbuilders**.
 
-**Visualisierungen** sind abstrakte bildliche Darstellungen von Sachverhalten, die deren Verständnis befördern sollen. 
+**Visualisierungen** sind bildliche Darstellungen von Sachverhalten, die deren Verständnis befördern sollen. 
 
 "In den Geisteswissenschaften werden Visualisierungen als Illustrationen, als Gedächtnisstützen für bekannte Sachverhalte, bei der Organisation von Wissen, sowie als Erkenntnismittel in der Vermittlung und Erzeugung von (neuem) Wissen eingesetzt." [1]
 
-"Zum Lernen sind Visualisierungen insbesondere dann geeignet, wenn der zu vermittelnde Gegenstand verbal nur schwer vermittelbare Eigenschaften aufweist." [2] Sie werden daher begleitend zum  Wissenserwerb eingesetzt und um Inhalte konkreter und besser verständlich zu machen und Strukturen zu verdeutlichen. [3]
+"Zum Lernen sind Visualisierungen insbesondere dann geeignet, wenn der zu vermittelnde Gegenstand verbal nur schwer vermittelbare Eigenschaften aufweist." [2] 
 
-Das Visualisieren in Draw.io ist nicht nur eine **visuelle Übung**, sondern gleichzeitig ein **expliziter Modellierungsschritt**, also um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu treffen und zu fördern.**
+Sie werden daher begleitend zum  Wissenserwerb eingesetzt, um Inhalte konkreter und besser verständlich zu machen und Strukturen zu verdeutlichen. [3]
+
+Das Visualisieren in Draw.io ist somit nicht nur eine **visuelle Übung**, sondern gleichzeitig ein **expliziter Modellierungsschritt**, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu treffen und zu fördern.**
 
 ---
 
@@ -89,38 +89,36 @@ Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwisc
 
 ## Ausgangspunkt
 
+Damit diese Visualisierung korrekt umgesetzt werden kann, müssen die relevanten Elemente der Domäne noch einmal klar sein.
+
 In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwickelt:
 
-* In **Einheit 5** wurden *zentralen Kernentitäten (Core Entities)* eines Beispielobjektes aus der Computerspiel-Domäne identifiziert. 
+* In **Einheit 5** wurden *zentralen Konzepte (Entities)* eines Beispielobjektes aus der Computerspiel-Domäne identifiziert. 
 * In **Einheit 6** wurde gezeigt, wie die Top-Level Ontologie CIDOC CRM um *domänenspezifische Subklassen* erweitert wird.  
 
-Zur Orientierung und zum Nachlesen:
+**Zur Orientierung und zum Nachlesen**
 
 * Beispielobjekt:  
   https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E2_Analyse-Workflow.md#beispielobjekt
-* Beispiele für Kernentitäten (Spielmerkmale und narrative Elemente):  
+* Beispiele für zentrale Konzepte (Spielmerkmale und narrative Elemente):  
   https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E5_Dom%C3%A4nenanalyse.md#fokus-dieser-modellierungs%C3%BCbung
 
 ---
 
-## Quiz
+## Quizfragen (Single Choice)
 
-(Single Choice/Einfachauswahl)
+Bevor das Domänenmodell nun in Draw.io umgesetzt wird, soll noch einmal überprüft werden, welche zentralen Konzepte für das Beispielobjekt im Kontext von Spielemerkmalen und narrativen Elemeten relevant sind.
 
-Damit diese Visualisierung korrekt umgesetzt werden kann, müssen die relevanten Elemente der Domäne noch einmal klar sein.
+Die folgenden Fragen dienen dazu, die zentralen Konzepte der Domäne noch einmal zu aktivieren und helfen die anschließende Modellierungsaufgabe besser einzuordnen.
 
-Bevor das Domänenmodell nun in Draw.io umgesetzt wird, soll noch einmal überprüft werden, welche Kernentitäten und Spielmerkmale für das Beispielobjekt relevant sind.
-
-Die folgenden Fragen dienen dazu, die zentralen Elemente der Domäne noch einmal zu aktivieren und helfen für die anschließende Modellierungsaufgabe einzuordnen.
-
-Welches Beispielobjekt wird im Modul verwendet? 
+### Welches Beispielobjekt wird im Modul verwendet? 
 
 * [( )] Ein PC-Spiel: *Minecraft*
 * [(x)] Ein SNES-Spiel: *The Legend of Zelda*
 * [( )] Eine PlayStation-Konsole: *PS1*
 * [( )] Ein Arcade-Automat: *Pac-Man*
 
-Welche semantische Annahme wird im Beispiel explizit gemacht?
+### Welche semantische Annahme wird im Beispiel explizit gemacht?
 
 * [( )] Das Spiel ist „Open World“
 * [(x)] Der Titel des Objekts wird als *The Legend of Zelda: A Link to the Past* festgelegt
@@ -129,20 +127,18 @@ Welche semantische Annahme wird im Beispiel explizit gemacht?
 
 ----
 
-## Quizfragen 
+## Quizfragen (Multiple Choice)
 
-(Multiple Choice/Mehrfachauswahl)
-
-Welche der folgenden Begriffe zählen zu den **Spielmerkmalen**?
+### Welche der folgenden Konzepte zählen zu den **Spielmerkmalen**?
 
 * [[ ]] Perspektive
 * [[X]] Genre
 * [[X]] Edition
 * [[X]] Plattform
-* [[ ] Hersteller
+* [[ ]] Hersteller
 
 
-Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
+### Welche der folgenden Konzepte zählen zu den **narrativen Elementen**?
 
 * [[X]] Perspektive
 * [[X]] Spielbeschreibung
@@ -152,14 +148,14 @@ Welche der folgenden Begriffe zählen zu den **narrativen Elementen**?
 
 ---
 
-## Von den Kernentitäten zur strukturierten Visualisierung
+## Von den Konzepten zur strukturierten Visualisierung
 
-Die bisherigen Fragen haben verdeutlicht, welche Kernentitäten der Beispieldomäne relevant sind und wie sie fachlich eingeordnet werden können.
+Die bisherigen Fragen haben verdeutlicht, welche zentralen Konzepte der Beispieldomäne relevant sind und wie sie fachlich eingeordnet werden können.
 
-Im nächsten Schritt geht es nicht mehr um das Erkennen oder Benennen von Kernentitäten, sondern darum, diese Auswahl in eine **formale Pfadstruktur** zu überführen:
+Im nächsten Schritt geht es nicht mehr um das Erkennen oder Benennen dieser zentralen Konzepte, sondern darum, diese Auswahl in eine **formalisierte Pfadstruktur** zu überführen:
 
-* Wie werden die Kernentitäten semantisch korrekt miteinander verknüpft?
-* Wie entsteht daraus eine formale Pfadstruktur, die später in Form von **Pfaden und Pfadgruppe im WissKI Pathbuilder** nutzbar ist?
+* Wie werden die zentralen Konzepte semantisch korrekt miteinander verknüpft?
+* Wie entsteht daraus eine formalisierte Pfadstruktur, die in Form von **Pfaden und Pfadgruppen im WissKI Pathbuilder** nutzbar ist?
 
 Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io** umgesetzt.  
 
@@ -167,9 +163,9 @@ Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io*
 
 ### Regeln zur Visualisierung mit Draw.io 
 
-* Die Knoten und Kanten müssen richtig verbunden sein.
+* Die Knoten und Kanten müssen korrekt verbunden sein.
 * Die Kantenbeschriftung muss mit der Kante verbunden sein.
-* Die Benennungen können, müssen aber nicht mit Unterstrichen sein
+* Die Benennungen können, müssen aber nicht Unterstriche beinhalten.
 * Es werden keine individuellen Instanzen abgebildet.
 * Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
 * Die Beziehungen aus dem CIDOC CRM werden nachgenutzt.
@@ -178,7 +174,7 @@ Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io*
 
 ### Aufgabe (Gruppenarbeit – 20 Min.)
 
-Die Aufteilung in Breakout-Räume findet zufällig statt (6x3er Gruppe und 1x4er Gruppe).
+Die Aufteilung in Breakout-Räume findet zufällig statt.
 
 Das bereitgestellte Diagramm enthält gezielt Lücken (fehlende Knoten/Kanten), die zu ergänzen sind. 
 
@@ -189,9 +185,10 @@ Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
 **Ablauf**
 
 * Die vorbereitete Draw.io-Datei runterladen ([hier](../assets/M2E2_Gruppenarbeit.drawio.xml))
-* Die heruntergeladene Draw.io-Datei in Draw.io importieren (hier: https://app.diagrams.net/)
+* Die heruntergeladene Draw.io-Datei in Draw.io importieren ([hier]: https://app.diagrams.net/)
 * Das Domänenontologie-Diagramm vervollständigen (siehe Auswahl) 
 * Attributwerte an Startknoten, jedem Gruppenknoten und Endknoten prüfen
+* Die Knoten-Kanten-Verbindungen prüfen
 
 **Auswahl**
 
@@ -216,7 +213,7 @@ Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
 
 ## Ausblick
 
-Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen WissKI Pathbuilder überführt und die erzeugte Pfadstruktur in WissKI geprüft.
+Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen WissKI Pathbuilder konvertiert und die erzeugte Pfadstruktur in WissKI importiert.
 
 
 ---
@@ -225,7 +222,8 @@ Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen Wi
 
 [1] https://zfdg.de/wp_2023_014
 [2] https://dorsch.hogrefe.com/stichwort/visualisierung
-[3] (Levin et al., 1987).
+[3] Levin et al., 1987
+
 
 
 

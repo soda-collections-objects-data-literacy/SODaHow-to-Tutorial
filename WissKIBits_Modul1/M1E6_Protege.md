@@ -67,15 +67,11 @@ Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenn
    → Download: https://erlangen-crm.org/ontology/ecrm/ecrm_240307.owl
 
 2. **Struktur erkunden**  
-   * Klassen (konzeptuelle Entitäten)  
-   * Objekteigenschaften (Relationen zwischen Entitäten)  
-   * Datentyp-Eigenschaften (nur für Literale)
-     
-<!-- * Klassen (Entities)  
+   * Klassen (Entities)  
    * Objekteigenschaften (Properties) (Relationen zwischen Entitäten)  
-   * Datentyp-Eigenschaften (nur für Literale) -->
+   * Datentyp-Eigenschaften (nur für Literale)
 
-3. **Eigene Subklassen anlegen**  
+3. **Eigene Subklassen (Entities) anlegen**  
    für neue Domänenkonzepte, z. B.:  
    * Game_Characteristic
    * Platform_Type
@@ -94,6 +90,7 @@ Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenn
 <video controls>
   <source src="https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/main/assets/Short_Protege_Intro.mp4" type="video/mp4">
 </video>
+
 
 
 

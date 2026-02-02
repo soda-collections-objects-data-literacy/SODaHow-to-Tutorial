@@ -221,7 +221,7 @@ Zentral hierfür ist **E41 Appellation**:
 eigenständige Entitätstypen (Entities)
 -->
 
-Gleichzeitig nutzt CIDOC CRM **Datentyp-Eigenschaften** (sog. literale wie Zahlen oder Zeichenketten) nur sparsam und vor allem dann, wenn der Wert nicht als eigenständige Entität modelliert werden muss.
+Gleichzeitig nutzt CIDOC CRM **Datentyp-Eigenschaften** (sog. Literale wie Zahlen oder Zeichenketten) nur sparsam und vor allem dann, wenn der Wert nicht als eigenständige Entität modelliert werden muss.
 
 <!--
 eigenständiger Entitätstype (Entities)
@@ -242,6 +242,7 @@ eigenständiger Entitätstype (Entities)
 <!--
 , während zentrale semantische Informationen als Entitätstypen (Entities)
 -->
+
 
 
 

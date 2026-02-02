@@ -58,9 +58,7 @@ Lernziel
 >
 > Im Modul 1 **"Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären"** wird die **konzeptionelle Grundlage** für ein Datenmodell erarbeitet:
 >
-> Objektdaten und Kontextinformationen aus einem spezifischen Fachgebiet bzw. einer Domäne werden analysiert, Kernentitäten, Ereignisse und Beziehungen identifiziert und diese Schritt für
-> Schritt in eine ontologiebasierte Struktur (z. B. mit CIDOC CRM) übersetzt.
-> <!-- Objektdaten und Kontextinformationen aus einem spezifischen Fachgebiet bzw. einer Domäne werden analysiert, um zentrale Konzepte, Ereignisse und Beziehungen der Domäne zu identifizieren und begrifflich zu präzisieren. Schritt für Schritt werden sie anschließend in eine ontologische Struktur (z. B. mit CIDOC CRM übersetzt)  --> 
+> Objektdaten und Kontextinformationen aus einem spezifischen Fachgebiet bzw. einer Domäne werden analysiert, um zentrale Konzepte, Ereignisse und Beziehungen der Domäne zu identifizieren und begrifflich zu präzisieren. Schritt für Schritt werden sie anschließend in eine ontologische Struktur (z.B. mit CIDOC CRM übersetzt). 
 >
 > Ziel ist es, die fachliche Domänenlogik so zu erfassen, dass sie später konsistent modelliert, implementiert und abfragbar ist.
 >
@@ -77,9 +75,8 @@ Lernziel
 In Modul 1 wird die konzeptionelle Basis für ein Domänenmodell geschaffen. Aus der Sammlungsperspektive entsteht eine Modellperspektive.
 
 * Objektdaten & deren Kontext werden analysiert.
-* Kernentitäten von Objektdaten werden identifiziert und um Ereignisse und Beziehungen kontextualisiert.
-<!-- Zentrale Konzepte der Objektdaten werden identifiziert und durch zugehörige Ereignisse und Beziehungen kontextualisiert.  --> 
-<!-- Abgleich der identifizierten Domänenkonzepte, Ereignisse und Beziehungen mit entsprechenen Klassen (Entities) und Eigenschaften/Beziehungen (Properties) des CIDOC CRM  -->
+* Zentrale Konzepte der Objektdaten werden identifiziert und durch zugehörige Ereignisse und Beziehungen kontextualisiert. 
+* Abgleich der identifizierten Domänenkonzepte, Ereignisse und Beziehungen mit entsprechenen Klassen (Entities) und Eigenschaften (Properties) des CIDOC CRM
 * Daraus entsteht schrittweise eine ontologiebasierte Domänenstruktur bzw. -logik mit CIDOC CRM.
 * Diese Domänenlogik wird visualisiert und dient als Grundlage für das sammlungsbezogene Datenmanagement und die -verwaltung in WissKI.
 
@@ -95,7 +92,7 @@ In Modul 1 wird die konzeptionelle Basis für ein Domänenmodell geschaffen. Aus
 | 2 | Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur | 5 Min. |
 | 3 | WissKI Kurzeinführung | 10 Min. |
 | 4 | Strukturierte Daten mit CIDOC CRM | 10 Min. |
-| 5 | Fachbereichs- bzw. Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese | 30 Min. |
+| 5 | Fachbereichs- bzw. Domänenanalyse: Zentrale Konzepte, Ereignisse, Kontext - vom Objekt zur Hypothese | 30 Min. |
 | 6 | Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien | 10 Min. |
 | 7 | Reflexion: Welche Datenanalysen sind möglich, welche nicht? | 5 Min. |
   
@@ -151,10 +148,9 @@ Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwinge
 
 Die Aussagen wird sichtbar an einem [Board](https://miro.com/app/board/uXjVGKauOtE=/) in 3 Spalten zugeordnet:
 
-* Entitäten (Objekt, Person, Ort, Zeit…)
-<!-- Konzepte (Objekt, Person, Ort, Zeit)  -->
+* Konzepte (Objekt, Person, Ort, Zeit…)
 * Ereignisse (Herstellung, Nutzung, Erwerb, Fund…)
-* Beziehungen / Kontext (Rollen, Zugehörigkeiten, Teil-von, identisch mit…)
+* Beziehungen (Rollen, Zugehörigkeiten, Teil-von, identisch mit…)
 
 ---
 
@@ -173,8 +169,8 @@ _Hilfestellung – nicht vorgeben_
 
 ## Zusammenfassung
 
-Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Entitäten, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.
-<!-- Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesen Modul 1 zentrale Konzepte, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und Diagramm zu entwickeln.  -->
+Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesem Modul 1 zentrale Konzepte, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und -diagramm zu entwickeln. 
+
 
 
 

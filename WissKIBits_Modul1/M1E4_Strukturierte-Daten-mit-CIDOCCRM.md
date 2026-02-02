@@ -58,7 +58,7 @@ Lernziele:
 
 Bei der Modellierung von Forschungsdaten aus den Geistes- und Kulturwissenschaften geht es nicht nur darum, Daten zu beschreiben. 
 
-Es geht darum ein Domänenwissen standardisiert zu dokumentieren und zu beschreiben, verfügbar zu machen und zu teilen und technisch und inhaltlich langfristig nutzbar zu halten.
+Es geht darum eine Domäne standardisiert zu dokumentieren und zu beschreiben, verfügbar zu machen und zu teilen und technisch und inhaltlich langfristig nutzbar zu halten.
 
 Ontologien helfen dabei:
 
@@ -104,7 +104,7 @@ WissKI verwendet in der technischen Implementierung die **CIDOC CRM OWL-Ontologi
 
 ## Zentrale Konzepte in CIDOC CRM
 
-| Dimension          | Beispielklasse             | Bedeutung                                |
+| Konzept          | Beispielklasse (Entity)             | Bedeutung                                |
 |-------------------|----------------------------|-------------------------------------------|
 | Ding              | **E70 Thing**              | Physisches oder immaterielles Objekt      |
 | Physisches Objekt | **E22 Human-Made Object**  | Artefakt, Exponat, Sammlungsobjekt        |
@@ -113,7 +113,7 @@ WissKI verwendet in der technischen Implementierung die **CIDOC CRM OWL-Ontologi
 | Ort               | **E53 Place**              | Räumlicher Kontext                         |
 | Zeit              | **E52 Time-Span**          | Zeitlicher Rahmen                          |
 
-<!-- Für Dimension vielleicht Konzept und dann Beispielklasse (Entity) -->
+
 ---
 
 ## Klassenhierarchie und Scope Notes
@@ -126,11 +126,9 @@ Die **Scope Note** einer CIDOC CRM-Klasse legt fest:
 
 **Achtung: Nicht entscheidend sind:**
 
-* der Name der Klasse,
+* der Name der Klasse (Entity),
 * ihre hierarchische Position,
 * oder intuitive Assoziationen.
-
-<!-- *der Name der Klasse (Entity) -->
 
 **Scope Notes sind maßgeblich für die korrekte Modellierung.**
 
@@ -142,19 +140,15 @@ Die **Scope Note** einer CIDOC CRM-Klasse legt fest:
 
 Es gibt verschiedene Ansätze, Domänenontologien zu erweitern:
 
-* Neue **Subklassen** bilden
-* Neue **Eigenschaften** definieren
-* **Reine Wiederverwendung** bestehender CIDOC CRM-Klassen und -Eigenschaften
+* Neue **Subklassen (Entities)** bilden
+* Neue **Eigenschaften (Properties)** definieren
+* **Reine Wiederverwendung** bestehender CIDOC CRM-Klassen (Entities) und -Eigenschaften (Properties)
 * **Kombinationen** der oben genannten Strategien
-
-<!-- * Neue **Eigenschaften (Properties)** -->
 
 In diesem Tutorial wird eine **leichtgewichtige Erweiterungsstrategie** empfohlen:
 
-→ **Domänenspezifische Unterklassen, wenn erforderlich**  
-→ **Eigenschaften werden weitestgehend aus CIDOC CRM übernommen**
-
-<!-- Eigenschaften (Properties) -->
+→ **Domänenspezifische Subklassen (Entities) für die domänenspezifischen Konzepte anlegen**
+→ **Eigenschaften (Properties) werden weitestgehend aus CIDOC CRM übernommen**
 
 Das garantiert **Interoperabilität und CIDOC-Kompatibilität**, reduziert die Komplexität und macht dennoch die Domänenspezifik deutlich.
 
@@ -190,11 +184,10 @@ Das **RDF (Resource Description Framework)** ist ein Standard zur Beschreibung v
 | Top-Level Ontologie (Grundstruktur) | Domänenontologie (Fachspezifik) |
 |------------------------------------|---------------------------------|
 | z.B. **CIDOC CRM** | Erweiterungen, WissKI-Flavors etc. |
-| definiert grundlegende Kategorien | Beschreibt fachspezifische Detailkonzepte |
+| definiert grundlegende Konzepte | Beschreibt fachspezifische Konzepte |
 | sorgt für Interoperabilität | erhöht Präzision |
 | ist langfristig stabil | ist anpassbar an Forschungsbedarfe |
 
-<!-- definiert grundlegende Konzepte -->
 ---
 
 ## Relevanz und Nutzen von CIDOC CRM 
@@ -216,6 +209,7 @@ WissKI nutzt CIDOC CRM, weil es …
 [1] CIDOC CRM Special Interest Group (o.J.). What is CIDOC CRM? https://cidoc-crm.org/
 
 [2] World Wide Web Consortium (W3C). (2014). RDF 1.1 concepts and abstract syntax. https://www.w3.org/TR/rdf11-concepts/
+
 
 
 

@@ -183,21 +183,21 @@ Diese Lücken sind durch geeignete Klassen (Entities) und passende Beziehungen (
 
 Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
 
-**Ablauf:**
+**Ablauf**
 
 * Die vorbereitete Draw.io-Datei runterladen ([hier](../assets/M2E2_Gruppenarbeit.drawio.xml))
 * Die heruntergeladene Draw.io-Datei in Draw.io importieren (hier: https://app.diagrams.net/)
 * Das Domänenontologie-Diagramm vervollständigen (siehe Auswahl) 
 * Attributwerte an Startknoten, jedem Gruppenknoten und Endknoten prüfen
 
-**Auswahl:**
+**Auswahl**
 
 * P102_has_title
 * P1 is identified by
 * P190 has symbolic content
 * mega:E41_Game_Character_Name
   
-### Ressourcen
+**Ressourcen**
 
 * Domänenontologie: [http://games.m-e-g-a.org/game_domain.rdf](http://games.m-e-g-a.org/game_domain.rdf)
 * Für semantische Beziehungen: PDF-Datei: [https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf)
@@ -223,6 +223,7 @@ Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen Wi
 [1] https://zfdg.de/wp_2023_014
 [2] https://dorsch.hogrefe.com/stichwort/visualisierung
 [3] (Levin et al., 1987).
+
 
 
 

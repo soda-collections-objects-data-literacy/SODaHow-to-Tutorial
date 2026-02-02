@@ -137,6 +137,7 @@ Teil 1
 | 9 | Unter „Pathbuilder Definition Import“ zuvor kopierte Linkadresse von Beispiel output Pathbuilder-XML einfügen und „Import“ klicken |
 | 10 | Die erzeugten semantischen Pfade prüfen |
 | 11 | Ergebnis: WissKI Pathbuilder auf Basis des eigenen Domänenmodells |
+| 12 | Nächster Schritt: Dateneingabe-Formulare generieren in „Configuration/Pathbuilders“ dann "edit" dann "Save and generate bundles and fields" |
 
 **Ressourcen**
 
@@ -144,6 +145,7 @@ Teil 1
 * [CIDOC CRM](http://erlangen-crm.org/240307/)
 * [Games ontology](http://games.m-e-g-a.org/game_domain.rdf)
 * [Beispiel output Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml)
+
 
 
 

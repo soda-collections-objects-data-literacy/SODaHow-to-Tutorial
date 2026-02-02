@@ -167,6 +167,9 @@ Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io*
 
 ### Regeln zur Visualisierung mit Draw.io 
 
+* Die Knoten und Kanten müssen richtig verbunden sein.
+* Die Kantenbeschriftung muss mit der Kante verbunden sein.
+* Die Benennungen können, müssen aber nicht mit Unterstrichen sein
 * Es werden keine individuellen Instanzen abgebildet.
 * Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
 * Die Beziehungen aus dem CIDOC CRM werden nachgenutzt.
@@ -223,6 +226,7 @@ Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen Wi
 [1] https://zfdg.de/wp_2023_014
 [2] https://dorsch.hogrefe.com/stichwort/visualisierung
 [3] (Levin et al., 1987).
+
 
 
 

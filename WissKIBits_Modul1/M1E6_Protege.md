@@ -70,6 +70,10 @@ Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenn
    * Klassen (konzeptuelle Entitäten)  
    * Objekteigenschaften (Relationen zwischen Entitäten)  
    * Datentyp-Eigenschaften (nur für Literale)
+     
+<!-- * Klassen (Entities)  
+   * Objekteigenschaften (Properties) (Relationen zwischen Entitäten)  
+   * Datentyp-Eigenschaften (nur für Literale) -->
 
 3. **Eigene Subklassen anlegen**  
    für neue Domänenkonzepte, z. B.:  
@@ -90,6 +94,7 @@ Mit einer klaren Vorgehensweise ist es möglich, auch ohne tiefgreifende Vorkenn
 <video controls>
   <source src="https://raw.githubusercontent.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/main/assets/Short_Protege_Intro.mp4" type="video/mp4">
 </video>
+
 
 
 

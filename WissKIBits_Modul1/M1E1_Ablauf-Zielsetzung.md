@@ -45,7 +45,10 @@ Einheit 1: **Willkommen und Ablauf**
 
 Lernziel
 
-* 
+* Begriff Konzept benennen.
+* Begriff Ereignis benennen. 
+* Begriff Beziehung benennen.
+* Begriff Domäne benennen.
 
 ---
 

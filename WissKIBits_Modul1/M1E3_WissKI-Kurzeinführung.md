@@ -114,6 +114,8 @@ WissKI ist **keine eigenständige Software** sondern ein Set an Modulen, die das
 
 Der **Pathbuilder** ist das **Herzstück von WissKI**.
 
+<!--Die im Pathbuilder modellierten semantischen Strukturen werden in WissKI technisch als RDF-Wissensgraph gespeichert. Damit verbindet WissKI die nutzerfreundliche Modellierung mit den Standards des Semantic Web.-->
+
 Der Pathbuilder definiert:
 
 * **Gruppen** → semantische Entitäten, z.B. Objekt, Person, Ort, Ereignis  
@@ -151,8 +153,22 @@ Leitfrage:
 * während → **seiner künstlerischen Schaffensperiode**  
 * in → **Nürnberg**
 
-Diese semantischen Bedeutungsaussagen formen einen Wissensgraphen – also ein Netzwerk miteinander verknüpfter Informationen. 
-Grundlage dafür ist das **ereigniszentrierte Modellierungsprinzip des CIDOC CRM**: Objekte werden nicht isoliert beschrieben, sondern über Ereignisse (z.B. Herstellung, Nutzung, Erwerb) und die daran beteiligten Akteur:innen, Orte und Zeiten in einen nachvollziehbaren Zusammenhang gesetzt.
+Diese semantischen Bedeutungsaussagen formen einen Wissensgraphen – also ein Netzwerk miteinander verknüpfter Informationen. Grundlage dafür ist das **ereigniszentrierte Modellierungsprinzip des CIDOC CRM**: Objekte werden nicht isoliert beschrieben, sondern über Ereignisse (z.B. Herstellung, Nutzung, Erwerb) und die daran beteiligten Akteur:innen, Orte und Zeiten in einen nachvollziehbaren Zusammenhang gesetzt.
+
+<!--Technisch basiert dieser Wissensgraph auf dem Resource Description Framework (RDF). Informationen werden dabei als sogenannte Tripel gespeichert:
+
+* Subjekt – die beschriebene Ressource
+* Prädikat – ihre Eigenschaft oder Beziehung
+* Objekt – ein Wert oder eine weitere Ressource
+
+Eine Aussage wie:
+
+„Das Selbstbildnis wurde von Albrecht Dürer geschaffen“
+
+wird so als einzelne, eindeutig referenzierbare Beziehung gespeichert. Viele solcher Aussagen verbinden sich zu einem gerichteten Graphen, der komplexe Zusammenhänge maschinenlesbar abbildet. Gemeinsam bilden diese Tripel den Wissensgraphen, den WissKI verwaltet.
+
+Der WissKI Pathbuilder übersetzt dabei ontologische Modelle direkt in solche RDF-Strukturen: Gruppen entsprechen Entitäten, Pfade definieren Beziehungen, und die daraus generierten Formulare erzeugen beim Erfassen automatisch konsistente Aussagen im Wissensgraphen.
+-->
 
 ---
 
@@ -189,6 +205,7 @@ ____________________________
 [2] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
 
 [3] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
+
 
 
 

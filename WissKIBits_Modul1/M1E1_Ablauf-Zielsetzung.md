@@ -45,8 +45,7 @@ Einheit 1: **Willkommen und Ablauf**
 
 Lernziel
 
-* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa\_01\_010\_0190a)
-* Domänenbegriff benennen und erläutern.
+* 
 
 ---
 
@@ -102,6 +101,10 @@ In Modul 1 wird die konzeptionelle Basis für ein Domänenmodell geschaffen. Aus
 
 Lernende können... 
 
+* Begriff Konzept benennen.
+* Begriff Ereignis benennen. 
+* Begriff Beziehung benennen.
+* Begriff Domäne benennen.
 * für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa\_01\_010\_0190a) 
 * Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
 * Begriff Entität benennen und erläutern. (LZ-ID SODa\_03\_007\_820 und SODa\_03\_007\_821)

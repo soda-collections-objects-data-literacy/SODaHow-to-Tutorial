@@ -153,7 +153,9 @@ Leitfrage:
 * während → **seiner künstlerischen Schaffensperiode**  
 * in → **Nürnberg**
 
-Diese semantischen Bedeutungsaussagen formen einen Wissensgraphen – also ein Netzwerk miteinander verknüpfter Informationen. Grundlage dafür ist das **ereigniszentrierte Modellierungsprinzip des CIDOC CRM**: Objekte werden nicht isoliert beschrieben, sondern über Ereignisse (z.B. Herstellung, Nutzung, Erwerb) und die daran beteiligten Akteur:innen, Orte und Zeiten in einen nachvollziehbaren Zusammenhang gesetzt.
+Diese semantischen Bedeutungsaussagen formen einen Wissensgraphen – also ein Netzwerk miteinander verknüpfter Informationen. 
+
+Grundlage dafür ist das **ereigniszentrierte Modellierungsprinzip des CIDOC CRM**: Objekte werden nicht isoliert beschrieben, sondern über Ereignisse (z.B. Herstellung, Nutzung, Erwerb) und die daran beteiligten Akteur:innen, Orte und Zeiten in einen nachvollziehbaren Zusammenhang gesetzt.
 
 <!--Technisch basiert dieser Wissensgraph auf dem Resource Description Framework (RDF). Informationen werden dabei als sogenannte Tripel gespeichert:
 
@@ -205,6 +207,7 @@ ____________________________
 [2] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
 
 [3] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
+
 
 
 

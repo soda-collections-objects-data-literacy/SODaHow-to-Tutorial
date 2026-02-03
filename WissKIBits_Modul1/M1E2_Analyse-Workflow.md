@@ -45,11 +45,21 @@ Einheit 2: **Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur**
 
 Lernziel: 
 
+* Begriff semantische Modellierung benennen.
+* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa\_01\_010\_0190a)
+* Begriff Ontologie benennen.
 * Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
+* Begriff Domänenontologie benennen und erläutern.
+* Begriff Klassen (Classes/Concepts) benennen und erläutern.
+* Begriff Eigenschaften (Properties) benennen und erläutern.
+* Begriff Instanzen (Instances) benennen und erläutern. 
+* Begriff Modellannahmen (Constraints) benennen und erläutern. 
+* Begriff Scope Notes benennen und erläutern.
 * Begriff Entität benennen und erläutern. (LZ-ID SODa\_03\_007\_820 und SODa\_03\_007\_821)
 * Relevanz von Ontologien erläutern. (03\_007\_0777)
 * Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
 * Methoden zur Entwicklung von Ontologien benennen. (LZ-ID 03\_007\_0784)
+* Methoden zur Entwicklung von Ontologien erläutern.
 * einen Workflow für die semantische Modellierung als Datendokumentation benennen und anwenden. (LZ-ID SODa\_03\_001\_0626 und SODa\_03\_001\_0627) 
 
 ---
@@ -89,9 +99,9 @@ Ontologien helfen damit, fachliches Domänenwissen mit ihrer spezifischen Domän
 
 Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie als Struktur verstehen, die insbesondere bereitstellt:
 
-* Klassen: formale Repräsentation von Konzepten
-* Eigenschaften (Properties): formale Repräsentation von Merkmalen oder Beziehungen zwischen Klassen und Instanzen
-* Instanzen (Individuen): konkrete Ausprägungen von Klassen
+* Klassen (Classes/Concpets): formale Repräsentation von Konzepten
+* Eigenschaften (Properties) : formale Repräsentation von Merkmalen oder Beziehungen zwischen Klassen und Instanzen
+* Instanzen (Instances): konkrete Ausprägungen von Klassen
 
 Auf diese Weise ermöglichen Ontologien, Aussagen über Ressourcen formal abzubilden. [2]
 
@@ -105,9 +115,9 @@ Die bekannteste Definition beschreibt eine Ontologie als "eine explizite, formal
 
 Ontologien bestehen typischerweise aus folgenden Bausteinen:
 
-* **Klassen** (z.B. Spiel, Person, Organisation, Ereignis)
+* **Klassen (Classes/Concepts)** (z.B. Spiel, Person, Organisation, Ereignis)
 * **Eigenschaften (Properties)** (z.B. *hat Titel*, *wurde veröffentlicht von*)
-* **Instanzen** (konkrete Dinge, z.B. *The Legend of Zelda: A Link to the Past*) 
+* **Instanzen (Instances)** (konkrete Dinge, z.B. *The Legend of Zelda: A Link to the Past*) 
 * **Modellannahmen (Constraints)** (z.B. welche Beziehungen beschreiben zulässig das Objekt)
 * **Definitionen (Scope Notes)** zur semantischen Präzisierung (z.B. in Referenzmodellen wie CIDOC CRM)
 
@@ -143,9 +153,9 @@ Ontologien entstehen häufig durch eine Kombination aus:
 2. **Objektdaten analysieren** - Konzepte, Ereignisse und Beziehungen im Datenbestand erkennen 
 3. **Bedeutungen erfassen** - Konzepte, Ereignisse und Beziehungen im Datenbestand identifiziere
 4. **Zentrale Konzepte und Kontexte bestimmen** – Welche Dinge (Objekt/Person/Ort/Zeit/Organisation) sind relevant?
-5. **Ableich mit Ontologie (z. B. Referenzmodell CIDOC CRM)** - Konzepte, Ereignisse und Beziehungen semantisch präzisieren und konsistent Klassen (Entities) und Eigenschaften(Properties) zuordnen
+5. **Ableich mit Ontologie (z.B. Referenzmodell CIDOC CRM)** - Konzepte, Ereignisse und Beziehungen semantisch präzisieren und konsistent Klassen (Entities) und Eigenschaften (Properties) zuordnen
 6. **Semantik modellieren** – Bedeutungen auf das Referenzmodell CIDOC CRM abbilden
-7. **Eigenschaften (Properties) und Klassen (Entities) formulieren und in Beziehung setzen (Graphlogik)** - Was passiert, wer ist beteiligt, wie hängt es zusammen?
+7. **Klassen (Entities) und Eigenschaften (Properties)** formulieren und in Beziehung setzen (Graphlogik)- Was passiert, wer ist beteiligt, wie hängt es zusammen?
 8. **Datenpfade erstellen** – WissKI-Pfade modellieren & Pathbuilder konfigurieren  
 9. **Evaluieren & diskutieren** – Workflows reflektieren und Erfahrungen austauschen
 10. **Umsetzung vorbereiten** – Grundlage für Diagramm und spätere Pfadstruktur (Modul 2) schaffen
@@ -180,6 +190,7 @@ ____________________________
 [4] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [5] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

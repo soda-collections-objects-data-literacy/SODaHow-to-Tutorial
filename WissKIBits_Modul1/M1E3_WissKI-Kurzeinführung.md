@@ -45,6 +45,7 @@ Einheit 3: **WissKI Kurzeinführung**
 
 Lernziele 
 
+* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa_01_010_0190a)
 * das 5-Sterne-Modell für offene Daten benennen. (LZ-ID SODa\_01\_008\_0172)
 * FAIR Prinzipien benennen. (LZ-ID 01\_007\_0117)
 * geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01\_007\_0121)
@@ -70,8 +71,7 @@ WissKI wird u. a. am **Germanischen Nationalmuseum (GNM)** in Nürnberg eingeset
 * dem größten kulturhistorischen Museum im deutschsprachigen Raum
 * das Maßstäbe für digitale Forschungsinfrastrukturen setzt.
 
-WissKI ist **nicht nur** eine Sammlungsdatenbank –  es ist ein **semantisches Datenmanagementsystem für Linked Open Data (LOD)**  und unterstützt die FAIR-Prinzipien (
-**Findable – Accessible – Interoperable – Reusable**).
+WissKI ist **nicht nur** eine Sammlungsdatenbank –  es ist ein **semantisches Datenmanagementsystem für Linked Open Data (LOD)**  und unterstützt die FAIR-Prinzipien (**Findable – Accessible – Interoperable – Reusable**).
 
 Ein etabliertes Mittel zur Einordnung von Daten im Hinblick auf **Linked Open Data (LOD)** ist das [**5-Sterne-Modell** für offene Daten](https://5stardata.info/de/), das zugleich einen guten Einstieg in das Verständnis von LOD bietet. [1]
 
@@ -104,7 +104,7 @@ WissKI ist **keine eigenständige Software** sondern ein Set an Modulen, die das
 
 - Ontologiebasierte Modellierung und semantische Datenstrukturierung  
 - Pathbuilder, ein Werkzeug zur Definition semantischer Pfade  
-- RDF-Triple-Store zur Speicherung der Daten  
+- RDF-Triple-Store zur Speicherung der semantischen Daten  
 - SPARQL-Endpunkt für Abfragen und Zugriff  
 - Publikation als Linked Open Data (LOD)  
 
@@ -116,8 +116,8 @@ Der **Pathbuilder** ist das **Herzstück von WissKI**.
 
 Der Pathbuilder definiert:
 
-* **Gruppen** → semantische Entitäten, z. B. Objekt, Person, Ort, Ereignis  
-* **Pfade** → Beziehungen dieser Entitäten, z. B. Objekt → wurde geschaffen von → Person  
+* **Gruppen** → semantische Entitäten, z.B. Objekt, Person, Ort, Ereignis  
+* **Pfade** → Beziehungen dieser Entitäten, z.B. Objekt → wurde geschaffen von → Person  
 * **Widgets** → automatisch generierte Eingabeformulare, deren Struktur aus der Semantik abgeleitet wird
 
 So ist es möglich in WissKI **nicht mit Tabellen**, sondern mit **ontologiebasierten Strukturen** zu arbeiten. 
@@ -189,6 +189,7 @@ ____________________________
 [2] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
 
 [3] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
+
 
 
 

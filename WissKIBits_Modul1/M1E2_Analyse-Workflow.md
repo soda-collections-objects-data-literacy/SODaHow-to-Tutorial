@@ -45,21 +45,21 @@ Einheit 2: **Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur**
 
 Lernziel: 
 
-* Begriff semantische Modellierung benennen.
+* Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
 * für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa\_01\_010\_0190a)
-* Begriff Ontologie benennen.
+* Begriff Ontologie benennen. (LZ-ID SODa\_03\_007\_0826)
 * Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
-* Begriff Domänenontologie benennen und erläutern.
-* Begriff Klassen (Classes/Concepts) benennen und erläutern.
-* Begriff Eigenschaften (Properties) benennen und erläutern.
-* Begriff Instanzen (Instances) benennen und erläutern. 
-* Begriff Modellannahmen (Constraints) benennen und erläutern. 
-* Begriff Scope Notes benennen und erläutern.
+* Begriff Domänenontologie benennen und erläutern. (LZ-ID SODa\_03\_007\_0827 und LZ-ID SODa\_03\_007\_0828)
+* Begriff Klassen (Classes/Concepts) benennen und erläutern. (LZ-ID SODa\_03\_007\_0829 und LZ-ID SODa\_03\_007\_0830)
+* Begriff Eigenschaften (Properties) benennen und erläutern. (LZ-ID SODa\_03\_007\_0831 und LZ-ID SODa\_03\_007\_0832)
+* Begriff Instanzen (Instances) benennen und erläutern. (LZ-ID SODa\_03\_007\_0833 und LZ-ID SODa\_03\_007\_0834)
+* Begriff Modellannahmen (Constraints) benennen und erläutern. (LZ-ID SODa\_03\_007\_0835 und LZ-ID SODa\_03\_007\_0836)
+* Begriff Scope Notes benennen und erläutern. (LZ-ID SODa\_03\_007\_0837 und LZ-ID SODa\_03\_007\_0838)
 * Begriff Entität benennen und erläutern. (LZ-ID SODa\_03\_007\_820 und SODa\_03\_007\_821)
 * Relevanz von Ontologien erläutern. (03\_007\_0777)
 * Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
 * Methoden zur Entwicklung von Ontologien benennen. (LZ-ID 03\_007\_0784)
-* Methoden zur Entwicklung von Ontologien erläutern.
+* Methoden zur Entwicklung von Ontologien erläutern. (LZ-ID SODa\_03\_007\_0838)
 * einen Workflow für die semantische Modellierung als Datendokumentation benennen und anwenden. (LZ-ID SODa\_03\_001\_0626 und SODa\_03\_001\_0627) 
 
 ---
@@ -190,6 +190,7 @@ ____________________________
 [4] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
 [5] Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+
 
 
 

@@ -45,10 +45,10 @@ Einheit 1: **Willkommen und Ablauf**
 
 Lernziel
 
-* Begriff Konzept benennen.
-* Begriff Ereignis benennen. 
-* Begriff Beziehung benennen.
-* Begriff Domäne benennen.
+* Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
+* Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
+* Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
+* Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0821)
 
 ---
 
@@ -104,10 +104,10 @@ In Modul 1 wird die konzeptionelle Basis für ein Domänenmodell geschaffen. Aus
 
 Lernende können... 
 
-* Begriff Konzept benennen.
-* Begriff Ereignis benennen. 
-* Begriff Beziehung benennen.
-* Begriff Domäne benennen.
+* Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
+* Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
+* Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
+* Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0821)
 * für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa\_01\_010\_0190a) 
 * Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
 * Begriff Entität benennen und erläutern. (LZ-ID SODa\_03\_007\_820 und SODa\_03\_007\_821)
@@ -176,6 +176,7 @@ _Hilfestellung – nicht vorgeben_
 ## Zusammenfassung
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesem Modul 1 zentrale Konzepte, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und -diagramm zu entwickeln. 
+
 
 
 

@@ -45,8 +45,7 @@ Einheit 3: **WissKI Kurzeinführung**
 
 Lernziele 
 
-* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa_01_010_0190a)
-* und erläutern
+* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen und erläutern. (LZ-ID SODa\_01\_010\_0190a und LZ-ID SODa\_01\_010\_0203)
 * das 5-Sterne-Modell für offene Daten benennen. (LZ-ID SODa\_01\_008\_0172)
 * FAIR Prinzipien benennen. (LZ-ID 01\_007\_0117)
 * geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01\_007\_0121)
@@ -209,6 +208,7 @@ ____________________________
 [2] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
 
 [3] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
+
 
 
 

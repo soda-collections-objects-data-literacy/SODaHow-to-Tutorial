@@ -48,7 +48,7 @@ Lernziel
 * Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
 * Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
 * Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
-* Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0821)
+* Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
 
 ---
 
@@ -107,14 +107,23 @@ Lernende können...
 * Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
 * Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
 * Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
-* Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0821)
-* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa\_01\_010\_0190a) 
+* Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
+* Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
+* für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen und erläutern. (LZ-ID SODa\_01\_010\_0190a und LZ-ID SODa\_01\_010\_0203)
+* Begriff Ontologie benennen. (LZ-ID SODa\_03\_007\_0826)
 * Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
+* Begriff Domänenontologie benennen und erläutern. (LZ-ID SODa\_03\_007\_0827 und LZ-ID SODa\_03\_007\_0828)
+* Begriff Klassen (Classes/Concepts) benennen und erläutern. (LZ-ID SODa\_03\_007\_0829 und LZ-ID SODa\_03\_007\_0830)
+* Begriff Eigenschaften (Properties) benennen und erläutern. (LZ-ID SODa\_03\_007\_0831 und LZ-ID SODa\_03\_007\_0832)
+* Begriff Instanzen (Instances) benennen und erläutern. (LZ-ID SODa\_03\_007\_0833 und LZ-ID SODa\_03\_007\_0834)
+* Begriff Modellannahmen (Constraints) benennen und erläutern. (LZ-ID SODa\_03\_007\_0835 und LZ-ID SODa\_03\_007\_0836)
+* Begriff Scope Notes benennen und erläutern. (LZ-ID SODa\_03\_007\_0837 und LZ-ID SODa\_03\_007\_0838)
 * Begriff Entität benennen und erläutern. (LZ-ID SODa\_03\_007\_820 und SODa\_03\_007\_821)
 * Relevanz von Ontologien erläutern. (03\_007\_0777)
 * Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
 * Methoden zur Entwicklung von Ontologien benennen. (LZ-ID 03\_007\_0784)
-* einen Workflow für die semantische Modellierung als Datendokumentation benennen und anwenden. (LZ-ID SODa\_03\_001\_0626 und SODa\_03\_001\_0627) 
+* Methoden zur Entwicklung von Ontologien erläutern. (LZ-ID SODa\_03\_007\_0838)
+* einen Workflow für die semantische Modellierung als Datendokumentation benennen und anwenden. (LZ-ID SODa\_03\_001\_0626 und SODa\_03\_001\_0627)
 * das 5-Sterne-Modell für offene Daten benennen. (LZ-ID SODa\_01\_008\_0172)
 * FAIR Prinzipien benennen. (LZ-ID 01\_007\_0117)
 * geeignete Technologien zur Unterstützung der Anwendung der FAIR-Prinzipien benennen. (LZ-ID 01\_007\_0121)
@@ -176,6 +185,7 @@ _Hilfestellung – nicht vorgeben_
 ## Zusammenfassung
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesem Modul 1 zentrale Konzepte, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und -diagramm zu entwickeln. 
+
 
 
 

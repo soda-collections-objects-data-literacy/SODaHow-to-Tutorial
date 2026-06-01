@@ -2,11 +2,16 @@
 
 ## Aktualisierung
 
+01.06.2026
+- alle Lernziele aktualsiert
+
+ToDo:
+- Modul 1 überarbeiten: Lernziele und Inhalte abgleichen, ggf. ergänzen.
+
 31.1.2026
 
 - Menti-Zugänge aktualisiert
 - Miro aufgeräumt und neu verlinked
-- 
 
   
 27.01.2026

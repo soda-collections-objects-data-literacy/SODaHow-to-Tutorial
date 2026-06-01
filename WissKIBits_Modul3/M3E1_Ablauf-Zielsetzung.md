@@ -47,6 +47,7 @@ Lernziel
 
 * für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen benennen. (LZ-ID SODa\_01\_010\_0190a) 
 
+
 ---
 
 ## Begrüßung

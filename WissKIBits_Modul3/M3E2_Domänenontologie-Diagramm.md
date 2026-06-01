@@ -45,7 +45,8 @@ Einheit 2: **Visualisierung der Domänenontologie in Draw.io**
 Lernziel
 
 * Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. (LZ-ID SODa\_03\_007\_0811)
-* Software zur Visualisierung einer Domänenontologie benennen und erläutern.(LZ-ID SODa\_03\_007\_0812 und LZ-ID SODa\_03\_007\_0813)
+* Software zur Visualisierung einer Domänenontologie benennen.(LZ-ID SODa\_03\_007\_0812)
+* Software zur Visualisierung einer Domänenontologie benennen und erläutern.(LZ-ID LZ-ID SODa\_03\_007\_0813)
 * Nutzen einer Software zur Visualisierung einer Domänenontologie benennen.(LZ-ID SODa\_03\_007\_0814) 
 * Software zur Visualisierung einer Domänenontologie unter Anleitung anwenden. (LZ-ID SODa\_03\_007\_0815)
 * Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware benennen. (LZ-ID SODa\_03\_007\_0820)

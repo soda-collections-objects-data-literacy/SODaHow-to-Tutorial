@@ -37,15 +37,18 @@ LearningResourceType: SODa How-to-Tutorial
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
+Modul 2: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 6: **Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien**  
+Einheit 1: **Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien**  
 
 **Dauer:** ~ 10 Min.
 
 Lernziel
 
-* Software zur Erstellung von Ontologien benennen und anwenden. (LZ ID SODa\_03\_007\_0809 und SODa\_03\_007\_0810)
+* Software zur Erstellung von Ontologien benennen. (LZ-ID SODa\_03\_007\_0809)
+* Software zur Erstellung von Ontologien erläutern. (LZ-ID SODa\_03\_007\_0810)
+* Software zur Erstellung von Ontologien anwenden. (LZ-ID SODa\_03\_007\_0840)
+
   
 ---
 

@@ -41,7 +41,7 @@ Modul 2: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
 Einheit 1: **Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien**  
 
-**Dauer:** ~ 10 Min.
+**Dauer:** ~ xxx Min.
 
 Lernziel
 

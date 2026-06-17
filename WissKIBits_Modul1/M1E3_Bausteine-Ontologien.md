@@ -39,46 +39,19 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 7: **Reflexion: Eindrücke, Unsicherheiten und offene Fragen**  
+Einheit 3: **Bausteine von Ontologien**  
 
-**Dauer:** ~ 5 Min.
+**Dauer:** ~  Min.
 
----
+Lernziele
 
-
-##  Gemeinsame Gesprächsrunde und Reflexion
-
-![Feedback](../assets/M1E7-Reflexion.jpg)
-
-**Fragen:**
-
-* Wie war der Aufbau und Ablauf des Worhops für Sie?
-* Was hat gut funktioniert? Welche Schritte/Beispiele waren verständlich und unterstützend? 
-* Welche Einheit hat Ihnen am meisten geholfen, das Thema zu verstehen?
-* Was war herausfordernd? Wo gab es Stolperstellen oder Unsicherheiten?
-* Ist das Vorgehen bei der Modellierung klar geworden?
-* Können Sie die heute erlernten Inhalte auf Ihr Projekt übertragen?
-* Wie bewerten Sie das Modul? Sie können insgesamt 100 Punkte vergeben...
-* Wie sicher fühlen Sie sich für das nächste Modul?
-* Mit welchem Gefühl gehen Sie heute aus dem Modul heraus?
-* Was hat Ihnen besonder gut gefallen?
-
----
-
-## Fazit
-
-**Semantisches Modellieren ist ein dialogischer Prozess.** 
-
-Bedeutungsstrukturen werden in der Regel im Austausch — nicht im Alleingang - entwickelt.
-
-An dieser Stelle können noch offen Fragen geklärt werden, bevor es in dem nächsten Modul weitergeht.
-
-
-
-
-
-
-
-
-
-
+* Begriff Klassen (Classes/Concepts) benennen. (LZ-ID SODa\_03\_007\_0829)
+* Begriff Klassen (Classes/Concepts) erläutern. (LZ-ID SODa\_03\_007\_0830)
+* Begriff Eigenschaften (Properties) benennen. (LZ-ID SODa\_03\_007\_0831)
+* Begriff Eigenschaften (Properties) erläutern. (LZ-ID SODa\_03\_007\_0832)
+* Begriff Instanzen (Instances) benennen. (LZ-ID SODa\_03\_007\_0833)
+* Begriff Instanzen (Instances) erläutern. (LZ-ID SODa\_03\_007\_0834)
+* Begriff Modellannahmen (Constraints) benennen. (LZ-ID SODa\_03\_007\_0835)
+* Begriff Modellannahmen (Constraints) erläutern. (LZ-ID SODa\_03\_007\_0836)
+* Begriff Scope Notes benennen. (LZ-ID SODa\_03\_007\_0837)
+* Begriff Scope Notes erläutern. (LZ-ID SODa\_03\_007\_0838)

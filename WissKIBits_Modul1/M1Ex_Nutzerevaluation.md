@@ -37,68 +37,41 @@ LearningResourceType: SODa How-to-Tutorial
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären**
+Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 1: **Willkommen und Ablauf**  
+Einheit 7: **Reflexion: Eindrücke, Unsicherheiten und offene Fragen - muss nochmal ganzheitlich überarbeitet werden siehe SODa OER Task Force**  
 
-**Dauer:** ~ 10 Min.
-
-Lernziel
-
-* Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
-* Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
-* Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
-* Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
+**Dauer:** ~ 5 Min.
 
 ---
 
-## Aktivierung und Input
 
-**Impulsfrage**
+##  Gemeinsame Gesprächsrunde und Reflexion
 
-Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwingend dokumentiert sein, damit Forschung möglich wird?
+![Feedback](../assets/M1E7-Reflexion.jpg)
 
-**Blitzrunde im Plenum und Clustering**
+**Fragen:**
 
-* Jede Person nennt genau 1 Punkt: „Für uns ist unverzichtbar, dass …“
-* z.B. „… eine eindeutige Identifizierung durch z. B. Signatur-/Inventarnummer möglich ist.
-
-Die Aussagen wird sichtbar an einem [Board](https://miro.com/app/board/uXjVGKauOtE=/) in 3 Spalten zugeordnet:
-
-* Konzepte (Objekt, Person, Ort, Zeit…)
-* Ereignisse (Herstellung, Nutzung, Erwerb, Fund…)
-* Beziehungen (Rollen, Zugehörigkeiten, Teil-von, identisch mit…)
+* Wie war der Aufbau und Ablauf des Worhops für Sie?
+* Was hat gut funktioniert? Welche Schritte/Beispiele waren verständlich und unterstützend? 
+* Welche Einheit hat Ihnen am meisten geholfen, das Thema zu verstehen?
+* Was war herausfordernd? Wo gab es Stolperstellen oder Unsicherheiten?
+* Ist das Vorgehen bei der Modellierung klar geworden?
+* Können Sie die heute erlernten Inhalte auf Ihr Projekt übertragen?
+* Wie bewerten Sie das Modul? Sie können insgesamt 100 Punkte vergeben...
+* Wie sicher fühlen Sie sich für das nächste Modul?
+* Mit welchem Gefühl gehen Sie heute aus dem Modul heraus?
+* Was hat Ihnen besonder gut gefallen?
 
 ---
 
-### Lösungsbeispiele 
+## Fazit
 
-_Hilfestellung – nicht vorgeben_
+**Semantisches Modellieren ist ein dialogischer Prozess.** 
 
-* „… der Herstellungs-/Entstehungskontext klar ist.“
-* „… Akteur:innen und Rollen unterscheidbar sind.“
-* „… Provenienzereignisse nachvollziehbar sind.“
-* „… Ort und Zeit belastbar sind.“
-* „… Unsicherheiten (Hypothesen) abbildbar sind.“
-* „… eine eindeutige Identifizierung durch z. B. Signatur-/Inventarnummer möglich ist.“
-  
----
+Bedeutungsstrukturen werden in der Regel im Austausch — nicht im Alleingang - entwickelt.
 
-## Zusammenfassung
-
-Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesem Modul 1 zentrale Konzepte, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und -diagramm zu entwickeln. 
-
-
-
-
-
-
-
-
-
-
-
-
+An dieser Stelle können noch offen Fragen geklärt werden, bevor es in dem nächsten Modul weitergeht.
 
 
 

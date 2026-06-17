@@ -43,12 +43,6 @@ Einheit 1: **Willkommen und Ablauf**
 
 **Dauer:** ~ 10 Min.
 
-Lernziel
-
-* Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
-* Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
-* Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
-* Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
 
 ---
 

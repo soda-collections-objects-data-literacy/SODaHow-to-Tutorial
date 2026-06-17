@@ -39,37 +39,17 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 2: **Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur**  
+Einheit 2: **Grundlage von Ontologien**  
 
-**Dauer:** ~ 10 Min.
+**Dauer:** ~  Min.
 
-Lernziel: 
+Lernziele
 
-* Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
 * Begriff Ontologie benennen. (LZ-ID SODa\_03\_007\_0826)
 * Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
 * Begriff Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0827)
 * Begriff Domänenontologie erläutern. (LZ-ID SODa\_03\_007\_0828)
-* Begriff Klassen (Classes/Concepts) benennen. (LZ-ID SODa\_03\_007\_0829)
-* Begriff Klassen (Classes/Concepts) erläutern. (LZ-ID SODa\_03\_007\_0830)
-* Begriff Eigenschaften (Properties) benennen. (LZ-ID SODa\_03\_007\_0831)
-* Begriff Eigenschaften (Properties) erläutern. (LZ-ID SODa\_03\_007\_0832)
-* Begriff Instanzen (Instances) benennen. (LZ-ID SODa\_03\_007\_0833)
-* Begriff Instanzen (Instances) erläutern. (LZ-ID SODa\_03\_007\_0834)
-* Begriff Modellannahmen (Constraints) benennen. (LZ-ID SODa\_03\_007\_0835)
-* Begriff Modellannahmen (Constraints) erläutern. (LZ-ID SODa\_03\_007\_0836)
-* Begriff Scope Notes benennen. (LZ-ID SODa\_03\_007\_0837)
-* Begriff Scope Notes erläutern. (LZ-ID SODa\_03\_007\_0838)
 * Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
-* Methoden zur Entwicklung von Ontologien benennen. (LZ-ID 03\_007\_0784)
-* Methoden zur Entwicklung von Ontologien erläutern. (LZ-ID SODa\_03\_007\_0838)
-* einen Workflow für die semantische Modellierung als Datendokumentation benennen. (LZ-ID SODa\_03\_001\_0626) 
-* einen Workflow für die semantische Modellierung als Datendokumentation anwenden. (LZ-ID SODa\_03\_001\_0627) 
-
-
-Ab hier löschen weil alt?
-* Begriff Entität benennen und erläutern. (LZ-ID SODa\_03\_007\_820 und SODa\_03\_007\_821)
-* Relevanz von Ontologien erläutern. (03\_007\_0777)
 
 ---
 

@@ -39,18 +39,25 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
-Einheit 4: **Strukturierte Daten mit CIDOC CRM**  
+Einheit 4: **Einführung in CIDOC CRM**  
 
-**Dauer:** ~ 10 Min.
+**Dauer:** ~ 
 
-Lernziele:
+Lernziele
 
 * Ontologie zur Beschreibung von Ressourcen bennen. (LZ-ID 03\_007\_0778)
 * Ontologie zur Beschreibung von Ressourcen erläutern. (LZ-ID 03\_007\_0779)
 * Ontologie zur Beschreibung von Ressourcen anwenden. (LZ-ID 03\_007\_0780)
+* Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0805)
 * Methoden zur Modellierung einer Domänenontologie mit dem Referenzmodell CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0784a)
 * Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa\_03\_007\_0780a)
-* Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0805)
+
+
+Neue Lernziele:
+
+Transfer von Papierstandard zu CRM	—
+OWL/RDF benennen	—
+
 
 ---
 

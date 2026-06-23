@@ -129,12 +129,13 @@ Lernende können...
 * Methoden zur Modellierung einer Domänenontologie mit dem Referenzmodell CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0784a)
 * Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa\_03\_007\_0780a)
 * Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0805)
-* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benenen und erläutern. (LZ-ID SODa\_03\_007\_0806 und LZ-ID SODa\_03\_007\_0807)
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benenen, erläutern und anwenden. (LZ-ID SODa\_03\_007\_0806, LZ-ID SODa\_03\_007\_0807 und LZ-ID SODa\_03\_007\_0844)
 * Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0808) *überarbeiten*
 * Software zur Erstellung von Ontologien benennen und anwenden. (LZ-ID SODa\_03\_007\_0809 und LZ-ID SODa\_03\_007\_0810)
 * Erlangen CRM / OWL als OWL-Implementierung des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0841)
 * Formale Beschreibungssprache W3C Web Ontology Language (OWL) benennen. (LZ-ID SODa\_03\_007\_0842)
 * Resource Description Framework (RDF) als Standard zur Beschreibung von Ressourcen benennen. (LZ-ID SODa\_03\_007\_0843)
+  
 
 ---
 

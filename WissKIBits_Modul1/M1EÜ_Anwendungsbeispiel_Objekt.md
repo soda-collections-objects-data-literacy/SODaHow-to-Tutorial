@@ -58,4 +58,6 @@ Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benenen. 	
 
 Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung erläutern. 	LZ-ID SODa\_03\_007\_0808
 
+Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. 	LZ-ID SODa\_03\_007\_0844
+
 Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. 	LZ-ID SODa\_03\_007\_0808

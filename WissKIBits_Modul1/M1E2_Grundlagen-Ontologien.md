@@ -37,21 +37,25 @@ LearningResourceType: SODa How-to-Tutorial
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
+Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären**
 
 Einheit 2: **Grundlage von Ontologien**  
 
 **Dauer:** ~  Min.
 
-Lernziele
+**Lernziele:**
 
-* Begriff Ontologie benennen. (LZ-ID SODa\_03\_007\_0826)
-* Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
-* Begriff Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0827)
-* Begriff Domänenontologie erläutern. (LZ-ID SODa\_03\_007\_0828)
-* Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
+Teilnehmende können...
+
+* den Begriff Ontologie benennen. (LZ-ID SODa\_03\_007\_0826)
+* den Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
+* den Begriff Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0827)
+* den Begriff Domänenontologie erläutern. (LZ-ID SODa\_03\_007\_0828)
+* den Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
 
 ---
+
+## (inhalte überarbeiten) 
 
 ## Von der Datenanalyse zur semantischen Modellierung 
 

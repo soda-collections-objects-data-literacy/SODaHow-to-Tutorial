@@ -32,18 +32,19 @@ LearningResourceType: SODa How-to-Tutorial
 
 -->
 
-
 # SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
+Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären**
 
 Einheit 5: **FAIR-Konformität mit WissKI**  
 
 **Dauer:** ~  Min.
 
-Lernziele 
+**Lernziele:**
+
+Teilnehmende können...
 
 * für das sammlungsbezogene Forschungsdatenmanagement (FDM) relevante (inter-)nationale IT-Infrastrukturen erläutern. (LZ-ID SODa\_01\_010\_0203)
 * das 5-Sterne-Modell für offene Daten benennen. (LZ-ID SODa\_01\_008\_0172)
@@ -55,6 +56,9 @@ Lernziele
 * WissKI Pathbuilder als Werkzeug zur Definition einer Ontologiestruktur bennenen. (LZ-ID SODa\_03\_007\_0803)
 
 ---
+
+## (inhalte ergänzen) 
+
 
 ## WissKI in Kürze
 

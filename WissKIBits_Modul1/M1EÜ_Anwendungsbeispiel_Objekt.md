@@ -51,6 +51,7 @@ Lernende können Informationen einer Objektsammlung analysieren und modellierung
 
 
 
+
 und wir führen unterstützende Lernziele ein:
 
 

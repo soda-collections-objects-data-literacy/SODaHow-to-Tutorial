@@ -32,7 +32,6 @@ LearningResourceType: SODa How-to-Tutorial
 
 -->
 
-
 # SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
@@ -41,9 +40,22 @@ Modul 2: **Modllieren mit CIDCO CRM – verstehen und anwenden**
 
 Einheit 1: **Methoden und Workflows semantischer Modellierung**  
 
-**Dauer:** ~ xxx Min.
+**Dauer:** ~  Min.
 
-Lernziel (todo)
+**Lernziele:**
+
+Teilnehmende können...
+
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. 	(LZ-ID SODa\_03\_007\_0844)
+* Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0808) 
+
+
+---
+
+## (inhalte aktualisieren) 
+
+
+Lernziel (alt)
 
 * Software zur Erstellung von Ontologien benennen. (LZ-ID SODa\_03\_007\_0809)
 * Software zur Erstellung von Ontologien erläutern. (LZ-ID SODa\_03\_007\_0810)

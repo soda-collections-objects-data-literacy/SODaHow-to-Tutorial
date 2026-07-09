@@ -32,18 +32,19 @@ LearningResourceType: SODa How-to-Tutorial
 
 -->
 
-
 # SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
+Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären**
 
 Einheit 3: **Bausteine von Ontologien**  
 
 **Dauer:** ~  Min.
 
-Lernziele
+**Lernziele:**
+
+Teilnehmende können...
 
 * Begriff Klassen (Classes/Concepts) benennen. (LZ-ID SODa\_03\_007\_0829)
 * Begriff Klassen (Classes/Concepts) erläutern. (LZ-ID SODa\_03\_007\_0830)
@@ -55,3 +56,8 @@ Lernziele
 * Begriff Modellannahmen (Constraints) erläutern. (LZ-ID SODa\_03\_007\_0836)
 * Begriff Scope Notes benennen. (LZ-ID SODa\_03\_007\_0837)
 * Begriff Scope Notes erläutern. (LZ-ID SODa\_03\_007\_0838)
+
+---
+
+## (inhalte ergänzen) 
+

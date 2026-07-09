@@ -41,7 +41,7 @@ Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verst
 
 Einheit 1: **Grundbegriffe semantischer Modellierung**  
 
-**Dauer:** ~ 10 Min.
+**Dauer:** ~  Min.
 
 Lernziele
 

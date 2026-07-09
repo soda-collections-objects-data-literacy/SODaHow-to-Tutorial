@@ -37,13 +37,13 @@ LearningResourceType: SODa How-to-Tutorial
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 2: **Von der Sammlung zum Diagramm – verstehen und erklären**
+Modul 2: **Modllieren mit CIDCO CRM – verstehen und anwenden**
 
-Einheit 1: **Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien**  
+Einheit 1: **Methoden und Workflows semantischer Modellierung**  
 
 **Dauer:** ~ xxx Min.
 
-Lernziel
+Lernziel (todo)
 
 * Software zur Erstellung von Ontologien benennen. (LZ-ID SODa\_03\_007\_0809)
 * Software zur Erstellung von Ontologien erläutern. (LZ-ID SODa\_03\_007\_0810)

@@ -32,18 +32,19 @@ LearningResourceType: SODa How-to-Tutorial
 
 -->
 
-
 # SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
+Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären**
 
 Einheit 4: **Einführung in CIDOC CRM**  
 
 **Dauer:** ~ 
 
-Lernziele
+**Lernziele:**
+
+Teilnehmende können...
 
 * Ontologie zur Beschreibung von Ressourcen bennen. (LZ-ID 03\_007\_0778)
 * Ontologie zur Beschreibung von Ressourcen erläutern. (LZ-ID 03\_007\_0779)
@@ -55,6 +56,10 @@ Lernziele
 * Erlangen CRM / OWL als OWL-Implementierung des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0841)
 * Formale Beschreibungssprache W3C Web Ontology Language (OWL) benennen. (LZ-ID SODa\_03\_007\_0842)
 * Resource Description Framework (RDF) als Standard zur Beschreibung von Ressourcen benennen. (LZ-ID SODa\_03\_007\_0843)
+
+---
+
+## (inhalte ergänzen) 
 
 
 ---

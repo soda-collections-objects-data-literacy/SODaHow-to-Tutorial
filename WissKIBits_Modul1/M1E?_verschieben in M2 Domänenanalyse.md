@@ -43,10 +43,9 @@ Einheit 5: **Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt z
 
 **Dauer:** ~ 30 Min.
 
-Lernziele
+HINWEIS: diese Inhalte in die anderen integrieren...
 
 
-* Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0808) 
 
 ---
 

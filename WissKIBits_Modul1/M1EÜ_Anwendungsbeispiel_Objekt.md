@@ -43,22 +43,7 @@ Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
 
 **Dauer:** ~  Min.
 
-Lernziele (todo)
+Lernziele 
 
-ggf. übergeordnetes Lernziel:
-
-Lernende können Informationen einer Objektsammlung analysieren und modellierungsrelevante Entitäten identifizieren.
-
-
-
-
-und wir führen unterstützende Lernziele ein:
-
-
-Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benenen. 	LZ-ID SODa\_03\_007\_0806
-
-Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung erläutern. 	LZ-ID SODa\_03\_007\_0808
-
-Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. 	LZ-ID SODa\_03\_007\_0844
-
-Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. 	LZ-ID SODa\_03\_007\_0808
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. 	(LZ-ID SODa\_03\_007\_0844)
+* Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0808) 

@@ -47,19 +47,18 @@ Lernziele
 
 * Ontologie zur Beschreibung von Ressourcen bennen. (LZ-ID 03\_007\_0778)
 * Ontologie zur Beschreibung von Ressourcen erläutern. (LZ-ID 03\_007\_0779)
-* Ontologie zur Beschreibung von Ressourcen anwenden. (LZ-ID 03\_007\_0780)
 * Nutzen des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0805)
+* Methoden zur Modellierung einer Domänenontologie mit dem Referenzmodell CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0784a)
 * Erlangen CRM / OWL als OWL-Implementierung des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0841)
 * Formale Beschreibungssprache W3C Web Ontology Language (OWL) benennen. (LZ-ID SODa\_03\_007\_0842)
-* Methoden zur Modellierung einer Domänenontologie mit dem Referenzmodell CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0784a)
-* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa\_03\_007\_0780a)
 * Resource Description Framework (RDF) als Standard zur Beschreibung von Ressourcen benennen. (LZ-ID SODa\_03\_007\_0843)
 
 
-Neue Lernziele:
 
-Transfer von Papierstandard zu CRM	—
-OWL/RDF benennen	—
+zu anwendungsbeispiel
+* Scope Notes des Referenzmodells CIDOC CRM zur Beschreibung von Ressourcen anwenden. (LZ-ID SODa\_03\_007\_0780a)
+* Ontologie zur Beschreibung von Ressourcen anwenden. (LZ-ID 03\_007\_0780)
+
 
 
 ---

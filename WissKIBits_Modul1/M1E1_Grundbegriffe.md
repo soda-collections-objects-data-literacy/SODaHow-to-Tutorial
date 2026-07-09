@@ -43,14 +43,15 @@ Einheit 1: **Grundbegriffe semantischer Modellierung**
 
 **Dauer:** ~  Min.
 
-Lernziele
+**Lernziele:**
+
+Teilnehmende können...
 
 * Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
 * Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
 * Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
 * Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
 * Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
-
 
 ---
 

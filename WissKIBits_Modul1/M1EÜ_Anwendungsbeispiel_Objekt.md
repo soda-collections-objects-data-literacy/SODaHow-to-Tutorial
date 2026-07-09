@@ -32,18 +32,25 @@ LearningResourceType: SODa How-to-Tutorial
 
 -->
 
-
 # SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 1: **Von der Sammlung zum Diagramm – verstehen und erklären**
+Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären**
 
 Übungseinheit (M1EÜ): **Anwendungsbeispiel: Objektsammlungen**  
 
 **Dauer:** ~  Min.
 
-Lernziele 
+**Lernziele:**
+
+Teilnehmende können...
 
 * Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. 	(LZ-ID SODa\_03\_007\_0844)
 * Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0808) 
+
+
+---
+
+## (inhalte ergänzen) 
+

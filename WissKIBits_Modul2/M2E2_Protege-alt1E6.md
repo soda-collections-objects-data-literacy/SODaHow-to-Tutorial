@@ -38,7 +38,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 2: **Modllieren mit CIDCO CRM – verstehen und anwenden**
 
-Einheit 1: **Methoden und Workflows semantischer Modellierung**  
+Einheit 2: **Einführung in Protege**  
 
 **Dauer:** ~  Min.
 
@@ -46,22 +46,15 @@ Einheit 1: **Methoden und Workflows semantischer Modellierung**
 
 Teilnehmende können...
 
-* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. 	(LZ-ID SODa\_03\_007\_0844)
-* Datentyp-Eigenschaften des Referenzmodells CIDOC CRM benennen. (LZ-ID SODa\_03\_007\_0808) 
-
+* Software zur Erstellung von Ontologien benennen. (LZ-ID SODa_03_007_0809)
+* Software zur Erstellung von Ontologien erläutern. (LZ-ID SODa_03_007_0810)
+* Software zur Erstellung von Ontologien anwenden. (LZ-ID SODa_03_007_0840)
 
 ---
 
 ## (inhalte aktualisieren) 
 
 
-Lernziel (alt)
-
-* Software zur Erstellung von Ontologien benennen. (LZ-ID SODa\_03\_007\_0809)
-* Software zur Erstellung von Ontologien erläutern. (LZ-ID SODa\_03\_007\_0810)
-* Software zur Erstellung von Ontologien anwenden. (LZ-ID SODa\_03\_007\_0840)
-
-  
 ---
 
 ## Live-Demo in Protégé

@@ -32,29 +32,33 @@ LearningResourceType: SODa How-to-Tutorial
 
 -->
 
+
 # SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 2: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
+Modul 3: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
 
-Einheit 2: **Visualisierung der Domänenontologie in Draw.io**  
+Einheit 1: **Semantische Datenmodelle visualisieren**  
 
-**Dauer:** ~ 25 Min.
+**Dauer:** ~  Min.
 
-Lernziel
+**Lernziele:**
 
-* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. (LZ-ID SODa\_03\_007\_0811)
+Teilnehmende können...
+
 * Software zur Visualisierung einer Domänenontologie benennen.(LZ-ID SODa\_03\_007\_0812)
-* Software zur Visualisierung einer Domänenontologie benennen und erläutern.(LZ-ID LZ-ID SODa\_03\_007\_0813)
+* Software zur Visualisierung einer Domänenontologie erläutern.(LZ-ID LZ-ID SODa\_03\_007\_0813)
 * Nutzen einer Software zur Visualisierung einer Domänenontologie benennen.(LZ-ID SODa\_03\_007\_0814) 
 * Software zur Visualisierung einer Domänenontologie unter Anleitung anwenden. (LZ-ID SODa\_03\_007\_0815)
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. (LZ-ID SODa\_03\_007\_0811)
 * Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware benennen. (LZ-ID SODa\_03\_007\_0820)
 * Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware anwenden. (LZ-ID SODa\_007\_0816)
 * Attributwerte an vordefinierten Klassen der Domänenontologie in einer Visualisierungssoftware anwenden. (LZ-ID SODa\_03\_007\_0817)
 
-
 ---
+
+## (inhalte überarbeiten)
 
 ## Visualisierung mit Draw.io
 

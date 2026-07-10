@@ -32,17 +32,20 @@ LearningResourceType: SODa How-to-Tutorial
 
 -->
 
+
 # SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 2: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
+Modul 3: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
 
-Einheit 3: **Automatische Pfadgenerierung: Konsistenz prüfen und WissKI Pathbuilder-Datei erzeugen**
+Einheit 2: **Transformation semantischer Modelle mit gnm-service**  
 
-Dauer: ~ 25 Min.
+**Dauer:** ~  Min.
 
-Lernziele
+**Lernziele:**
+
+Teilnehmende können...
 
 * WissKI Pathbuilder als Werkzeug zur Defintion einer Ontologiestruktur erläutern. (LZ-ID SODa\_03\_007\_0804)
 * unter Anleitung die Datenkonvertierung einer Visualisierungssoftware in ein nachnutzbares Dateiformat anwenden. (LZ-ID SODa\_02\_005\_0298a)
@@ -52,6 +55,7 @@ Lernziele
 * unter Anleitung ein Werkzeug ("gnm-service: Draw.io diagrams to WissKI pathbuilders") zur Dateikonvertierung anwenden. (LZ-ID SODa\_02\_005\_0318)
 
 ---
+### (Inhalte checken)
 
 ## Der WissKI Pathbuilder
 

@@ -32,21 +32,26 @@ LearningResourceType: SODa How-to-Tutorial
 
 -->
 
+
 # SODa WissKI Bits: Ontologiegestützte Modellierung von Forschungsdaten
 
 **DATENMODELL ENTWICKELN UND IMPLEMENTIEREN AM BEISPIEL** 
 
-Modul 2: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
+Modul 3: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
 
-Einheit 4:  **Validierung im Pathbuilder und erste Analyseabfragen** 
+Einheit 3: **xxx**  
 
-Dauer: ~ 10 Min.
+**Dauer:** ~  Min.
 
-Lernziele
+**Lernziele:**
 
-- ???
+Teilnehmende können...
 
 
+
+---
+
+### (Inhalte erarbeiten)
 
 ---
 

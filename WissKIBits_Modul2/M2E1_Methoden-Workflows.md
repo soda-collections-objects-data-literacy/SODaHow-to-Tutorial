@@ -23,7 +23,11 @@ Teilnehmende können...
 
 ## (inhalte aktualisieren) 
 
+## methode benennen und erläutern
 
+Ontology Development 101: A Guide to Creating Your
+First Ontology
+https://protege.stanford.edu/publications/ontology_development/ontology101.pdf
 
 ## Warum verwenden wir Ontologien?
 

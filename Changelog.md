@@ -2,6 +2,13 @@
 
 ## Aktualisierung
 
+13.07.2026
+- Modul/Einheitskopf in jeder Datei harmonisiert.
+- Lernziele auf Vollständigkeit und Aufteilung geprüft
+- Alte Dateien in andere integriert und gelöscht
+- in jedem Modul eine E0-Datei und EÜ-Datei angelegt 
+
+
 01.06.2026
 - alle Lernziele aktualsiert
 

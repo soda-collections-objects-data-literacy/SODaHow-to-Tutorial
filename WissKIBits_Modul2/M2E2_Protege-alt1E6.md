@@ -46,9 +46,9 @@ Einheit 2: **Einführung in Protege**
 
 Teilnehmende können...
 
-* Software zur Erstellung von Ontologien benennen. (LZ-ID SODa_03_007_0809)
-* Software zur Erstellung von Ontologien erläutern. (LZ-ID SODa_03_007_0810)
-* Software zur Erstellung von Ontologien anwenden. (LZ-ID SODa_03_007_0840)
+* Software zur Erstellung von Ontologien benennen. (LZ-ID SODa\_03\_007\_0809)
+* Software zur Erstellung von Ontologien erläutern. (LZ-ID SODa\_03\_007\_0810)
+* Software zur Erstellung von Ontologien anwenden. (LZ-ID SODa\_03\_007\_0840)
 
 ---
 

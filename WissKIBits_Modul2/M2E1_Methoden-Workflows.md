@@ -14,11 +14,10 @@ Einheit 1: **Methoden und Workflows semantischer Modellierung**
 
 Teilnehmende können...
 
-* Methoden zur Entwicklung von Ontologien benennen _03_007_0784
-* Methoden zur Entwicklung von Ontologien erläutern SODa_03_007_0839
-* Workflow semantischer Modellierung benennen SODa_03_001_0626
-* Workflow semantischer Modellierung anwenden SODa_03_001_0627
-
+* Methoden zur Entwicklung von Ontologien benennen (LZ-ID 03\_007\_0784)
+* Methoden zur Entwicklung von Ontologien erläutern (LZ-ID SODa\_03\_007\_0839)
+* Workflow semantischer Modellierung benennen (LZ-ID SODa\_03\_001\_0626)
+* Workflow semantischer Modellierung anwenden (LZ-ID SODa\_03\_001\_0627)
 
 ---
 

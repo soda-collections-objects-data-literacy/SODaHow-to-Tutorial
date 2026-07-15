@@ -84,13 +84,14 @@ In Modul 1 wird die konzeptionelle Basis für ein Domänenmodell geschaffen. Aus
 
 | Einheit | Inhalt | Dauer |
 |--------|--------|------|
-| 1 | Ablauf und Zielsetzung | 15+ Min. |
-| 2 | Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur | 15+ Min. |
-| 3 | WissKI Kurzeinführung | 10+ Min. |
-| 4 | Strukturierte Daten mit CIDOC CRM | 10 Min. |
-| 5 | Fachbereichs- bzw. Domänenanalyse: Zentrale Konzepte, Ereignisse, Kontext - vom Objekt zur Hypothese | 30 Min. |
-| 6 | Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien | 10 Min. |
-| 7 | Reflexion: Welche Datenanalysen sind möglich, welche nicht? | 5 Min. |
+| 0 | Ablauf und Zielsetzung | xx Min. |
+| 1 | Grundbegriffe | xx Min. |
+| 2 | Grundlagen Ontologien | xx Min. |
+| 3 | Bausteine Ontologien | xx Min. |
+| 4 | Einführung CIDOC CRM | xx Min. |
+| 5 | FAIR WissKI | xx Min. |
+| E | Nutzendenevaluation | xx Min. |
+| Ü | Anwendungsbeispiel Objekt | xx Min. |
   
 ---
 

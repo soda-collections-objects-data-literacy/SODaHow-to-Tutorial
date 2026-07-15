@@ -2,6 +2,27 @@
 
 ## Aktualisierung
 
+15.07.2026
+- M1E0: Tabelle "Ablauf des Moduls" aktualisiert
+- Tabelle alt:
+
+## Ablauf des Moduls
+
+**Modul 1: 90 Min.**
+
+| Einheit | Inhalt | Dauer |
+|--------|--------|------|
+| 1 | Ablauf und Zielsetzung | 15+ Min. |
+| 2 | Analyse-Workflow: Von der Forschungsfrage zur Graphenstruktur | 15+ Min. |
+| 3 | WissKI Kurzeinführung | 10+ Min. |
+| 4 | Strukturierte Daten mit CIDOC CRM | 10 Min. |
+| 5 | Fachbereichs- bzw. Domänenanalyse: Zentrale Konzepte, Ereignisse, Kontext - vom Objekt zur Hypothese | 30 Min. |
+| 6 | Modellierung in Protégé: Konsistenzcheck und Erweiterungsstrategien | 10 Min. |
+| 7 | Reflexion: Welche Datenanalysen sind möglich, welche nicht? | 5 Min. |
+  
+---
+
+
 13.07.2026
 - Modul/Einheitskopf in jeder Datei harmonisiert.
 - Lernziele auf Vollständigkeit und Aufteilung geprüft

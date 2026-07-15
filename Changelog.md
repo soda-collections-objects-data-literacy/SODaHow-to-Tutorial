@@ -6,8 +6,6 @@
 - M1E0: Tabelle "Ablauf des Moduls" aktualisiert
 - Tabelle alt:
 
-## Ablauf des Moduls
-
 **Modul 1: 90 Min.**
 
 | Einheit | Inhalt | Dauer |

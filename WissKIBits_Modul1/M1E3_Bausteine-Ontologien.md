@@ -54,8 +54,6 @@ Teilnehmende können...
 * Begriff Instanzen (Instances) erläutern. (LZ-ID SODa\_03\_007\_0834)
 * Begriff Modellannahmen (Constraints) benennen. (LZ-ID SODa\_03\_007\_0835)
 * Begriff Modellannahmen (Constraints) erläutern. (LZ-ID SODa\_03\_007\_0836)
-* Begriff Scope Notes benennen. (LZ-ID SODa\_03\_007\_0837)
-* Begriff Scope Notes erläutern. (LZ-ID SODa\_03\_007\_0838)
 
 ---
 

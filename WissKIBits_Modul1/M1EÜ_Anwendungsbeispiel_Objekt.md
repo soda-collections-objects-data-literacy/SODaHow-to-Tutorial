@@ -57,7 +57,8 @@ Teilnehmende können...
 HINWEIS: diese Inhalte in die anderen integrieren...
 
 
-Einheit 5: **Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese**  
+alte Einheit 5: **Domänenanalyse: Kernentitäten, Ereignisse, Kontext - vom Objekt zur Hypothese** 
+jetzt Abgleich mit Modul 2
 
 
 

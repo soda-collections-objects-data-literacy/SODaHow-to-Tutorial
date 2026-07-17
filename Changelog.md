@@ -1,5 +1,8 @@
 # Changelog fortlaufend
 
+17.07.2026
+- Zwei Lernziele zu Scopenotes von M1E3 nach M1E4 verschoben
+
 ## Aktualisierung
 
 15.07.2026

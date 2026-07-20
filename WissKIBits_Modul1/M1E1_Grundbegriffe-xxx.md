@@ -93,12 +93,27 @@ _Hilfestellung – nicht vorgeben_
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesem Modul 1 zentrale Konzepte, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und -diagramm zu entwickeln. 
 
 ---
+<!-- 
 ## Domäne
-Wertebereich
+"Wertebereich"
 Allgemeine Definition: "das Kollektiv, der Bereich, die Menge zulässiger Werte oder Ausprägungen eines Attributs; also der Wertebereich;" (Lexikon der Informatik S, 257)
 
-Attribut: Merkmal/Eigenschaft eines Objekts (Lexikon der Informatik, S. 77)
- 
+Attribut: Merkmal/Eigenschaft eines Objekts, das einen bestimmten Wert (aus einer festgelegten Domäne) annehmen kann. (Lexikon der Informatik, S. 77)
+
+## Semantisches Datenmodell
+Ein semantisches Datenmodell ist ein konzeptueller, formaler Rahmen, der die Bedeutung von Daten durch die Definition von Konzepten und Begriffen, ihre Relationen und Regeln innerhalb eines Wissensbereichs beschreibt. Es dient nicht der Darstellung konkreter Daten, sondern stellt dar, wie Daten aus einem bestimmten Wissensbereich und Kontext verstanden, interpretiert und miteinander in Beziehung gesetzt werden."
+
+## semantische Modellierung 
+"Semantische Datenmodellierung bezeichnet den Prozess, Konzepte, Begriffe und Relationen eines Wissensbereichs zu identifizieren, zu strukturieren und zu formalisieren." 
+"Semantische Datenmodellierung beschreibt Begriffe und Konzepte sowie deren Beziehungen in Form eines semantischen Netzes, meist als gerichteter Graph mit:
+  Knoten: repräsentieren Begriffe und Konzepte
+  Kanten: repräsentieren semantische Beziehungen zwischen Begriffen und Konzepten
+Semantische Datenmodellierung erfordert
+Fachwissenschaftliche Kompetenz: Welche fachspezifischen Phänomene, Begriffe, Konzepte und Beziehungen sind bedeutsam und was bedeuten sie bzw. was sollen sie bedeuten (in speziellen Kontexten)?
+Modellierungskompetenz: Wie repräsentiere ich fachspezifische Bedeutungsinhalte abstrahiert, strukturiert und formal in einem Modell, das sowohl interpretierbar, als auch technisch nutzbar ist?
+Zusammenarbeit zwischen Forscher:innen bzw. Fachexpert:innen, Datenmodellierer:innen (und IT)
+
+-->
 
 
 

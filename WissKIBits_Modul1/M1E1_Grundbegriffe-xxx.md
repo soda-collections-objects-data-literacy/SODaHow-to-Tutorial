@@ -51,6 +51,7 @@ Teilnehmende können...
 * Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
 * Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
 * Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
+<!--* evtl. Begriff Attribut benennen.-->
 * Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
 
 ---
@@ -91,10 +92,13 @@ _Hilfestellung – nicht vorgeben_
 
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesem Modul 1 zentrale Konzepte, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und -diagramm zu entwickeln. 
 
+---
+## Domäne
+Wertebereich
+Allgemeine Definition: "das Kollektiv, der Bereich, die Menge zulässiger Werte oder Ausprägungen eines Attributs; also der Wertebereich;" (Lexikon der Informatik S, 257)
 
-
-
-
+Attribut: Merkmal/Eigenschaft eines Objekts (Lexikon der Informatik, S. 77)
+ 
 
 
 

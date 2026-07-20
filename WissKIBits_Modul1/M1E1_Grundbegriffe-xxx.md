@@ -50,9 +50,11 @@ Teilnehmende können...
 * Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
 * Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
 * Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
+*
+* Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
+* 
 * Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
 <!--* evtl. Begriff Attribut benennen.-->
-* Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
 
 ---
 

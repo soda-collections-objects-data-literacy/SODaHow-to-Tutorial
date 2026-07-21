@@ -98,7 +98,7 @@ In dieser Aufgabe geht es darum, Kernkonzepte, -ereignisse und -beziehungen der 
 1. Blitzrunde im Plenum:
 Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwingend dokumentiert sein, damit Forschung möglich wird?
 
-2. Clustering
+2. Clustering:
 Die Aussagen wird sichtbar an einem [Board](https://miro.com/app/board/uXjVGKauOtE=/) in 3 Spalten zugeordnet:
 
 - Konzepte (Objekt, Person, Ort, Zeit…)

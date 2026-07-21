@@ -69,7 +69,7 @@ In dieser Einheit wird die konzeptuelle Wissensmodellierung innerhalb einer Dom�
 
 ---
 
-## Grundbegriffe semantischer Modellierung
+## Grundbegriffe der konzeptuellen Analyse
 
 Bevor Wissen formal modelliert werden kann, muss zun채chst gekl채rt werden, **welches Wissen innerhalb einer Dom채ne relevant ist und wie es konzeptuell geordnet werden kann.** Eine **Dom채ne** bezeichnet einen Wertebereich [2] f체r den Wissen beschrieben und modelliert wird. In der semantischen Datenmodellierung versteht man darunter den fachlichen Wissensbereich, dessen Konzepte, Ereignisse und Beziehungen erfasst und formal repr채sentiert werden.
 

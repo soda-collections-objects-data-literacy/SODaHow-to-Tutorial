@@ -41,52 +41,64 @@ Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verst
 
 Einheit 1: **Grundbegriffe semantischer Modellierung**  
 
-**Dauer:** ~  Min.
+**Dauer:** ca. XX Min.
 
 **Lernziele:**
 
 Teilnehmende können...
-
+* Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
 * Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
 * Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
 * Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
 *
 * Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
-* 
-* Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
-<!--* evtl. Begriff Attribut benennen.-->
+* <!--* evtl. Begriff Attribut benennen.-->
 
 ---
 
-## (inhalte überarbeiten) Aktivierung und Input
+## 
+Bevor Wissen formal modelliert werden kann, muss zunächst geklärt werden, welches Wissen innerhalb einer Domäne relevant ist und wie es konzeptuell geordnet werden kann. Eine Domäne bezeichnet einen Wertebereich [1] für den Wissen beschrieben und modelliert wird. In der semantischen Datenmodellierung versteht man darunter den fachlichen Wissensbereich, dessen Konzepte, Ereignisse und Beziehungen erfasst und formal repräsentiert werden.
 
-**Impulsfrage**
+Auf konzeptueller Ebene lassen sich folgende Elemente innerhalb einer Domäne identifizieren:
 
+- Konzept:
+- Ereignis:
+- Beziehung:
+
+---
+
+## Aktivierung und Input: Wissen einer Sammlung konzeptuell ordnen
+
+**Arbeitsform:** Impulsfrage / Blitzfrage im Plenum / Clustering  
+**Materiel:** keines  
+**Zeit:** XX Min.  
+
+In dieser Aufgabe geht es darum, Kernkonzepte, -ereignisse und -beziehungen der eigenen Sammlung zu identifizieren.
+
+1. Blitzrunde im Plenum:
 Denkt an ein typisches Objekt aus eurer Sammlung: Welche Information muss zwingend dokumentiert sein, damit Forschung möglich wird?
 
-**Blitzrunde im Plenum und Clustering**
-
-* Jede Person nennt genau 1 Punkt: „Für uns ist unverzichtbar, dass …“
-* z.B. „… eine eindeutige Identifizierung durch z. B. Signatur-/Inventarnummer möglich ist.
-
+2. Clustering
 Die Aussagen wird sichtbar an einem [Board](https://miro.com/app/board/uXjVGKauOtE=/) in 3 Spalten zugeordnet:
 
-* Konzepte (Objekt, Person, Ort, Zeit…)
-* Ereignisse (Herstellung, Nutzung, Erwerb, Fund…)
-* Beziehungen (Rollen, Zugehörigkeiten, Teil-von, identisch mit…)
+- Konzepte (Objekt, Person, Ort, Zeit…)
+- Ereignisse (Herstellung, Nutzung, Erwerb, Fund…)
+- Beziehungen (Rollen, Zugehörigkeiten, Teil-von, identisch mit…)
+
+**Hinweis:**
+- Jede Person nennt genau 1 Punkt: „Für uns ist unverzichtbar, dass …“
+- z.B. „… eine eindeutige Identifizierung durch z. B. Signatur-/Inventarnummer möglich ist.
 
 ---
 
-### Lösungsbeispiele 
+## Lösungsbeispiele 
 
-_Hilfestellung – nicht vorgeben_
-
-* „… der Herstellungs-/Entstehungskontext klar ist.“
-* „… Akteur:innen und Rollen unterscheidbar sind.“
-* „… Provenienzereignisse nachvollziehbar sind.“
-* „… Ort und Zeit belastbar sind.“
-* „… Unsicherheiten (Hypothesen) abbildbar sind.“
-* „… eine eindeutige Identifizierung durch z. B. Signatur-/Inventarnummer möglich ist.“
+- „… der Herstellungs-/Entstehungskontext klar ist.“
+- „… Akteur:innen und Rollen unterscheidbar sind.“
+- „… Provenienzereignisse nachvollziehbar sind.“
+- „… Ort und Zeit belastbar sind.“
+- „… Unsicherheiten (Hypothesen) abbildbar sind.“
+- „… eine eindeutige Identifizierung durch z. B. Signatur-/Inventarnummer möglich ist.“
   
 ---
 
@@ -120,7 +132,9 @@ Zusammenarbeit zwischen Forscher:innen bzw. Fachexpert:innen, Datenmodellierer:i
 
 
 
+## Bibliographie
 
+[1] Lexikon der Informatik S, 257
 
 
 

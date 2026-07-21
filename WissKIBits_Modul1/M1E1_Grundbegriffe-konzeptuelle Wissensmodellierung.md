@@ -56,8 +56,10 @@ Teilnehmende können...
 
 ---
 
-## Einführung: 
+## Einführung: Von der Datenanalyse zur semantischen Modellierung 
 
+
+---
 
 ## Grundbegriffe semantischer Modellierung
 
@@ -101,7 +103,7 @@ Die Aussagen wird sichtbar an einem [Board](https://miro.com/app/board/uXjVGKauO
 
 ---
 
-## Lösungsbeispiele 
+## Ergebnis
 
 - „… der Herstellungs-/Entstehungskontext klar ist.“
 - „… Akteur:innen und Rollen unterscheidbar sind.“
@@ -117,6 +119,18 @@ Die Aussagen wird sichtbar an einem [Board](https://miro.com/app/board/uXjVGKauO
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesem Modul 1 zentrale Konzepte, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und -diagramm zu entwickeln. 
 
 ---
+
+## Ausblick
+
+In der nächsten Einheit ...
+
+---
+
+## Bibliographie
+
+[1] Lexikon der Informatik S, 257
+
+
 <!-- 
 ## Domäne
 "Wertebereich"
@@ -139,12 +153,6 @@ Zusammenarbeit zwischen Forscher:innen bzw. Fachexpert:innen, Datenmodellierer:i
 
 -->
 
-
-
-
-## Bibliographie
-
-[1] Lexikon der Informatik S, 257
 
 
 

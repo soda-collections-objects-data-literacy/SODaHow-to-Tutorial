@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verstehen und erklären**
 
-Einheit 1: **Grundbegriffe semantischer Modellierung**  
+Einheit 1: **Grundbegriffe konzeptueller Wissensmodellierung**  
 
 **Dauer:** ca. XX Min.
 
@@ -58,12 +58,20 @@ Teilnehmende können...
 
 ## Einführung: Von der Datenanalyse zur semantischen Modellierung 
 
+In dieser Einheit wird die konzeptuelle Wissensmodellierung innerhalb einer Domäne als Grundlage der semantischen Datenmodellierung vorgestellt.
+
+- In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und soziale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
+- Tabellen können zwar Daten beschreiben und erfassen, aber in erster Linie nur Eigenschaften (Attribute) - mit Tabellen lässt sich kein Wissen modellieren. Beziehungen, Bedeutungen und Kontexte bleiben dabei unsichtbar.
+- Genau hier wird **semantische Datenmodellierung** relevant: Sie ermöglicht es, Wissen ontologiebasiert **strukturiert und interoperabel** darzustellen.
+- Die Daten werden auf diese Weise sowohl **technisch als auch inhaltlich langfristig interpretierbar und damit wissenschaftlichen Qualitätskritierien entsprechend nachnutzbar**. [1]
+- Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **methodisches Denken** erfordert. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. [1]
+- **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur) unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe und -speicherung** miteinander verbindet.
 
 ---
 
 ## Grundbegriffe semantischer Modellierung
 
-Bevor Wissen formal modelliert werden kann, muss zunächst geklärt werden, **welches Wissen innerhalb einer Domäne relevant ist und wie es konzeptuell geordnet werden kann.** Eine **Domäne** bezeichnet einen Wertebereich [1] für den Wissen beschrieben und modelliert wird. In der semantischen Datenmodellierung versteht man darunter den fachlichen Wissensbereich, dessen Konzepte, Ereignisse und Beziehungen erfasst und formal repräsentiert werden.
+Bevor Wissen formal modelliert werden kann, muss zunächst geklärt werden, **welches Wissen innerhalb einer Domäne relevant ist und wie es konzeptuell geordnet werden kann.** Eine **Domäne** bezeichnet einen Wertebereich [2] für den Wissen beschrieben und modelliert wird. In der semantischen Datenmodellierung versteht man darunter den fachlichen Wissensbereich, dessen Konzepte, Ereignisse und Beziehungen erfasst und formal repräsentiert werden.
 
 ---
 
@@ -128,7 +136,7 @@ In der nächsten Einheit ...
 
 ## Bibliographie
 
-[1] Lexikon der Informatik S, 257
+[2] Lexikon der Informatik S, 257
 
 
 <!-- 

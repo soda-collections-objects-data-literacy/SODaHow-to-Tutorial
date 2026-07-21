@@ -60,11 +60,15 @@ Teilnehmende können...
 
 Bevor Wissen formal modelliert werden kann, muss zunächst geklärt werden, **welches Wissen innerhalb einer Domäne relevant ist und wie es konzeptuell geordnet werden kann.** Eine **Domäne** bezeichnet einen Wertebereich [1] für den Wissen beschrieben und modelliert wird. In der semantischen Datenmodellierung versteht man darunter den fachlichen Wissensbereich, dessen Konzepte, Ereignisse und Beziehungen erfasst und formal repräsentiert werden.
 
+---
+
+## Begriffsdefinition
+
 Auf konzeptueller Ebene lassen sich folgende Elemente innerhalb einer Domäne identifizieren:
 
-- **Konzept:** Zentrale Einheiten einer Domäne. Dazu gehören beispielsweise Objekte, Personen, Orte, Materialien oder Institutionen
-- **Ereignis:** Vorgänge, durch die Konzepte miteinander verbunden werden oder durch die sich Informationen über Konzepte ergeben. Beispiele sind Herstellung, Erwerb, Fund, Restaurierung, Ausstellung oder Nutzung.
-- **Beziehung:** Semantische Verknüpfung zwischen Konzepten und Ereignissen. Beispiele sind "wurde hergestellt von", "befindet sich in", "wurde restauriert durch" oder "ist Teil von".
+- **Konzepte** sind zentrale Einheiten einer Domäne. Dazu gehören beispielsweise Objekte, Personen, Orte, Materialien oder Institutionen
+- **Ereignisse** sind Vorgänge, durch die Konzepte miteinander verbunden werden oder durch die sich Informationen über Konzepte ergeben. Beispiele sind Herstellung, Erwerb, Fund, Restaurierung, Ausstellung oder Nutzung.
+- **Beziehungen** beschreiben die semantische Verknüpfung zwischen Konzepten und Ereignissen. Beispiele sind "wurde hergestellt von", "befindet sich in", "wurde restauriert durch" oder "ist Teil von".
 
 Die Identifikation und Strukturierung dieser Elemente bildet die Grundlage der semantischen Modellierung. Erst wenn die relevanten Konzepte, Ereignisse, Beziehungen einer Domäne verstanden sind, können sie in ein formales Datenmodell überführt werden.
 

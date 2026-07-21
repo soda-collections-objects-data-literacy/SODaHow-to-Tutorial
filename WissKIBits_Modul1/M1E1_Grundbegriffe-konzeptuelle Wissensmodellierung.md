@@ -56,6 +56,9 @@ Teilnehmende können...
 
 ---
 
+## Einführung: 
+
+
 ## Grundbegriffe semantischer Modellierung
 
 Bevor Wissen formal modelliert werden kann, muss zunächst geklärt werden, **welches Wissen innerhalb einer Domäne relevant ist und wie es konzeptuell geordnet werden kann.** Eine **Domäne** bezeichnet einen Wertebereich [1] für den Wissen beschrieben und modelliert wird. In der semantischen Datenmodellierung versteht man darunter den fachlichen Wissensbereich, dessen Konzepte, Ereignisse und Beziehungen erfasst und formal repräsentiert werden.

@@ -56,7 +56,7 @@ Teilnehmende können...
 
 ---
 
-## Einführung: Von der Datenanalyse zur semantischen Modellierung 
+## Einführung: Von der konzeptuellen Analyse zur semantischen Modellierung 
 
 In dieser Einheit wird die konzeptuelle Wissensmodellierung innerhalb einer Domäne als Grundlage der semantischen Datenmodellierung vorgestellt.
 

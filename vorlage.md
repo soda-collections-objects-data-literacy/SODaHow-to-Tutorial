@@ -108,9 +108,9 @@ Kurzer Übergang zur folgenden Einheit oder zum nächsten Modul.
 
 ## Bibliographie
 
-[1] Nachname, Vorname / Institution (Jahr). *Titel*. Verlag oder Website. URL oder DOI
+[namejahrkurztitel] Nachname, Vorname / Institution (Jahr). *Titel*. Verlag oder Website. URL oder DOI
 
-[2] Nachname, Vorname / Institution (Jahr). *Titel*. Verlag oder Website. URL oder DOI
+[namejahrkurztitel] Nachname, Vorname / Institution (Jahr). *Titel*. Verlag oder Website. URL oder DOI
 
 
 <!-- OPTIONALE LAYOUT-BAUSTEINE

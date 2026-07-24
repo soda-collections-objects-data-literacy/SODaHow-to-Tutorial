@@ -205,11 +205,11 @@ Dadurch werden Sammlungsdaten nicht nur dokumentiert, sondern semantisch so stru
 ## Bibliographie
 ____________________________
 
-[1] Hausenblas, M. (2012, Januar 22). *5-star open data* (M. Findeisen, Übers.). https://5stardata.info/de/
+[1] [Hausenblast2012lod] Hausenblas, M. (2012, Januar 22). *5-star open data* (M. Findeisen, Übers.). https://5stardata.info/de/
 
-[2] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
+[2] [Harm2022fair] Harm Buss, M. C., Bayle Deutz, D., Flindt Holmstrand, K., Væring Larsen, A., & Vlachos E. (2022). *How to FAIR*. https://howtofair.dk/what-is-fair/
 
-[3] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
+[3] [Reichert2025soda] Reichert, R., & Hastik, C. (2025, August 7). *SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen. Modul 1*. Zenodo. https://doi.org/10.5281/zenodo.16761352
 
 
 

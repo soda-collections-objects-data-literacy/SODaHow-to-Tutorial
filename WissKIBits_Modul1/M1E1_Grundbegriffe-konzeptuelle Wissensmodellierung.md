@@ -46,13 +46,16 @@ Einheit 1: **Grundbegriffe konzeptueller Wissensmodellierung**
 **Lernziele:**
 
 Teilnehmende können...
+
+* Begriff Attribut benennen. (LZ-ID SODa\_xy\_xyz\_xyza)
+* Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
 * Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
 * Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
 * Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
 * Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
 *
-* Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
-* <!--* evtl. Begriff Attribut benennen.-->
+  
+
 
 ---
 
@@ -61,17 +64,23 @@ Teilnehmende können...
 In dieser Einheit wird die konzeptuelle Wissensmodellierung innerhalb einer Domäne als Grundlage der semantischen Datenmodellierung vorgestellt.
 
 - In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und soziale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
-- Tabellen können zwar Daten beschreiben und erfassen, aber in erster Linie nur Eigenschaften (Attribute) - mit Tabellen lässt sich kein Wissen modellieren. Beziehungen, Bedeutungen und Kontexte bleiben dabei unsichtbar.
-- Genau hier wird **semantische Datenmodellierung** relevant: Sie ermöglicht es, Wissen ontologiebasiert **strukturiert und interoperabel** darzustellen.
-- Die Daten werden auf diese Weise sowohl **technisch als auch inhaltlich langfristig interpretierbar und damit wissenschaftlichen Qualitätskritierien entsprechend nachnutzbar**. [1]
-- Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **methodisches Denken** erfordert. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. [1]
+- Tabellen können Daten zwar beschreiben und erfassen, repräsentieren aber in erster Linie Eigenschaften bzw. Merkmale (Attribute) (Fischer & Hofer, 2010, S. 77) von Datenobjekten. Der fachliche Bedeutungszusammenhang, in dem diese Datenobjekte stehen, einschließlich der zugrunde liegenden Konzepte, Beziehungen und Kontexte, wird dabei nicht explizit repräsentiert.
+- Damit Daten **inhaltlich langfristig interpretierbar und nachnutzbar** sind, muss die **Bedeutung der Daten** erfasst und formal beschrieben werden. (Fichtner, 2025, S. 58). Dazu muss modelliert werden, wie Daten innerhalb eines bestimmten Wissensbereichs und Kontextes verstanden, interpretiert und miteinander in Beziehung gesetzt werden. (Schwenk & Fischer, 2025, S. 21)
+
+
+- Genau hier wird **semantische Datenmodellierung** relevant:
+-
+-
+- Sie ermöglicht es, Wissen ontologiebasiert **strukturiert und interoperabel** darzustellen.
+- Die Daten werden auf diese Weise sowohl **technisch als auch inhaltlich langfristig interpretierbar und damit wissenschaftlichen Qualitätskritierien entsprechend nachnutzbar**. (Fichtner, 2025, S. xy)
+- Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **methodisches Denken** erfordert. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. (Fichtner, 2025, S. 86)
 - **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur) unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe und -speicherung** miteinander verbindet.
 
 ---
 
 ## Grundbegriffe der konzeptuellen Analyse
 
-Bevor Wissen formal modelliert werden kann, muss zunächst geklärt werden, **welches Wissen innerhalb einer Domäne relevant ist und wie es konzeptuell geordnet werden kann.** Eine **Domäne** bezeichnet einen Wertebereich [2] für den Wissen beschrieben und modelliert wird. In der semantischen Datenmodellierung versteht man darunter den fachlichen Wissensbereich, dessen Konzepte, Ereignisse und Beziehungen erfasst und formal repräsentiert werden.
+Bevor Wissen formal modelliert werden kann, muss zunächst geklärt werden, **welches Wissen innerhalb einer Domäne relevant ist und wie es konzeptuell geordnet werden kann.** Eine **Domäne** bezeichnet einen Wertebereich (Fischer & Hofer, 2010, S. 257) für den Wissen beschrieben und modelliert wird. In der semantischen Datenmodellierung versteht man darunter den fachlichen Wissensbereich, dessen Konzepte, Ereignisse und Beziehungen erfasst und formal repräsentiert werden. (Quelle?)
 
 ---
 
@@ -136,17 +145,21 @@ In der nächsten Einheit ...
 
 ## Bibliographie
 
-[2] Lexikon der Informatik S, 257
 
-[1] [Fichtner2025paths] Fichtner, M. (2025). Grundlagen der Erzeugung und Verwaltung von Ontologiepfaden und ihre Anwendung (Doctoral thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Fakultät). https://doi.org/10.25593/open-fau-2143
+
+[Fichtner2025paths] Fichtner, M. (2025). Grundlagen der Erzeugung und Verwaltung von Ontologiepfaden und ihre Anwendung (Doctoral thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Fakultät). https://doi.org/10.25593/open-fau-2143
+
+[fischer2010LexikonInformatik] Fischer, P. & Hofer, P. (2010). Lexikon der Informatik. https://doi.org/10.1007/978-3-642-15126-2
+
+[schwenk2025SODaForumKonservierungs] Schwenk , G. A. & Fischer, K. (2025), SODa Forum: Konservierungs- und Restaurierungsdokumentation gemeinsam weiterdenken - Ontologieentwicklung im Dialog. Zenodo. https://doi.org/10.5281/zenodo.15481743
+
+
+
+
+
 
 
 <!-- 
-## Domäne
-"Wertebereich"
-Allgemeine Definition: "das Kollektiv, der Bereich, die Menge zulässiger Werte oder Ausprägungen eines Attributs; also der Wertebereich;" (Lexikon der Informatik S, 257)
-
-Attribut: Merkmal/Eigenschaft eines Objekts, das einen bestimmten Wert (aus einer festgelegten Domäne) annehmen kann. (Lexikon der Informatik, S. 77)
 
 ## Semantisches Datenmodell
 Ein semantisches Datenmodell ist ein konzeptueller, formaler Rahmen, der die Bedeutung von Daten durch die Definition von Konzepten und Begriffen, ihre Relationen und Regeln innerhalb eines Wissensbereichs beschreibt. Es dient nicht der Darstellung konkreter Daten, sondern stellt dar, wie Daten aus einem bestimmten Wissensbereich und Kontext verstanden, interpretiert und miteinander in Beziehung gesetzt werden."

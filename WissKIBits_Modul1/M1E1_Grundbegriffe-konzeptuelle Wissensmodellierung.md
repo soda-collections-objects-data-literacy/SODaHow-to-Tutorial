@@ -138,6 +138,8 @@ In der nächsten Einheit ...
 
 [2] Lexikon der Informatik S, 257
 
+[1] [Fichtner2025paths] Fichtner, M. (2025). Grundlagen der Erzeugung und Verwaltung von Ontologiepfaden und ihre Anwendung (Doctoral thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Fakultät). https://doi.org/10.25593/open-fau-2143
+
 
 <!-- 
 ## Domäne

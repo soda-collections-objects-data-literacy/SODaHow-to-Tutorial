@@ -49,6 +49,7 @@ Teilnehmende können...
 
 * Begriff Attribut benennen. (LZ-ID SODa\_xy\_xyz\_xyza)
 * Begriff semantische Modellierung benennen. (LZ-ID SODa\_03\_007\_0825)
+* Begriff semantisches Datenmodell benennen (LZ-ID SODa\_xy\_xyz\_xyza)
 * Begriff Domäne benennen. (LZ-ID SODa\_03\_007\_0824)
 * Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
 * Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
@@ -59,22 +60,21 @@ Teilnehmende können...
 
 ---
 
-## Einführung: Von der konzeptuellen Analyse zur semantischen Modellierung 
+## Einführung: Von der konzeptuellen Analyse und Wissensmodellierung zur semantischen Datenmodellierung
 
-In dieser Einheit wird die konzeptuelle Wissensmodellierung innerhalb einer Domäne als Grundlage der semantischen Datenmodellierung vorgestellt.
+In dieser Einheit wird die **konzeptuelle Wissensmodellierung** innerhalb einer Domäne als Grundlage der **semantischen Datenmodellierung** vorgestellt.
 
-- In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und soziale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
-- Tabellen können Daten zwar beschreiben und erfassen, repräsentieren aber in erster Linie Eigenschaften bzw. Merkmale (Attribute) (Fischer & Hofer, 2010, S. 77) von Datenobjekten. Der fachliche Bedeutungszusammenhang, in dem diese Datenobjekte stehen, einschließlich der zugrunde liegenden Konzepte, Beziehungen und Kontexte, wird dabei nicht explizit repräsentiert.
+- In den Geistes- und Kulturwissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und soziale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
+- Tabellen können Daten zwar beschreiben und erfassen, stellen aber in erster Linie Eigenschaften bzw. Merkmale (Attribute) (Fischer & Hofer, 2010, S. 77) von Datenobjekten dar. Der fachliche Bedeutungszusammenhang, in dem diese Datenobjekte stehen, einschließlich der zugrunde liegenden Konzepte, Beziehungen und Kontexte, wird dabei nicht explizit repräsentiert.
 - Damit Daten **inhaltlich langfristig interpretierbar und nachnutzbar** sind, muss die **Bedeutung der Daten** erfasst und formal beschrieben werden. (Fichtner, 2025, S. 58). Dazu muss modelliert werden, wie Daten innerhalb eines bestimmten Wissensbereichs und Kontextes verstanden, interpretiert und miteinander in Beziehung gesetzt werden. (Schwenk & Fischer, 2025, S. 21)
-
-
-- Genau hier wird **semantische Datenmodellierung** relevant:
--
--
-- Sie ermöglicht es, Wissen ontologiebasiert **strukturiert und interoperabel** darzustellen.
-- Die Daten werden auf diese Weise sowohl **technisch als auch inhaltlich langfristig interpretierbar und damit wissenschaftlichen Qualitätskritierien entsprechend nachnutzbar**. (Fichtner, 2025, S. xy)
-- Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **methodisches Denken** erfordert. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. (Fichtner, 2025, S. 86)
-- **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur) unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe und -speicherung** miteinander verbindet.
+- Genau hier wird **semantische (Daten-)modellierung** relevant:
+- Es ist der **Prozess, Konzepte, Begriffe und Relationen eines Wissensbereichs zu identifizieren, zu strukturieren und zu formalisieren**. (Schwenk & Fischer, 2025, S. xy)
+- Semantisches Modellieren ist vor allem ein **konzeptueller Prozess**. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. (Fichtner, 2025, S. 86)
+- Die konzeptuell beschriebenen Konzepte, Begriffe und Relationen werden in semantischen Datenmodellen formal repräsentiert.
+- Ein **semantisches Datenmodell** ist ein konzeptueller, formaler Rahmen, der die Bedeutung von Daten durch die Definition von Konzepten und Begriffen, ihre Relationen und Regeln innerhalb eines Wissensbereichs beschreibt. Es dient nicht der Darstellung konkreter Daten, sondern stellt dar, wie Daten aus einem bestimmten Wissensbereich und Kontext verstanden, interpretiert und miteinander in Beziehung gesetzt werden.
+- Diese formale Repräsentation bildet die Grundlage für ihre technische Umstzung und maschinelle Verarbeitung.
+- Eine Forschungsinfrastruktur, die diesen Prozess unterstützt ist **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur), indem es die konzeptuelle Modellierung eines Wissensbereichs mit der semantischen Erfassung, Verwaltung  und Speicherung von Forschungsdaten verbindet.
+- Die Daten werden auf diese Weise sowohl **inhaltlich als auch technisch langfristig interpretierbar und damit entsprechend wissenschaftlichen Qualitätskritierien nachnutzbar**. (Fichtner, 2025, S. xy)
 
 ---
 
@@ -144,7 +144,6 @@ In der nächsten Einheit ...
 ---
 
 ## Bibliographie
-
 
 
 [Fichtner2025paths] Fichtner, M. (2025). Grundlagen der Erzeugung und Verwaltung von Ontologiepfaden und ihre Anwendung (Doctoral thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Fakultät). https://doi.org/10.25593/open-fau-2143

@@ -1,6 +1,30 @@
 # Changelog fortlaufend
 
 31.07.2026
+
+- M1E2: Inhalt entnommen: Workflow-Übersicht (Methode)
+
+## Workflow-Übersicht (Methode)
+
+**Zielsetzung dieses Moduls ist es:**  
+
+* Domänenwissen schrittweise in ein ontologiebasiertes Datenmodell zu übersetzen,
+* Modellierungsentscheidungen nachvollziehbar zu dokumentieren,
+* und die Grundlage für ein **konsistentes CIDOC-CRM-basiertes Diagramm** zu schaffen, das später in WissKI umgesetzt wird.
+
+1. **Quellen/Objekt analysieren** – Welche Informationen liegen vor?
+2. **Objektdaten analysieren** - Konzepte, Ereignisse und Beziehungen im Datenbestand erkennen 
+3. **Bedeutungen erfassen** - Konzepte, Ereignisse und Beziehungen im Datenbestand identifiziere
+4. **Zentrale Konzepte und Kontexte bestimmen** – Welche Dinge (Objekt/Person/Ort/Zeit/Organisation) sind relevant?
+5. **Ableich mit Ontologie (z.B. Referenzmodell CIDOC CRM)** - Konzepte, Ereignisse und Beziehungen semantisch präzisieren und konsistent Klassen (Entities) und Eigenschaften (Properties) zuordnen
+6. **Semantik modellieren** – Bedeutungen auf das Referenzmodell CIDOC CRM abbilden
+7. **Klassen (Entities) und Eigenschaften (Properties)** formulieren und in Beziehung setzen (Graphlogik)- Was passiert, wer ist beteiligt, wie hängt es zusammen?
+8. **Datenpfade erstellen** – WissKI-Pfade modellieren & Pathbuilder konfigurieren  
+9. **Evaluieren & diskutieren** – Workflows reflektieren und Erfahrungen austauschen
+10. **Umsetzung vorbereiten** – Grundlage für Diagramm und spätere Pfadstruktur (Modul 2) schaffen
+
+---
+
 - M1E1: Einführungstext inhaltlich ausgearbeitet
 - Text alt:
 

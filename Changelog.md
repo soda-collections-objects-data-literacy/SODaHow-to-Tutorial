@@ -2,7 +2,15 @@
 
 31.07.2026
 
+- M1E2: Bibliografie gelöscht; Bibliografie alt:
 
+[W3C2001owl]World Wide Web Consortium. (2012, December 11). OWL 2 Web Ontology Language Primer (Second Edition). W3C Recommendation. https://www.w3.org/TR/owl2-primer 
+
+[Noy2001ontology] Noy, N. F., & McGuinness, D. L. (2001). Ontology Development 101: A Guide to Creating Your First Ontology. Stanford Knowledge Systems Laboratory.
+
+[Gruber1993knowledge] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
+
+[Uschold1995method]Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
 
 - M1E2: Inhalt entnommen: Workflow-Übersicht (Methode) + Beispielobjekt + Methoden zur Entwicklung von Ontologien
 

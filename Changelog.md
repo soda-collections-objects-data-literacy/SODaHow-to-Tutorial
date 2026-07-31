@@ -4,7 +4,7 @@
 
 
 
-- M1E2: Inhalt entnommen: Workflow-Übersicht (Methode) + Beispielobjekt
+- M1E2: Inhalt entnommen: Workflow-Übersicht (Methode) + Beispielobjekt + Methoden zur Entwicklung von Ontologien
 
 ## Workflow-Übersicht (Methode)
 
@@ -41,6 +41,25 @@ So lässt sich anschaulich zeigen, wie aus scheinbar „einfachen“ Information
 | **Semantische Annahme** | Titel des Objekts: *The Legend of Zelda: A Link to the Past* |
 | **Draw.io Modell** | ![draw.io Diagramm](../assets/path.PNG) |
 | **WissKI Pathbuilder** | ![WissKI Pathbuilder](../assets/pathbuilder.PNG) |
+
+---
+
+---
+
+## Methoden zur Entwicklung von Ontologien
+
+Die Entwicklung einer Domänenontologie folgt typischerweise einem methodischen, mehrstufigen und iterativen Vorgehen. 
+
+Dazu zählen u.a. die Erhebung zentraler Begriffe und Definitionen (sog. „ontology capture“), die Strukturierung von Konzepten in Klassen und Eigenschafen/Relationen sowie die kontinuierliche Prüfung und Überarbeitung des Domänenmodells im Hinblick auf Konsistenz und Nutzbarkeit. (Gruber, 1993)
+
+Die praktische Ontologieentwicklung wird dabei häufig als ein Prozess verstanden, der sowohl Domänenwissen als auch Anwendungsanforderungen integriert und schrittweise in eine formal nutzbare Wissensstruktur überführt.
+
+Ontologien entstehen häufig durch eine Kombination aus:
+
+* **Top-down-Modellierung:** Ausgehend von einem Referenzmodell (z.B. CIDOC CRM) erfolgt eine domänenspezifische Spezialisierung.
+* **Bottom-up-Modellierung:** Aus vorhandenen Daten werden schrittweise Klassen (Entities) und Eigenschaften (Properties) abgeleitet.
+* **Competency Questions:** Die Modellierung erfolgt aus typischen Analyse- und Forschungsfragen heraus (z.B. „Welche Spiele haben Merkmal X?“)
+* **Iteratives Prototyping:** Es wird ein Modell entworfen → überprüft → kontinuierlich mit Blick auf Konsistenz, Erweiterbarkeit und Abfragbarkeit angepasst.
 
 ---
 

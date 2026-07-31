@@ -41,32 +41,23 @@ Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verst
 
 Einheit 2: **Grundlage von Ontologien**  
 
-**Dauer:** ~  Min.
+**Dauer:** XX Min.
 
 **Lernziele:**
 
 Teilnehmende können...
 
-* den Begriff Ontologie benennen. (LZ-ID SODa\_03\_007\_0826)
-* den Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
-* den Begriff Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0827)
-* den Begriff Domänenontologie erläutern. (LZ-ID SODa\_03\_007\_0828)
-* den Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
+- den Begriff Ontologie benennen. (LZ-ID SODa\_03\_007\_0826)
+- den Begriff Ontologie erläutern. (LZ-ID 03\_007\_0775)
+- den Begriff Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0827)
+- den Begriff Domänenontologie erläutern. (LZ-ID SODa\_03\_007\_0828)
+- den Aspekte von Ontologien benennen. (LZ-ID 03\_007\_0776)
 
 ---
 
-## (inhalte überarbeiten) 
+## Titel des ersten Abschnitts
 
-## Von der Datenanalyse zur semantischen Modellierung 
-
-* In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und soziale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
-* Tabellen können zwar Daten beschreiben und erfassen, aber in erster Linie nur Eigenschaften (Attribute) - mit Tabellen lässt sich kein Wissen modellieren. Beziehungen, Bedeutungen und Kontexte bleiben dabei unsichtbar.
-* Genau hier wird **semantische Datenmodellierung** relevant: Sie ermöglicht es, Wissen ontologiebasiert **strukturiert und interoperabel** darzustellen.
-* Die Daten werden auf diese Weise sowohl **technisch als auch inhaltlich langfristig interpretierbar und damit wissenschaftlichen Qualitätskritierien entsprechend nachnutzbar**. [1]
-* Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **methodisches Denken** erfordert. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. [1]
-* **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur) unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe und -speicherung** miteinander verbindet.
-  
----
+Einleitender Absatz der Einheit.
 
 ## Begriffsdefinition
 
@@ -74,9 +65,9 @@ Teilnehmende können...
 
 Eine Ontologie ist eine **formale Beschreibung eines Ausschnitts der Welt** bzw. eine **formal definierte Wissensstruktur**, die festlegt,
 
-* welche **Konzepte** von Dingen (z. B. Objekt, Person, Ort, Zeit) und **Ereignisse** in einem Fach- oder Anwendungsbereichs (Domäne) relevant sind,
-* wie diese Konzepte miteinander **in Beziehung** stehen,
-* und welche **Regeln** gelten, damit **Aussagen** über sie sinnvoll und widerspruchsfrei modelliert werden können.
+- welche **Konzepte** von Dingen (z. B. Objekt, Person, Ort, Zeit) und **Ereignisse** in einem Fach- oder Anwendungsbereichs (Domäne) relevant sind,
+- wie diese Konzepte miteinander **in Beziehung** stehen,
+- und welche **Regeln** gelten, damit **Aussagen** über sie sinnvoll und widerspruchsfrei modelliert werden können.
 
 Ontologien ermöglichen so ein gemeinsames Verständnis zentraler Phänomene, Konzepte und Strukturen in einer Domäne, sowohl für Menschen als auch für die maschinelle Verarbeitung.
 
@@ -92,15 +83,15 @@ Ontologien helfen damit, fachliches Domänenwissen mit ihrer spezifischen Domän
 
 Im Kontext der Semantic-Web-Technologien lässt sich eine Ontologie als Struktur verstehen, die insbesondere bereitstellt:
 
-* Klassen (Classes/Concpets): formale Repräsentation von Konzepten
-* Eigenschaften (Properties) : formale Repräsentation von Merkmalen oder Beziehungen zwischen Klassen und Instanzen
-* Instanzen (Instances): konkrete Ausprägungen von Klassen
+- Klassen (Classes/Concpets): formale Repräsentation von Konzepten
+- Eigenschaften (Properties) : formale Repräsentation von Merkmalen oder Beziehungen zwischen Klassen und Instanzen
+- Instanzen (Instances): konkrete Ausprägungen von Klassen
 
-Auf diese Weise ermöglichen Ontologien, Aussagen über Ressourcen formal abzubilden. [2]
+Auf diese Weise ermöglichen Ontologien, Aussagen über Ressourcen formal abzubilden. (World Wide Web Consortium, 2012)
 
-Ontologien unterstützen damit die systematische und konsistente Repräsentation von Domänenwissen, sodass Informationen maschinenlesbar und für die Nachnutzung in unterschiedlichen Systemen anschlussfähig werden. [3]
+Ontologien unterstützen damit die systematische und konsistente Repräsentation von Domänenwissen, sodass Informationen maschinenlesbar und für die Nachnutzung in unterschiedlichen Systemen anschlussfähig werden. (Noy, 2001)
 
-Die bekannteste Definition beschreibt eine Ontologie als "eine explizite, formale Spezifikation einer Konzeptualisierung", d. h. sie beschreibt strukturierend, welche Konzepte in einem bestimmten spezifischen Fachgebiet oder Gegenstandsbereich relevant sind und welche Beziehungen zwischen ihnen bestehen. [4]
+Die bekannteste Definition beschreibt eine Ontologie als "eine explizite, formale Spezifikation einer Konzeptualisierung", d. h. sie beschreibt strukturierend, welche Konzepte in einem bestimmten spezifischen Fachgebiet oder Gegenstandsbereich relevant sind und welche Beziehungen zwischen ihnen bestehen. (Gruber, 1993)
 
 ---
 
@@ -120,7 +111,7 @@ Ontologien bestehen typischerweise aus folgenden Bausteinen:
 
 Die Entwicklung einer Domänenontologie folgt typischerweise einem methodischen, mehrstufigen und iterativen Vorgehen. 
 
-Dazu zählen u.a. die Erhebung zentraler Begriffe und Definitionen (sog. „ontology capture“), die Strukturierung von Konzepten in Klassen und Eigenschafen/Relationen sowie die kontinuierliche Prüfung und Überarbeitung des Domänenmodells im Hinblick auf Konsistenz und Nutzbarkeit. [4]
+Dazu zählen u.a. die Erhebung zentraler Begriffe und Definitionen (sog. „ontology capture“), die Strukturierung von Konzepten in Klassen und Eigenschafen/Relationen sowie die kontinuierliche Prüfung und Überarbeitung des Domänenmodells im Hinblick auf Konsistenz und Nutzbarkeit. (Gruber, 1993)
 
 Die praktische Ontologieentwicklung wird dabei häufig als ein Prozess verstanden, der sowohl Domänenwissen als auch Anwendungsanforderungen integriert und schrittweise in eine formal nutzbare Wissensstruktur überführt.
 
@@ -133,56 +124,21 @@ Ontologien entstehen häufig durch eine Kombination aus:
 
 ---
 
-## Workflow-Übersicht (Methode)
+## Ausblick
 
-
-**Zielsetzung dieses Moduls ist es:**  
-
-* Domänenwissen schrittweise in ein ontologiebasiertes Datenmodell zu übersetzen,
-* Modellierungsentscheidungen nachvollziehbar zu dokumentieren,
-* und die Grundlage für ein **konsistentes CIDOC-CRM-basiertes Diagramm** zu schaffen, das später in WissKI umgesetzt wird.
-
-1. **Quellen/Objekt analysieren** – Welche Informationen liegen vor?
-2. **Objektdaten analysieren** - Konzepte, Ereignisse und Beziehungen im Datenbestand erkennen 
-3. **Bedeutungen erfassen** - Konzepte, Ereignisse und Beziehungen im Datenbestand identifiziere
-4. **Zentrale Konzepte und Kontexte bestimmen** – Welche Dinge (Objekt/Person/Ort/Zeit/Organisation) sind relevant?
-5. **Ableich mit Ontologie (z.B. Referenzmodell CIDOC CRM)** - Konzepte, Ereignisse und Beziehungen semantisch präzisieren und konsistent Klassen (Entities) und Eigenschaften (Properties) zuordnen
-6. **Semantik modellieren** – Bedeutungen auf das Referenzmodell CIDOC CRM abbilden
-7. **Klassen (Entities) und Eigenschaften (Properties)** formulieren und in Beziehung setzen (Graphlogik)- Was passiert, wer ist beteiligt, wie hängt es zusammen?
-8. **Datenpfade erstellen** – WissKI-Pfade modellieren & Pathbuilder konfigurieren  
-9. **Evaluieren & diskutieren** – Workflows reflektieren und Erfahrungen austauschen
-10. **Umsetzung vorbereiten** – Grundlage für Diagramm und spätere Pfadstruktur (Modul 2) schaffen
+Kurzer Übergang zur folgenden Einheit oder zum nächsten Modul.
 
 ---
 
-## Beispielobjekt
-
-Popkulturelle Objekte wie Computerspiele eignen sich didaktisch besonders gut, weil sie meist über klar dokumentierte Basisdaten verfügen (z.B. Titel, Erscheinungsjahr, Publisher, Plattform/Edition) und zugleich vielfältige, gut modellierbare Kontexte eröffnen (z.B. Beteiligte, Versionen, Serienzugehörigkeit, regionale Releases). 
-
-So lässt sich anschaulich zeigen, wie aus scheinbar „einfachen“ Informationen durch präzise Klassen (Entities) und Eigenschaften (Properties) eine belastbare Graphstruktur entsteht.
-
-**Super Nintendo Entertainment System (SNES) Spiel: *The Legend of Zelda***
-
-| Darstellung | Beschreibung |
-|------------|--------------|
-| **Objekt** | ![Zelda Spiel](../assets/zelda_smal.png) |
-| **Semantische Annahme** | Titel des Objekts: *The Legend of Zelda: A Link to the Past* |
-| **Draw.io Modell** | ![draw.io Diagramm](../assets/path.PNG) |
-| **WissKI Pathbuilder** | ![WissKI Pathbuilder](../assets/pathbuilder.PNG) |
-
-
 ## Bibliographie
-____________________________
 
-[1] [Fichtner2025paths] Fichtner, M. (2025). Grundlagen der Erzeugung und Verwaltung von Ontologiepfaden und ihre Anwendung (Doctoral thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Fakultät). https://doi.org/10.25593/open-fau-2143
+[W3C2001owl]World Wide Web Consortium. (2012, December 11). OWL 2 Web Ontology Language Primer (Second Edition). W3C Recommendation. https://www.w3.org/TR/owl2-primer 
 
-[2] [W3C2001owl]World Wide Web Consortium. (2012, December 11). OWL 2 Web Ontology Language Primer (Second Edition). W3C Recommendation. https://www.w3.org/TR/owl2-primer 
+[Noy2001ontology] Noy, N. F., & McGuinness, D. L. (2001). Ontology Development 101: A Guide to Creating Your First Ontology. Stanford Knowledge Systems Laboratory.
 
-[3] [Noy2001ontology] Noy, N. F., & McGuinness, D. L. (2001). Ontology Development 101: A Guide to Creating Your First Ontology. Stanford Knowledge Systems Laboratory.
+[Gruber1993knowledge] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
 
-[4] [Gruber1993knowledge] Gruber, T. R. (1993). A Translation Approach to Portable Ontology Specifications. Knowledge Acquisition, 5(2), 199–220.
-
-[5] [Uschold1995method]Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
+[Uschold1995method]Uschold, M., & King, M. (1995). Towards a Methodology for Building Ontologies.
 
 
 

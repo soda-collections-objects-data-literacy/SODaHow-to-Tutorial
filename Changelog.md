@@ -2,7 +2,9 @@
 
 31.07.2026
 
-- M1E2: Inhalt entnommen: Workflow-Übersicht (Methode)
+
+
+- M1E2: Inhalt entnommen: Workflow-Übersicht (Methode) + Beispielobjekt
 
 ## Workflow-Übersicht (Methode)
 
@@ -22,6 +24,23 @@
 8. **Datenpfade erstellen** – WissKI-Pfade modellieren & Pathbuilder konfigurieren  
 9. **Evaluieren & diskutieren** – Workflows reflektieren und Erfahrungen austauschen
 10. **Umsetzung vorbereiten** – Grundlage für Diagramm und spätere Pfadstruktur (Modul 2) schaffen
+
+---
+
+## Beispielobjekt
+
+Popkulturelle Objekte wie Computerspiele eignen sich didaktisch besonders gut, weil sie meist über klar dokumentierte Basisdaten verfügen (z.B. Titel, Erscheinungsjahr, Publisher, Plattform/Edition) und zugleich vielfältige, gut modellierbare Kontexte eröffnen (z.B. Beteiligte, Versionen, Serienzugehörigkeit, regionale Releases). 
+
+So lässt sich anschaulich zeigen, wie aus scheinbar „einfachen“ Informationen durch präzise Klassen (Entities) und Eigenschaften (Properties) eine belastbare Graphstruktur entsteht.
+
+**Super Nintendo Entertainment System (SNES) Spiel: *The Legend of Zelda***
+
+| Darstellung | Beschreibung |
+|------------|--------------|
+| **Objekt** | ![Zelda Spiel](../assets/zelda_smal.png) |
+| **Semantische Annahme** | Titel des Objekts: *The Legend of Zelda: A Link to the Past* |
+| **Draw.io Modell** | ![draw.io Diagramm](../assets/path.PNG) |
+| **WissKI Pathbuilder** | ![WissKI Pathbuilder](../assets/pathbuilder.PNG) |
 
 ---
 

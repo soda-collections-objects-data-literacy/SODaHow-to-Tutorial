@@ -22,7 +22,20 @@
 | 7 | Reflexion: Welche Datenanalysen sind möglich, welche nicht? | 5 Min. |
   
 ---
+31.07.2026
+- M1E1: Einführungstext inhaltlich ausgearbeitet
+- Text alt:
 
+## Von der Datenanalyse zur semantischen Modellierung 
+
+* In den Geisteswissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und soziale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
+* Tabellen können zwar Daten beschreiben und erfassen, aber in erster Linie nur Eigenschaften (Attribute) - mit Tabellen lässt sich kein Wissen modellieren. Beziehungen, Bedeutungen und Kontexte bleiben dabei unsichtbar.
+* Genau hier wird **semantische Datenmodellierung** relevant: Sie ermöglicht es, Wissen ontologiebasiert **strukturiert und interoperabel** darzustellen.
+* Die Daten werden auf diese Weise sowohl **technisch als auch inhaltlich langfristig interpretierbar und damit wissenschaftlichen Qualitätskritierien entsprechend nachnutzbar**. [1]
+* Semantisches Modellieren ist **nicht nur technisch**, sondern vor allem ein **konzeptioneller Prozess**, der **methodisches Denken** erfordert. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. [1]
+* **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur) unterstützt diesen Prozess, indem es **Ontologien, Modellierung und Dateneingabe und -speicherung** miteinander verbindet.
+  
+---
 
 13.07.2026
 - Modul/Einheitskopf in jeder Datei harmonisiert.

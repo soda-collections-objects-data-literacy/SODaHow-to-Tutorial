@@ -54,10 +54,7 @@ Teilnehmende können...
 * Begriff Konzept benennen. (LZ-ID SODa\_03\_007\_0821)
 * Begriff Ereignis benennen. (LZ-ID SODa\_03\_007\_0822)
 * Begriff Beziehung benennen. (LZ-ID SODa\_03\_007\_0823)
-*
   
-
-
 ---
 
 ## Einführung: Von der konzeptuellen Analyse und Wissensmodellierung zur semantischen Datenmodellierung
@@ -67,8 +64,10 @@ In dieser Einheit wird die **konzeptuelle Wissensmodellierung** innerhalb einer 
 - In den Geistes- und Kulturwissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und soziale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
 - Tabellen können Daten zwar beschreiben und erfassen, stellen aber in erster Linie Eigenschaften bzw. Merkmale (Attribute) (Fischer & Hofer, 2010, S. 77) von Datenobjekten dar. Der fachliche Bedeutungszusammenhang, in dem diese Datenobjekte stehen, einschließlich der zugrunde liegenden Konzepte, Beziehungen und Kontexte, wird dabei nicht explizit repräsentiert.
 - Damit Daten **inhaltlich langfristig interpretierbar und nachnutzbar** sind, muss die **Bedeutung der Daten** erfasst und formal beschrieben werden. (Fichtner, 2025, S. 58). Dazu muss modelliert werden, wie Daten innerhalb eines bestimmten Wissensbereichs und Kontextes verstanden, interpretiert und miteinander in Beziehung gesetzt werden. (Schwenk & Fischer, 2025, S. 21)
+- 
 - Genau hier wird **semantische (Daten-)modellierung** relevant, der **Prozess, Konzepte, Begriffe und Relationen eines Wissensbereichs zu identifizieren, zu strukturieren und zu formalisieren**. (Schwenk & Fischer, 2025, S. xy)
 - Semantisches Modellieren ist vor allem ein **konzeptueller Prozess**. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. (Fichtner, 2025, S. 86) Die so beschriebenen Konzepte, Begriffe und Relationen werden in semantischen Datenmodellen formal repräsentiert.
+- 
 - Ein **semantisches Datenmodell** ist ein konzeptueller, formaler Rahmen, der die Bedeutung von Daten durch die Definition von Konzepten und Begriffen, ihre Relationen und Regeln innerhalb eines Wissensbereichs beschreibt. Es dient nicht der Darstellung konkreter Daten, sondern stellt dar, wie Daten aus einem bestimmten Wissensbereich und Kontext verstanden, interpretiert und miteinander in Beziehung gesetzt werden.
 - Diese formale Repräsentation bildet die Grundlage für ihre technische Umstzung und maschinelle Verarbeitung.
 - Eine Forschungsinfrastruktur, die diesen Prozess unterstützt ist **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur), indem es die konzeptuelle Modellierung eines Wissensbereichs mit der semantischen Erfassung, Verwaltung  und Speicherung von Forschungsdaten verbindet.
@@ -131,13 +130,14 @@ Die Aussagen wird sichtbar an einem [Board](https://miro.com/app/board/uXjVGKauO
 
 ## Zusammenfassung
 
+
 Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesem Modul 1 zentrale Konzepte, Ereignisse und Beziehungen zu identifizieren und daraus ein konsistentes, nachvollziehbares Domänenmodell und -diagramm zu entwickeln. 
 
 ---
 
 ## Ausblick
 
-In der nächsten Einheit ...
+
 
 ---
 
@@ -149,39 +149,6 @@ In der nächsten Einheit ...
 [fischer2010LexikonInformatik] Fischer, P. & Hofer, P. (2010). Lexikon der Informatik. https://doi.org/10.1007/978-3-642-15126-2
 
 [schwenk2025SODaForumKonservierungs] Schwenk , G. A. & Fischer, K. (2025), SODa Forum: Konservierungs- und Restaurierungsdokumentation gemeinsam weiterdenken - Ontologieentwicklung im Dialog. Zenodo. https://doi.org/10.5281/zenodo.15481743
-
-
-
-
-
-
-
-<!-- 
-
-## Semantisches Datenmodell
-Ein semantisches Datenmodell ist ein konzeptueller, formaler Rahmen, der die Bedeutung von Daten durch die Definition von Konzepten und Begriffen, ihre Relationen und Regeln innerhalb eines Wissensbereichs beschreibt. Es dient nicht der Darstellung konkreter Daten, sondern stellt dar, wie Daten aus einem bestimmten Wissensbereich und Kontext verstanden, interpretiert und miteinander in Beziehung gesetzt werden."
-
-## semantische Modellierung 
-"Semantische Datenmodellierung bezeichnet den Prozess, Konzepte, Begriffe und Relationen eines Wissensbereichs zu identifizieren, zu strukturieren und zu formalisieren." 
-"Semantische Datenmodellierung beschreibt Begriffe und Konzepte sowie deren Beziehungen in Form eines semantischen Netzes, meist als gerichteter Graph mit:
-  Knoten: repräsentieren Begriffe und Konzepte
-  Kanten: repräsentieren semantische Beziehungen zwischen Begriffen und Konzepten
-Semantische Datenmodellierung erfordert
-Fachwissenschaftliche Kompetenz: Welche fachspezifischen Phänomene, Begriffe, Konzepte und Beziehungen sind bedeutsam und was bedeuten sie bzw. was sollen sie bedeuten (in speziellen Kontexten)?
-Modellierungskompetenz: Wie repräsentiere ich fachspezifische Bedeutungsinhalte abstrahiert, strukturiert und formal in einem Modell, das sowohl interpretierbar, als auch technisch nutzbar ist?
-Zusammenarbeit zwischen Forscher:innen bzw. Fachexpert:innen, Datenmodellierer:innen (und IT)
-
--->
-
-
-
-
-
-
-
-
-
-
 
 
 

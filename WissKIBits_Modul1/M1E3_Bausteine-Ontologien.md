@@ -40,7 +40,7 @@ Modul 1: **Von der Sammlung über Modellierentscheidungen zum Diagramm – verst
 
 Einheit 3: **Bausteine von Ontologien**  
 
-**Dauer:** ~  Min.
+**Dauer:** ca. XX Min.
 
 **Lernziele:**
 
@@ -57,5 +57,24 @@ Teilnehmende können...
 
 ---
 
-## (inhalte ergänzen) 
+## Titel des ersten Abschnitts
+
+Einleitender Absatz der Einheit.
+
+## Begriffsdefinition
+
+**Klassen (Classes/Concepts)**
+
+
+**Eigenschaften (Properties)**
+
+**Instanzen (Instances)**
+
+**Modellannahmen (Constraints)**
+
+## Bibliografie
+
+Stuckenschmidt, H. (2005). Ontologien: Konzepte, Technologien und Anwendungen. 
+
+
 

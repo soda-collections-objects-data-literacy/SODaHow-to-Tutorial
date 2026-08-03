@@ -64,10 +64,10 @@ In dieser Einheit werden die Bestandteile Klassen (Classes/Concepts), Instanzen 
 ## Begriffsdefinitionen
 
 **Klassen (Classes/Concepts)**  
-"Klassen repräsentieren Allgemeinbegriffe, also Konzepte eines Interessensgebiets, die reale Objekte anhand von gemeinsamen Eigenschaften bündeln sollen. Sie sind meist grundlegend hierarchisch strukturiert." (Weller, 2013, S. 208)
+"Klassen repräsentieren Allgemeinbegriffe, also Konzepte eines Interessensgebiets, die reale Objekte anhand von gemeinsamen Eigenschaften bündeln sollen. Sie sind meist grundlegend hierarchisch strukturiert." (Weller2013ontologies, S. 208)
 
 **Instanzen (Instances)**    
-"Instanzen repräsentieren Individualbegriffe, also konkrete Vertreter der einzelnen Klassen." (Weller, 2013, S. 208)
+"Instanzen repräsentieren Individualbegriffe, also konkrete Vertreter der einzelnen Klassen." (Weller2013ontologies, S. 208)
 
 **Eigenschaften (Properties)**  
 Klassen und Instanzen können in ihrer Bedeutung weiter spezifiziert werden.
@@ -75,7 +75,7 @@ Eigenschaften (Properties) modellieren Klasseneigenschaften über semantische Re
 Dabei gibt es zwei grundlegende Möglichkeiten in der Umsetzung:
 1) Eine Eigenschaft (Property) stellt eine Beziehung her zwischen zwei Klassen
 2) Eine Eigenschaft (Property) beschreibt eine einzelne Klasse, ohne sie mit anderen Klassen zu verbinden.
-(Weller, 2013, S. 208)
+(Weller2013ontologies, S. 208)
 
 **Modellannahmen (Constraints)**  
 
@@ -83,9 +83,9 @@ Dabei gibt es zwei grundlegende Möglichkeiten in der Umsetzung:
 
 ## Bibliografie  
 
-[Stuckenschmidt2011OntologienKonzepteTechnologien] Stuckenschmidt, H. (2011). *Ontologien. Konzepte, Technologien und Anwendungen*. Springer.
+[Stuckenschmidt2011ontology] Stuckenschmidt, H. (2011). *Ontologien. Konzepte, Technologien und Anwendungen*. Springer.
 
-[Weller20136Ontologien] Weller, K. (2013). B 6 Ontologien. In: R. Kuhlen, W. Semar, & D. Strauch (Hrsg.), *Grundlagen der praktischen Information und Dokumentationen* (S. 207-218). De Gruyter Saur.
+[Weller2013ontologies] Weller, K. (2013). B 6 Ontologien. In: R. Kuhlen, W. Semar, & D. Strauch (Hrsg.), *Grundlagen der praktischen Information und Dokumentationen* (S. 207-218). De Gruyter Saur.
 
 
 

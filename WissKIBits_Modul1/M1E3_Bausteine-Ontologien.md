@@ -61,7 +61,7 @@ Teilnehmende können...
 
 In dieser Einheit werden die Bestandteile Klassen (Classes/Concepts), Instanzen (Instances), Eigenschaften (Properties) und Modellannahmen (Constraints) definiert und erläutert.
 
-## Begriffsdefinition
+## Begriffsdefinitionen
 
 **Klassen (Classes/Concepts)**  
 "Klassen repräsentieren Allgemeinbegriffe, also Konzepte eines Interessensgebiets, die reale Objekte anhand von gemeinsamen Eigenschaften bündeln sollen. Sie sind meist grundlegend hierarchisch strukturiert." (Weller, 2013, S. 208)

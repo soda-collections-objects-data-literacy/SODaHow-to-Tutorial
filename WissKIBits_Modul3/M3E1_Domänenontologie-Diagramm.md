@@ -69,6 +69,8 @@ Das entwickelte Draw.io-Diagramm bildet die **Voraussetzung für die (halb-)auto
 Das Visualisieren in Draw.io ist somit nicht nur eine **visuelle Übung**, sondern gleichzeitig ein **expliziter Modellierungsschritt**, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu treffen und zu fördern.**
 
 
+## Begriffsdefinition
+
 **Visualisierung**
 
 Visualisierungen sind bildliche Darstellungen von Sachverhalten, die deren Verständnis befördern sollen. 

@@ -63,13 +63,13 @@ In dieser Einheit werden die Bestandteile Klassen (Classes/Concepts), Instanzen 
 
 ## Begriffsdefinition
 
-**Klassen (Classes/Concepts)**
+**Klassen (Classes/Concepts)**  
 "Klassen repräsentieren Allgemeinbegriffe, also Konzepte eines Interessensgebiets, die reale Objekte anhand von gemeinsamen Eigenschaften bündeln sollen. Sie sind meist grundlegend hierarchisch strukturiert." (Weller, 2013, S. 208)
 
-**Instanzen (Instances)**
+**Instanzen (Instances)**    
 "Instanzen repräsentieren Individualbegriffe, also konkrete Vertreter der einzelnen Klassen." (Weller, 2013, S. 208)
 
-**Eigenschaften (Properties)**
+**Eigenschaften (Properties)**  
 Klassen und Instanzen können in ihrer Bedeutung weiter spezifiziert werden.
 Eigenschaften (Properties) modellieren Klasseneigenschaften über semantische Relationen.
 Dabei gibt es zwei grundlegende Möglichkeiten in der Umsetzung:
@@ -77,12 +77,12 @@ Dabei gibt es zwei grundlegende Möglichkeiten in der Umsetzung:
 2) Eine Eigenschaft (Property) beschreibt eine einzelne Klasse, ohne sie mit anderen Klassen zu verbinden.
 (Weller, 2013, S. 208)
 
-**Modellannahmen (Constraints)**
+**Modellannahmen (Constraints)**  
 
 
 
 
-## Bibliografie
+## Bibliografie  
 
 [Stuckenschmidt2011OntologienKonzepteTechnologien] Stuckenschmidt, H. (2011). *Ontologien. Konzepte, Technologien und Anwendungen*. Springer.
 

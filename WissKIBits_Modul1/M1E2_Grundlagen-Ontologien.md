@@ -63,9 +63,9 @@ Einleitender Absatz der Einheit.
 
 **Ontologie**
 
-Eine Ontologie ist eine **formale Beschreibung eines Ausschnitts der Welt** bzw. eine **"formale, schematische Abbildung[] eines Wissensbereichs, bestehend aus einem VBokabular und Regeln zu seiner Zusammensetzung."** ( Eine Ontologie legt fest,
+Eine Ontologie ist eine **formale Beschreibung eines Ausschnitts der Welt** bzw. eine **"formale, schematische Abbildung[] eines Wissensbereichs, bestehend aus einem Vokabular und Regeln zu seiner Zusammensetzung."** 
 
-**formal definierte Wissensstruktur**, die festlegt,
+Eine Ontologie legt fest,
 
 - welche **Konzepte** von Dingen (z. B. Objekt, Person, Ort, Zeit) und **Ereignisse** in einem Fach- oder Anwendungsbereichs (Domäne) relevant sind,
 - wie diese Konzepte miteinander **in Beziehung** stehen,

@@ -79,8 +79,7 @@ Dabei gibt es zwei grundlegende Möglichkeiten in der Umsetzung:
 
 **Modellannahmen (Constraints)**  
 
-
-
+## Zusammenfassung
 
 ## Bibliografie  
 

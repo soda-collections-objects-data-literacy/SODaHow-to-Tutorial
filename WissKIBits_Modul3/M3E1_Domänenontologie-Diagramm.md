@@ -49,6 +49,8 @@ Teilnehmende können...
 
 * Software zur Visualisierung einer Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0812)
 * Software zur Visualisierung einer Domänenontologie erläutern. (LZ-ID LZ-ID SODa\_03\_007\_0813)
+* Begriff Visualisierung erläutern. (LZ-----xxxxx)
+* Nutzen von Visualisierungen erläutern. (LZ----xxxxx)
 * Nutzen einer Software zur Visualisierung einer Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0814) 
 * Software zur Visualisierung einer Domänenontologie unter Anleitung anwenden. (LZ-ID SODa\_03\_007\_0815)
 * Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. (LZ-ID SODa\_03\_007\_0811)
@@ -58,23 +60,24 @@ Teilnehmende können...
 
 ---
 
-## (inhalte überarbeiten)
+## Visualisierung einer Domänenontologie als Diagramm mit Draw.io
 
-## Visualisierung mit Draw.io
-
-In dieser Einheit wird das in Modul 1 entwickelte Datenmodell als Diagramm in Draw.io visualisiert. 
+In dieser Einheit wird das in Modul 1 und 2 entwickelte Datenmodell als Diagramm in Draw.io visualisiert. 
 
 Das entwickelte Draw.io-Diagramm bildet die **Voraussetzung für die (halb-)automatisierte Pipeline** zur Erstellung eines **WissKI Pathbuilders**.
 
-**Visualisierungen** sind bildliche Darstellungen von Sachverhalten, die deren Verständnis befördern sollen. 
+Das Visualisieren in Draw.io ist somit nicht nur eine **visuelle Übung**, sondern gleichzeitig ein **expliziter Modellierungsschritt**, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu treffen und zu fördern.**
+
+
+**Visualisierung**
+
+Visualisierungen sind bildliche Darstellungen von Sachverhalten, die deren Verständnis befördern sollen. 
 
 "In den Geisteswissenschaften werden Visualisierungen als Illustrationen, als Gedächtnisstützen für bekannte Sachverhalte, bei der Organisation von Wissen, sowie als Erkenntnismittel in der Vermittlung und Erzeugung von (neuem) Wissen eingesetzt." [1]
 
 "Zum Lernen sind Visualisierungen insbesondere dann geeignet, wenn der zu vermittelnde Gegenstand verbal nur schwer vermittelbare Eigenschaften aufweist." [2] 
 
 Sie werden daher begleitend zum  Wissenserwerb eingesetzt, um Inhalte konkreter und besser verständlich zu machen und Strukturen zu verdeutlichen. [3]
-
-Das Visualisieren in Draw.io ist somit nicht nur eine **visuelle Übung**, sondern gleichzeitig ein **expliziter Modellierungsschritt**, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu treffen und zu fördern.**
 
 ---
 
@@ -91,6 +94,11 @@ Draw.io wird eingesetzt um...
 Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert:innen, Datenmodellierenden und Entwickler:innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar sind und bleiben.
 
 ----
+
+
+(ab hier weiter)
+
+
 
 ## Ausgangspunkt
 

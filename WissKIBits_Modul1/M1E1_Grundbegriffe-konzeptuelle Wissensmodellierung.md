@@ -62,22 +62,22 @@ Teilnehmende können...
 In dieser Einheit wird die **konzeptuelle Wissensmodellierung** innerhalb einer Domäne als Grundlage der **semantischen Datenmodellierung** vorgestellt.
 
 - In den Geistes- und Kulturwissenschaften, GLAM-Institutionen und Forschungssammlungen wird mit **komplexen Objekt- und Kontextdaten** gearbeitet, die historische, kulturelle und soziale Bedeutungen tragen (z. B. Provenienz, Beziehungen, Interpretationen).
-- Tabellen können Daten zwar beschreiben und erfassen, stellen aber in erster Linie Eigenschaften bzw. Merkmale (Attribute) (Fischer & Hofer, 2010, S. 77) von Datenobjekten dar. Der fachliche Bedeutungszusammenhang, in dem diese Datenobjekte stehen, einschließlich der zugrunde liegenden Konzepte, Beziehungen und Kontexte, wird dabei nicht explizit repräsentiert.
-- Damit Daten **inhaltlich langfristig interpretierbar und nachnutzbar** sind, muss die **Bedeutung der Daten** erfasst und formal beschrieben werden. (Fichtner, 2025, S. 58). Dazu muss modelliert werden, wie Daten innerhalb eines bestimmten Wissensbereichs und Kontextes verstanden, interpretiert und miteinander in Beziehung gesetzt werden. (Schwenk & Fischer, 2025, S. 21)
+- Tabellen können Daten zwar beschreiben und erfassen, stellen aber in erster Linie Eigenschaften bzw. Merkmale (Attribute) (Fischer2010encyclopcompscience, S. 77) von Datenobjekten dar. Der fachliche Bedeutungszusammenhang, in dem diese Datenobjekte stehen, einschließlich der zugrunde liegenden Konzepte, Beziehungen und Kontexte, wird dabei nicht explizit repräsentiert.
+- Damit Daten **inhaltlich langfristig interpretierbar und nachnutzbar** sind, muss die **Bedeutung der Daten** erfasst und formal beschrieben werden. (Fichtner2025paths, S. 58). Dazu muss modelliert werden, wie Daten innerhalb eines bestimmten Wissensbereichs und Kontextes verstanden, interpretiert und miteinander in Beziehung gesetzt werden. (Schwenk & Fischer, 2025, S. 21)
 - 
 - Genau hier wird **semantische (Daten-)modellierung** relevant, der **Prozess, Konzepte, Begriffe und Relationen eines Wissensbereichs zu identifizieren, zu strukturieren und zu formalisieren**. (Schwenk & Fischer, 2025, S. xy)
-- Semantisches Modellieren ist vor allem ein **konzeptueller Prozess**. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. (Fichtner, 2025, S. 86) Die so beschriebenen Konzepte, Begriffe und Relationen werden in semantischen Datenmodellen formal repräsentiert.
+- Semantisches Modellieren ist vor allem ein **konzeptueller Prozess**. Er ist disziplinübergreifend und erfordert gleichzeitig **fachwissenschaftliches Wissen und Modellierungskompetenz**. (Fichtner2025paths, S. 86) Die so beschriebenen Konzepte, Begriffe und Relationen werden in semantischen Datenmodellen formal repräsentiert.
 - 
 - Ein **semantisches Datenmodell** ist ein konzeptueller, formaler Rahmen, der die Bedeutung von Daten durch die Definition von Konzepten und Begriffen, ihre Relationen und Regeln innerhalb eines Wissensbereichs beschreibt. Es dient nicht der Darstellung konkreter Daten, sondern stellt dar, wie Daten aus einem bestimmten Wissensbereich und Kontext verstanden, interpretiert und miteinander in Beziehung gesetzt werden.
 - Diese formale Repräsentation bildet die Grundlage für ihre technische Umstzung und maschinelle Verarbeitung.
 - Eine Forschungsinfrastruktur, die diesen Prozess unterstützt ist **WissKI** (Wissenschaftliche Kommunikationsinfrastruktur), indem es die konzeptuelle Modellierung eines Wissensbereichs mit der semantischen Erfassung, Verwaltung  und Speicherung von Forschungsdaten verbindet.
-- Die Daten werden auf diese Weise sowohl **inhaltlich als auch technisch langfristig interpretierbar und damit entsprechend wissenschaftlichen Qualitätskritierien nachnutzbar**. (Fichtner, 2025, S. xy)
+- Die Daten werden auf diese Weise sowohl **inhaltlich als auch technisch langfristig interpretierbar und damit entsprechend wissenschaftlichen Qualitätskritierien nachnutzbar**. (Fichtner2025paths, S. xy)
 
 ---
 
 ## Grundbegriffe der konzeptuellen Analyse
 
-Bevor Wissen formal modelliert werden kann, muss zunächst geklärt werden, **welches Wissen innerhalb einer Domäne relevant ist und wie es konzeptuell geordnet werden kann.** Eine **Domäne** bezeichnet einen Wertebereich (Fischer & Hofer, 2010, S. 257) für den Wissen beschrieben und modelliert wird. In der semantischen Datenmodellierung versteht man darunter den fachlichen Wissensbereich, dessen Konzepte, Ereignisse und Beziehungen erfasst und formal repräsentiert werden. (Quelle?)
+Bevor Wissen formal modelliert werden kann, muss zunächst geklärt werden, **welches Wissen innerhalb einer Domäne relevant ist und wie es konzeptuell geordnet werden kann.** Eine **Domäne** bezeichnet einen Wertebereich (Fischer2010encyclopcompscience, S. 257) für den Wissen beschrieben und modelliert wird. In der semantischen Datenmodellierung versteht man darunter den fachlichen Wissensbereich, dessen Konzepte, Ereignisse und Beziehungen erfasst und formal repräsentiert werden. (Quelle?)
 
 ---
 
@@ -146,9 +146,9 @@ Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesem Modul 1
 
 [Fichtner2025paths] Fichtner, M. (2025). Grundlagen der Erzeugung und Verwaltung von Ontologiepfaden und ihre Anwendung (Doctoral thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Fakultät). https://doi.org/10.25593/open-fau-2143
 
-[fischer2010LexikonInformatik] Fischer, P. & Hofer, P. (2010). Lexikon der Informatik. https://doi.org/10.1007/978-3-642-15126-2
+[Fischer2010encyclopcompscience] Fischer, P. & Hofer, P. (2010). Lexikon der Informatik. https://doi.org/10.1007/978-3-642-15126-2
 
-[schwenk2025SODaForumKonservierungs] Schwenk , G. A. & Fischer, K. (2025), SODa Forum: Konservierungs- und Restaurierungsdokumentation gemeinsam weiterdenken - Ontologieentwicklung im Dialog. Zenodo. https://doi.org/10.5281/zenodo.15481743
+[Schwenk2025sodaforumconservation] Schwenk , G. A. & Fischer, K. (2025), SODa Forum: Konservierungs- und Restaurierungsdokumentation gemeinsam weiterdenken - Ontologieentwicklung im Dialog. Zenodo. https://doi.org/10.5281/zenodo.15481743
 
 
 

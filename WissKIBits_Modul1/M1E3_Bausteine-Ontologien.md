@@ -48,10 +48,10 @@ Teilnehmende können...
 
 * Begriff Klassen (Classes/Concepts) benennen. (LZ-ID SODa\_03\_007\_0829)
 * Begriff Klassen (Classes/Concepts) erläutern. (LZ-ID SODa\_03\_007\_0830)
-* Begriff Eigenschaften (Properties) benennen. (LZ-ID SODa\_03\_007\_0831)
-* Begriff Eigenschaften (Properties) erläutern. (LZ-ID SODa\_03\_007\_0832)
 * Begriff Instanzen (Instances) benennen. (LZ-ID SODa\_03\_007\_0833)
 * Begriff Instanzen (Instances) erläutern. (LZ-ID SODa\_03\_007\_0834)
+* Begriff Eigenschaften (Properties) benennen. (LZ-ID SODa\_03\_007\_0831)
+* Begriff Eigenschaften (Properties) erläutern. (LZ-ID SODa\_03\_007\_0832)
 * Begriff Modellannahmen (Constraints) benennen. (LZ-ID SODa\_03\_007\_0835)
 * Begriff Modellannahmen (Constraints) erläutern. (LZ-ID SODa\_03\_007\_0836)
 
@@ -59,22 +59,34 @@ Teilnehmende können...
 
 ## Titel des ersten Abschnitts
 
-Einleitender Absatz der Einheit.
+In dieser Einheit werden die Bestandteile Klassen (Classes/Concepts), Instanzen (Instances), Eigenschaften (Properties) und Modellannahmen (Constraints) definiert und erläutert.
 
 ## Begriffsdefinition
 
 **Klassen (Classes/Concepts)**
-
-
-**Eigenschaften (Properties)**
+"Klassen repräsentieren Allgemeinbegriffe, also Konzepte eines Interessensgebiets, die reale Objekte anhand von gemeinsamen Eigenschaften bündeln sollen. Sie sind meist grundlegend hierarchisch strukturiert." (Weller, 2013, S. 208)
 
 **Instanzen (Instances)**
+"Instanzen repräsentieren Individualbegriffe, also konkrete Vertreter der einzelnen Klassen." (Weller, 2013, S. 208)
+
+**Eigenschaften (Properties)**
+Klassen und Instanzen können in ihrer Bedeutung weiter spezifiziert werden.
+Eigenschaften (Properties) modellieren Klasseneigenschaften über semantische Relationen.
+Dabei gibt es zwei grundlegende Möglichkeiten in der Umsetzung:
+1) Eine Eigenschaft (Property) stellt eine Beziehung her zwischen zwei Klassen
+2) Eine Eigenschaft (Property) beschreibt eine einzelne Klasse, ohne sie mit anderen Klassen zu verbinden.
+(Weller, 2013, S. 208)
 
 **Modellannahmen (Constraints)**
 
+
+
+
 ## Bibliografie
 
-Stuckenschmidt, H. (2005). Ontologien: Konzepte, Technologien und Anwendungen. 
+[Stuckenschmidt2011OntologienKonzepteTechnologien] Stuckenschmidt, H. (2011). *Ontologien. Konzepte, Technologien und Anwendungen*. Springer.
+
+[Weller20136Ontologien] Weller, K. (2013). B 6 Ontologien. In: R. Kuhlen, W. Semar, & D. Strauch (Hrsg.), *Grundlagen der praktischen Information und Dokumentationen* (S. 207-218). De Gruyter Saur.
 
 
 

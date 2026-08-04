@@ -78,7 +78,8 @@ Dabei gibt es zwei grundlegende Möglichkeiten in der Umsetzung:
 (Weller2013ontologies, S. 208)
 
 **Bedingungen (Constraints)**  
-Sicherstellung, dass die Ontologie in sich konsistent ist
+"Für Attribute und Relationen kann eine Ontologie **Bedingungen** *(constraints)* festlegen, die ihren Gebrauch näher definieren und sicherstellen sollen, dass die Ontologie in sich logisch konsistent ist." (Rehbein2017ontologies, S. 164)
+
 
 ## Zusammenfassung
 

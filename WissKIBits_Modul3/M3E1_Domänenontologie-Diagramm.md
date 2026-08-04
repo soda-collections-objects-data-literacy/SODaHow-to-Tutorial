@@ -105,6 +105,7 @@ Welche zentralen Konzepte sind im Kontext von Spielemerkmalen und narrativen Ele
 
 Die folgenden Fragen dienen dazu, die zentralen Konzepte der Domäne noch einmal zu aktivieren und helfen die anschließende Modellierungsaufgabe besser einzuordnen:
 
+
 ### Welches Beispielobjekt wird im Modul verwendet? 
 
 * [( )] Ein PC-Spiel: *Minecraft*

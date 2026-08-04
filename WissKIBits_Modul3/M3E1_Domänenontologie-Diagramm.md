@@ -53,6 +53,7 @@ Teilnehmende können...
 * Nutzen von Visualisierungen erläutern. (LZ----xxxxx)
 * Nutzen einer Software zur Visualisierung einer Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0814) 
 * Software zur Visualisierung einer Domänenontologie unter Anleitung anwenden. (LZ-ID SODa\_03\_007\_0815)
+* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benennen. (LZ----xxxxx)
 * Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. (LZ-ID SODa\_03\_007\_0811)
 * Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware benennen. (LZ-ID SODa\_03\_007\_0820)
 * Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware anwenden. (LZ-ID SODa\_03\_007\_0816)
@@ -75,23 +76,23 @@ Das Visualisieren in Draw.io ist somit nicht nur eine **visuelle Übung**, sonde
 
 Visualisierungen sind bildliche Darstellungen von Sachverhalten, die deren Verständnis befördern sollen. 
 
-"In den Geisteswissenschaften werden Visualisierungen als Illustrationen, als Gedächtnisstützen für bekannte Sachverhalte, bei der Organisation von Wissen, sowie als Erkenntnismittel in der Vermittlung und Erzeugung von (neuem) Wissen eingesetzt." [1]
+"In den Geisteswissenschaften werden Visualisierungen als Illustrationen, als Gedächtnisstützen für bekannte Sachverhalte, bei der Organisation von Wissen, sowie als Erkenntnismittel in der Vermittlung und Erzeugung von (neuem) Wissen eingesetzt." (Freyberg2023visual)
 
-"Zum Lernen sind Visualisierungen insbesondere dann geeignet, wenn der zu vermittelnde Gegenstand verbal nur schwer vermittelbare Eigenschaften aufweist." [2] 
+"Zum Lernen sind Visualisierungen insbesondere dann geeignet, wenn der zu vermittelnde Gegenstand verbal nur schwer vermittelbare Eigenschaften aufweist." (Scheiter2021visual)
 
-Sie werden daher begleitend zum  Wissenserwerb eingesetzt, um Inhalte konkreter und besser verständlich zu machen und Strukturen zu verdeutlichen. [3]
+Sie werden daher begleitend zum  Wissenserwerb eingesetzt, um Inhalte konkreter und besser verständlich zu machen und Strukturen zu verdeutlichen. (Levin1987visual)
 
 ---
 
-## Nutzen von Draw.io 
+## Nutzen von Draw.io
 
 Draw.io wird eingesetzt um...
 
-* **Klassen (Entities) und ihre Beziehungen (Properties)** klar zu definieren,
-* eine **Domänenlogik mit ihren semantischen Zusammenhängen** sichtbar und diskutierbar zu machen,  
-* Domänenmodelle **kollaborativ und transparent** zu entwickeln,  
-* eine **Domänenontologie vor dem Import in WissKI** zu prüfen,  
-* **semantische Modellierungsentscheidungen** zu reflektieren und abzusichern.
+- **Klassen (Entities) und ihre Beziehungen (Properties)** klar zu definieren,
+- eine **Domänenlogik mit ihren semantischen Zusammenhängen** sichtbar und diskutierbar zu machen,  
+- Domänenmodelle **kollaborativ und transparent** zu entwickeln,  
+- eine **Domänenontologie vor dem Import in WissKI** zu prüfen,  
+- **semantische Modellierungsentscheidungen** zu reflektieren und abzusichern.
 
 Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert:innen, Datenmodellierenden und Entwickler:innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar sind und bleiben.
 
@@ -102,19 +103,7 @@ Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwisc
 
 
 
-## Ausgangspunkt
 
-Damit diese Visualisierung korrekt umgesetzt werden kann, müssen die relevanten Elemente der Domäne noch einmal klar sein.
-
-In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwickelt:
-
-* In **Einheit 5** wurden *zentralen Konzepte (Entities)* eines Beispielobjektes aus der Computerspiel-Domäne identifiziert. 
-* In **Einheit 6** wurde gezeigt, wie die Top-Level Ontologie CIDOC CRM um *domänenspezifische Subklassen* erweitert wird.  
-
-**Zur Orientierung und zum Nachlesen**
-
-* [Beispielobjekt](https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E2_Analyse-Workflow.md#beispielobjekt)
-* [Beispiele für zentrale Konzepte (Spielmerkmale und narrative Elemente)](https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E5_Dom%C3%A4nenanalyse.md#fokus-dieser-modellierungs%C3%BCbung)
 
 ---
 
@@ -169,6 +158,20 @@ Im nächsten Schritt geht es nicht mehr um das Erkennen oder Benennen dieser zen
 Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io** umgesetzt.  
 
 ---
+
+## Ausgangspunkt
+
+Damit diese Visualisierung korrekt umgesetzt werden kann, müssen die relevanten Elemente der Domäne noch einmal klar sein.
+
+In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwickelt:
+
+* In **Einheit 5** wurden *zentralen Konzepte (Entities)* eines Beispielobjektes aus der Computerspiel-Domäne identifiziert. 
+* In **Einheit 6** wurde gezeigt, wie die Top-Level Ontologie CIDOC CRM um *domänenspezifische Subklassen* erweitert wird.  
+
+**Zur Orientierung und zum Nachlesen**
+
+* [Beispielobjekt](https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E2_Analyse-Workflow.md#beispielobjekt)
+* [Beispiele für zentrale Konzepte (Spielmerkmale und narrative Elemente)](https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E5_Dom%C3%A4nenanalyse.md#fokus-dieser-modellierungs%C3%BCbung)
 
 ### Regeln zur Visualisierung mit Draw.io 
 
@@ -227,9 +230,11 @@ Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen Wi
 
 ## Bibliographie
 
-[1] https://zfdg.de/wp_2023_014
-[2] https://dorsch.hogrefe.com/stichwort/visualisierung
-[3] Levin et al., 1987
+[Freyberg2023visual] Freyberg, Linda (2023) Visualisierung. In: AG Digital Humanities Theorie des Verbandes Digital Humanities im deutschsprachigen Raum e. V. (Hg.): Begriffe der Digital Humanities. Ein diskursives Glossar (= Zeitschrift für digitale Geisteswissenschaften / Working Papers, 2). DOI: 10.17175/wp_2023_014_v2
+
+[Scheiter2021visual] Scheiter, Katharina (2021) https://dorsch.hogrefe.com/stichwort/visualisierung
+
+[Levin1987visual] Levin, J.R. , Anglin, G.J., & Carney, R.N. (1987). On empirically validating fuctions of pictures in prose. In D.M. Willows & H.A. Houghton (Hrsg.), The psychology of illustration. Vol. I Basic Research (S. c) New York: Springer.
 
 
 

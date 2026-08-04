@@ -77,11 +77,14 @@ Dabei gibt es zwei grundlegende Möglichkeiten in der Umsetzung:
 2) Eine Eigenschaft (Property) beschreibt eine einzelne Klasse, ohne sie mit anderen Klassen zu verbinden.
 (Weller2013ontologies, S. 208)
 
-**Modellannahmen (Constraints)**  
+**Bedingungen (Constraints)**  
+Sicherstellung, dass die Ontologie in sich konsistent ist
 
 ## Zusammenfassung
 
 ## Bibliografie  
+
+[Rehbein2017ontologies] Rehbein, M. (2017). Ontologien. In: F. Jannidis, H. Kohle, & M. Rehbein (Hrsg.), *Digital Humanities* (S. 162-176). J.B. Metzler, Stuttgart. https://doi.org/10.1007/978-3-476-05446-3_11.
 
 [Stuckenschmidt2011ontology] Stuckenschmidt, H. (2011). *Ontologien. Konzepte, Technologien und Anwendungen*. Springer.
 

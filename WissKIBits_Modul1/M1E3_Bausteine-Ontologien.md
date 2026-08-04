@@ -59,7 +59,7 @@ Teilnehmende können...
 
 ## Titel des ersten Abschnitts
 
-In dieser Einheit werden die Bestandteile Klassen (Classes/Concepts), Instanzen (Instances), Eigenschaften (Properties) und Modellannahmen (Constraints) definiert und erläutert.
+In dieser Einheit werden die Bestandteile Klassen (Classes/Concepts), Instanzen (Instances), Eigenschaften (Properties) und Modellannahmen (Constraints) definiert und erläutert. 
 
 ## Begriffsdefinitionen
 

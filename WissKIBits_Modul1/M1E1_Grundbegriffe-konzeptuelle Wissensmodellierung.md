@@ -85,7 +85,9 @@ Bevor Wissen formal modelliert werden kann, muss zunächst geklärt werden, **we
 
 Auf konzeptueller Ebene lassen sich folgende Elemente innerhalb einer Domäne identifizieren:
 
-- **Konzepte** sind zentrale Einheiten einer Domäne. Dazu gehören beispielsweise Objekte, Personen, Orte, Materialien oder Institutionen
+- **Konzepte**
+abstrakte Begriffe
+sind zentrale Einheiten einer Domäne. Dazu gehören beispielsweise Objekte, Personen, Orte, Materialien oder Institutionen
 - **Ereignisse** sind Vorgänge, durch die Konzepte miteinander verbunden werden oder durch die sich Informationen über Konzepte ergeben. Beispiele sind Herstellung, Erwerb, Fund, Restaurierung, Ausstellung oder Nutzung.
 - **Beziehungen** beschreiben die semantische Verknüpfung zwischen Konzepten und Ereignissen. Beispiele sind "wurde hergestellt von", "befindet sich in", "wurde restauriert durch" oder "ist Teil von".
 
@@ -147,6 +149,8 @@ Anforderungen aus der Sammlungspraxis bilden die Grundlage, um in diesem Modul 1
 [Fichtner2025paths] Fichtner, M. (2025). Grundlagen der Erzeugung und Verwaltung von Ontologiepfaden und ihre Anwendung (Doctoral thesis, Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Fakultät). https://doi.org/10.25593/open-fau-2143
 
 [Fischer2010encyclopcompscience] Fischer, P. & Hofer, P. (2010). Lexikon der Informatik. https://doi.org/10.1007/978-3-642-15126-2
+
+[Rehbein2017ontologies] Rehbein, M. (2017). Ontologien. In: F. Jannidis, H. Kohle, & M. Rehbein (Hrsg.), *Digital Humanities* (S. 162-176). J.B. Metzler, Stuttgart. https://doi.org/10.1007/978-3-476-05446-3_11
 
 [Schwenk2025sodaforumconservation] Schwenk , G. A. & Fischer, K. (2025), SODa Forum: Konservierungs- und Restaurierungsdokumentation gemeinsam weiterdenken - Ontologieentwicklung im Dialog. Zenodo. https://doi.org/10.5281/zenodo.15481743
 

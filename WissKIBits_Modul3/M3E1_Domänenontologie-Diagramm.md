@@ -69,6 +69,7 @@ Das entwickelte Draw.io-Diagramm bildet die **Voraussetzung für die (halb-)auto
 
 Das Visualisieren in Draw.io ist somit nicht nur eine **visuelle Übung**, sondern gleichzeitig ein **expliziter Modellierungsschritt**, um **Modellierungsentscheidungen zu kommunizieren, auszuhandeln und ein gemeinsames Verständnis über semantische Strukturen zu treffen und zu fördern.**
 
+---
 
 ## Begriffsdefinition
 
@@ -96,22 +97,13 @@ Draw.io wird eingesetzt um...
 
 Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert:innen, Datenmodellierenden und Entwickler:innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar sind und bleiben.
 
-----
-
-
-(ab hier weiter)
-
-
-
-
-
 ---
 
-## Quizfragen
+## Quiz
 
-Bevor das Domänenmodell nun in Draw.io umgesetzt wird, soll noch einmal überprüft werden, welche zentralen Konzepte für das Beispielobjekt im Kontext von Spielemerkmalen und narrativen Elemeten relevant sind.
+Welche zentralen Konzepte sind im Kontext von Spielemerkmalen und narrativen Elemeten für das Beispielobjekt relevant?
 
-Die folgenden Fragen dienen dazu, die zentralen Konzepte der Domäne noch einmal zu aktivieren und helfen die anschließende Modellierungsaufgabe besser einzuordnen.
+Die folgenden Fragen dienen dazu, die zentralen Konzepte der Domäne noch einmal zu aktivieren und helfen die anschließende Modellierungsaufgabe besser einzuordnen:
 
 ### Welches Beispielobjekt wird im Modul verwendet? 
 
@@ -135,7 +127,6 @@ Die folgenden Fragen dienen dazu, die zentralen Konzepte der Domäne noch einmal
 * [[X]] Plattform
 * [[ ]] Hersteller
 
-
 ### Welche der folgenden Konzepte zählen zu den **narrativen Elementen**?
 
 * [[X]] Perspektive
@@ -144,7 +135,36 @@ Die folgenden Fragen dienen dazu, die zentralen Konzepte der Domäne noch einmal
 * [[ ]] Plattform
 * [[ ]] Genre
 
+----
+
+## Aufgabe 
+
+**Arbeitsform:** Einzelarbeit   
+**Material:** eigenes Laptop
+**Zeit:** 20 Min.
+
+Kurze Beschreibung der Aufgabe.
+
+1. Ergänze die Lücken (fehlende Knoten/Kanten) durch geeignete Klassen (Entities) und passende Beziehungen (Properties) im Diagramm.
+2. Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
+
+**Hinweis: Regeln zur Visualisierung mit Draw.io**
+
+* Die Knoten und Kanten müssen korrekt verbunden sein.
+* Die Kantenbeschriftung muss mit der Kante verbunden sein.
+* Die Benennungen können, müssen aber nicht Unterstriche beinhalten.
+* Es werden keine individuellen Instanzen abgebildet.
+* Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
+* Die Beziehungen aus dem CIDOC CRM werden nachgenutzt.
+* Es sind vollständige Pfade zu erstellen. (z.B. mega:E73\_Computer\_Game -> P102\_has\_title -> mega:E35\_Game\_Title -> P190 has symbolic content -> E62\_String)
+* Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element\_id**, **group\_name** und **name** zugewiesen. (z.B. element\_id=Computer\_Game; group\_name=Computer\_Game; name=Computer\_Game)
+
+
+
 ---
+
+(ab hier weiter)
+
 
 ## Von den Konzepten zur strukturierten Visualisierung
 
@@ -173,24 +193,6 @@ In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwicke
 * [Beispielobjekt](https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E2_Analyse-Workflow.md#beispielobjekt)
 * [Beispiele für zentrale Konzepte (Spielmerkmale und narrative Elemente)](https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E5_Dom%C3%A4nenanalyse.md#fokus-dieser-modellierungs%C3%BCbung)
 
-### Regeln zur Visualisierung mit Draw.io 
-
-* Die Knoten und Kanten müssen korrekt verbunden sein.
-* Die Kantenbeschriftung muss mit der Kante verbunden sein.
-* Die Benennungen können, müssen aber nicht Unterstriche beinhalten.
-* Es werden keine individuellen Instanzen abgebildet.
-* Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
-* Die Beziehungen aus dem CIDOC CRM werden nachgenutzt.
-* Es sind vollständige Pfade zu erstellen. (z.B. mega:E73\_Computer\_Game -> P102\_has\_title -> mega:E35\_Game\_Title -> P190 has symbolic content -> E62\_String)
-* Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element\_id**, **group\_name** und **name** zugewiesen. (z.B. element\_id=Computer\_Game; group\_name=Computer\_Game; name=Computer\_Game)
-
-### Aufgabe (Einzelarbeit – 20 Min.)
-
-Das bereitgestellte Diagramm enthält gezielt Lücken (fehlende Knoten/Kanten), die zu ergänzen sind. 
-
-Diese Lücken sind durch geeignete Klassen (Entities) und passende Beziehungen (Properties) zu schließen.
-
-Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
 
 **Ablauf**
 

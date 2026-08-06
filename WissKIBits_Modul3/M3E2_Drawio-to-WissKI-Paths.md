@@ -136,18 +136,7 @@ Dieser Prozess überbrückt die Lücke zwischen der Modellierung einer Domäneno
 
 ---
 
-##  CCI services page for the Germanisches Nationalmuseum
-
-**Vorteile der Draw.io → Pathbuilder-XML-Pipeline**
-
-Diese Pipeline wandelt Draw.io-Diagramme basierend auf CIDOC CRM automatisch in eine WissKI Pathbuilder .xml-Datei um und bietet mehrere Vorteile:
-
-* **Zeiteffizienz** – beseitigt den manuellen Konvertierungsaufwand  
-* **Ontologie-Wiederverwendung** – nutzt vorhandene Ontologielogik  
-* **Konsistenz** – gewährleistet eine einheitliche Struktur über Dateien hinweg  
-* **Semantische Integrität** – bewahrt die ursprüngliche Bedeutung und Beziehungen  
-
----
+##  Centre Cultural Informatics services page for the Germanisches Nationalmuseum
 
 **Wie die Pipeline funktioniert**
 
@@ -158,6 +147,15 @@ Der [FORTH-ICS-Webdienst](https://isl.ics.forth.gr/gnm_services/):
 * überprüft die **syntaktische Gültigkeit** anhand der Referenz-Ontologie 
 * exportiert die Pfade als **WissKI Pathbuilder .xml-Datei**
 
+**Vorteile der Draw.io → Pathbuilder-XML-Pipeline**
+
+Diese Pipeline wandelt Draw.io-Diagramme basierend auf CIDOC CRM automatisch in eine WissKI Pathbuilder .xml-Datei um und bietet mehrere Vorteile:
+
+* **Zeiteffizienz** – beseitigt den manuellen Konvertierungsaufwand  
+* **Ontologie-Wiederverwendung** – nutzt vorhandene Ontologielogik  
+* **Konsistenz** – gewährleistet eine einheitliche Struktur über Dateien hinweg  
+* **Semantische Integrität** – bewahrt die ursprüngliche Bedeutung und Beziehungen
+  
 ---
 
 ## Ausblick

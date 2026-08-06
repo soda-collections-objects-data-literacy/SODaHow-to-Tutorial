@@ -55,25 +55,22 @@ Teilnehmende können...
 * unter Anleitung ein Werkzeug ("gnm-service: Draw.io diagrams to WissKI pathbuilders") zur Dateikonvertierung anwenden. (LZ-ID SODa\_02\_005\_0318)
 
 ---
-### (Inhalte checken)
+
+## Von Ontologiebeziehungen zu WissKI-Pfaden
+
+In dieser Einheit wird das zuvor erstellte Draw.io-Diagramm automatisch in semantische WissKI-Pfade überführt, die aus Klassenbeziehungen konstruiert und als Pathbuilder in WissKI importiert werden.
+
+Damit wird das Domänenmodell erstmals als funktionale Ontologiestruktur in WissKI nutzbar.
+
+---
 
 ## Der WissKI Pathbuilder
 
-In dieser Einheit wird das zuvor erstellte Draw.io-Diagramm automatisch in semantische WissKI-Pfade überführt, die aus Klassenbeziehungen konstruiert werden und als Pathbuilder in WissKI importiert.
-
-Damit wird das Domänenmodell erstmals als funktionale Ontologiestruktur im System nutzbar.
-
 Der Pathbuilder bildet die **Implementierungsschicht von WissKI**.
 
+Die Ontologiestruktur besteht in der Regel aus semantischen Beziehungsketten - also **Sequenzen aus Klassen und Beziehungen**. Diese werden im Pathbuilder zu **einem Pfad** und **Pfadgruppen**.
+
 Diese **Pfade und Pfadgruppen definieren die interne Domänenontologie von WissKI** und steuern, wie Daten erfasst, gespeichert, verknüpft und abgefragt werden.
-
-Im Gegensatz zu einer Ontologie (z.B. in RDF oder OWL), die Klassen und Beziehungen nur beschreibt, übersetzt der Pathbuilder diese semantischen Strukturen in konkrete Pfade und Pfadgruppen, die in WissKI für folgende Zwecke genutzt werden:
-
-* Aufbau und Verwaltung des RDF-Wissensgraphen,
-* ontologiekonforme Datenspeicherung und -abfrage,
-* Strukturierung der Dateneingabeformulare in Drupal.
-
-Aus jeder semantischen Beziehungskette - also **Sequenz aus Klassen und Beziehungen** - wird im Pathbuilder **ein Pfad**.
 
 Mehrere **zusammengehörige Pfade werden zu Pfadgruppen organisiert**, die wiederum Klassen (Entities), z.B. Personen, Objekte, Ereignisse repräsentieren.
 
@@ -82,6 +79,43 @@ Mehrere **zusammengehörige Pfade werden zu Pfadgruppen organisiert**, die wiede
     <td><img src="../assets/pathbuilder.jpg" alt="WissKI Pathbuilder" width="75%"></td>
   </tr>
 </table>
+
+Die Pfade und Pfadgruppen im Pathbuilder werden in WissKI für folgende Zwecke genutzt werden:
+
+* Aufbau und Verwaltung des RDF-Wissensgraphen,
+* ontologiekonforme Datenspeicherung und -abfrage,
+* Strukturierung der Dateneingabeformulare in Drupal.
+  
+---
+
+## Aufgabe
+
+**Arbeitsform:** Einzelarbeit 
+**Material:** Laptop
+**Zeit:** 20 Min.
+
+Kurze Beschreibung der Aufgabe.
+
+1.  "Draw.io diagrams to WissKI pathbuilders" Web Service öffnen 
+2.  Beispiel-Draw.io .xml-Datei herunter laden
+3.  Beispiel-Draw.io .xml-Datei in "Upload draw.io XML file for conversion to WissKI Pathbuilder XML:" hochladen
+4.  Linkadresse von Beispiel output Pathbuilder-XML kopieren
+5.  In WissKI einloggen
+6.  Prüfen, ob in WissKI bereits die Domänenontologie geladen ist, siehe „Configuration/WissKI Ontology" dann Please select "Default WissKI Distillery Adapter“
+6a. Wenn Domänenontologie nicht geladen ist, Games-Ontology Link-Adresse kopieren und einfügen und "Load Ontology" klicken
+7.  Zu „Configuration/Pathbuilders“ navigieren
+8.  Neuen Pathbuilder hinzufügen „Add Pathbuilder“, Name vergeben und speichern
+9.  Unter „Pathbuilder Definition Import“ zuvor kopierte Linkadresse von Beispiel output Pathbuilder-XML einfügen und „Import“ klicken
+10. Die erzeugten semantischen Pfade prüfen
+11. Ergebnis: WissKI Pathbuilder auf Basis des eigenen Domänenmodells
+12. Nächster Schritt: Dateneingabe-Formulare generieren in „Configuration/Pathbuilders“ dann "edit" dann "Save and generate bundles and fields" 
+
+**Ressourcen**
+
+* [Draw.io diagrams to WissKI pathbuilders Web Service](https://isl.ics.forth.gr/gnm_services/drawioXMLtoWisskiPathbuilder/)
+* [CIDOC CRM](http://erlangen-crm.org/240307/)
+* [Games ontology](http://games.m-e-g-a.org/game_domain.rdf)
+* [Beispiel output Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml)
 
 ---
 
@@ -121,38 +155,6 @@ Der [FORTH-ICS-Webdienst](https://isl.ics.forth.gr/gnm_services/):
 * erkennt **semantische Pfade** von einem **zentralen Ontologieklassen** aus  
 * überprüft die **syntaktische Gültigkeit** anhand der Referenz-Ontologie 
 * exportiert die Pfade als **WissKI Pathbuilder .xml-Datei**
-
----
-
-## Praktische Aufgabe (Einzelarbeit– 20 Min.)
-
-Teil 1 
-
-| Nr. | Schrittbeschreibung |
-| --- | ------------------- |
-| 1 | "Draw.io diagrams to WissKI pathbuilders" Web Service öffnen |
-| 2 | Beispiel-Draw.io .xml-Datei herunter laden |
-| 3 | Beispiel-Draw.io .xml-Datei in "Upload draw.io XML file for conversion to WissKI Pathbuilder XML:" hochladen |
-| 4 | Linkadresse von Beispiel output Pathbuilder-XML kopieren|
-| 5 | In WissKI einloggen |
-| 6 | Prüfen, ob in WissKI bereits die Domänenontologie geladen ist, siehe „Configuration/WissKI Ontology" dann Please select "Default WissKI Distillery Adapter“  |
-| 6a | Wenn Domänenontologie nicht geladen ist, Games-Ontology Link-Adresse kopieren und einfügen und "Load Ontology" klicken|
-| 7 | Zu „Configuration/Pathbuilders“ navigieren |
-| 8 | Neuen Pathbuilder hinzufügen „Add Pathbuilder“, Name vergeben und speichern |
-| 9 | Unter „Pathbuilder Definition Import“ zuvor kopierte Linkadresse von Beispiel output Pathbuilder-XML einfügen und „Import“ klicken |
-| 10 | Die erzeugten semantischen Pfade prüfen |
-| 11 | Ergebnis: WissKI Pathbuilder auf Basis des eigenen Domänenmodells |
-| 12 | Nächster Schritt: Dateneingabe-Formulare generieren in „Configuration/Pathbuilders“ dann "edit" dann "Save and generate bundles and fields" |
-
-**Ressourcen**
-
-* [Draw.io diagrams to WissKI pathbuilders Web Service](https://isl.ics.forth.gr/gnm_services/drawioXMLtoWisskiPathbuilder/)
-* [CIDOC CRM](http://erlangen-crm.org/240307/)
-* [Games ontology](http://games.m-e-g-a.org/game_domain.rdf)
-* [Beispiel output Pathbuilder-XML-Datei](https://isl.ics.forth.gr/gnm_services/files/examples/diagrams_to_pathbuilders/DrawioPathBuilderExampleOutput.xml)
-
-
-
 
 
 

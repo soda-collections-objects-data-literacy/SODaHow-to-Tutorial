@@ -47,17 +47,17 @@ Einheit 1: **Semantische Datenmodelle visualisieren**
 
 Teilnehmende können...
 
-* Software zur Visualisierung einer Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0812)
-* Software zur Visualisierung einer Domänenontologie erläutern. (LZ-ID LZ-ID SODa\_03\_007\_0813)
-* Begriff Visualisierung erläutern. (LZ-----xxxxx)
-* Nutzen von Visualisierungen erläutern. (LZ----xxxxx)
-* Nutzen einer Software zur Visualisierung einer Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0814) 
-* Software zur Visualisierung einer Domänenontologie unter Anleitung anwenden. (LZ-ID SODa\_03\_007\_0815)
-* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benennen. (LZ----xxxxx)
-* Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. (LZ-ID SODa\_03\_007\_0811)
-* Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware benennen. (LZ-ID SODa\_03\_007\_0820)
-* Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware anwenden. (LZ-ID SODa\_03\_007\_0816)
-* Attributwerte an vordefinierten Klassen der Domänenontologie in einer Visualisierungssoftware anwenden. (LZ-ID SODa\_03\_007\_0817)
+- Software zur Visualisierung einer Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0812)
+- Software zur Visualisierung einer Domänenontologie erläutern. (LZ-ID LZ-ID SODa\_03\_007\_0813)
+- Begriff Visualisierung erläutern. (LZ-----xxxxx)
+- Nutzen von Visualisierungen erläutern. (LZ----xxxxx)
+- Nutzen einer Software zur Visualisierung einer Domänenontologie benennen. (LZ-ID SODa\_03\_007\_0814) 
+- Software zur Visualisierung einer Domänenontologie unter Anleitung anwenden. (LZ-ID SODa\_03\_007\_0815)
+- Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung benennen. (LZ----xxxxx)
+- Kernentitäten (Objekt/Person/Ort/Zeit/Ereignis) einer Objektsammlung anwenden. (LZ-ID SODa\_03\_007\_0811)
+- Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware benennen. (LZ-ID SODa\_03\_007\_0820)
+- Regeln zur Modellierung einer Domänenontologie mit einer Visualisierungssoftware anwenden. (LZ-ID SODa\_03\_007\_0816)
+- Attributwerte an vordefinierten Klassen der Domänenontologie in einer Visualisierungssoftware anwenden. (LZ-ID SODa\_03\_007\_0817)
 
 ---
 
@@ -96,6 +96,26 @@ Draw.io wird eingesetzt um...
 - **semantische Modellierungsentscheidungen** zu reflektieren und abzusichern.
 
 Besonders in kollaborativen Projekten erleichtert Draw.io die **Abstimmung zwischen Fachexpert:innen, Datenmodellierenden und Entwickler:innen**, da semantische Entscheidungen visuell nachvollziehbar und dokumentierbar sind und bleiben.
+
+---
+
+## Beispiel
+
+Die bisherigen Fragen haben verdeutlicht, welche zentralen Konzepte der Beispieldomäne relevant sind und wie sie fachlich eingeordnet werden können.
+
+Im nächsten Schritt geht es nicht mehr um das Erkennen oder Benennen dieser zentralen Konzepte, sondern darum, diese Auswahl in eine **formalisierte Pfadstruktur** zu überführen:
+
+- Wie werden die zentralen Konzepte semantisch korrekt miteinander verknüpft?
+- Wie entsteht daraus eine formalisierte Pfadstruktur, die in Form von **Pfaden und Pfadgruppen im WissKI Pathbuilder** nutzbar ist?
+
+Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io** umgesetzt.  
+
+
+<table>
+  <tr>
+    <td><img src="../assets/SODa_ISWC2025.drawio.png" width="100%"></td>
+  </tr>
+</table>
 
 ---
 
@@ -149,85 +169,47 @@ Kurze Beschreibung der Aufgabe.
 1. Ergänze die Lücken (fehlende Knoten/Kanten) durch geeignete Klassen (Entities) und passende Beziehungen (Properties) im Diagramm.
 2. Die temporären Platzhalter (???) sind nach der Ergänzung zu entfernen.
 
-**Hinweis: Regeln zur Visualisierung mit Draw.io**
-
-* Die Knoten und Kanten müssen korrekt verbunden sein.
-* Die Kantenbeschriftung muss mit der Kante verbunden sein.
-* Die Benennungen können, müssen aber nicht Unterstriche beinhalten.
-* Es werden keine individuellen Instanzen abgebildet.
-* Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
-* Die Beziehungen aus dem CIDOC CRM werden nachgenutzt.
-* Es sind vollständige Pfade zu erstellen. (z.B. mega:E73\_Computer\_Game -> P102\_has\_title -> mega:E35\_Game\_Title -> P190 has symbolic content -> E62\_String)
-* Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element\_id**, **group\_name** und **name** zugewiesen. (z.B. element\_id=Computer\_Game; group\_name=Computer\_Game; name=Computer\_Game)
-
-
-
----
-
-(ab hier weiter)
-
-
-## Von den Konzepten zur strukturierten Visualisierung
-
-Die bisherigen Fragen haben verdeutlicht, welche zentralen Konzepte der Beispieldomäne relevant sind und wie sie fachlich eingeordnet werden können.
-
-Im nächsten Schritt geht es nicht mehr um das Erkennen oder Benennen dieser zentralen Konzepte, sondern darum, diese Auswahl in eine **formalisierte Pfadstruktur** zu überführen:
-
-* Wie werden die zentralen Konzepte semantisch korrekt miteinander verknüpft?
-* Wie entsteht daraus eine formalisierte Pfadstruktur, die in Form von **Pfaden und Pfadgruppen im WissKI Pathbuilder** nutzbar ist?
-
-Dazu wird das konzeptionelle Domänenmodell nun **visuell und formal in Draw.io** umgesetzt.  
-
----
-
-## Ausgangspunkt
-
-Damit diese Visualisierung korrekt umgesetzt werden kann, müssen die relevanten Elemente der Domäne noch einmal klar sein.
-
-In Modul 1 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwickelt:
-
-* In **Einheit 5** wurden *zentralen Konzepte (Entities)* eines Beispielobjektes aus der Computerspiel-Domäne identifiziert. 
-* In **Einheit 6** wurde gezeigt, wie die Top-Level Ontologie CIDOC CRM um *domänenspezifische Subklassen* erweitert wird.  
-
-**Zur Orientierung und zum Nachlesen**
-
-* [Beispielobjekt](https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E2_Analyse-Workflow.md#beispielobjekt)
-* [Beispiele für zentrale Konzepte (Spielmerkmale und narrative Elemente)](https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E5_Dom%C3%A4nenanalyse.md#fokus-dieser-modellierungs%C3%BCbung)
-
-
-**Ablauf**
-
-* Die vorbereitete Draw.io-Datei runterladen ([hier](../assets/M2E2_Gruppenarbeit.drawio.xml))
-* Die heruntergeladene Draw.io-Datei in Draw.io importieren ([hier](https://app.diagrams.net/))
-* Das Domänenontologie-Diagramm vervollständigen (siehe Auswahl) 
-* Attributwerte an Startknoten, jedem Gruppenknoten und Endknoten prüfen
-* Die Knoten-Kanten-Verbindungen prüfen
-
 **Auswahl**
 
-* P102\_has\_title
-* P1 is identified by
-* P190 has symbolic content
-* mega:E41\_Game\_Character\_Name
-  
+- P102\_has\_title
+- P1 is identified by
+- P190 has symbolic content
+- mega:E41\_Game\_Character\_Name
+
+**Hinweis: Regeln zur Visualisierung mit Draw.io**
+
+- Die Knoten und Kanten müssen korrekt verbunden sein.
+- Die Kantenbeschriftung muss mit der Kante verbunden sein.
+- Die Benennungen können, müssen aber nicht Unterstriche beinhalten.
+- Es werden keine individuellen Instanzen abgebildet.
+- Es werden die domänenspezifischen Subklassen aus der bereits erstellten Domänenontologie verwendet.
+- Die Beziehungen aus dem CIDOC CRM werden nachgenutzt.
+- Es sind vollständige Pfade zu erstellen. (z.B. mega:E73\_Computer\_Game -> P102\_has\_title -> mega:E35\_Game\_Title -> P190 has symbolic content -> E62\_String)
+- Dem zentralen Startknoten, jedem Gruppenknoten und jedem Endknoten werden jeweils **element\_id**, **group\_name** und **name** zugewiesen. (z.B. element\_id=Computer\_Game; group\_name=Computer\_Game; name=Computer\_Game)
+
 **Ressourcen**
 
-* Domänenontologie: [http://games.m-e-g-a.org/game_domain.rdf](http://games.m-e-g-a.org/game_domain.rdf)
-* Für semantische Beziehungen (.pdf-Datei): [https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf)
-* Alternative zur PDF-Datei ein HTML-Darstellung: [https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html)
+- Domänenontologie: [http://games.m-e-g-a.org/game_domain.rdf](http://games.m-e-g-a.org/game_domain.rdf)
+- Für semantische Beziehungen (.pdf-Datei): [https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf](https://cidoc-crm.org/sites/default/files/cidoc_crm_version_7.1.3.pdf)
+- Alternative zur PDF-Datei ein HTML-Darstellung: [https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html](https://cidoc-crm.org/html/cidoc_crm_v7.1.3.html)
 
-### Beispielergebnis
+---
 
-<table>
-  <tr>
-    <td><img src="../assets/SODa_ISWC2025.drawio.png" width="100%"></td>
-  </tr>
-</table>
+## Workflow
+
+| Schritt | Aktion |
+|---:|---|
+| 1 | Die vorbereitete Draw.io-Datei runterladen ([hier](../assets/M2E2_Gruppenarbeit.drawio.xml)) |
+| 2 | Die heruntergeladene Draw.io-Datei in Draw.io importieren ([hier](https://app.diagrams.net/)) |
+| 3 | Das Domänenontologie-Diagramm vervollständigen (siehe Auswahl)  |
+| 4 | Attributwerte an Startknoten, jedem Gruppenknoten und Endknoten prüfen |
+| 5 | Die Knoten-Kanten-Verbindungen prüfen  |
+
+---
 
 ## Ausblick
 
 Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen WissKI Pathbuilder konvertiert und die erzeugte Pfadstruktur in WissKI importiert.
-
 
 ---
 
@@ -241,7 +223,19 @@ Im nächsten Schritt wird das erstellte Draw.io-Diagramm automatisch in einen Wi
 
 
 
+<!-- ## Ausgangspunkt
 
+Damit diese Visualisierung korrekt umgesetzt werden kann, müssen die relevanten Elemente der Domäne noch einmal klar sein.
+
+In Modul 2 wurde die konzeptionelle Grundlage des Beispiel-Datenmodells entwickelt:
+
+* In **Einheit 5** wurden *zentralen Konzepte (Entities)* eines Beispielobjektes aus der Computerspiel-Domäne identifiziert. 
+* In **Einheit 6** wurde gezeigt, wie die Top-Level Ontologie CIDOC CRM um *domänenspezifische Subklassen* erweitert wird.  
+
+**Zur Orientierung und zum Nachlesen**
+
+* [Beispielobjekt](https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E2_Analyse-Workflow.md#beispielobjekt)
+* [Beispiele für zentrale Konzepte (Spielmerkmale und narrative Elemente)](https://github.com/soda-collections-objects-data-literacy/SODaHow-to-Tutorial/blob/main/WissKIBits_Modul1/M1E5_Dom%C3%A4nenanalyse.md#fokus-dieser-modellierungs%C3%BCbung)  -->
 
 
 

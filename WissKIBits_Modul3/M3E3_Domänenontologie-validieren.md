@@ -39,7 +39,7 @@ LearningResourceType: SODa How-to-Tutorial
 
 Modul 3: **Vom Diagramm zu Pfaden – Erläutern und anwenden**
 
-Einheit 3: **xxx**  
+Einheit 3: **Vom Pathbuilder zur Wissensbasis**  
 
 **Dauer:** ~  Min.
 
@@ -47,6 +47,11 @@ Einheit 3: **xxx**
 
 Teilnehmende können...
 
+- die Struktur eines WissKI-Pathbuilders erläutern;
+- Pathbuilder und Ontologie miteinander in Beziehung setzen;
+- die Auswirkungen von Modellierungsentscheidungen auf Dateneingabe und -abfrage erläutern;
+- die Eignung eines Datenmodells für konkrete Forschungsfragen beurteilen;
+- den Zusammenhang zwischen Modellierung, Datenqualität und FAIR-Prinzipien erläutern.
 
 
 ---
@@ -54,38 +59,4 @@ Teilnehmende können...
 ### (Inhalte erarbeiten)
 
 ---
-
-## Ausblick auf weitere Module (Hinweis mehr Analyse :)
-
-
-Mit der Erstellung von semantischen Pfaden wurde eine grundlegende Struktur einer WissKI-Instanz aufgebaut.
-
-Damit ist der Übergang von der konzeptionellen Modellierung zur praktischen Anwendung abgeschlossen – WissKI kann nun als semantische Forschungsumgebung genutzt und anforderungsspezifisch weiterentwickelt werden.
-
-### Optional WissKI Demonstration
-
-A short demo at this stage can help illustrate the goal:
-
-    open an existing WissKI instance
-    show how semantic paths generate input forms
-    display entity connections (linked data)
-    run a simple SPARQL query
-
-(https://portal.m-e-g-a.org/)
-
-
-### SPARQL
-
-Link: https://portal.m-e-g-a.org/wisski/endpoint/backend/
-
-    SELECT * WHERE { ?s ?p ?o } LIMIT 10
-
-    SELECT * WHERE { GRAPH ?g { ?s ?p ?o }} LIMIT 10
-
-    SELECT * WHERE { GRAPH ?g { ?s ?p ?o } . FILTER(CONTAINS(?o, "Zelda"))} LIMIT 10
-
-    SELECT * WHERE { GRAPH ?g { ?s ?p ?o } . FILTER(CONTAINS(?o, "Zelda"))} ORDER BY ASC(?o)
-
-
-In den kommenden Modulen werden folgende Themen weiter vertieft:
 
